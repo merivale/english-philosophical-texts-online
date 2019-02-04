@@ -1,0 +1,15 @@
+{
+  "id": "Hume.THN.3.1",
+  "parent": "Hume.THN.3",
+  "title": "Part 1. Of Vice and Virtue in general",
+  "breadcrumb": "Part 1",
+  "fulltitle": "<h1>Part 1. Of Vice and Virtue in general</h1>",
+  "published": "1740",
+  "copytext": "1740",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/texts/t-3.yml",
+  "imported": true,
+  "texts": [
+    "Hume.THN.3.1.1",
+    "Hume.THN.3.1.2"
+  ]
+}

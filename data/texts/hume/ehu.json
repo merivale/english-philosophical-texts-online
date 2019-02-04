@@ -1,0 +1,26 @@
+{
+  "id": "Hume.EHU",
+  "title": "An Enquiry Concerning Human Understanding",
+  "breadcrumb": "Enquiry Concerning Human Understanding",
+  "fulltitle": "<h1>An Enquiry Concerning Human Understanding</h1>",
+  "published": "1748",
+  "copytext": "1777",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/texts/e.yml",
+  "imported": true,
+  "comments": "This text has been imported from <a href=\"https://davidhume.org\">Hume Texts Online</a>. Refer to the editorial notes on that site for details.",
+  "copyright": "The copyright for this text is held by Amyas Merivale and Peter Millican. The text may be used freely for educational and academic purposes. It may not be used in any way for profit.",
+  "texts": [
+    "Hume.EHU.1",
+    "Hume.EHU.2",
+    "Hume.EHU.3",
+    "Hume.EHU.4",
+    "Hume.EHU.5",
+    "Hume.EHU.6",
+    "Hume.EHU.7",
+    "Hume.EHU.8",
+    "Hume.EHU.9",
+    "Hume.EHU.10",
+    "Hume.EHU.11",
+    "Hume.EHU.12"
+  ]
+}

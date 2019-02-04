@@ -1,0 +1,17 @@
+{
+  "id": "MillJS",
+  "forename": "John Stuart",
+  "surname": "Mill",
+  "birth": 1806,
+  "death": 1873,
+  "published": 1843,
+  "nationality": "English/Scottish",
+  "sex": "Male",
+  "texts": [
+    "MillJS.SL",
+    "MillJS.PPE",
+    "MillJS.L",
+    "MillJS.U",
+    "MillJS.SW"
+  ]
+}

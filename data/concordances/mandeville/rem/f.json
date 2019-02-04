@@ -1,0 +1,594 @@
+{
+  "id": "Mandeville.Rem.F",
+  "total": 238,
+  "words": [
+    {
+      "word": "of",
+      "count": 10
+    },
+    {
+      "word": "to",
+      "count": 10
+    },
+    {
+      "word": "the",
+      "count": 9
+    },
+    {
+      "word": "a",
+      "count": 8
+    },
+    {
+      "word": "and",
+      "count": 8
+    },
+    {
+      "word": "that",
+      "count": 8
+    },
+    {
+      "word": "be",
+      "count": 7
+    },
+    {
+      "word": "is",
+      "count": 6
+    },
+    {
+      "word": "or",
+      "count": 5
+    },
+    {
+      "word": "in",
+      "count": 4
+    },
+    {
+      "word": "but",
+      "count": 3
+    },
+    {
+      "word": "by",
+      "count": 3
+    },
+    {
+      "word": "his",
+      "count": 3
+    },
+    {
+      "word": "it",
+      "count": 3
+    },
+    {
+      "word": "may",
+      "count": 3
+    },
+    {
+      "word": "any",
+      "count": 2
+    },
+    {
+      "word": "are",
+      "count": 2
+    },
+    {
+      "word": "as",
+      "count": 2
+    },
+    {
+      "word": "if",
+      "count": 2
+    },
+    {
+      "word": "many",
+      "count": 2
+    },
+    {
+      "word": "not",
+      "count": 2
+    },
+    {
+      "word": "only",
+      "count": 2
+    },
+    {
+      "word": "others",
+      "count": 2
+    },
+    {
+      "word": "said",
+      "count": 2
+    },
+    {
+      "word": "such",
+      "count": 2
+    },
+    {
+      "word": "than",
+      "count": 2
+    },
+    {
+      "word": "their",
+      "count": 2
+    },
+    {
+      "word": "vices",
+      "count": 2
+    },
+    {
+      "word": "ways",
+      "count": 2
+    },
+    {
+      "word": "were",
+      "count": 2
+    },
+    {
+      "word": "would",
+      "count": 2
+    },
+    {
+      "word": "&ampc",
+      "count": 1
+    },
+    {
+      "word": "accessary",
+      "count": 1
+    },
+    {
+      "word": "at",
+      "count": 1
+    },
+    {
+      "word": "banished",
+      "count": 1
+    },
+    {
+      "word": "being",
+      "count": 1
+    },
+    {
+      "word": "benefactor",
+      "count": 1
+    },
+    {
+      "word": "beneficial",
+      "count": 1
+    },
+    {
+      "word": "blood-shed",
+      "count": 1
+    },
+    {
+      "word": "body",
+      "count": 1
+    },
+    {
+      "word": "brandies",
+      "count": 1
+    },
+    {
+      "word": "bring",
+      "count": 1
+    },
+    {
+      "word": "card",
+      "count": 1
+    },
+    {
+      "word": "chiefly",
+      "count": 1
+    },
+    {
+      "word": "children",
+      "count": 1
+    },
+    {
+      "word": "city",
+      "count": 1
+    },
+    {
+      "word": "cloth",
+      "count": 1
+    },
+    {
+      "word": "condition",
+      "count": 1
+    },
+    {
+      "word": "considerable",
+      "count": 1
+    },
+    {
+      "word": "coopers",
+      "count": 1
+    },
+    {
+      "word": "corn",
+      "count": 1
+    },
+    {
+      "word": "country",
+      "count": 1
+    },
+    {
+      "word": "customs",
+      "count": 1
+    },
+    {
+      "word": "denied",
+      "count": 1
+    },
+    {
+      "word": "dependence",
+      "count": 1
+    },
+    {
+      "word": "depends",
+      "count": 1
+    },
+    {
+      "word": "dice-makers",
+      "count": 1
+    },
+    {
+      "word": "drink",
+      "count": 1
+    },
+    {
+      "word": "druggist",
+      "count": 1
+    },
+    {
+      "word": "drunkenness",
+      "count": 1
+    },
+    {
+      "word": "encourages",
+      "count": 1
+    },
+    {
+      "word": "families",
+      "count": 1
+    },
+    {
+      "word": "flourishing",
+      "count": 1
+    },
+    {
+      "word": "for",
+      "count": 1
+    },
+    {
+      "word": "foreign",
+      "count": 1
+    },
+    {
+      "word": "friends",
+      "count": 1
+    },
+    {
+      "word": "get",
+      "count": 1
+    },
+    {
+      "word": "good",
+      "count": 1
+    },
+    {
+      "word": "greatest",
+      "count": 1
+    },
+    {
+      "word": "growth",
+      "count": 1
+    },
+    {
+      "word": "guilty",
+      "count": 1
+    },
+    {
+      "word": "half",
+      "count": 1
+    },
+    {
+      "word": "handsomely",
+      "count": 1
+    },
+    {
+      "word": "he",
+      "count": 1
+    },
+    {
+      "word": "health",
+      "count": 1
+    },
+    {
+      "word": "immediate",
+      "count": 1
+    },
+    {
+      "word": "increases",
+      "count": 1
+    },
+    {
+      "word": "industrious",
+      "count": 1
+    },
+    {
+      "word": "influenc'd",
+      "count": 1
+    },
+    {
+      "word": "into",
+      "count": 1
+    },
+    {
+      "word": "lavishness",
+      "count": 1
+    },
+    {
+      "word": "legion",
+      "count": 1
+    },
+    {
+      "word": "livelihood",
+      "count": 1
+    },
+    {
+      "word": "luxury",
+      "count": 1
+    },
+    {
+      "word": "made",
+      "count": 1
+    },
+    {
+      "word": "maintain",
+      "count": 1
+    },
+    {
+      "word": "make",
+      "count": 1
+    },
+    {
+      "word": "manufactury",
+      "count": 1
+    },
+    {
+      "word": "members",
+      "count": 1
+    },
+    {
+      "word": "mercers",
+      "count": 1
+    },
+    {
+      "word": "merchant",
+      "count": 1
+    },
+    {
+      "word": "ministers",
+      "count": 1
+    },
+    {
+      "word": "miserable",
+      "count": 1
+    },
+    {
+      "word": "more",
+      "count": 1
+    },
+    {
+      "word": "much",
+      "count": 1
+    },
+    {
+      "word": "multitude",
+      "count": 1
+    },
+    {
+      "word": "nation",
+      "count": 1
+    },
+    {
+      "word": "navigation",
+      "count": 1
+    },
+    {
+      "word": "need",
+      "count": 1
+    },
+    {
+      "word": "none",
+      "count": 1
+    },
+    {
+      "word": "nor",
+      "count": 1
+    },
+    {
+      "word": "on",
+      "count": 1
+    },
+    {
+      "word": "once",
+      "count": 1
+    },
+    {
+      "word": "otherwise",
+      "count": 1
+    },
+    {
+      "word": "own",
+      "count": 1
+    },
+    {
+      "word": "parts",
+      "count": 1
+    },
+    {
+      "word": "pay",
+      "count": 1
+    },
+    {
+      "word": "people",
+      "count": 1
+    },
+    {
+      "word": "poisoning",
+      "count": 1
+    },
+    {
+      "word": "pride",
+      "count": 1
+    },
+    {
+      "word": "publick",
+      "count": 1
+    },
+    {
+      "word": "purchase",
+      "count": 1
+    },
+    {
+      "word": "requir'd",
+      "count": 1
+    },
+    {
+      "word": "same",
+      "count": 1
+    },
+    {
+      "word": "sends",
+      "count": 1
+    },
+    {
+      "word": "several",
+      "count": 1
+    },
+    {
+      "word": "shew",
+      "count": 1
+    },
+    {
+      "word": "society",
+      "count": 1
+    },
+    {
+      "word": "something",
+      "count": 1
+    },
+    {
+      "word": "stand",
+      "count": 1
+    },
+    {
+      "word": "starv'd",
+      "count": 1
+    },
+    {
+      "word": "sword-cutler",
+      "count": 1
+    },
+    {
+      "word": "tailors",
+      "count": 1
+    },
+    {
+      "word": "taxes",
+      "count": 1
+    },
+    {
+      "word": "them",
+      "count": 1
+    },
+    {
+      "word": "themselves",
+      "count": 1
+    },
+    {
+      "word": "this",
+      "count": 1
+    },
+    {
+      "word": "thus",
+      "count": 1
+    },
+    {
+      "word": "time",
+      "count": 1
+    },
+    {
+      "word": "trade",
+      "count": 1
+    },
+    {
+      "word": "up",
+      "count": 1
+    },
+    {
+      "word": "upholsterers",
+      "count": 1
+    },
+    {
+      "word": "useful",
+      "count": 1
+    },
+    {
+      "word": "very",
+      "count": 1
+    },
+    {
+      "word": "vice",
+      "count": 1
+    },
+    {
+      "word": "vintners",
+      "count": 1
+    },
+    {
+      "word": "virtue",
+      "count": 1
+    },
+    {
+      "word": "way",
+      "count": 1
+    },
+    {
+      "word": "when",
+      "count": 1
+    },
+    {
+      "word": "who",
+      "count": 1
+    },
+    {
+      "word": "wine",
+      "count": 1
+    },
+    {
+      "word": "wine-merchants",
+      "count": 1
+    },
+    {
+      "word": "wines",
+      "count": 1
+    },
+    {
+      "word": "with",
+      "count": 1
+    },
+    {
+      "word": "without",
+      "count": 1
+    },
+    {
+      "word": "year's",
+      "count": 1
+    },
+    {
+      "word": "yet",
+      "count": 1
+    }
+  ]
+}

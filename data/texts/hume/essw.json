@@ -1,0 +1,22 @@
+{
+  "id": "Hume.EssW",
+  "title": "Essays, Moral, Political, and Literary, Part I [Subsequently Withdrawn Essays]",
+  "breadcrumb": "Essays, Moral, Political, and Literary, Part 1 [Withdrawn]",
+  "fulltitle": "<h1>Essays, Moral, Political, and Literary, Part I [Subsequently Withdrawn Essays]</h1>",
+  "published": "1741-2",
+  "copytext": "1741-2, 1760, 1768",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/texts/empw.yml",
+  "imported": true,
+  "comments": "This text has been imported from <a href=\"https://davidhume.org\">Hume Texts Online</a>. Refer to the editorial notes on that site for details.",
+  "copyright": "The copyright for this text is held by Amyas Merivale and Peter Millican. The text may be used freely for educational and academic purposes. It may not be used in any way for profit.",
+  "texts": [
+    "Hume.IM",
+    "Hume.LM",
+    "Hume.SH",
+    "Hume.Av",
+    "Hume.EW",
+    "Hume.MP",
+    "Hume.MS",
+    "Hume.CR"
+  ]
+}

@@ -1,0 +1,103 @@
+.text {
+  max-width: 39rem;
+  padding: 0 .5rem;
+  margin: 0 auto;
+  font-family: $old;
+  font-size: 1.375em;
+  text-align: justify;
+  h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 1rem;
+  }
+  b {
+    font-family: $oldSC;
+    font-weight: normal;
+    font-style: normal;
+  }
+  q::before {
+    content: "“";
+  }
+  q::after {
+    content: "”";
+  }
+  blockquote {
+    padding: 0 0 0 2em;
+  }
+  cite {
+    border-bottom: 1px dotted $black;
+    margin-right: .25em;
+  }
+  label { // margin comments
+    float: right;
+    font-size: .875em;
+    padding: .25em .5em;
+    background: $lightgray;
+    margin-left: 1em;
+    max-width: 12em;
+  }
+  small { // text ignored for searching, concordances, etc.
+    font-size: 1em;
+  }
+  i { // foreign text
+    font-style: italic;
+  }
+  .context {
+    font-family: $sans;
+    font-size: 1rem;
+    display: flex;
+    padding: .5em 0;
+    margin: .5em 0 1em;
+    border-top: 1px solid $gray;
+    border-bottom: 1px solid $gray;
+    .prev, .next {
+      flex: 1;
+    }
+    .next {
+      text-align: right;
+    }
+  }
+  .toc {
+    list-style: none;
+    margin-left: 0;
+    li {
+      text-indent: -1.5em;
+      margin-left: 1.5em;
+    }
+  }
+  .paragraph, .note {
+    .id {
+      color: $primary;
+      font-family: $sans;
+      font-size: 1rem;
+      text-align: right;
+      margin-bottom: .75rem;
+    }
+    .content {
+      .before {
+        float: left;
+        margin-right: .5em;
+      }
+    }
+  }
+}
+
+@media(min-width: $break) {
+  .text {
+    max-width: none;
+    .title, .toc {
+      margin-left: 16rem;
+    }
+    .paragraph, .note {
+      display: flex;
+      .id {
+        flex-basis: 15rem;
+        margin-right: 1rem;
+        text-align: left;
+      }
+      .content {
+        flex: 1;
+      }
+    }
+  }
+}

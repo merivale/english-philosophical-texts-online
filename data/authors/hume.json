@@ -1,0 +1,27 @@
+{
+  "id": "Hume",
+  "forename": "David",
+  "surname": "Hume",
+  "birth": 1711,
+  "death": 1776,
+  "published": 1739,
+  "nationality": "Scottish",
+  "sex": "Male",
+  "texts": [
+    "Hume.THN",
+    "Hume.A",
+    "Hume.Ess1",
+    "Hume.EssW",
+    "Hume.Ess2",
+    "Hume.LG",
+    "Hume.EHU",
+    "Hume.EPM",
+    "Hume.HE",
+    "Hume.Su",
+    "Hume.IS",
+    "Hume.NHR",
+    "Hume.DP",
+    "Hume.MOL",
+    "Hume.DNR"
+  ]
+}

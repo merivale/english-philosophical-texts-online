@@ -1,0 +1,21 @@
+{% extends 'layout.twig' %}
+
+{% block javascripts %}
+  <script defer src="/javascripts/browse-authors.js"></script>
+{% endblock %}
+
+{% block content %}
+  <h1>Browse Texts</h1>
+  <p>There are currently {{ authors | length }} authors in the library {{ males | length }} male and {{ females | length }} female). We have drawn up a list of desired works for each author, which you can view by clicking on the author's name below. So far we have imported {{ imported }} texts out of a total of {{ total }}. Note, however, that some of these texts are large multi-volume works, while others are single article-length publications. This rather crude count therefore does not reflect the percentage of actual text we have in our database, a percentage that we will not be able to estimate until we have guaged the relative sizes of the various texts.</p>
+  <p>So far we have imported texts by {% for author in authorsWithTexts %}{% if loop.last %} and {% endif %}<a href="{{ author.url }}">{{ author.fullname }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+  <p>Please let us know if any text is particularly important to you, and we will do our best to incorporate it sooner rather than later. Please also let us know if we are missing any work that you would like to see included. If you are also able to point us in the direction of a good (and publicly available) digital edition, so much the better.</p>
+  <div class="options">
+    <input type="text" placeholder="search authors" data-action="filter-authors">
+    <select data-action="order-authors">
+      <option value="published">order chronologically by first publication</option>
+      <option value="birth">order chronologically by birth</option>
+      <option value="alphabetical">order alphabetically</option>
+    </select>
+  </div>
+  <div class="authors" id="authors"></div>
+{% endblock %}

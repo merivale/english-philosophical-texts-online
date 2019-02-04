@@ -1,0 +1,17 @@
+{
+  "id": "Beattie",
+  "forename": "James",
+  "surname": "Beattie",
+  "birth": 1735,
+  "death": 1803,
+  "published": 1770,
+  "nationality": "Scottish",
+  "sex": "Male",
+  "texts": [
+    "Beattie.ENT",
+    "Beattie.DMC",
+    "Beattie.ECR",
+    "Beattie.TL",
+    "Beattie.EMS"
+  ]
+}

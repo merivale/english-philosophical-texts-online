@@ -1,0 +1,43 @@
+.tabs {
+  display: flex;
+  border-bottom: 1px solid $gray;
+  a {
+    padding: .25em .75em;
+    color: $darkgray;
+    border-bottom: 1px solid transparent;
+    margin-bottom: -1px;
+    &:hover {
+      color: $black;
+      border-bottom-color: $black;
+      text-decoration: none;
+    }
+    &.active {
+      color: $primary;
+      border-color: $primary;
+      text-decoration: none;
+    }
+  }
+  &.inverse {
+    border-bottom: 0;
+    justify-content: flex-end;
+    a {
+      border-bottom: 0;
+      border-top: 1px solid transparent;
+      margin-bottom: 0;
+      margin-top: -1px;
+      &:hover {
+        border-top-color: $black;
+      }
+      &.active {
+        border-color: $primary;
+      }
+    }
+  }
+}
+
+.pane {
+  display: none;
+  &.active {
+    display: block;
+  }
+}

@@ -1,0 +1,2171 @@
+[
+  {
+    "lexeme": "5",
+    "word": "5",
+    "frequency": 152,
+    "paragraphs": [
+      "Astell.LLG.9.1",
+      "Hume.THN.1.1.3.3",
+      "Hume.THN.1.1.5.7",
+      "Hume.THN.1.2.3.9",
+      "Hume.THN.1.3.1.15",
+      "Hume.THN.1.3.2.16",
+      "Hume.THN.1.3.8.21",
+      "Hume.THN.1.3.14.32",
+      "Hume.THN.1.3.15.7",
+      "Hume.THN.1.3.15.33",
+      "Hume.THN.1.4.2.35",
+      "Hume.THN.1.4.2.37",
+      "Hume.THN.1.4.2.38",
+      "Hume.THN.1.4.2.41",
+      "Hume.THN.1.4.5.43",
+      "Hume.THN.3.2.3.71a",
+      "Hume.RP.15",
+      "Hume.Sc.6.6",
+      "Hume.PA.46",
+      "Hume.PA.81",
+      "Hume.PA.186",
+      "Hume.PA.193.1",
+      "Hume.PA.193.4",
+      "Hume.PA.202",
+      "Hume.PA.255.1",
+      "Hume.IPC.66",
+      "Hume.LG.18",
+      "Hume.LG.19",
+      "Hume.EHU.9.20.7",
+      "Hume.EPM.App3.63.1",
+      "Hume.HE.App1.5",
+      "Hume.HE.App1.10",
+      "Hume.HE.App1.18",
+      "Hume.HE.App1.30",
+      "Hume.HE.App1.31",
+      "Hume.HE.4.54",
+      "Hume.HE.4.36",
+      "Hume.HE.4.43",
+      "Hume.HE.4.47",
+      "Hume.HE.4.52",
+      "Hume.HE.4.55",
+      "Hume.HE.4.76",
+      "Hume.HE.8.49",
+      "Hume.HE.8.83",
+      "Hume.HE.9.86",
+      "Hume.HE.App2.43",
+      "Hume.HE.13.13",
+      "Hume.HE.14.7",
+      "Hume.HE.16.119",
+      "Hume.HE.16.121",
+      "Hume.HE.16.123",
+      "Hume.HE.17.17",
+      "Hume.HE.17.29",
+      "Hume.HE.17.97",
+      "Hume.HE.17.97",
+      "Hume.HE.18.45",
+      "Hume.HE.22.34",
+      "Hume.HE.22.45",
+      "Hume.HE.22.48",
+      "Hume.HE.22.49",
+      "Hume.HE.22.51",
+      "Hume.HE.22.52",
+      "Hume.HE.22.78",
+      "Hume.HE.22.79",
+      "Hume.HE.22.80",
+      "Hume.HE.22.88",
+      "Hume.HE.26.6",
+      "Hume.HE.26.23",
+      "Hume.HE.26.23",
+      "Hume.HE.26.25",
+      "Hume.HE.27.36",
+      "Hume.HE.30.45",
+      "Hume.HE.31.1",
+      "Hume.HE.31.17",
+      "Hume.HE.31.24",
+      "Hume.HE.31.54",
+      "Hume.HE.31.55",
+      "Hume.HE.32.31",
+      "Hume.HE.33.57",
+      "Hume.HE.33.77",
+      "Hume.HE.33.81",
+      "Hume.HE.33.82",
+      "Hume.HE.34.2",
+      "Hume.HE.34.48",
+      "Hume.HE.35.24",
+      "Hume.HE.35.47",
+      "Hume.HE.35.51",
+      "Hume.HE.35.52",
+      "Hume.HE.36.30",
+      "Hume.HE.37.18",
+      "Hume.HE.37.20",
+      "Hume.HE.37.21",
+      "Hume.HE.37.22",
+      "Hume.HE.37.54",
+      "Hume.HE.38.5",
+      "Hume.HE.38.6",
+      "Hume.HE.39.19",
+      "Hume.HE.39.20",
+      "Hume.HE.39.69",
+      "Hume.HE.39.180",
+      "Hume.HE.40.89",
+      "Hume.HE.43.4",
+      "Hume.HE.44.1",
+      "Hume.HE.44.94",
+      "Hume.HE.44.94",
+      "Hume.HE.45.10",
+      "Hume.HE.46.27",
+      "Hume.HE.48.2",
+      "Hume.HE.48.19",
+      "Hume.HE.App4.2",
+      "Hume.HE.App4.15",
+      "Hume.HE.50.28",
+      "Hume.HE.51.41",
+      "Hume.HE.53.80",
+      "Hume.HE.55.46",
+      "Hume.HE.58.7",
+      "Hume.HE.58.49",
+      "Hume.HE.58.49",
+      "Hume.HE.59.26",
+      "Hume.HE.59.105",
+      "Hume.HE.60.5",
+      "Hume.IS.1",
+      "Hume.NHR.4.19",
+      "Hume.NHR.12.81",
+      "Astell.LLG.9.1",
+      "Shaftesbury.LE.3.4",
+      "Shaftesbury.LE.6.13",
+      "Shaftesbury.SC.2.3.2",
+      "Shaftesbury.S.2.2.7",
+      "Shaftesbury.S.2.3.5",
+      "Shaftesbury.S.3.1.14",
+      "Shaftesbury.S.3.3.5",
+      "Shaftesbury.IVM.1.1.2.1",
+      "Shaftesbury.M.1.1.1",
+      "Shaftesbury.M.2.5.1",
+      "Shaftesbury.MR.2.1.10",
+      "Shaftesbury.MR.2.1.35",
+      "Shaftesbury.MR.2.1.35",
+      "Shaftesbury.MR.2.3.11",
+      "Shaftesbury.MR.2.3.13",
+      "Shaftesbury.MR.2.3.13",
+      "Shaftesbury.MR.2.3.18",
+      "Shaftesbury.MR.4.1.5",
+      "Shaftesbury.MR.4.1.6",
+      "Shaftesbury.MR.5.1.13",
+      "Shaftesbury.MR.5.1.30",
+      "Shaftesbury.JH.1.9",
+      "Shaftesbury.JH.2.6",
+      "Shaftesbury.JH.3.5",
+      "Shaftesbury.JH.4.5",
+      "Shaftesbury.JH.5.5",
+      "Shaftesbury.JH.6.5"
+    ]
+  },
+  {
+    "lexeme": "5\n",
+    "word": "5\n",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.S.3.2.5"
+    ]
+  },
+  {
+    "lexeme": "5]",
+    "word": "5]",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.MR.2.1.30"
+    ]
+  },
+  {
+    "lexeme": "5/6",
+    "word": "5/6",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.PA.138"
+    ]
+  },
+  {
+    "lexeme": "50",
+    "word": "50",
+    "frequency": 22,
+    "paragraphs": [
+      "Hume.Mo.8",
+      "Hume.PA.56",
+      "Hume.PA.88.1",
+      "Hume.HE.App1.29",
+      "Hume.HE.6.72",
+      "Hume.HE.13.19",
+      "Hume.HE.14.13",
+      "Hume.HE.14.39",
+      "Hume.HE.17.6",
+      "Hume.HE.31.24",
+      "Hume.HE.36.44",
+      "Hume.HE.39.41",
+      "Hume.HE.39.103",
+      "Hume.HE.40.15",
+      "Hume.HE.App3.93",
+      "Hume.HE.47.27",
+      "Hume.HE.49.38",
+      "Hume.HE.55.71",
+      "Hume.HE.55.72",
+      "Hume.HE.55.74",
+      "Hume.HE.55.75",
+      "Hume.HE.59.39"
+    ]
+  },
+  {
+    "lexeme": "500",
+    "word": "500",
+    "frequency": 35,
+    "paragraphs": [
+      "Astell.SPL.49",
+      "Hume.PC.21",
+      "Hume.PA.62",
+      "Hume.PA.75",
+      "Hume.PA.84.1",
+      "Hume.PA.84.1",
+      "Hume.PA.84.1",
+      "Hume.IPC.8",
+      "Hume.HE.3.64",
+      "Hume.HE.10.61",
+      "Hume.HE.App2.53",
+      "Hume.HE.13.47",
+      "Hume.HE.15.56",
+      "Hume.HE.17.19",
+      "Hume.HE.18.3",
+      "Hume.HE.19.20",
+      "Hume.HE.20.20",
+      "Hume.HE.20.7",
+      "Hume.HE.32.38",
+      "Hume.HE.33.2",
+      "Hume.HE.36.26",
+      "Hume.HE.42.74",
+      "Hume.HE.App4.18",
+      "Hume.HE.51.7",
+      "Hume.HE.52.25",
+      "Hume.HE.52.60",
+      "Hume.HE.53.51",
+      "Hume.HE.55.5",
+      "Hume.HE.56.29",
+      "Hume.HE.58.21",
+      "Hume.HE.60.32",
+      "Hume.HE.62.62",
+      "Hume.HE.67.46",
+      "Hume.HE.68.31",
+      "Hume.HE.71.83"
+    ]
+  },
+  {
+    "lexeme": "5000",
+    "word": "5000",
+    "frequency": 31,
+    "paragraphs": [
+      "Hume.Mo.1.1",
+      "Hume.PA.14",
+      "Hume.PA.81",
+      "Hume.HE.1.22",
+      "Hume.HE.1.28",
+      "Hume.HE.App2.53",
+      "Hume.HE.20.7",
+      "Hume.HE.20.40",
+      "Hume.HE.21.24",
+      "Hume.HE.21.26",
+      "Hume.HE.21.33",
+      "Hume.HE.23.22",
+      "Hume.HE.27.32",
+      "Hume.HE.27.33",
+      "Hume.HE.38.38",
+      "Hume.HE.42.63",
+      "Hume.HE.48.24",
+      "Hume.HE.52.44",
+      "Hume.HE.52.45",
+      "Hume.HE.52.66",
+      "Hume.HE.52.72",
+      "Hume.HE.53.31",
+      "Hume.HE.55.16",
+      "Hume.HE.58.7",
+      "Hume.HE.58.9",
+      "Hume.HE.58.30",
+      "Hume.HE.59.30",
+      "Hume.HE.61.42",
+      "Hume.HE.62.62",
+      "Hume.HE.65.6",
+      "Hume.HE.66.10"
+    ]
+  },
+  {
+    "lexeme": "50000",
+    "word": "50000",
+    "frequency": 20,
+    "paragraphs": [
+      "Hume.PC.4",
+      "Hume.PA.170",
+      "Hume.HE.12.63",
+      "Hume.HE.13.10",
+      "Hume.HE.13.63",
+      "Hume.HE.15.35",
+      "Hume.HE.15.40",
+      "Hume.HE.15.80",
+      "Hume.HE.16.2",
+      "Hume.HE.16.2",
+      "Hume.HE.16.45",
+      "Hume.HE.22.42",
+      "Hume.HE.27.29",
+      "Hume.HE.37.22",
+      "Hume.HE.40.90",
+      "Hume.HE.49.35",
+      "Hume.HE.54.26",
+      "Hume.HE.62.62",
+      "Hume.HE.62.81",
+      "Hume.HE.62.92"
+    ]
+  },
+  {
+    "lexeme": "500000",
+    "word": "500000",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.33.35",
+      "Hume.HE.62.80",
+      "Hume.HE.62.85",
+      "Hume.HE.63.49",
+      "Hume.HE.63.9",
+      "Hume.HE.69.12"
+    ]
+  },
+  {
+    "lexeme": "500000l",
+    "word": "500000l",
+    "frequency": 2,
+    "paragraphs": [
+      "Hume.BT.7",
+      "Hume.BT.7"
+    ]
+  },
+  {
+    "lexeme": "501",
+    "word": "501",
+    "frequency": 11,
+    "paragraphs": [
+      "Hume.HE.3.63",
+      "Hume.HE.3.68",
+      "Hume.HE.9.32",
+      "Hume.HE.12.58",
+      "Hume.HE.12.59",
+      "Hume.HE.14.28",
+      "Hume.HE.20.5",
+      "Hume.HE.21.21",
+      "Hume.HE.23.16",
+      "Hume.HE.28.2",
+      "Hume.NHR.13.88"
+    ]
+  },
+  {
+    "lexeme": "502",
+    "word": "502",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.4.1",
+      "Hume.HE.12.70",
+      "Hume.HE.14.79",
+      "Hume.HE.14.81",
+      "Hume.HE.14.86",
+      "Hume.HE.51.6",
+      "Hume.HE.60.29"
+    ]
+  },
+  {
+    "lexeme": "503",
+    "word": "503",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.4.5",
+      "Hume.HE.4.9",
+      "Hume.HE.4.11",
+      "Hume.HE.6.49",
+      "Hume.HE.9.36",
+      "Hume.HE.14.87",
+      "Hume.HE.46.18",
+      "Hume.HE.59.27"
+    ]
+  },
+  {
+    "lexeme": "504",
+    "word": "504",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.14.47",
+      "Hume.HE.14.88",
+      "Hume.HE.20.8",
+      "Hume.HE.26.7",
+      "Hume.HE.28.4",
+      "Hume.HE.46.18",
+      "Hume.HE.52.30"
+    ]
+  },
+  {
+    "lexeme": "505",
+    "word": "505",
+    "frequency": 12,
+    "paragraphs": [
+      "Hume.HE.7.4",
+      "Hume.HE.9.37",
+      "Hume.HE.22.24",
+      "Hume.HE.22.64",
+      "Hume.HE.22.68",
+      "Hume.HE.33.63",
+      "Hume.HE.38.30",
+      "Hume.HE.44.103",
+      "Hume.HE.App3.86",
+      "Hume.HE.59.14",
+      "Hume.HE.61.28",
+      "Hume.HE.69.7"
+    ]
+  },
+  {
+    "lexeme": "506",
+    "word": "506",
+    "frequency": 11,
+    "paragraphs": [
+      "Hume.HE.4.12",
+      "Hume.HE.4.16",
+      "Hume.HE.13.168",
+      "Hume.HE.14.53",
+      "Hume.HE.14.76",
+      "Hume.HE.22.22",
+      "Hume.HE.22.25",
+      "Hume.HE.42.12",
+      "Hume.HE.44.103",
+      "Hume.HE.56.83",
+      "Hume.HE.57.22"
+    ]
+  },
+  {
+    "lexeme": "507",
+    "word": "507",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.4.20",
+      "Hume.HE.12.55",
+      "Hume.HE.12.58",
+      "Hume.HE.14.57",
+      "Hume.HE.41.57",
+      "Hume.HE.41.58",
+      "Hume.HE.57.25",
+      "Shaftesbury.MR.5.3.16"
+    ]
+  },
+  {
+    "lexeme": "508",
+    "word": "508",
+    "frequency": 10,
+    "paragraphs": [
+      "Hume.HE.1.28",
+      "Hume.HE.4.21",
+      "Hume.HE.4.33",
+      "Hume.HE.9.30",
+      "Hume.HE.9.63",
+      "Hume.HE.14.58",
+      "Hume.HE.14.64",
+      "Hume.HE.22.29",
+      "Hume.HE.41.59",
+      "Hume.HE.57.25"
+    ]
+  },
+  {
+    "lexeme": "509",
+    "word": "509",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.PA.84.1",
+      "Hume.HE.12.180",
+      "Hume.HE.15.7",
+      "Hume.HE.38.86",
+      "Hume.HE.41.60",
+      "Hume.HE.46.24",
+      "Hume.HE.59.28"
+    ]
+  },
+  {
+    "lexeme": "51",
+    "word": "51",
+    "frequency": 29,
+    "paragraphs": [
+      "Hume.BP.6",
+      "Hume.PA.182",
+      "Hume.HE.App1.82",
+      "Hume.HE.4.47",
+      "Hume.HE.4.88",
+      "Hume.HE.7.4",
+      "Hume.HE.7.12",
+      "Hume.HE.7.16",
+      "Hume.HE.7.38",
+      "Hume.HE.9.2",
+      "Hume.HE.11.39",
+      "Hume.HE.13.66",
+      "Hume.HE.13.107",
+      "Hume.HE.13.119",
+      "Hume.HE.14.14",
+      "Hume.HE.14.87",
+      "Hume.HE.15.49",
+      "Hume.HE.16.113",
+      "Hume.HE.17.6",
+      "Hume.HE.30.14",
+      "Hume.HE.40.106",
+      "Hume.HE.40.107",
+      "Hume.HE.48.22",
+      "Hume.HE.55.67",
+      "Hume.HE.55.73",
+      "Hume.HE.55.76",
+      "Hume.HE.55.114",
+      "Hume.HE.59.36",
+      "Hume.HE.59.78"
+    ]
+  },
+  {
+    "lexeme": "510",
+    "word": "510",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.4.25",
+      "Hume.HE.15.10",
+      "Hume.HE.15.13",
+      "Hume.HE.21.36",
+      "Hume.HE.44.70",
+      "Hume.HE.App3.5"
+    ]
+  },
+  {
+    "lexeme": "5100",
+    "word": "5100",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.App2.53"
+    ]
+  },
+  {
+    "lexeme": "511",
+    "word": "511",
+    "frequency": 9,
+    "paragraphs": [
+      "Hume.HE.4.28",
+      "Hume.HE.4.29",
+      "Hume.HE.22.31",
+      "Hume.HE.40.37",
+      "Hume.HE.App3.34",
+      "Hume.HE.App3.38",
+      "Hume.HE.App4.32",
+      "Hume.HE.55.56",
+      "Hume.HE.57.26"
+    ]
+  },
+  {
+    "lexeme": "512",
+    "word": "512",
+    "frequency": 14,
+    "paragraphs": [
+      "Hume.HE.1.33",
+      "Hume.HE.4.34",
+      "Hume.HE.4.36",
+      "Hume.HE.4.37",
+      "Hume.HE.9.60",
+      "Hume.HE.12.70",
+      "Hume.HE.20.14",
+      "Hume.HE.41.61",
+      "Hume.HE.42.54",
+      "Hume.HE.44.20",
+      "Hume.HE.44.25",
+      "Hume.HE.55.90",
+      "Hume.HE.56.84",
+      "Hume.HE.60.29"
+    ]
+  },
+  {
+    "lexeme": "513",
+    "word": "513",
+    "frequency": 12,
+    "paragraphs": [
+      "Hume.HE.4.35",
+      "Hume.HE.4.38",
+      "Hume.HE.12.91",
+      "Hume.HE.15.57",
+      "Hume.HE.19.8",
+      "Hume.HE.22.19",
+      "Hume.HE.22.21",
+      "Hume.HE.28.27",
+      "Hume.HE.41.64",
+      "Hume.HE.42.14",
+      "Hume.HE.42.14",
+      "Hume.HE.51.8"
+    ]
+  },
+  {
+    "lexeme": "514",
+    "word": "514",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.4.40",
+      "Hume.HE.15.56",
+      "Hume.HE.22.27",
+      "Hume.HE.29.16",
+      "Hume.HE.44.32",
+      "Hume.HE.52.59",
+      "Hume.HE.59.16"
+    ]
+  },
+  {
+    "lexeme": "5143",
+    "word": "5143",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.MR.1.3.3"
+    ]
+  },
+  {
+    "lexeme": "515",
+    "word": "515",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.App1.16",
+      "Hume.HE.4.44",
+      "Hume.HE.22.31",
+      "Hume.HE.33.53",
+      "Hume.HE.42.4",
+      "Hume.HE.42.7",
+      "Hume.HE.52.60",
+      "Hume.HE.59.16"
+    ]
+  },
+  {
+    "lexeme": "516",
+    "word": "516",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.4.98",
+      "Hume.HE.42.12",
+      "Hume.HE.42.14",
+      "Hume.HE.55.99"
+    ]
+  },
+  {
+    "lexeme": "517",
+    "word": "517",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.8.78",
+      "Hume.HE.9.64",
+      "Hume.HE.15.110",
+      "Hume.HE.42.3",
+      "Hume.HE.55.99"
+    ]
+  },
+  {
+    "lexeme": "51740",
+    "word": "51740",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.LG.9"
+    ]
+  },
+  {
+    "lexeme": "518",
+    "word": "518",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.12.58",
+      "Hume.HE.12.84",
+      "Hume.HE.13.91",
+      "Hume.HE.15.110",
+      "Hume.HE.29.18",
+      "Hume.HE.42.8",
+      "Hume.HE.App3.21",
+      "Hume.HE.45.26"
+    ]
+  },
+  {
+    "lexeme": "519",
+    "word": "519",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.9.65",
+      "Hume.HE.10.5",
+      "Hume.HE.10.17",
+      "Hume.HE.20.14",
+      "Hume.HE.22.44",
+      "Hume.HE.App3.21",
+      "Hume.HE.55.95"
+    ]
+  },
+  {
+    "lexeme": "52",
+    "word": "52",
+    "frequency": 26,
+    "paragraphs": [
+      "Hume.PA.20",
+      "Hume.PA.137",
+      "Hume.HE.4.98",
+      "Hume.HE.7.10",
+      "Hume.HE.8.75",
+      "Hume.HE.12.97",
+      "Hume.HE.13.88",
+      "Hume.HE.13.98",
+      "Hume.HE.13.126",
+      "Hume.HE.16.19",
+      "Hume.HE.16.92",
+      "Hume.HE.17.19",
+      "Hume.HE.19.64",
+      "Hume.HE.37.9",
+      "Hume.HE.39.103",
+      "Hume.HE.39.106",
+      "Hume.HE.39.157",
+      "Hume.HE.40.106",
+      "Hume.HE.App3.97",
+      "Hume.HE.48.23",
+      "Hume.HE.55.80",
+      "Hume.HE.58.16",
+      "Hume.HE.59.36",
+      "Shaftesbury.MR.2.1.8",
+      "Shaftesbury.MR.2.1.38",
+      "Shaftesbury.MR.2.1.39"
+    ]
+  },
+  {
+    "lexeme": "52\n[the",
+    "word": "52\n[the",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.MR.4.2.1"
+    ]
+  },
+  {
+    "lexeme": "520",
+    "word": "520",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.1.28",
+      "Hume.HE.8.81",
+      "Hume.HE.App2.121",
+      "Hume.HE.12.159",
+      "Hume.HE.16.124",
+      "Hume.HE.55.17"
+    ]
+  },
+  {
+    "lexeme": "52000",
+    "word": "52000",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.47.15"
+    ]
+  },
+  {
+    "lexeme": "521",
+    "word": "521",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.4.48",
+      "Hume.HE.4.98",
+      "Hume.HE.9.66",
+      "Hume.HE.16.8",
+      "Hume.HE.40.20",
+      "Hume.HE.55.96"
+    ]
+  },
+  {
+    "lexeme": "522",
+    "word": "522",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.4.68",
+      "Hume.HE.22.57",
+      "Hume.HE.40.121",
+      "Hume.HE.App4.12",
+      "Hume.HE.69.2"
+    ]
+  },
+  {
+    "lexeme": "523",
+    "word": "523",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.4.50",
+      "Hume.HE.4.61",
+      "Hume.HE.4.91",
+      "Hume.HE.10.21",
+      "Hume.HE.42.9",
+      "Hume.HE.55.100",
+      "Hume.HE.60.23"
+    ]
+  },
+  {
+    "lexeme": "524",
+    "word": "524",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.10.24",
+      "Hume.HE.42.62",
+      "Hume.HE.55.101",
+      "Hume.HE.55.103",
+      "Hume.HE.57.33"
+    ]
+  },
+  {
+    "lexeme": "525",
+    "word": "525",
+    "frequency": 11,
+    "paragraphs": [
+      "Hume.HE.12.173",
+      "Hume.HE.13.175",
+      "Hume.HE.21.7",
+      "Hume.HE.29.33",
+      "Hume.HE.40.20",
+      "Hume.HE.42.11",
+      "Hume.HE.42.12",
+      "Hume.HE.42.71",
+      "Hume.HE.43.41",
+      "Hume.HE.App3.53",
+      "Hume.HE.57.33"
+    ]
+  },
+  {
+    "lexeme": "526",
+    "word": "526",
+    "frequency": 9,
+    "paragraphs": [
+      "Hume.HE.8.96",
+      "Hume.HE.8.97",
+      "Hume.HE.14.13",
+      "Hume.HE.16.140",
+      "Hume.HE.21.13",
+      "Hume.HE.42.17",
+      "Hume.HE.App4.28",
+      "Hume.HE.51.9",
+      "Hume.HE.55.107"
+    ]
+  },
+  {
+    "lexeme": "527",
+    "word": "527",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.1.29",
+      "Hume.HE.9.1",
+      "Hume.HE.29.36",
+      "Hume.HE.40.104",
+      "Hume.HE.43.41"
+    ]
+  },
+  {
+    "lexeme": "528",
+    "word": "528",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.App1.101",
+      "Hume.HE.10.27",
+      "Hume.HE.22.69",
+      "Hume.HE.40.25",
+      "Hume.HE.42.14",
+      "Hume.HE.42.22",
+      "Hume.HE.55.46"
+    ]
+  },
+  {
+    "lexeme": "529",
+    "word": "529",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.9.16",
+      "Hume.HE.9.20",
+      "Hume.HE.App2.46",
+      "Hume.HE.App2.47",
+      "Hume.HE.13.44",
+      "Hume.HE.13.48",
+      "Hume.HE.32.26",
+      "Hume.HE.42.24"
+    ]
+  },
+  {
+    "lexeme": "53",
+    "word": "53",
+    "frequency": 23,
+    "paragraphs": [
+      "Hume.HE.7.21",
+      "Hume.HE.8.64",
+      "Hume.HE.12.100",
+      "Hume.HE.12.107",
+      "Hume.HE.12.108",
+      "Hume.HE.14.16",
+      "Hume.HE.16.92",
+      "Hume.HE.16.98",
+      "Hume.HE.17.20",
+      "Hume.HE.20.48",
+      "Hume.HE.30.33",
+      "Hume.HE.31.16",
+      "Hume.HE.37.24",
+      "Hume.HE.39.91",
+      "Hume.HE.39.142",
+      "Hume.HE.48.37",
+      "Hume.HE.App4.62",
+      "Hume.HE.52.3",
+      "Hume.HE.61.50",
+      "Shaftesbury.LE.3.4",
+      "Shaftesbury.M.3.2.4",
+      "Shaftesbury.MR.2.2.12",
+      "Shaftesbury.MR.5.1.3"
+    ]
+  },
+  {
+    "lexeme": "53–56",
+    "word": "53–56",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.S.3.1.2"
+    ]
+  },
+  {
+    "lexeme": "530",
+    "word": "530",
+    "frequency": 10,
+    "paragraphs": [
+      "Hume.HE.App2.45",
+      "Hume.HE.12.70",
+      "Hume.HE.13.187",
+      "Hume.HE.14.15",
+      "Hume.HE.16.59",
+      "Hume.HE.22.70",
+      "Hume.HE.41.40",
+      "Hume.HE.44.65",
+      "Hume.HE.54.29",
+      "Hume.HE.56.86"
+    ]
+  },
+  {
+    "lexeme": "531",
+    "word": "531",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.8.13",
+      "Hume.HE.9.59",
+      "Hume.HE.10.37",
+      "Hume.HE.13.49",
+      "Hume.HE.20.19",
+      "Hume.HE.22.72",
+      "Hume.HE.42.14",
+      "Hume.HE.46.47"
+    ]
+  },
+  {
+    "lexeme": "532",
+    "word": "532",
+    "frequency": 10,
+    "paragraphs": [
+      "Hume.HE.8.14",
+      "Hume.HE.9.18",
+      "Hume.HE.9.64",
+      "Hume.HE.10.29",
+      "Hume.HE.10.34",
+      "Hume.HE.20.20",
+      "Hume.HE.22.5",
+      "Hume.HE.42.14",
+      "Hume.HE.47.25",
+      "Hume.HE.55.102"
+    ]
+  },
+  {
+    "lexeme": "533",
+    "word": "533",
+    "frequency": 9,
+    "paragraphs": [
+      "Hume.HE.9.30",
+      "Hume.HE.20.21",
+      "Hume.HE.22.8",
+      "Hume.HE.42.14",
+      "Hume.HE.42.15",
+      "Hume.HE.42.31",
+      "Hume.HE.42.32",
+      "Hume.HE.46.48",
+      "Hume.HE.54.29"
+    ]
+  },
+  {
+    "lexeme": "534",
+    "word": "534",
+    "frequency": 9,
+    "paragraphs": [
+      "Hume.HE.1.28",
+      "Hume.HE.1.33",
+      "Hume.HE.20.22",
+      "Hume.HE.33.30",
+      "Hume.HE.42.33",
+      "Hume.HE.42.35",
+      "Hume.HE.42.38",
+      "Hume.HE.44.68",
+      "Hume.HE.55.112"
+    ]
+  },
+  {
+    "lexeme": "535",
+    "word": "535",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.3.51",
+      "Hume.HE.40.13",
+      "Hume.HE.40.15",
+      "Hume.HE.44.32",
+      "Hume.HE.52.50"
+    ]
+  },
+  {
+    "lexeme": "536",
+    "word": "536",
+    "frequency": 10,
+    "paragraphs": [
+      "Hume.HE.4.70",
+      "Hume.HE.8.32",
+      "Hume.HE.8.38",
+      "Hume.HE.9.28",
+      "Hume.HE.9.29",
+      "Hume.HE.10.44",
+      "Hume.HE.10.45",
+      "Hume.HE.42.45",
+      "Hume.HE.42.46",
+      "Hume.HE.54.23"
+    ]
+  },
+  {
+    "lexeme": "537",
+    "word": "537",
+    "frequency": 12,
+    "paragraphs": [
+      "Hume.HE.8.38",
+      "Hume.HE.8.48",
+      "Hume.HE.8.58",
+      "Hume.HE.9.31",
+      "Hume.HE.15.115",
+      "Hume.HE.21.27",
+      "Hume.HE.22.98",
+      "Hume.HE.44.32",
+      "Hume.HE.54.30",
+      "Hume.HE.56.89",
+      "Hume.HE.56.90",
+      "Hume.HE.56.91"
+    ]
+  },
+  {
+    "lexeme": "538",
+    "word": "538",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.App1.18",
+      "Hume.HE.14.24",
+      "Hume.HE.42.47",
+      "Hume.HE.42.48",
+      "Hume.HE.56.87"
+    ]
+  },
+  {
+    "lexeme": "539",
+    "word": "539",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.9.27",
+      "Hume.HE.9.33",
+      "Hume.HE.13.39",
+      "Hume.HE.22.28",
+      "Hume.HE.40.15",
+      "Hume.HE.43.42"
+    ]
+  },
+  {
+    "lexeme": "54",
+    "word": "54",
+    "frequency": 25,
+    "paragraphs": [
+      "Hume.PA.15",
+      "Hume.HE.App2.35",
+      "Hume.HE.12.75",
+      "Hume.HE.13.10",
+      "Hume.HE.13.107",
+      "Hume.HE.14.40",
+      "Hume.HE.15.53",
+      "Hume.HE.16.117",
+      "Hume.HE.38.11",
+      "Hume.HE.38.29",
+      "Hume.HE.39.10",
+      "Hume.HE.39.149",
+      "Hume.HE.39.154",
+      "Hume.HE.41.3",
+      "Hume.HE.43.13",
+      "Hume.HE.App3.55",
+      "Hume.HE.App3.96",
+      "Hume.HE.55.115",
+      "Hume.HE.55.120",
+      "Hume.DNR.12.12",
+      "Shaftesbury.M.3.2.4",
+      "Shaftesbury.MR.2.1.2",
+      "Shaftesbury.MR.3.1.1",
+      "Shaftesbury.MR.4.1.10",
+      "Shaftesbury.MR.5.1.3"
+    ]
+  },
+  {
+    "lexeme": "540",
+    "word": "540",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.9.37",
+      "Hume.HE.10.47",
+      "Hume.HE.40.27",
+      "Hume.HE.41.36",
+      "Hume.HE.42.50",
+      "Hume.HE.43.42",
+      "Hume.HE.56.88"
+    ]
+  },
+  {
+    "lexeme": "54000",
+    "word": "54000",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.20.61"
+    ]
+  },
+  {
+    "lexeme": "540000",
+    "word": "540000",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.8.12"
+    ]
+  },
+  {
+    "lexeme": "541",
+    "word": "541",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.9.73",
+      "Hume.HE.12.45",
+      "Hume.HE.14.15",
+      "Hume.HE.17.30"
+    ]
+  },
+  {
+    "lexeme": "542",
+    "word": "542",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.9.68",
+      "Hume.HE.42.72",
+      "Hume.HE.44.8",
+      "Hume.HE.44.62",
+      "Hume.HE.52.50"
+    ]
+  },
+  {
+    "lexeme": "543",
+    "word": "543",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.9.70",
+      "Hume.HE.13.40",
+      "Hume.HE.19.3",
+      "Hume.HE.30.26",
+      "Hume.HE.44.62",
+      "Hume.HE.55.13",
+      "Hume.HE.61.5"
+    ]
+  },
+  {
+    "lexeme": "544",
+    "word": "544",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.10.33",
+      "Hume.HE.19.4",
+      "Hume.HE.19.11",
+      "Hume.HE.27.43",
+      "Hume.HE.56.91"
+    ]
+  },
+  {
+    "lexeme": "545",
+    "word": "545",
+    "frequency": 11,
+    "paragraphs": [
+      "Hume.HE.4.81",
+      "Hume.HE.4.83",
+      "Hume.HE.4.86",
+      "Hume.HE.9.38",
+      "Hume.HE.9.71",
+      "Hume.HE.13.44",
+      "Hume.HE.19.5",
+      "Hume.HE.27.40",
+      "Hume.HE.39.52",
+      "Hume.HE.42.66",
+      "Hume.HE.52.83"
+    ]
+  },
+  {
+    "lexeme": "546",
+    "word": "546",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.13.46",
+      "Hume.HE.27.40",
+      "Hume.HE.39.54",
+      "Hume.HE.51.11"
+    ]
+  },
+  {
+    "lexeme": "547",
+    "word": "547",
+    "frequency": 12,
+    "paragraphs": [
+      "Hume.HE.1.30",
+      "Hume.HE.3.15",
+      "Hume.HE.8.78",
+      "Hume.HE.9.75",
+      "Hume.HE.10.1",
+      "Hume.HE.12.73",
+      "Hume.HE.30.37",
+      "Hume.HE.33.54",
+      "Hume.HE.40.31",
+      "Hume.HE.43.45",
+      "Hume.HE.56.91",
+      "Hume.HE.59.27"
+    ]
+  },
+  {
+    "lexeme": "548",
+    "word": "548",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.12.73",
+      "Hume.HE.13.42",
+      "Hume.HE.30.6",
+      "Hume.HE.40.37",
+      "Hume.HE.61.5"
+    ]
+  },
+  {
+    "lexeme": "549",
+    "word": "549",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.9.41",
+      "Hume.HE.10.52",
+      "Hume.HE.30.38"
+    ]
+  },
+  {
+    "lexeme": "55",
+    "word": "55",
+    "frequency": 31,
+    "paragraphs": [
+      "Hume.PA.64.1",
+      "Hume.HE.App1.4",
+      "Hume.HE.App1.69",
+      "Hume.HE.App1.70",
+      "Hume.HE.4.78",
+      "Hume.HE.8.93",
+      "Hume.HE.App2.49",
+      "Hume.HE.App2.53",
+      "Hume.HE.12.115",
+      "Hume.HE.13.31",
+      "Hume.HE.13.68",
+      "Hume.HE.13.80",
+      "Hume.HE.14.33",
+      "Hume.HE.14.36",
+      "Hume.HE.34.36",
+      "Hume.HE.34.38",
+      "Hume.HE.34.44",
+      "Hume.HE.37.32",
+      "Hume.HE.39.150",
+      "Hume.HE.39.165",
+      "Hume.HE.40.12",
+      "Hume.HE.45.6",
+      "Hume.HE.48.24",
+      "Hume.HE.48.40",
+      "Hume.HE.48.41",
+      "Hume.HE.48.43",
+      "Hume.HE.55.114",
+      "Hume.HE.58.28",
+      "Hume.IS.3",
+      "Shaftesbury.MR.2.1.3",
+      "Shaftesbury.MR.2.3.5"
+    ]
+  },
+  {
+    "lexeme": "550",
+    "word": "550",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.39.53"
+    ]
+  },
+  {
+    "lexeme": "551",
+    "word": "551",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.23.17",
+      "Hume.HE.30.39",
+      "Hume.HE.39.53"
+    ]
+  },
+  {
+    "lexeme": "552",
+    "word": "552",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.40.29"
+    ]
+  },
+  {
+    "lexeme": "553",
+    "word": "553",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.11.31"
+    ]
+  },
+  {
+    "lexeme": "554",
+    "word": "554",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.16.86",
+      "Hume.HE.16.141",
+      "Hume.HE.19.11",
+      "Hume.HE.20.33",
+      "Hume.HE.22.73",
+      "Hume.HE.30.53"
+    ]
+  },
+  {
+    "lexeme": "555",
+    "word": "555",
+    "frequency": 2,
+    "paragraphs": [
+      "Hume.HE.13.47",
+      "Hume.HE.56.85"
+    ]
+  },
+  {
+    "lexeme": "556",
+    "word": "556",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.8.94",
+      "Hume.HE.10.7",
+      "Hume.HE.11.43",
+      "Hume.HE.13.47",
+      "Hume.HE.18.3",
+      "Hume.HE.32.6",
+      "Hume.HE.51.13",
+      "Hume.HE.59.10"
+    ]
+  },
+  {
+    "lexeme": "557",
+    "word": "557",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.11.69",
+      "Hume.HE.43.46",
+      "Hume.HE.56.92",
+      "Hume.HE.61.42"
+    ]
+  },
+  {
+    "lexeme": "55714",
+    "word": "55714",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.19.42"
+    ]
+  },
+  {
+    "lexeme": "558",
+    "word": "558",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.12.84",
+      "Hume.HE.22.76",
+      "Hume.HE.37.28",
+      "Hume.HE.42.2",
+      "Hume.HE.43.46",
+      "Hume.HE.App3.63"
+    ]
+  },
+  {
+    "lexeme": "559",
+    "word": "559",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.11.99",
+      "Hume.HE.13.32",
+      "Hume.HE.22.91",
+      "Hume.HE.54.69",
+      "Hume.HE.57.2"
+    ]
+  },
+  {
+    "lexeme": "56",
+    "word": "56",
+    "frequency": 24,
+    "paragraphs": [
+      "Hume.PA.35",
+      "Hume.HE.App1.100",
+      "Hume.HE.6.22",
+      "Hume.HE.8.76",
+      "Hume.HE.8.77",
+      "Hume.HE.11.59",
+      "Hume.HE.App2.37",
+      "Hume.HE.13.39",
+      "Hume.HE.13.41",
+      "Hume.HE.13.44",
+      "Hume.HE.13.48",
+      "Hume.HE.14.41",
+      "Hume.HE.15.49",
+      "Hume.HE.16.19",
+      "Hume.HE.16.78",
+      "Hume.HE.16.79",
+      "Hume.HE.37.13",
+      "Hume.HE.37.40",
+      "Hume.HE.39.56",
+      "Hume.HE.48.43",
+      "Hume.HE.53.50",
+      "Hume.HE.59.82",
+      "Shaftesbury.MR.2.3.5",
+      "Shaftesbury.MR.3.1.15"
+    ]
+  },
+  {
+    "lexeme": "560",
+    "word": "560",
+    "frequency": 13,
+    "paragraphs": [
+      "Hume.HE.1.28",
+      "Hume.HE.1.63",
+      "Hume.HE.9.16",
+      "Hume.HE.9.20",
+      "Hume.HE.14.44",
+      "Hume.HE.14.29",
+      "Hume.HE.14.30",
+      "Hume.HE.18.23",
+      "Hume.HE.33.36",
+      "Hume.HE.51.14",
+      "Hume.HE.54.73",
+      "Hume.HE.57.1",
+      "Hume.HE.62.81"
+    ]
+  },
+  {
+    "lexeme": "56000",
+    "word": "56000",
+    "frequency": 2,
+    "paragraphs": [
+      "Hume.HE.20.71",
+      "Hume.HE.50.2"
+    ]
+  },
+  {
+    "lexeme": "561",
+    "word": "561",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.19.13",
+      "Hume.HE.20.34",
+      "Hume.HE.22.93",
+      "Hume.HE.43.2",
+      "Hume.HE.45.27",
+      "Hume.HE.51.15",
+      "Hume.HE.57.36"
+    ]
+  },
+  {
+    "lexeme": "562",
+    "word": "562",
+    "frequency": 11,
+    "paragraphs": [
+      "Hume.HE.9.18",
+      "Hume.HE.12.2",
+      "Hume.HE.20.42",
+      "Hume.HE.22.94",
+      "Hume.HE.22.96",
+      "Hume.HE.22.97",
+      "Hume.HE.31.11",
+      "Hume.HE.37.27",
+      "Hume.HE.43.5",
+      "Hume.HE.57.37",
+      "Hume.HE.57.38"
+    ]
+  },
+  {
+    "lexeme": "563",
+    "word": "563",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.10.58",
+      "Hume.HE.12.12",
+      "Hume.HE.18.42"
+    ]
+  },
+  {
+    "lexeme": "564",
+    "word": "564",
+    "frequency": 10,
+    "paragraphs": [
+      "Hume.HE.15.27",
+      "Hume.HE.16.61",
+      "Hume.HE.17.67",
+      "Hume.HE.20.1",
+      "Hume.HE.20.2",
+      "Hume.HE.21.8",
+      "Hume.HE.23.3",
+      "Hume.HE.23.5",
+      "Hume.HE.App3.42",
+      "Hume.HE.59.2"
+    ]
+  },
+  {
+    "lexeme": "565",
+    "word": "565",
+    "frequency": 12,
+    "paragraphs": [
+      "Hume.HE.15.27",
+      "Hume.HE.20.36",
+      "Hume.HE.23.3",
+      "Hume.HE.23.5",
+      "Hume.HE.23.7",
+      "Hume.HE.24.4",
+      "Hume.HE.40.4",
+      "Hume.HE.43.7",
+      "Hume.HE.55.16",
+      "Hume.HE.55.114",
+      "Hume.HE.57.39",
+      "Hume.HE.59.4"
+    ]
+  },
+  {
+    "lexeme": "566",
+    "word": "566",
+    "frequency": 11,
+    "paragraphs": [
+      "Hume.HE.12.52",
+      "Hume.HE.12.107",
+      "Hume.HE.15.27",
+      "Hume.HE.23.9",
+      "Hume.HE.23.12",
+      "Hume.HE.24.10",
+      "Hume.HE.30.69",
+      "Hume.HE.42.12",
+      "Hume.HE.44.17",
+      "Hume.HE.57.3",
+      "Hume.HE.57.6"
+    ]
+  },
+  {
+    "lexeme": "567",
+    "word": "567",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.23.14",
+      "Hume.HE.24.5",
+      "Hume.HE.54.98",
+      "Hume.HE.59.29"
+    ]
+  },
+  {
+    "lexeme": "567james",
+    "word": "567james",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.42.12"
+    ]
+  },
+  {
+    "lexeme": "568",
+    "word": "568",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.12.84",
+      "Hume.HE.12.85",
+      "Hume.HE.20.39",
+      "Hume.HE.23.19",
+      "Hume.HE.23.20",
+      "Hume.HE.28.12",
+      "Hume.HE.54.98"
+    ]
+  },
+  {
+    "lexeme": "569",
+    "word": "569",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.24.12",
+      "Hume.HE.24.14",
+      "Hume.HE.38.58",
+      "Hume.HE.43.10",
+      "Hume.HE.54.98",
+      "Hume.HE.57.7"
+    ]
+  },
+  {
+    "lexeme": "56th",
+    "word": "56th",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.12.87"
+    ]
+  },
+  {
+    "lexeme": "57",
+    "word": "57",
+    "frequency": 23,
+    "paragraphs": [
+      "Hume.HE.4.98",
+      "Hume.HE.6.1",
+      "Hume.HE.6.13",
+      "Hume.HE.8.66",
+      "Hume.HE.12.121",
+      "Hume.HE.13.48",
+      "Hume.HE.14.44",
+      "Hume.HE.15.52",
+      "Hume.HE.16.92",
+      "Hume.HE.16.99",
+      "Hume.HE.27.32",
+      "Hume.HE.37.11",
+      "Hume.HE.39.62",
+      "Hume.HE.39.164",
+      "Hume.HE.42.51",
+      "Hume.HE.49.1",
+      "Hume.HE.49.25",
+      "Hume.HE.53.22",
+      "Hume.HE.54.46",
+      "Hume.HE.55.115",
+      "Hume.HE.59.36",
+      "Hume.HE.61.41",
+      "Shaftesbury.MR.2.2.11"
+    ]
+  },
+  {
+    "lexeme": "57\n[it",
+    "word": "57\n[it",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.MR.2.3.31"
+    ]
+  },
+  {
+    "lexeme": "57-58]",
+    "word": "57-58]",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.THN.App.22"
+    ]
+  },
+  {
+    "lexeme": "570",
+    "word": "570",
+    "frequency": 13,
+    "paragraphs": [
+      "Hume.HE.9.26",
+      "Hume.HE.24.14",
+      "Hume.HE.24.15",
+      "Hume.HE.31.12",
+      "Hume.HE.43.44",
+      "Hume.HE.App3.8",
+      "Hume.HE.54.20",
+      "Hume.HE.54.98",
+      "Hume.HE.57.7",
+      "Hume.HE.59.30",
+      "Hume.HE.61.30",
+      "Hume.HE.61.40",
+      "Hume.NHR.4.22"
+    ]
+  },
+  {
+    "lexeme": "571",
+    "word": "571",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.12.87",
+      "Hume.HE.20.40",
+      "Hume.HE.24.16",
+      "Hume.HE.40.94"
+    ]
+  },
+  {
+    "lexeme": "572",
+    "word": "572",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.24.17",
+      "Hume.HE.59.31",
+      "Hume.HE.59.35"
+    ]
+  },
+  {
+    "lexeme": "573",
+    "word": "573",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.4.50",
+      "Hume.HE.13.50",
+      "Hume.HE.20.44",
+      "Hume.HE.24.17",
+      "Hume.HE.42.12",
+      "Hume.HE.43.44"
+    ]
+  },
+  {
+    "lexeme": "574",
+    "word": "574",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.12.56",
+      "Hume.HE.16.79",
+      "Hume.HE.24.18",
+      "Hume.HE.31.52",
+      "Hume.HE.39.162",
+      "Hume.HE.57.3",
+      "Hume.HE.59.35"
+    ]
+  },
+  {
+    "lexeme": "575",
+    "word": "575",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.1.29",
+      "Hume.HE.25.1",
+      "Hume.HE.31.57",
+      "Hume.HE.31.58",
+      "Hume.HE.57.3"
+    ]
+  },
+  {
+    "lexeme": "576",
+    "word": "576",
+    "frequency": 2,
+    "paragraphs": [
+      "Hume.HE.12.170",
+      "Hume.HE.43.43"
+    ]
+  },
+  {
+    "lexeme": "577",
+    "word": "577",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.13.45",
+      "Hume.HE.19.47",
+      "Hume.HE.33.54",
+      "Hume.HE.43.26",
+      "Hume.HE.43.43"
+    ]
+  },
+  {
+    "lexeme": "578",
+    "word": "578",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.9.35",
+      "Hume.HE.12.58",
+      "Hume.HE.12.83",
+      "Hume.HE.13.45",
+      "Hume.HE.20.46",
+      "Hume.HE.33.35",
+      "Hume.HE.43.28"
+    ]
+  },
+  {
+    "lexeme": "579",
+    "word": "579",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.12.86",
+      "Hume.HE.13.45",
+      "Hume.HE.24.2",
+      "Hume.HE.24.3",
+      "Hume.HE.24.4",
+      "Hume.HE.25.5",
+      "Hume.HE.32.18"
+    ]
+  },
+  {
+    "lexeme": "58",
+    "word": "58",
+    "frequency": 18,
+    "paragraphs": [
+      "Hume.EPM.D.92.1",
+      "Hume.HE.6.62",
+      "Hume.HE.9.20",
+      "Hume.HE.12.124",
+      "Hume.HE.12.125",
+      "Hume.HE.13.43",
+      "Hume.HE.13.56",
+      "Hume.HE.13.57",
+      "Hume.HE.16.92",
+      "Hume.HE.19.27",
+      "Hume.HE.30.22",
+      "Hume.HE.33.36",
+      "Hume.HE.36.50",
+      "Hume.HE.37.5",
+      "Hume.HE.48.31",
+      "Hume.HE.50.43",
+      "Hume.HE.53.22",
+      "Hume.HE.55.117"
+    ]
+  },
+  {
+    "lexeme": "58]",
+    "word": "58]",
+    "frequency": 1,
+    "paragraphs": [
+      "Shaftesbury.MR.3.1.15"
+    ]
+  },
+  {
+    "lexeme": "580",
+    "word": "580",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.10.10",
+      "Hume.HE.12.87",
+      "Hume.HE.12.113",
+      "Hume.HE.12.124",
+      "Hume.HE.43.42",
+      "Hume.HE.55.113"
+    ]
+  },
+  {
+    "lexeme": "58000",
+    "word": "58000",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.20.45"
+    ]
+  },
+  {
+    "lexeme": "581",
+    "word": "581",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.22.23",
+      "Hume.HE.24.6",
+      "Hume.HE.24.8",
+      "Hume.HE.24.9"
+    ]
+  },
+  {
+    "lexeme": "582",
+    "word": "582",
+    "frequency": 2,
+    "paragraphs": [
+      "Hume.HE.24.11",
+      "Hume.HE.43.27"
+    ]
+  },
+  {
+    "lexeme": "583",
+    "word": "583",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.9.37",
+      "Hume.HE.12.128",
+      "Hume.HE.12.129",
+      "Hume.HE.24.13",
+      "Hume.HE.24.16",
+      "Hume.HE.69.3"
+    ]
+  },
+  {
+    "lexeme": "584",
+    "word": "584",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.9.38",
+      "Hume.HE.12.132",
+      "Hume.HE.12.133",
+      "Hume.HE.19.31",
+      "Hume.HE.33.5",
+      "Hume.HE.43.30"
+    ]
+  },
+  {
+    "lexeme": "585",
+    "word": "585",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.HE.1.29",
+      "Hume.HE.9.46",
+      "Hume.HE.12.151",
+      "Hume.HE.21.46",
+      "Hume.HE.39.2",
+      "Hume.HE.43.42",
+      "Hume.HE.45.53",
+      "Hume.HE.51.19"
+    ]
+  },
+  {
+    "lexeme": "586",
+    "word": "586",
+    "frequency": 6,
+    "paragraphs": [
+      "Hume.HE.12.169",
+      "Hume.HE.20.7",
+      "Hume.HE.24.18",
+      "Hume.HE.25.10",
+      "Hume.HE.43.29",
+      "Hume.HE.App3.2"
+    ]
+  },
+  {
+    "lexeme": "586000",
+    "word": "586000",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.66.38"
+    ]
+  },
+  {
+    "lexeme": "587",
+    "word": "587",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.12.71",
+      "Hume.HE.20.52",
+      "Hume.HE.39.192"
+    ]
+  },
+  {
+    "lexeme": "588",
+    "word": "588",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.12.153",
+      "Hume.HE.20.9",
+      "Hume.HE.33.21",
+      "Hume.HE.33.22",
+      "Hume.HE.App3.2",
+      "Hume.HE.56.58",
+      "Hume.HE.61.12"
+    ]
+  },
+  {
+    "lexeme": "589",
+    "word": "589",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.12.156",
+      "Hume.HE.25.2",
+      "Hume.HE.25.12",
+      "Hume.HE.61.30"
+    ]
+  },
+  {
+    "lexeme": "59",
+    "word": "59",
+    "frequency": 20,
+    "paragraphs": [
+      "Norris.LLG.Pref.Post.1",
+      "Hume.HE.11.62",
+      "Hume.HE.12.120",
+      "Hume.HE.13.95",
+      "Hume.HE.16.69",
+      "Hume.HE.30.20",
+      "Hume.HE.30.43",
+      "Hume.HE.34.36",
+      "Hume.HE.37.41",
+      "Hume.HE.38.28",
+      "Hume.HE.39.64",
+      "Hume.HE.39.113",
+      "Hume.HE.48.31",
+      "Hume.HE.55.118",
+      "Hume.HE.56.11",
+      "Hume.HE.56.19",
+      "Hume.HE.56.22",
+      "Norris.LLG.Pref.Post.1",
+      "Shaftesbury.LE.2.9",
+      "Shaftesbury.M.3.1.1"
+    ]
+  },
+  {
+    "lexeme": "590",
+    "word": "590",
+    "frequency": 10,
+    "paragraphs": [
+      "Hume.HE.9.45",
+      "Hume.HE.13.51",
+      "Hume.HE.13.52",
+      "Hume.HE.15.29",
+      "Hume.HE.20.13",
+      "Hume.HE.20.49",
+      "Hume.HE.51.17",
+      "Hume.HE.55.48",
+      "Hume.HE.57.4",
+      "Hume.HE.59.38"
+    ]
+  },
+  {
+    "lexeme": "591",
+    "word": "591",
+    "frequency": 4,
+    "paragraphs": [
+      "Hume.HE.1.63",
+      "Hume.HE.13.51",
+      "Hume.HE.43.32",
+      "Hume.HE.61.8"
+    ]
+  },
+  {
+    "lexeme": "592",
+    "word": "592",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.9.50",
+      "Hume.HE.25.14",
+      "Hume.HE.59.32"
+    ]
+  },
+  {
+    "lexeme": "593",
+    "word": "593",
+    "frequency": 15,
+    "paragraphs": [
+      "Hume.HE.1.63",
+      "Hume.HE.1.63",
+      "Hume.HE.13.51",
+      "Hume.HE.14.3",
+      "Hume.HE.14.4",
+      "Hume.HE.14.11",
+      "Hume.HE.14.21",
+      "Hume.HE.14.23",
+      "Hume.HE.20.14",
+      "Hume.HE.21.48",
+      "Hume.HE.21.52",
+      "Hume.HE.25.15",
+      "Hume.HE.38.61",
+      "Hume.HE.43.36",
+      "Hume.HE.59.34"
+    ]
+  },
+  {
+    "lexeme": "594",
+    "word": "594",
+    "frequency": 9,
+    "paragraphs": [
+      "Hume.HE.14.26",
+      "Hume.HE.14.32",
+      "Hume.HE.14.87",
+      "Hume.HE.20.14",
+      "Hume.HE.34.7",
+      "Hume.HE.App4.6",
+      "Hume.HE.51.19",
+      "Hume.HE.59.33",
+      "Hume.HE.59.34"
+    ]
+  },
+  {
+    "lexeme": "595",
+    "word": "595",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.14.33",
+      "Hume.HE.14.41",
+      "Hume.HE.14.43",
+      "Hume.HE.25.6",
+      "Hume.HE.25.16",
+      "Hume.HE.34.46",
+      "Hume.HE.40.30"
+    ]
+  },
+  {
+    "lexeme": "596",
+    "word": "596",
+    "frequency": 3,
+    "paragraphs": [
+      "Hume.HE.14.48",
+      "Hume.HE.14.53",
+      "Hume.HE.26.1"
+    ]
+  },
+  {
+    "lexeme": "597",
+    "word": "597",
+    "frequency": 13,
+    "paragraphs": [
+      "Hume.HE.1.40",
+      "Hume.HE.9.81",
+      "Hume.HE.12.74",
+      "Hume.HE.12.88",
+      "Hume.HE.20.16",
+      "Hume.HE.20.53",
+      "Hume.HE.20.55",
+      "Hume.HE.26.1",
+      "Hume.HE.35.5",
+      "Hume.HE.35.8",
+      "Hume.HE.35.12",
+      "Hume.HE.35.18",
+      "Hume.HE.40.36"
+    ]
+  },
+  {
+    "lexeme": "598",
+    "word": "598",
+    "frequency": 7,
+    "paragraphs": [
+      "Hume.HE.12.74",
+      "Hume.HE.14.54",
+      "Hume.HE.14.56",
+      "Hume.HE.14.57",
+      "Hume.HE.26.2",
+      "Hume.HE.35.18",
+      "Hume.HE.59.26"
+    ]
+  },
+  {
+    "lexeme": "599",
+    "word": "599",
+    "frequency": 5,
+    "paragraphs": [
+      "Hume.HE.12.70",
+      "Hume.HE.14.60",
+      "Hume.HE.14.63",
+      "Hume.HE.20.19",
+      "Hume.HE.62.13"
+    ]
+  },
+  {
+    "lexeme": "5oooo",
+    "word": "5oooo",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.13.9"
+    ]
+  },
+  {
+    "lexeme": "5ooooo",
+    "word": "5ooooo",
+    "frequency": 1,
+    "paragraphs": [
+      "Hume.HE.49.38"
+    ]
+  },
+  {
+    "lexeme": "5th",
+    "word": "5th",
+    "frequency": 8,
+    "paragraphs": [
+      "Hume.EPM.2.9",
+      "Hume.HE.13.98",
+      "Hume.HE.45.34",
+      "Hume.HE.46.22",
+      "Hume.HE.46.37",
+      "Hume.HE.46.44",
+      "Hume.HE.64.5",
+      "Hume.HE.71.7"
+    ]
+  }
+]

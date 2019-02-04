@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible", content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="keywords" content="english, philosophy, texts, hobbes, locke, hume, mill, shaftesbury">
+    <meta name="description" content="High-quality digital editions of a broad canon of English philosophical texts from Hobbes to Mill.">
+    <link rel="shortcut icon" href="/images/favicon.ico"></link>
+    <link rel="stylesheet" href="/stylesheets/epto.css"></link>
+    <title>English Philosophical Texts Online</title>
+    {% block javascripts %}{% endblock %}
+  </head>
+  <body>
+    <header class="header">
+      <div class="title">
+        <h1>English Philosophical</h1>
+        <h1>Texts Online</h1>
+      </div>
+      <div class="logos">
+        <img src="/images/oxford-logo.png" alt="University of Oxford Logo">
+        <img src="/images/philosophy-logo.png" alt="Faculty of Philosophy Logo">
+      </div>
+    </header>
+    <nav class="tabs">
+      <a href="/" class="{% if area == 'home' %}active{% endif %}">Home</a>
+      <a href="/browse" class="{% if area == 'browse' %}active{% endif %}">Browse</a>
+      {# <a href="/dictionary" class="{% if area == 'dictionary' %}active{% endif %}">Dictionary</a> #}
+      <a href="/compare" class="{% if area == 'compare' %}active{% endif %}">Compare</a>
+      <a href="/search" class="{% if area == 'search' %}active{% endif %}">Search</a>
+    </nav>
+    {% block tabs %}{% endblock %}
+    <main class="main">
+      {% block content %}{% endblock %}
+    </main>
+  </body>
+</html>

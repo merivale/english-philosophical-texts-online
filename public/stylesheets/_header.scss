@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .title {
+    h1 {
+      font-family: $old;
+      font-size: 1.75em;
+      text-align: center;
+      width: 19rem;
+      margin: 0;
+    }
+  }
+  .logos {
+    margin-bottom: -1.75em;
+    img {
+      display: inline-block;
+      margin-left: .5em;
+    }
+  }
+}

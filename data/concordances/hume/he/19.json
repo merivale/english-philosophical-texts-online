@@ -1,0 +1,10538 @@
+{
+  "id": "Hume.HE.19",
+  "total": 11779,
+  "words": [
+    {
+      "word": "the",
+      "count": 1000
+    },
+    {
+      "word": "of",
+      "count": 701
+    },
+    {
+      "word": "and",
+      "count": 432
+    },
+    {
+      "word": "to",
+      "count": 404
+    },
+    {
+      "word": "his",
+      "count": 239
+    },
+    {
+      "word": "in",
+      "count": 202
+    },
+    {
+      "word": "was",
+      "count": 196
+    },
+    {
+      "word": "a",
+      "count": 153
+    },
+    {
+      "word": "he",
+      "count": 153
+    },
+    {
+      "word": "that",
+      "count": 136
+    },
+    {
+      "word": "by",
+      "count": 135
+    },
+    {
+      "word": "which",
+      "count": 123
+    },
+    {
+      "word": "had",
+      "count": 104
+    },
+    {
+      "word": "were",
+      "count": 84
+    },
+    {
+      "word": "with",
+      "count": 77
+    },
+    {
+      "word": "their",
+      "count": 72
+    },
+    {
+      "word": "all",
+      "count": 68
+    },
+    {
+      "word": "this",
+      "count": 68
+    },
+    {
+      "word": "but",
+      "count": 65
+    },
+    {
+      "word": "for",
+      "count": 62
+    },
+    {
+      "word": "him",
+      "count": 61
+    },
+    {
+      "word": "as",
+      "count": 58
+    },
+    {
+      "word": "from",
+      "count": 58
+    },
+    {
+      "word": "on",
+      "count": 56
+    },
+    {
+      "word": "henry",
+      "count": 54
+    },
+    {
+      "word": "duke",
+      "count": 53
+    },
+    {
+      "word": "it",
+      "count": 50
+    },
+    {
+      "word": "p",
+      "count": 50
+    },
+    {
+      "word": "who",
+      "count": 49
+    },
+    {
+      "word": "at",
+      "count": 47
+    },
+    {
+      "word": "king",
+      "count": 47
+    },
+    {
+      "word": "them",
+      "count": 44
+    },
+    {
+      "word": "they",
+      "count": 44
+    },
+    {
+      "word": "france",
+      "count": 38
+    },
+    {
+      "word": "chap",
+      "count": 35
+    },
+    {
+      "word": "an",
+      "count": 34
+    },
+    {
+      "word": "so",
+      "count": 34
+    },
+    {
+      "word": "more",
+      "count": 33
+    },
+    {
+      "word": "not",
+      "count": 33
+    },
+    {
+      "word": "be",
+      "count": 32
+    },
+    {
+      "word": "english",
+      "count": 32
+    },
+    {
+      "word": "burgundy",
+      "count": 31
+    },
+    {
+      "word": "into",
+      "count": 31
+    },
+    {
+      "word": "no",
+      "count": 31
+    },
+    {
+      "word": "these",
+      "count": 29
+    },
+    {
+      "word": "england",
+      "count": 28
+    },
+    {
+      "word": "made",
+      "count": 28
+    },
+    {
+      "word": "himself",
+      "count": 27
+    },
+    {
+      "word": "prince",
+      "count": 27
+    },
+    {
+      "word": "any",
+      "count": 26
+    },
+    {
+      "word": "been",
+      "count": 26
+    },
+    {
+      "word": "great",
+      "count": 26
+    },
+    {
+      "word": "or",
+      "count": 26
+    },
+    {
+      "word": "could",
+      "count": 25
+    },
+    {
+      "word": "french",
+      "count": 25
+    },
+    {
+      "word": "against",
+      "count": 24
+    },
+    {
+      "word": "other",
+      "count": 24
+    },
+    {
+      "word": "every",
+      "count": 23
+    },
+    {
+      "word": "men",
+      "count": 23
+    },
+    {
+      "word": "same",
+      "count": 23
+    },
+    {
+      "word": "enemy",
+      "count": 22
+    },
+    {
+      "word": "have",
+      "count": 22
+    },
+    {
+      "word": "dauphin",
+      "count": 21
+    },
+    {
+      "word": "after",
+      "count": 20
+    },
+    {
+      "word": "army",
+      "count": 20
+    },
+    {
+      "word": "those",
+      "count": 20
+    },
+    {
+      "word": "is",
+      "count": 19
+    },
+    {
+      "word": "kingdom",
+      "count": 19
+    },
+    {
+      "word": "princes",
+      "count": 19
+    },
+    {
+      "word": "than",
+      "count": 19
+    },
+    {
+      "word": "two",
+      "count": 19
+    },
+    {
+      "word": "place",
+      "count": 18
+    },
+    {
+      "word": "upon",
+      "count": 18
+    },
+    {
+      "word": "arms",
+      "count": 17
+    },
+    {
+      "word": "paris",
+      "count": 17
+    },
+    {
+      "word": "present",
+      "count": 17
+    },
+    {
+      "word": "some",
+      "count": 17
+    },
+    {
+      "word": "st",
+      "count": 17
+    },
+    {
+      "word": "when",
+      "count": 17
+    },
+    {
+      "word": "earl",
+      "count": 16
+    },
+    {
+      "word": "still",
+      "count": 16
+    },
+    {
+      "word": "before",
+      "count": 15
+    },
+    {
+      "word": "each",
+      "count": 15
+    },
+    {
+      "word": "vol",
+      "count": 15
+    },
+    {
+      "word": "authority",
+      "count": 14
+    },
+    {
+      "word": "between",
+      "count": 14
+    },
+    {
+      "word": "crown",
+      "count": 14
+    },
+    {
+      "word": "during",
+      "count": 14
+    },
+    {
+      "word": "even",
+      "count": 14
+    },
+    {
+      "word": "government",
+      "count": 14
+    },
+    {
+      "word": "if",
+      "count": 14
+    },
+    {
+      "word": "make",
+      "count": 14
+    },
+    {
+      "word": "remi",
+      "count": 14
+    },
+    {
+      "word": "rymer",
+      "count": 14
+    },
+    {
+      "word": "should",
+      "count": 14
+    },
+    {
+      "word": "such",
+      "count": 14
+    },
+    {
+      "word": "there",
+      "count": 14
+    },
+    {
+      "word": "though",
+      "count": 14
+    },
+    {
+      "word": "without",
+      "count": 14
+    },
+    {
+      "word": "would",
+      "count": 14
+    },
+    {
+      "word": "both",
+      "count": 13
+    },
+    {
+      "word": "many",
+      "count": 13
+    },
+    {
+      "word": "monstrelet",
+      "count": 13
+    },
+    {
+      "word": "most",
+      "count": 13
+    },
+    {
+      "word": "one",
+      "count": 13
+    },
+    {
+      "word": "peace",
+      "count": 13
+    },
+    {
+      "word": "under",
+      "count": 13
+    },
+    {
+      "word": "only",
+      "count": 12
+    },
+    {
+      "word": "order",
+      "count": 12
+    },
+    {
+      "word": "party",
+      "count": 12
+    },
+    {
+      "word": "son",
+      "count": 12
+    },
+    {
+      "word": "themselves",
+      "count": 12
+    },
+    {
+      "word": "time",
+      "count": 12
+    },
+    {
+      "word": "charles",
+      "count": 11
+    },
+    {
+      "word": "defence",
+      "count": 11
+    },
+    {
+      "word": "gave",
+      "count": 11
+    },
+    {
+      "word": "general",
+      "count": 11
+    },
+    {
+      "word": "having",
+      "count": 11
+    },
+    {
+      "word": "her",
+      "count": 11
+    },
+    {
+      "word": "obliged",
+      "count": 11
+    },
+    {
+      "word": "over",
+      "count": 11
+    },
+    {
+      "word": "parliament",
+      "count": 11
+    },
+    {
+      "word": "parties",
+      "count": 11
+    },
+    {
+      "word": "reign",
+      "count": 11
+    },
+    {
+      "word": "success",
+      "count": 11
+    },
+    {
+      "word": "treaty",
+      "count": 11
+    },
+    {
+      "word": "war",
+      "count": 11
+    },
+    {
+      "word": "carried",
+      "count": 10
+    },
+    {
+      "word": "character",
+      "count": 10
+    },
+    {
+      "word": "death",
+      "count": 10
+    },
+    {
+      "word": "either",
+      "count": 10
+    },
+    {
+      "word": "henry's",
+      "count": 10
+    },
+    {
+      "word": "ix",
+      "count": 10
+    },
+    {
+      "word": "never",
+      "count": 10
+    },
+    {
+      "word": "person",
+      "count": 10
+    },
+    {
+      "word": "prisoners",
+      "count": 10
+    },
+    {
+      "word": "received",
+      "count": 10
+    },
+    {
+      "word": "very",
+      "count": 10
+    },
+    {
+      "word": "where",
+      "count": 10
+    },
+    {
+      "word": "also",
+      "count": 9
+    },
+    {
+      "word": "among",
+      "count": 9
+    },
+    {
+      "word": "appearance",
+      "count": 9
+    },
+    {
+      "word": "appeared",
+      "count": 9
+    },
+    {
+      "word": "considerable",
+      "count": 9
+    },
+    {
+      "word": "family",
+      "count": 9
+    },
+    {
+      "word": "father",
+      "count": 9
+    },
+    {
+      "word": "first",
+      "count": 9
+    },
+    {
+      "word": "former",
+      "count": 9
+    },
+    {
+      "word": "found",
+      "count": 9
+    },
+    {
+      "word": "immediately",
+      "count": 9
+    },
+    {
+      "word": "its",
+      "count": 9
+    },
+    {
+      "word": "justice",
+      "count": 9
+    },
+    {
+      "word": "might",
+      "count": 9
+    },
+    {
+      "word": "much",
+      "count": 9
+    },
+    {
+      "word": "nation",
+      "count": 9
+    },
+    {
+      "word": "own",
+      "count": 9
+    },
+    {
+      "word": "possession",
+      "count": 9
+    },
+    {
+      "word": "pounds",
+      "count": 9
+    },
+    {
+      "word": "situation",
+      "count": 9
+    },
+    {
+      "word": "three",
+      "count": 9
+    },
+    {
+      "word": "whole",
+      "count": 9
+    },
+    {
+      "word": "young",
+      "count": 9
+    },
+    {
+      "word": "able",
+      "count": 8
+    },
+    {
+      "word": "advantage",
+      "count": 8
+    },
+    {
+      "word": "advantages",
+      "count": 8
+    },
+    {
+      "word": "are",
+      "count": 8
+    },
+    {
+      "word": "being",
+      "count": 8
+    },
+    {
+      "word": "civil",
+      "count": 8
+    },
+    {
+      "word": "cobham",
+      "count": 8
+    },
+    {
+      "word": "conduct",
+      "count": 8
+    },
+    {
+      "word": "count",
+      "count": 8
+    },
+    {
+      "word": "country",
+      "count": 8
+    },
+    {
+      "word": "court",
+      "count": 8
+    },
+    {
+      "word": "fol",
+      "count": 8
+    },
+    {
+      "word": "hall",
+      "count": 8
+    },
+    {
+      "word": "late",
+      "count": 8
+    },
+    {
+      "word": "long",
+      "count": 8
+    },
+    {
+      "word": "ministers",
+      "count": 8
+    },
+    {
+      "word": "money",
+      "count": 8
+    },
+    {
+      "word": "normandy",
+      "count": 8
+    },
+    {
+      "word": "nothing",
+      "count": 8
+    },
+    {
+      "word": "now",
+      "count": 8
+    },
+    {
+      "word": "people",
+      "count": 8
+    },
+    {
+      "word": "proved",
+      "count": 8
+    },
+    {
+      "word": "soon",
+      "count": 8
+    },
+    {
+      "word": "till",
+      "count": 8
+    },
+    {
+      "word": "title",
+      "count": 8
+    },
+    {
+      "word": "walsingham",
+      "count": 8
+    },
+    {
+      "word": "afterwards",
+      "count": 7
+    },
+    {
+      "word": "agreed",
+      "count": 7
+    },
+    {
+      "word": "ambition",
+      "count": 7
+    },
+    {
+      "word": "battle",
+      "count": 7
+    },
+    {
+      "word": "city",
+      "count": 7
+    },
+    {
+      "word": "determined",
+      "count": 7
+    },
+    {
+      "word": "enemies",
+      "count": 7
+    },
+    {
+      "word": "entirely",
+      "count": 7
+    },
+    {
+      "word": "exposed",
+      "count": 7
+    },
+    {
+      "word": "farther",
+      "count": 7
+    },
+    {
+      "word": "full",
+      "count": 7
+    },
+    {
+      "word": "ibid",
+      "count": 7
+    },
+    {
+      "word": "laws",
+      "count": 7
+    },
+    {
+      "word": "less",
+      "count": 7
+    },
+    {
+      "word": "life",
+      "count": 7
+    },
+    {
+      "word": "livii",
+      "count": 7
+    },
+    {
+      "word": "means",
+      "count": 7
+    },
+    {
+      "word": "must",
+      "count": 7
+    },
+    {
+      "word": "mutual",
+      "count": 7
+    },
+    {
+      "word": "number",
+      "count": 7
+    },
+    {
+      "word": "open",
+      "count": 7
+    },
+    {
+      "word": "orleans",
+      "count": 7
+    },
+    {
+      "word": "put",
+      "count": 7
+    },
+    {
+      "word": "queen",
+      "count": 7
+    },
+    {
+      "word": "revenue",
+      "count": 7
+    },
+    {
+      "word": "saw",
+      "count": 7
+    },
+    {
+      "word": "seemed",
+      "count": 7
+    },
+    {
+      "word": "seize",
+      "count": 7
+    },
+    {
+      "word": "she",
+      "count": 7
+    },
+    {
+      "word": "shillings",
+      "count": 7
+    },
+    {
+      "word": "spirit",
+      "count": 7
+    },
+    {
+      "word": "t",
+      "count": 7
+    },
+    {
+      "word": "taken",
+      "count": 7
+    },
+    {
+      "word": "therefore",
+      "count": 7
+    },
+    {
+      "word": "whose",
+      "count": 7
+    },
+    {
+      "word": "years",
+      "count": 7
+    },
+    {
+      "word": "35",
+      "count": 6
+    },
+    {
+      "word": "about",
+      "count": 6
+    },
+    {
+      "word": "above",
+      "count": 6
+    },
+    {
+      "word": "advanced",
+      "count": 6
+    },
+    {
+      "word": "affairs",
+      "count": 6
+    },
+    {
+      "word": "attended",
+      "count": 6
+    },
+    {
+      "word": "azincour",
+      "count": 6
+    },
+    {
+      "word": "body",
+      "count": 6
+    },
+    {
+      "word": "catharine",
+      "count": 6
+    },
+    {
+      "word": "constable",
+      "count": 6
+    },
+    {
+      "word": "course",
+      "count": 6
+    },
+    {
+      "word": "declared",
+      "count": 6
+    },
+    {
+      "word": "divided",
+      "count": 6
+    },
+    {
+      "word": "dukes",
+      "count": 6
+    },
+    {
+      "word": "ecclesiastical",
+      "count": 6
+    },
+    {
+      "word": "edward",
+      "count": 6
+    },
+    {
+      "word": "enterprize",
+      "count": 6
+    },
+    {
+      "word": "execution",
+      "count": 6
+    },
+    {
+      "word": "faction",
+      "count": 6
+    },
+    {
+      "word": "favour",
+      "count": 6
+    },
+    {
+      "word": "fell",
+      "count": 6
+    },
+    {
+      "word": "give",
+      "count": 6
+    },
+    {
+      "word": "head",
+      "count": 6
+    },
+    {
+      "word": "heir",
+      "count": 6
+    },
+    {
+      "word": "holingshed",
+      "count": 6
+    },
+    {
+      "word": "itself",
+      "count": 6
+    },
+    {
+      "word": "john",
+      "count": 6
+    },
+    {
+      "word": "king's",
+      "count": 6
+    },
+    {
+      "word": "last",
+      "count": 6
+    },
+    {
+      "word": "liv",
+      "count": 6
+    },
+    {
+      "word": "march",
+      "count": 6
+    },
+    {
+      "word": "master",
+      "count": 6
+    },
+    {
+      "word": "moment",
+      "count": 6
+    },
+    {
+      "word": "nature",
+      "count": 6
+    },
+    {
+      "word": "new",
+      "count": 6
+    },
+    {
+      "word": "nobility",
+      "count": 6
+    },
+    {
+      "word": "obstinate",
+      "count": 6
+    },
+    {
+      "word": "pretended",
+      "count": 6
+    },
+    {
+      "word": "princess",
+      "count": 6
+    },
+    {
+      "word": "reason",
+      "count": 6
+    },
+    {
+      "word": "remained",
+      "count": 6
+    },
+    {
+      "word": "richard",
+      "count": 6
+    },
+    {
+      "word": "royal",
+      "count": 6
+    },
+    {
+      "word": "seized",
+      "count": 6
+    },
+    {
+      "word": "sentence",
+      "count": 6
+    },
+    {
+      "word": "several",
+      "count": 6
+    },
+    {
+      "word": "siege",
+      "count": 6
+    },
+    {
+      "word": "state",
+      "count": 6
+    },
+    {
+      "word": "supplies",
+      "count": 6
+    },
+    {
+      "word": "thing",
+      "count": 6
+    },
+    {
+      "word": "thought",
+      "count": 6
+    },
+    {
+      "word": "thousand",
+      "count": 6
+    },
+    {
+      "word": "troye",
+      "count": 6
+    },
+    {
+      "word": "valour",
+      "count": 6
+    },
+    {
+      "word": "violent",
+      "count": 6
+    },
+    {
+      "word": "we",
+      "count": 6
+    },
+    {
+      "word": "administration",
+      "count": 5
+    },
+    {
+      "word": "alliance",
+      "count": 5
+    },
+    {
+      "word": "animosity",
+      "count": 5
+    },
+    {
+      "word": "archers",
+      "count": 5
+    },
+    {
+      "word": "armagnac",
+      "count": 5
+    },
+    {
+      "word": "armies",
+      "count": 5
+    },
+    {
+      "word": "attachment",
+      "count": 5
+    },
+    {
+      "word": "blood",
+      "count": 5
+    },
+    {
+      "word": "brother",
+      "count": 5
+    },
+    {
+      "word": "calais",
+      "count": 5
+    },
+    {
+      "word": "came",
+      "count": 5
+    },
+    {
+      "word": "chief",
+      "count": 5
+    },
+    {
+      "word": "circumstances",
+      "count": 5
+    },
+    {
+      "word": "common",
+      "count": 5
+    },
+    {
+      "word": "conspiracy",
+      "count": 5
+    },
+    {
+      "word": "criminal",
+      "count": 5
+    },
+    {
+      "word": "dangerous",
+      "count": 5
+    },
+    {
+      "word": "day",
+      "count": 5
+    },
+    {
+      "word": "de",
+      "count": 5
+    },
+    {
+      "word": "distinguished",
+      "count": 5
+    },
+    {
+      "word": "enter",
+      "count": 5
+    },
+    {
+      "word": "ever",
+      "count": 5
+    },
+    {
+      "word": "expence",
+      "count": 5
+    },
+    {
+      "word": "far",
+      "count": 5
+    },
+    {
+      "word": "favourable",
+      "count": 5
+    },
+    {
+      "word": "field",
+      "count": 5
+    },
+    {
+      "word": "followed",
+      "count": 5
+    },
+    {
+      "word": "foreign",
+      "count": 5
+    },
+    {
+      "word": "friends",
+      "count": 5
+    },
+    {
+      "word": "friendship",
+      "count": 5
+    },
+    {
+      "word": "garrison",
+      "count": 5
+    },
+    {
+      "word": "gates",
+      "count": 5
+    },
+    {
+      "word": "given",
+      "count": 5
+    },
+    {
+      "word": "guarded",
+      "count": 5
+    },
+    {
+      "word": "honour",
+      "count": 5
+    },
+    {
+      "word": "left",
+      "count": 5
+    },
+    {
+      "word": "lord",
+      "count": 5
+    },
+    {
+      "word": "near",
+      "count": 5
+    },
+    {
+      "word": "necessity",
+      "count": 5
+    },
+    {
+      "word": "nobleman",
+      "count": 5
+    },
+    {
+      "word": "nor",
+      "count": 5
+    },
+    {
+      "word": "nowise",
+      "count": 5
+    },
+    {
+      "word": "opposite",
+      "count": 5
+    },
+    {
+      "word": "ordered",
+      "count": 5
+    },
+    {
+      "word": "out",
+      "count": 5
+    },
+    {
+      "word": "part",
+      "count": 5
+    },
+    {
+      "word": "power",
+      "count": 5
+    },
+    {
+      "word": "progress",
+      "count": 5
+    },
+    {
+      "word": "provinces",
+      "count": 5
+    },
+    {
+      "word": "raised",
+      "count": 5
+    },
+    {
+      "word": "rendered",
+      "count": 5
+    },
+    {
+      "word": "sect",
+      "count": 5
+    },
+    {
+      "word": "side",
+      "count": 5
+    },
+    {
+      "word": "sir",
+      "count": 5
+    },
+    {
+      "word": "sovereign",
+      "count": 5
+    },
+    {
+      "word": "sufficient",
+      "count": 5
+    },
+    {
+      "word": "throne",
+      "count": 5
+    },
+    {
+      "word": "towards",
+      "count": 5
+    },
+    {
+      "word": "unhappy",
+      "count": 5
+    },
+    {
+      "word": "utmost",
+      "count": 5
+    },
+    {
+      "word": "v",
+      "count": 5
+    },
+    {
+      "word": "victory",
+      "count": 5
+    },
+    {
+      "word": "well",
+      "count": 5
+    },
+    {
+      "word": "year",
+      "count": 5
+    },
+    {
+      "word": "10",
+      "count": 4
+    },
+    {
+      "word": "action",
+      "count": 4
+    },
+    {
+      "word": "ages",
+      "count": 4
+    },
+    {
+      "word": "almost",
+      "count": 4
+    },
+    {
+      "word": "already",
+      "count": 4
+    },
+    {
+      "word": "anjou",
+      "count": 4
+    },
+    {
+      "word": "appears",
+      "count": 4
+    },
+    {
+      "word": "attention",
+      "count": 4
+    },
+    {
+      "word": "became",
+      "count": 4
+    },
+    {
+      "word": "broke",
+      "count": 4
+    },
+    {
+      "word": "brought",
+      "count": 4
+    },
+    {
+      "word": "burgundians",
+      "count": 4
+    },
+    {
+      "word": "capital",
+      "count": 4
+    },
+    {
+      "word": "career",
+      "count": 4
+    },
+    {
+      "word": "church",
+      "count": 4
+    },
+    {
+      "word": "committed",
+      "count": 4
+    },
+    {
+      "word": "consequences",
+      "count": 4
+    },
+    {
+      "word": "council",
+      "count": 4
+    },
+    {
+      "word": "destruction",
+      "count": 4
+    },
+    {
+      "word": "detected",
+      "count": 4
+    },
+    {
+      "word": "endeavoured",
+      "count": 4
+    },
+    {
+      "word": "entered",
+      "count": 4
+    },
+    {
+      "word": "entire",
+      "count": 4
+    },
+    {
+      "word": "executed",
+      "count": 4
+    },
+    {
+      "word": "expected",
+      "count": 4
+    },
+    {
+      "word": "expressed",
+      "count": 4
+    },
+    {
+      "word": "fate",
+      "count": 4
+    },
+    {
+      "word": "father's",
+      "count": 4
+    },
+    {
+      "word": "few",
+      "count": 4
+    },
+    {
+      "word": "future",
+      "count": 4
+    },
+    {
+      "word": "governor",
+      "count": 4
+    },
+    {
+      "word": "hands",
+      "count": 4
+    },
+    {
+      "word": "heard",
+      "count": 4
+    },
+    {
+      "word": "hopes",
+      "count": 4
+    },
+    {
+      "word": "ii",
+      "count": 4
+    },
+    {
+      "word": "iii",
+      "count": 4
+    },
+    {
+      "word": "instead",
+      "count": 4
+    },
+    {
+      "word": "interest",
+      "count": 4
+    },
+    {
+      "word": "jealousy",
+      "count": 4
+    },
+    {
+      "word": "laboureur",
+      "count": 4
+    },
+    {
+      "word": "latter",
+      "count": 4
+    },
+    {
+      "word": "le",
+      "count": 4
+    },
+    {
+      "word": "legal",
+      "count": 4
+    },
+    {
+      "word": "lollards",
+      "count": 4
+    },
+    {
+      "word": "making",
+      "count": 4
+    },
+    {
+      "word": "marche",
+      "count": 4
+    },
+    {
+      "word": "military",
+      "count": 4
+    },
+    {
+      "word": "mind",
+      "count": 4
+    },
+    {
+      "word": "months",
+      "count": 4
+    },
+    {
+      "word": "murder",
+      "count": 4
+    },
+    {
+      "word": "naturally",
+      "count": 4
+    },
+    {
+      "word": "neither",
+      "count": 4
+    },
+    {
+      "word": "off",
+      "count": 4
+    },
+    {
+      "word": "offered",
+      "count": 4
+    },
+    {
+      "word": "opened",
+      "count": 4
+    },
+    {
+      "word": "opportunity",
+      "count": 4
+    },
+    {
+      "word": "ordinary",
+      "count": 4
+    },
+    {
+      "word": "partizans",
+      "count": 4
+    },
+    {
+      "word": "passage",
+      "count": 4
+    },
+    {
+      "word": "past",
+      "count": 4
+    },
+    {
+      "word": "pay",
+      "count": 4
+    },
+    {
+      "word": "philip",
+      "count": 4
+    },
+    {
+      "word": "pound",
+      "count": 4
+    },
+    {
+      "word": "presence",
+      "count": 4
+    },
+    {
+      "word": "pretensions",
+      "count": 4
+    },
+    {
+      "word": "principles",
+      "count": 4
+    },
+    {
+      "word": "procured",
+      "count": 4
+    },
+    {
+      "word": "proper",
+      "count": 4
+    },
+    {
+      "word": "public",
+      "count": 4
+    },
+    {
+      "word": "punishment",
+      "count": 4
+    },
+    {
+      "word": "purpose",
+      "count": 4
+    },
+    {
+      "word": "recover",
+      "count": 4
+    },
+    {
+      "word": "reduced",
+      "count": 4
+    },
+    {
+      "word": "reformation",
+      "count": 4
+    },
+    {
+      "word": "regard",
+      "count": 4
+    },
+    {
+      "word": "regent",
+      "count": 4
+    },
+    {
+      "word": "right",
+      "count": 4
+    },
+    {
+      "word": "see",
+      "count": 4
+    },
+    {
+      "word": "sensible",
+      "count": 4
+    },
+    {
+      "word": "sent",
+      "count": 4
+    },
+    {
+      "word": "slain",
+      "count": 4
+    },
+    {
+      "word": "small",
+      "count": 4
+    },
+    {
+      "word": "sometimes",
+      "count": 4
+    },
+    {
+      "word": "successes",
+      "count": 4
+    },
+    {
+      "word": "succession",
+      "count": 4
+    },
+    {
+      "word": "terms",
+      "count": 4
+    },
+    {
+      "word": "terror",
+      "count": 4
+    },
+    {
+      "word": "then",
+      "count": 4
+    },
+    {
+      "word": "threw",
+      "count": 4
+    },
+    {
+      "word": "through",
+      "count": 4
+    },
+    {
+      "word": "times",
+      "count": 4
+    },
+    {
+      "word": "troops",
+      "count": 4
+    },
+    {
+      "word": "truth",
+      "count": 4
+    },
+    {
+      "word": "up",
+      "count": 4
+    },
+    {
+      "word": "victories",
+      "count": 4
+    },
+    {
+      "word": "whom",
+      "count": 4
+    },
+    {
+      "word": "x",
+      "count": 4
+    },
+    {
+      "word": "yet",
+      "count": 4
+    },
+    {
+      "word": "youth",
+      "count": 4
+    },
+    {
+      "word": "|the",
+      "count": 3
+    },
+    {
+      "word": "24000",
+      "count": 3
+    },
+    {
+      "word": "382",
+      "count": 3
+    },
+    {
+      "word": "a-year",
+      "count": 3
+    },
+    {
+      "word": "accompanied",
+      "count": 3
+    },
+    {
+      "word": "according",
+      "count": 3
+    },
+    {
+      "word": "acknowledged",
+      "count": 3
+    },
+    {
+      "word": "actuated",
+      "count": 3
+    },
+    {
+      "word": "adherents",
+      "count": 3
+    },
+    {
+      "word": "age",
+      "count": 3
+    },
+    {
+      "word": "alarmed",
+      "count": 3
+    },
+    {
+      "word": "alone",
+      "count": 3
+    },
+    {
+      "word": "always",
+      "count": 3
+    },
+    {
+      "word": "amidst",
+      "count": 3
+    },
+    {
+      "word": "another",
+      "count": 3
+    },
+    {
+      "word": "appointed",
+      "count": 3
+    },
+    {
+      "word": "approach",
+      "count": 3
+    },
+    {
+      "word": "archbishop",
+      "count": 3
+    },
+    {
+      "word": "attempt",
+      "count": 3
+    },
+    {
+      "word": "bear",
+      "count": 3
+    },
+    {
+      "word": "become",
+      "count": 3
+    },
+    {
+      "word": "bedford",
+      "count": 3
+    },
+    {
+      "word": "began",
+      "count": 3
+    },
+    {
+      "word": "behaviour",
+      "count": 3
+    },
+    {
+      "word": "besides",
+      "count": 3
+    },
+    {
+      "word": "better",
+      "count": 3
+    },
+    {
+      "word": "brothers",
+      "count": 3
+    },
+    {
+      "word": "buchan",
+      "count": 3
+    },
+    {
+      "word": "called",
+      "count": 3
+    },
+    {
+      "word": "cambridge",
+      "count": 3
+    },
+    {
+      "word": "carry",
+      "count": 3
+    },
+    {
+      "word": "castle",
+      "count": 3
+    },
+    {
+      "word": "certainly",
+      "count": 3
+    },
+    {
+      "word": "clarence",
+      "count": 3
+    },
+    {
+      "word": "coined",
+      "count": 3
+    },
+    {
+      "word": "commonly",
+      "count": 3
+    },
+    {
+      "word": "concert",
+      "count": 3
+    },
+    {
+      "word": "conducted",
+      "count": 3
+    },
+    {
+      "word": "confidence",
+      "count": 3
+    },
+    {
+      "word": "confined",
+      "count": 3
+    },
+    {
+      "word": "confusion",
+      "count": 3
+    },
+    {
+      "word": "conspirators",
+      "count": 3
+    },
+    {
+      "word": "constance",
+      "count": 3
+    },
+    {
+      "word": "created",
+      "count": 3
+    },
+    {
+      "word": "crime",
+      "count": 3
+    },
+    {
+      "word": "crowns",
+      "count": 3
+    },
+    {
+      "word": "cut",
+      "count": 3
+    },
+    {
+      "word": "danger",
+      "count": 3
+    },
+    {
+      "word": "demanded",
+      "count": 3
+    },
+    {
+      "word": "denomination",
+      "count": 3
+    },
+    {
+      "word": "depended",
+      "count": 3
+    },
+    {
+      "word": "difficulty",
+      "count": 3
+    },
+    {
+      "word": "disorders",
+      "count": 3
+    },
+    {
+      "word": "distinction",
+      "count": 3
+    },
+    {
+      "word": "distracted",
+      "count": 3
+    },
+    {
+      "word": "doubtful",
+      "count": 3
+    },
+    {
+      "word": "drawn",
+      "count": 3
+    },
+    {
+      "word": "effect",
+      "count": 3
+    },
+    {
+      "word": "eight",
+      "count": 3
+    },
+    {
+      "word": "embraced",
+      "count": 3
+    },
+    {
+      "word": "end",
+      "count": 3
+    },
+    {
+      "word": "enterprizes",
+      "count": 3
+    },
+    {
+      "word": "entertained",
+      "count": 3
+    },
+    {
+      "word": "entitled",
+      "count": 3
+    },
+    {
+      "word": "equally",
+      "count": 3
+    },
+    {
+      "word": "errors",
+      "count": 3
+    },
+    {
+      "word": "escape",
+      "count": 3
+    },
+    {
+      "word": "established",
+      "count": 3
+    },
+    {
+      "word": "evidence",
+      "count": 3
+    },
+    {
+      "word": "example",
+      "count": 3
+    },
+    {
+      "word": "extraordinary",
+      "count": 3
+    },
+    {
+      "word": "eyes",
+      "count": 3
+    },
+    {
+      "word": "factions",
+      "count": 3
+    },
+    {
+      "word": "fallen",
+      "count": 3
+    },
+    {
+      "word": "fatal",
+      "count": 3
+    },
+    {
+      "word": "father-in-law",
+      "count": 3
+    },
+    {
+      "word": "fidelity",
+      "count": 3
+    },
+    {
+      "word": "figure",
+      "count": 3
+    },
+    {
+      "word": "formed",
+      "count": 3
+    },
+    {
+      "word": "four",
+      "count": 3
+    },
+    {
+      "word": "glocester",
+      "count": 3
+    },
+    {
+      "word": "good",
+      "count": 3
+    },
+    {
+      "word": "granted",
+      "count": 3
+    },
+    {
+      "word": "greater",
+      "count": 3
+    },
+    {
+      "word": "hand",
+      "count": 3
+    },
+    {
+      "word": "happened",
+      "count": 3
+    },
+    {
+      "word": "happily",
+      "count": 3
+    },
+    {
+      "word": "harfleur",
+      "count": 3
+    },
+    {
+      "word": "has",
+      "count": 3
+    },
+    {
+      "word": "held",
+      "count": 3
+    },
+    {
+      "word": "here",
+      "count": 3
+    },
+    {
+      "word": "high",
+      "count": 3
+    },
+    {
+      "word": "hold",
+      "count": 3
+    },
+    {
+      "word": "ill",
+      "count": 3
+    },
+    {
+      "word": "impetuous",
+      "count": 3
+    },
+    {
+      "word": "incapable",
+      "count": 3
+    },
+    {
+      "word": "incident",
+      "count": 3
+    },
+    {
+      "word": "inclined",
+      "count": 3
+    },
+    {
+      "word": "indicted",
+      "count": 3
+    },
+    {
+      "word": "intention",
+      "count": 3
+    },
+    {
+      "word": "interests",
+      "count": 3
+    },
+    {
+      "word": "just",
+      "count": 3
+    },
+    {
+      "word": "kingdoms",
+      "count": 3
+    },
+    {
+      "word": "laid",
+      "count": 3
+    },
+    {
+      "word": "lancaster",
+      "count": 3
+    },
+    {
+      "word": "leave",
+      "count": 3
+    },
+    {
+      "word": "leisure",
+      "count": 3
+    },
+    {
+      "word": "length",
+      "count": 3
+    },
+    {
+      "word": "lifetime",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "little",
+      "count": 3
+    },
+    {
+      "word": "low",
+      "count": 3
+    },
+    {
+      "word": "lustre",
+      "count": 3
+    },
+    {
+      "word": "magnanimity",
+      "count": 3
+    },
+    {
+      "word": "marks",
+      "count": 3
+    },
+    {
+      "word": "marriage",
+      "count": 3
+    },
+    {
+      "word": "memory",
+      "count": 3
+    },
+    {
+      "word": "met",
+      "count": 3
+    },
+    {
+      "word": "midst",
+      "count": 3
+    },
+    {
+      "word": "misfortune",
+      "count": 3
+    },
+    {
+      "word": "monarch",
+      "count": 3
+    },
+    {
+      "word": "monarchy",
+      "count": 3
+    },
+    {
+      "word": "name",
+      "count": 3
+    },
+    {
+      "word": "negotiation",
+      "count": 3
+    },
+    {
+      "word": "numerous",
+      "count": 3
+    },
+    {
+      "word": "oblivion",
+      "count": 3
+    },
+    {
+      "word": "often",
+      "count": 3
+    },
+    {
+      "word": "oppose",
+      "count": 3
+    },
+    {
+      "word": "opposition",
+      "count": 3
+    },
+    {
+      "word": "others",
+      "count": 3
+    },
+    {
+      "word": "our",
+      "count": 3
+    },
+    {
+      "word": "passed",
+      "count": 3
+    },
+    {
+      "word": "perpetual",
+      "count": 3
+    },
+    {
+      "word": "personal",
+      "count": 3
+    },
+    {
+      "word": "poictiers",
+      "count": 3
+    },
+    {
+      "word": "populace",
+      "count": 3
+    },
+    {
+      "word": "possessed",
+      "count": 3
+    },
+    {
+      "word": "prevent",
+      "count": 3
+    },
+    {
+      "word": "proof",
+      "count": 3
+    },
+    {
+      "word": "prospect",
+      "count": 3
+    },
+    {
+      "word": "province",
+      "count": 3
+    },
+    {
+      "word": "provisions",
+      "count": 3
+    },
+    {
+      "word": "quarter",
+      "count": 3
+    },
+    {
+      "word": "rank",
+      "count": 3
+    },
+    {
+      "word": "rather",
+      "count": 3
+    },
+    {
+      "word": "regular",
+      "count": 3
+    },
+    {
+      "word": "reins",
+      "count": 3
+    },
+    {
+      "word": "rendezvous",
+      "count": 3
+    },
+    {
+      "word": "repair",
+      "count": 3
+    },
+    {
+      "word": "rival",
+      "count": 3
+    },
+    {
+      "word": "river",
+      "count": 3
+    },
+    {
+      "word": "sacrifice",
+      "count": 3
+    },
+    {
+      "word": "safely",
+      "count": 3
+    },
+    {
+      "word": "safety",
+      "count": 3
+    },
+    {
+      "word": "said",
+      "count": 3
+    },
+    {
+      "word": "scene",
+      "count": 3
+    },
+    {
+      "word": "scots",
+      "count": 3
+    },
+    {
+      "word": "scrupled",
+      "count": 3
+    },
+    {
+      "word": "second",
+      "count": 3
+    },
+    {
+      "word": "seconded",
+      "count": 3
+    },
+    {
+      "word": "service",
+      "count": 3
+    },
+    {
+      "word": "seven",
+      "count": 3
+    },
+    {
+      "word": "severity",
+      "count": 3
+    },
+    {
+      "word": "similar",
+      "count": 3
+    },
+    {
+      "word": "sincere",
+      "count": 3
+    },
+    {
+      "word": "sincerity",
+      "count": 3
+    },
+    {
+      "word": "society",
+      "count": 3
+    },
+    {
+      "word": "somerset",
+      "count": 3
+    },
+    {
+      "word": "somewhat",
+      "count": 3
+    },
+    {
+      "word": "sovereignty",
+      "count": 3
+    },
+    {
+      "word": "space",
+      "count": 3
+    },
+    {
+      "word": "subdued",
+      "count": 3
+    },
+    {
+      "word": "subjection",
+      "count": 3
+    },
+    {
+      "word": "sufficiently",
+      "count": 3
+    },
+    {
+      "word": "superior",
+      "count": 3
+    },
+    {
+      "word": "support",
+      "count": 3
+    },
+    {
+      "word": "supported",
+      "count": 3
+    },
+    {
+      "word": "surrender",
+      "count": 3
+    },
+    {
+      "word": "took",
+      "count": 3
+    },
+    {
+      "word": "tranquillity",
+      "count": 3
+    },
+    {
+      "word": "trial",
+      "count": 3
+    },
+    {
+      "word": "troy",
+      "count": 3
+    },
+    {
+      "word": "trust",
+      "count": 3
+    },
+    {
+      "word": "uncles",
+      "count": 3
+    },
+    {
+      "word": "unequal",
+      "count": 3
+    },
+    {
+      "word": "united",
+      "count": 3
+    },
+    {
+      "word": "unusual",
+      "count": 3
+    },
+    {
+      "word": "use",
+      "count": 3
+    },
+    {
+      "word": "usually",
+      "count": 3
+    },
+    {
+      "word": "vain",
+      "count": 3
+    },
+    {
+      "word": "views",
+      "count": 3
+    },
+    {
+      "word": "vigour",
+      "count": 3
+    },
+    {
+      "word": "virtues",
+      "count": 3
+    },
+    {
+      "word": "way",
+      "count": 3
+    },
+    {
+      "word": "whether",
+      "count": 3
+    },
+    {
+      "word": "while",
+      "count": 3
+    },
+    {
+      "word": "york",
+      "count": 3
+    },
+    {
+      "word": "zeal",
+      "count": 3
+    },
+    {
+      "word": "113",
+      "count": 2
+    },
+    {
+      "word": "118",
+      "count": 2
+    },
+    {
+      "word": "14000",
+      "count": 2
+    },
+    {
+      "word": "1415",
+      "count": 2
+    },
+    {
+      "word": "15000",
+      "count": 2
+    },
+    {
+      "word": "211",
+      "count": 2
+    },
+    {
+      "word": "265",
+      "count": 2
+    },
+    {
+      "word": "27",
+      "count": 2
+    },
+    {
+      "word": "33",
+      "count": 2
+    },
+    {
+      "word": "400",
+      "count": 2
+    },
+    {
+      "word": "4000",
+      "count": 2
+    },
+    {
+      "word": "544",
+      "count": 2
+    },
+    {
+      "word": "6000",
+      "count": 2
+    },
+    {
+      "word": "7",
+      "count": 2
+    },
+    {
+      "word": "86",
+      "count": 2
+    },
+    {
+      "word": "a-day",
+      "count": 2
+    },
+    {
+      "word": "abbies",
+      "count": 2
+    },
+    {
+      "word": "abuses",
+      "count": 2
+    },
+    {
+      "word": "account",
+      "count": 2
+    },
+    {
+      "word": "accused",
+      "count": 2
+    },
+    {
+      "word": "acquired",
+      "count": 2
+    },
+    {
+      "word": "act",
+      "count": 2
+    },
+    {
+      "word": "adapted",
+      "count": 2
+    },
+    {
+      "word": "admitted",
+      "count": 2
+    },
+    {
+      "word": "advance",
+      "count": 2
+    },
+    {
+      "word": "agreeably",
+      "count": 2
+    },
+    {
+      "word": "alarm",
+      "count": 2
+    },
+    {
+      "word": "alençon",
+      "count": 2
+    },
+    {
+      "word": "allow",
+      "count": 2
+    },
+    {
+      "word": "allowed",
+      "count": 2
+    },
+    {
+      "word": "alternately",
+      "count": 2
+    },
+    {
+      "word": "ambitious",
+      "count": 2
+    },
+    {
+      "word": "amends",
+      "count": 2
+    },
+    {
+      "word": "amounted",
+      "count": 2
+    },
+    {
+      "word": "ancient",
+      "count": 2
+    },
+    {
+      "word": "anxious",
+      "count": 2
+    },
+    {
+      "word": "applied",
+      "count": 2
+    },
+    {
+      "word": "archer",
+      "count": 2
+    },
+    {
+      "word": "armagnacs",
+      "count": 2
+    },
+    {
+      "word": "arrears",
+      "count": 2
+    },
+    {
+      "word": "article",
+      "count": 2
+    },
+    {
+      "word": "articles",
+      "count": 2
+    },
+    {
+      "word": "assassin",
+      "count": 2
+    },
+    {
+      "word": "assassination",
+      "count": 2
+    },
+    {
+      "word": "assembled",
+      "count": 2
+    },
+    {
+      "word": "assembly",
+      "count": 2
+    },
+    {
+      "word": "assistance",
+      "count": 2
+    },
+    {
+      "word": "attach",
+      "count": 2
+    },
+    {
+      "word": "attack",
+      "count": 2
+    },
+    {
+      "word": "attempted",
+      "count": 2
+    },
+    {
+      "word": "attend",
+      "count": 2
+    },
+    {
+      "word": "aug",
+      "count": 2
+    },
+    {
+      "word": "bad",
+      "count": 2
+    },
+    {
+      "word": "barbasan",
+      "count": 2
+    },
+    {
+      "word": "behind",
+      "count": 2
+    },
+    {
+      "word": "best",
+      "count": 2
+    },
+    {
+      "word": "beyond",
+      "count": 2
+    },
+    {
+      "word": "bishops",
+      "count": 2
+    },
+    {
+      "word": "blow",
+      "count": 2
+    },
+    {
+      "word": "bold",
+      "count": 2
+    },
+    {
+      "word": "bore",
+      "count": 2
+    },
+    {
+      "word": "bourbon",
+      "count": 2
+    },
+    {
+      "word": "bravery",
+      "count": 2
+    },
+    {
+      "word": "bridge",
+      "count": 2
+    },
+    {
+      "word": "britanny",
+      "count": 2
+    },
+    {
+      "word": "bury",
+      "count": 2
+    },
+    {
+      "word": "business",
+      "count": 2
+    },
+    {
+      "word": "butchered",
+      "count": 2
+    },
+    {
+      "word": "cabinet",
+      "count": 2
+    },
+    {
+      "word": "calamities",
+      "count": 2
+    },
+    {
+      "word": "candour",
+      "count": 2
+    },
+    {
+      "word": "canterbury",
+      "count": 2
+    },
+    {
+      "word": "capitulate",
+      "count": 2
+    },
+    {
+      "word": "captains",
+      "count": 2
+    },
+    {
+      "word": "care",
+      "count": 2
+    },
+    {
+      "word": "cause",
+      "count": 2
+    },
+    {
+      "word": "cavalry",
+      "count": 2
+    },
+    {
+      "word": "certain",
+      "count": 2
+    },
+    {
+      "word": "changed",
+      "count": 2
+    },
+    {
+      "word": "chaplain",
+      "count": 2
+    },
+    {
+      "word": "charge",
+      "count": 2
+    },
+    {
+      "word": "charles's",
+      "count": 2
+    },
+    {
+      "word": "chartres",
+      "count": 2
+    },
+    {
+      "word": "checked",
+      "count": 2
+    },
+    {
+      "word": "circumstance",
+      "count": 2
+    },
+    {
+      "word": "claim",
+      "count": 2
+    },
+    {
+      "word": "clergy",
+      "count": 2
+    },
+    {
+      "word": "collected",
+      "count": 2
+    },
+    {
+      "word": "combat",
+      "count": 2
+    },
+    {
+      "word": "combining",
+      "count": 2
+    },
+    {
+      "word": "commanders",
+      "count": 2
+    },
+    {
+      "word": "commission",
+      "count": 2
+    },
+    {
+      "word": "companions",
+      "count": 2
+    },
+    {
+      "word": "company",
+      "count": 2
+    },
+    {
+      "word": "concluded",
+      "count": 2
+    },
+    {
+      "word": "condemnation",
+      "count": 2
+    },
+    {
+      "word": "condemned",
+      "count": 2
+    },
+    {
+      "word": "confident",
+      "count": 2
+    },
+    {
+      "word": "conqueror",
+      "count": 2
+    },
+    {
+      "word": "conquest",
+      "count": 2
+    },
+    {
+      "word": "consent",
+      "count": 2
+    },
+    {
+      "word": "consideration",
+      "count": 2
+    },
+    {
+      "word": "considered",
+      "count": 2
+    },
+    {
+      "word": "continual",
+      "count": 2
+    },
+    {
+      "word": "continually",
+      "count": 2
+    },
+    {
+      "word": "continued",
+      "count": 2
+    },
+    {
+      "word": "countenance",
+      "count": 2
+    },
+    {
+      "word": "county",
+      "count": 2
+    },
+    {
+      "word": "courage",
+      "count": 2
+    },
+    {
+      "word": "courts",
+      "count": 2
+    },
+    {
+      "word": "cressy",
+      "count": 2
+    },
+    {
+      "word": "cruelty",
+      "count": 2
+    },
+    {
+      "word": "d'albret",
+      "count": 2
+    },
+    {
+      "word": "daily",
+      "count": 2
+    },
+    {
+      "word": "daughter",
+      "count": 2
+    },
+    {
+      "word": "debts",
+      "count": 2
+    },
+    {
+      "word": "declined",
+      "count": 2
+    },
+    {
+      "word": "deed",
+      "count": 2
+    },
+    {
+      "word": "defects",
+      "count": 2
+    },
+    {
+      "word": "defended",
+      "count": 2
+    },
+    {
+      "word": "degree",
+      "count": 2
+    },
+    {
+      "word": "delivered",
+      "count": 2
+    },
+    {
+      "word": "demands",
+      "count": 2
+    },
+    {
+      "word": "derived",
+      "count": 2
+    },
+    {
+      "word": "des",
+      "count": 2
+    },
+    {
+      "word": "designs",
+      "count": 2
+    },
+    {
+      "word": "detained",
+      "count": 2
+    },
+    {
+      "word": "difficult",
+      "count": 2
+    },
+    {
+      "word": "difficulties",
+      "count": 2
+    },
+    {
+      "word": "disagreeable",
+      "count": 2
+    },
+    {
+      "word": "discipline",
+      "count": 2
+    },
+    {
+      "word": "discovered",
+      "count": 2
+    },
+    {
+      "word": "dismissed",
+      "count": 2
+    },
+    {
+      "word": "do",
+      "count": 2
+    },
+    {
+      "word": "doctrine",
+      "count": 2
+    },
+    {
+      "word": "doctrines",
+      "count": 2
+    },
+    {
+      "word": "dorset",
+      "count": 2
+    },
+    {
+      "word": "drew",
+      "count": 2
+    },
+    {
+      "word": "duke's",
+      "count": 2
+    },
+    {
+      "word": "duty",
+      "count": 2
+    },
+    {
+      "word": "early",
+      "count": 2
+    },
+    {
+      "word": "easy",
+      "count": 2
+    },
+    {
+      "word": "effects",
+      "count": 2
+    },
+    {
+      "word": "effectual",
+      "count": 2
+    },
+    {
+      "word": "eldest",
+      "count": 2
+    },
+    {
+      "word": "eminent",
+      "count": 2
+    },
+    {
+      "word": "employed",
+      "count": 2
+    },
+    {
+      "word": "encreased",
+      "count": 2
+    },
+    {
+      "word": "enraged",
+      "count": 2
+    },
+    {
+      "word": "entreated",
+      "count": 2
+    },
+    {
+      "word": "equivalent",
+      "count": 2
+    },
+    {
+      "word": "error",
+      "count": 2
+    },
+    {
+      "word": "espouse",
+      "count": 2
+    },
+    {
+      "word": "espoused",
+      "count": 2
+    },
+    {
+      "word": "essentials",
+      "count": 2
+    },
+    {
+      "word": "europe",
+      "count": 2
+    },
+    {
+      "word": "european",
+      "count": 2
+    },
+    {
+      "word": "event",
+      "count": 2
+    },
+    {
+      "word": "events",
+      "count": 2
+    },
+    {
+      "word": "except",
+      "count": 2
+    },
+    {
+      "word": "executions",
+      "count": 2
+    },
+    {
+      "word": "exeter",
+      "count": 2
+    },
+    {
+      "word": "exhorted",
+      "count": 2
+    },
+    {
+      "word": "expect",
+      "count": 2
+    },
+    {
+      "word": "expedients",
+      "count": 2
+    },
+    {
+      "word": "expedition",
+      "count": 2
+    },
+    {
+      "word": "expelled",
+      "count": 2
+    },
+    {
+      "word": "extreme",
+      "count": 2
+    },
+    {
+      "word": "extremely",
+      "count": 2
+    },
+    {
+      "word": "feeble",
+      "count": 2
+    },
+    {
+      "word": "feudal",
+      "count": 2
+    },
+    {
+      "word": "fifteenth",
+      "count": 2
+    },
+    {
+      "word": "final",
+      "count": 2
+    },
+    {
+      "word": "find",
+      "count": 2
+    },
+    {
+      "word": "finish",
+      "count": 2
+    },
+    {
+      "word": "fixed",
+      "count": 2
+    },
+    {
+      "word": "flanders",
+      "count": 2
+    },
+    {
+      "word": "fled",
+      "count": 2
+    },
+    {
+      "word": "flight",
+      "count": 2
+    },
+    {
+      "word": "flying",
+      "count": 2
+    },
+    {
+      "word": "foot",
+      "count": 2
+    },
+    {
+      "word": "force",
+      "count": 2
+    },
+    {
+      "word": "ford",
+      "count": 2
+    },
+    {
+      "word": "foresaw",
+      "count": 2
+    },
+    {
+      "word": "forgive",
+      "count": 2
+    },
+    {
+      "word": "forgot",
+      "count": 2
+    },
+    {
+      "word": "formerly",
+      "count": 2
+    },
+    {
+      "word": "fortunate",
+      "count": 2
+    },
+    {
+      "word": "fortune",
+      "count": 2
+    },
+    {
+      "word": "forty",
+      "count": 2
+    },
+    {
+      "word": "francethe",
+      "count": 2
+    },
+    {
+      "word": "fraternity",
+      "count": 2
+    },
+    {
+      "word": "frequent",
+      "count": 2
+    },
+    {
+      "word": "frequently",
+      "count": 2
+    },
+    {
+      "word": "fully",
+      "count": 2
+    },
+    {
+      "word": "fury",
+      "count": 2
+    },
+    {
+      "word": "gained",
+      "count": 2
+    },
+    {
+      "word": "gascoigne",
+      "count": 2
+    },
+    {
+      "word": "generosity",
+      "count": 2
+    },
+    {
+      "word": "genius",
+      "count": 2
+    },
+    {
+      "word": "gentle",
+      "count": 2
+    },
+    {
+      "word": "gentlemen",
+      "count": 2
+    },
+    {
+      "word": "glory",
+      "count": 2
+    },
+    {
+      "word": "god",
+      "count": 2
+    },
+    {
+      "word": "goods",
+      "count": 2
+    },
+    {
+      "word": "got",
+      "count": 2
+    },
+    {
+      "word": "grey",
+      "count": 2
+    },
+    {
+      "word": "guard",
+      "count": 2
+    },
+    {
+      "word": "guilt",
+      "count": 2
+    },
+    {
+      "word": "hanged",
+      "count": 2
+    },
+    {
+      "word": "hatred",
+      "count": 2
+    },
+    {
+      "word": "headed",
+      "count": 2
+    },
+    {
+      "word": "heresy",
+      "count": 2
+    },
+    {
+      "word": "herself",
+      "count": 2
+    },
+    {
+      "word": "hierarchy",
+      "count": 2
+    },
+    {
+      "word": "highest",
+      "count": 2
+    },
+    {
+      "word": "hist",
+      "count": 2
+    },
+    {
+      "word": "history",
+      "count": 2
+    },
+    {
+      "word": "hitherto",
+      "count": 2
+    },
+    {
+      "word": "honourable",
+      "count": 2
+    },
+    {
+      "word": "honoured",
+      "count": 2
+    },
+    {
+      "word": "honours",
+      "count": 2
+    },
+    {
+      "word": "hostilities",
+      "count": 2
+    },
+    {
+      "word": "house",
+      "count": 2
+    },
+    {
+      "word": "how",
+      "count": 2
+    },
+    {
+      "word": "hundred",
+      "count": 2
+    },
+    {
+      "word": "i",
+      "count": 2
+    },
+    {
+      "word": "idea",
+      "count": 2
+    },
+    {
+      "word": "immediate",
+      "count": 2
+    },
+    {
+      "word": "implacable",
+      "count": 2
+    },
+    {
+      "word": "important",
+      "count": 2
+    },
+    {
+      "word": "incidents",
+      "count": 2
+    },
+    {
+      "word": "indulgence",
+      "count": 2
+    },
+    {
+      "word": "inevitable",
+      "count": 2
+    },
+    {
+      "word": "infant",
+      "count": 2
+    },
+    {
+      "word": "infinite",
+      "count": 2
+    },
+    {
+      "word": "inhabitants",
+      "count": 2
+    },
+    {
+      "word": "injury",
+      "count": 2
+    },
+    {
+      "word": "innocent",
+      "count": 2
+    },
+    {
+      "word": "inspired",
+      "count": 2
+    },
+    {
+      "word": "instrument",
+      "count": 2
+    },
+    {
+      "word": "interrupted",
+      "count": 2
+    },
+    {
+      "word": "interval",
+      "count": 2
+    },
+    {
+      "word": "interview",
+      "count": 2
+    },
+    {
+      "word": "intestine",
+      "count": 2
+    },
+    {
+      "word": "invasion",
+      "count": 2
+    },
+    {
+      "word": "inveterate",
+      "count": 2
+    },
+    {
+      "word": "invited",
+      "count": 2
+    },
+    {
+      "word": "irregular",
+      "count": 2
+    },
+    {
+      "word": "isabella",
+      "count": 2
+    },
+    {
+      "word": "issue",
+      "count": 2
+    },
+    {
+      "word": "jealousies",
+      "count": 2
+    },
+    {
+      "word": "joy",
+      "count": 2
+    },
+    {
+      "word": "jury",
+      "count": 2
+    },
+    {
+      "word": "justices",
+      "count": 2
+    },
+    {
+      "word": "kept",
+      "count": 2
+    },
+    {
+      "word": "killed",
+      "count": 2
+    },
+    {
+      "word": "kind",
+      "count": 2
+    },
+    {
+      "word": "land",
+      "count": 2
+    },
+    {
+      "word": "landed",
+      "count": 2
+    },
+    {
+      "word": "law",
+      "count": 2
+    },
+    {
+      "word": "lay",
+      "count": 2
+    },
+    {
+      "word": "leaders",
+      "count": 2
+    },
+    {
+      "word": "least",
+      "count": 2
+    },
+    {
+      "word": "led",
+      "count": 2
+    },
+    {
+      "word": "levied",
+      "count": 2
+    },
+    {
+      "word": "likewise",
+      "count": 2
+    },
+    {
+      "word": "london",
+      "count": 2
+    },
+    {
+      "word": "longer",
+      "count": 2
+    },
+    {
+      "word": "magistrate",
+      "count": 2
+    },
+    {
+      "word": "maintained",
+      "count": 2
+    },
+    {
+      "word": "man",
+      "count": 2
+    },
+    {
+      "word": "maxims",
+      "count": 2
+    },
+    {
+      "word": "me",
+      "count": 2
+    },
+    {
+      "word": "meaux",
+      "count": 2
+    },
+    {
+      "word": "melancholy",
+      "count": 2
+    },
+    {
+      "word": "mere",
+      "count": 2
+    },
+    {
+      "word": "merited",
+      "count": 2
+    },
+    {
+      "word": "merits",
+      "count": 2
+    },
+    {
+      "word": "mighty",
+      "count": 2
+    },
+    {
+      "word": "miserable",
+      "count": 2
+    },
+    {
+      "word": "montereau",
+      "count": 2
+    },
+    {
+      "word": "mortal",
+      "count": 2
+    },
+    {
+      "word": "mounted",
+      "count": 2
+    },
+    {
+      "word": "multiplied",
+      "count": 2
+    },
+    {
+      "word": "narrow",
+      "count": 2
+    },
+    {
+      "word": "nations",
+      "count": 2
+    },
+    {
+      "word": "natural",
+      "count": 2
+    },
+    {
+      "word": "nearly",
+      "count": 2
+    },
+    {
+      "word": "necessarily",
+      "count": 2
+    },
+    {
+      "word": "necessary",
+      "count": 2
+    },
+    {
+      "word": "necessities",
+      "count": 2
+    },
+    {
+      "word": "neighbourhood",
+      "count": 2
+    },
+    {
+      "word": "neighbours",
+      "count": 2
+    },
+    {
+      "word": "night-time",
+      "count": 2
+    },
+    {
+      "word": "none",
+      "count": 2
+    },
+    {
+      "word": "northern",
+      "count": 2
+    },
+    {
+      "word": "note",
+      "count": 2
+    },
+    {
+      "word": "notwithstanding",
+      "count": 2
+    },
+    {
+      "word": "numbers",
+      "count": 2
+    },
+    {
+      "word": "observe",
+      "count": 2
+    },
+    {
+      "word": "observed",
+      "count": 2
+    },
+    {
+      "word": "obtained",
+      "count": 2
+    },
+    {
+      "word": "occasion",
+      "count": 2
+    },
+    {
+      "word": "occasioned",
+      "count": 2
+    },
+    {
+      "word": "occasions",
+      "count": 2
+    },
+    {
+      "word": "occupation",
+      "count": 2
+    },
+    {
+      "word": "offer",
+      "count": 2
+    },
+    {
+      "word": "offers",
+      "count": 2
+    },
+    {
+      "word": "openly",
+      "count": 2
+    },
+    {
+      "word": "opinion",
+      "count": 2
+    },
+    {
+      "word": "opinions",
+      "count": 2
+    },
+    {
+      "word": "orders",
+      "count": 2
+    },
+    {
+      "word": "overawed",
+      "count": 2
+    },
+    {
+      "word": "owed",
+      "count": 2
+    },
+    {
+      "word": "paid",
+      "count": 2
+    },
+    {
+      "word": "parliamentary",
+      "count": 2
+    },
+    {
+      "word": "partly",
+      "count": 2
+    },
+    {
+      "word": "pass",
+      "count": 2
+    },
+    {
+      "word": "passion",
+      "count": 2
+    },
+    {
+      "word": "pence",
+      "count": 2
+    },
+    {
+      "word": "performed",
+      "count": 2
+    },
+    {
+      "word": "perhaps",
+      "count": 2
+    },
+    {
+      "word": "persecution",
+      "count": 2
+    },
+    {
+      "word": "persons",
+      "count": 2
+    },
+    {
+      "word": "picardy",
+      "count": 2
+    },
+    {
+      "word": "plan",
+      "count": 2
+    },
+    {
+      "word": "pleaded",
+      "count": 2
+    },
+    {
+      "word": "pontoise",
+      "count": 2
+    },
+    {
+      "word": "pope",
+      "count": 2
+    },
+    {
+      "word": "posture",
+      "count": 2
+    },
+    {
+      "word": "powers",
+      "count": 2
+    },
+    {
+      "word": "precaution",
+      "count": 2
+    },
+    {
+      "word": "prejudices",
+      "count": 2
+    },
+    {
+      "word": "preparations",
+      "count": 2
+    },
+    {
+      "word": "prevalence",
+      "count": 2
+    },
+    {
+      "word": "primate",
+      "count": 2
+    },
+    {
+      "word": "prince's",
+      "count": 2
+    },
+    {
+      "word": "prison",
+      "count": 2
+    },
+    {
+      "word": "probability",
+      "count": 2
+    },
+    {
+      "word": "proceeded",
+      "count": 2
+    },
+    {
+      "word": "produced",
+      "count": 2
+    },
+    {
+      "word": "pronounced",
+      "count": 2
+    },
+    {
+      "word": "proportion",
+      "count": 2
+    },
+    {
+      "word": "proposed",
+      "count": 2
+    },
+    {
+      "word": "prove",
+      "count": 2
+    },
+    {
+      "word": "pursued",
+      "count": 2
+    },
+    {
+      "word": "push",
+      "count": 2
+    },
+    {
+      "word": "pushed",
+      "count": 2
+    },
+    {
+      "word": "quarrels",
+      "count": 2
+    },
+    {
+      "word": "quarters",
+      "count": 2
+    },
+    {
+      "word": "question",
+      "count": 2
+    },
+    {
+      "word": "rails",
+      "count": 2
+    },
+    {
+      "word": "ranks",
+      "count": 2
+    },
+    {
+      "word": "reached",
+      "count": 2
+    },
+    {
+      "word": "read",
+      "count": 2
+    },
+    {
+      "word": "recovering",
+      "count": 2
+    },
+    {
+      "word": "reinforcement",
+      "count": 2
+    },
+    {
+      "word": "rejected",
+      "count": 2
+    },
+    {
+      "word": "religion",
+      "count": 2
+    },
+    {
+      "word": "remain",
+      "count": 2
+    },
+    {
+      "word": "remains",
+      "count": 2
+    },
+    {
+      "word": "remarkable",
+      "count": 2
+    },
+    {
+      "word": "rendering",
+      "count": 2
+    },
+    {
+      "word": "reparation",
+      "count": 2
+    },
+    {
+      "word": "replied",
+      "count": 2
+    },
+    {
+      "word": "resist",
+      "count": 2
+    },
+    {
+      "word": "resistance",
+      "count": 2
+    },
+    {
+      "word": "resisting",
+      "count": 2
+    },
+    {
+      "word": "resources",
+      "count": 2
+    },
+    {
+      "word": "retired",
+      "count": 2
+    },
+    {
+      "word": "retreat",
+      "count": 2
+    },
+    {
+      "word": "revenge",
+      "count": 2
+    },
+    {
+      "word": "rheims",
+      "count": 2
+    },
+    {
+      "word": "richer",
+      "count": 2
+    },
+    {
+      "word": "riotous",
+      "count": 2
+    },
+    {
+      "word": "roüen",
+      "count": 2
+    },
+    {
+      "word": "safe",
+      "count": 2
+    },
+    {
+      "word": "schism",
+      "count": 2
+    },
+    {
+      "word": "scotch",
+      "count": 2
+    },
+    {
+      "word": "secret",
+      "count": 2
+    },
+    {
+      "word": "secretly",
+      "count": 2
+    },
+    {
+      "word": "security",
+      "count": 2
+    },
+    {
+      "word": "seeing",
+      "count": 2
+    },
+    {
+      "word": "seeming",
+      "count": 2
+    },
+    {
+      "word": "sens",
+      "count": 2
+    },
+    {
+      "word": "sense",
+      "count": 2
+    },
+    {
+      "word": "share",
+      "count": 2
+    },
+    {
+      "word": "short",
+      "count": 2
+    },
+    {
+      "word": "show",
+      "count": 2
+    },
+    {
+      "word": "sides",
+      "count": 2
+    },
+    {
+      "word": "singular",
+      "count": 2
+    },
+    {
+      "word": "sister",
+      "count": 2
+    },
+    {
+      "word": "sixpence",
+      "count": 2
+    },
+    {
+      "word": "slaughter",
+      "count": 2
+    },
+    {
+      "word": "soil",
+      "count": 2
+    },
+    {
+      "word": "soldiers",
+      "count": 2
+    },
+    {
+      "word": "somme",
+      "count": 2
+    },
+    {
+      "word": "son's",
+      "count": 2
+    },
+    {
+      "word": "southampton",
+      "count": 2
+    },
+    {
+      "word": "speculative",
+      "count": 2
+    },
+    {
+      "word": "spirits",
+      "count": 2
+    },
+    {
+      "word": "states",
+      "count": 2
+    },
+    {
+      "word": "stopped",
+      "count": 2
+    },
+    {
+      "word": "streets",
+      "count": 2
+    },
+    {
+      "word": "strict",
+      "count": 2
+    },
+    {
+      "word": "subjects",
+      "count": 2
+    },
+    {
+      "word": "submitted",
+      "count": 2
+    },
+    {
+      "word": "succeeded",
+      "count": 2
+    },
+    {
+      "word": "suffering",
+      "count": 2
+    },
+    {
+      "word": "summoned",
+      "count": 2
+    },
+    {
+      "word": "supply",
+      "count": 2
+    },
+    {
+      "word": "surprize",
+      "count": 2
+    },
+    {
+      "word": "sword",
+      "count": 2
+    },
+    {
+      "word": "swore",
+      "count": 2
+    },
+    {
+      "word": "take",
+      "count": 2
+    },
+    {
+      "word": "taking",
+      "count": 2
+    },
+    {
+      "word": "talents",
+      "count": 2
+    },
+    {
+      "word": "temerity",
+      "count": 2
+    },
+    {
+      "word": "ten",
+      "count": 2
+    },
+    {
+      "word": "tended",
+      "count": 2
+    },
+    {
+      "word": "terminated",
+      "count": 2
+    },
+    {
+      "word": "thomas",
+      "count": 2
+    },
+    {
+      "word": "threatened",
+      "count": 2
+    },
+    {
+      "word": "throughout",
+      "count": 2
+    },
+    {
+      "word": "thus",
+      "count": 2
+    },
+    {
+      "word": "together",
+      "count": 2
+    },
+    {
+      "word": "toleration",
+      "count": 2
+    },
+    {
+      "word": "too",
+      "count": 2
+    },
+    {
+      "word": "totally",
+      "count": 2
+    },
+    {
+      "word": "town",
+      "count": 2
+    },
+    {
+      "word": "towns",
+      "count": 2
+    },
+    {
+      "word": "transactions",
+      "count": 2
+    },
+    {
+      "word": "treachery",
+      "count": 2
+    },
+    {
+      "word": "tribunal",
+      "count": 2
+    },
+    {
+      "word": "tried",
+      "count": 2
+    },
+    {
+      "word": "truce",
+      "count": 2
+    },
+    {
+      "word": "tudor",
+      "count": 2
+    },
+    {
+      "word": "turned",
+      "count": 2
+    },
+    {
+      "word": "union",
+      "count": 2
+    },
+    {
+      "word": "unite",
+      "count": 2
+    },
+    {
+      "word": "universally",
+      "count": 2
+    },
+    {
+      "word": "university",
+      "count": 2
+    },
+    {
+      "word": "unless",
+      "count": 2
+    },
+    {
+      "word": "unnatural",
+      "count": 2
+    },
+    {
+      "word": "ursins",
+      "count": 2
+    },
+    {
+      "word": "ventured",
+      "count": 2
+    },
+    {
+      "word": "vi",
+      "count": 2
+    },
+    {
+      "word": "victim",
+      "count": 2
+    },
+    {
+      "word": "violence",
+      "count": 2
+    },
+    {
+      "word": "wars",
+      "count": 2
+    },
+    {
+      "word": "warwic",
+      "count": 2
+    },
+    {
+      "word": "weak",
+      "count": 2
+    },
+    {
+      "word": "went",
+      "count": 2
+    },
+    {
+      "word": "wickliffe",
+      "count": 2
+    },
+    {
+      "word": "will",
+      "count": 2
+    },
+    {
+      "word": "willing",
+      "count": 2
+    },
+    {
+      "word": "wise",
+      "count": 2
+    },
+    {
+      "word": "wounded",
+      "count": 2
+    },
+    {
+      "word": "",
+      "count": 1
+    },
+    {
+      "word": "&ampc",
+      "count": 1
+    },
+    {
+      "word": "|and",
+      "count": 1
+    },
+    {
+      "word": "|annexed",
+      "count": 1
+    },
+    {
+      "word": "|appeared",
+      "count": 1
+    },
+    {
+      "word": "|archers",
+      "count": 1
+    },
+    {
+      "word": "|attend",
+      "count": 1
+    },
+    {
+      "word": "|but",
+      "count": 1
+    },
+    {
+      "word": "|divert",
+      "count": 1
+    },
+    {
+      "word": "|events",
+      "count": 1
+    },
+    {
+      "word": "|expect",
+      "count": 1
+    },
+    {
+      "word": "|for",
+      "count": 1
+    },
+    {
+      "word": "|france",
+      "count": 1
+    },
+    {
+      "word": "|from",
+      "count": 1
+    },
+    {
+      "word": "|him",
+      "count": 1
+    },
+    {
+      "word": "|instruments",
+      "count": 1
+    },
+    {
+      "word": "|into",
+      "count": 1
+    },
+    {
+      "word": "|of",
+      "count": 1
+    },
+    {
+      "word": "|pounds",
+      "count": 1
+    },
+    {
+      "word": "|queen",
+      "count": 1
+    },
+    {
+      "word": "|scrope",
+      "count": 1
+    },
+    {
+      "word": "|tranquillity",
+      "count": 1
+    },
+    {
+      "word": "|unarmed",
+      "count": 1
+    },
+    {
+      "word": "|waste",
+      "count": 1
+    },
+    {
+      "word": "|woods",
+      "count": 1
+    },
+    {
+      "word": "1",
+      "count": 1
+    },
+    {
+      "word": "101",
+      "count": 1
+    },
+    {
+      "word": "110",
+      "count": 1
+    },
+    {
+      "word": "110000",
+      "count": 1
+    },
+    {
+      "word": "114",
+      "count": 1
+    },
+    {
+      "word": "116",
+      "count": 1
+    },
+    {
+      "word": "119",
+      "count": 1
+    },
+    {
+      "word": "12",
+      "count": 1
+    },
+    {
+      "word": "129",
+      "count": 1
+    },
+    {
+      "word": "13",
+      "count": 1
+    },
+    {
+      "word": "13206",
+      "count": 1
+    },
+    {
+      "word": "137",
+      "count": 1
+    },
+    {
+      "word": "138",
+      "count": 1
+    },
+    {
+      "word": "14",
+      "count": 1
+    },
+    {
+      "word": "1413",
+      "count": 1
+    },
+    {
+      "word": "1418while",
+      "count": 1
+    },
+    {
+      "word": "1421the",
+      "count": 1
+    },
+    {
+      "word": "147",
+      "count": 1
+    },
+    {
+      "word": "16",
+      "count": 1
+    },
+    {
+      "word": "167",
+      "count": 1
+    },
+    {
+      "word": "168",
+      "count": 1
+    },
+    {
+      "word": "178",
+      "count": 1
+    },
+    {
+      "word": "179",
+      "count": 1
+    },
+    {
+      "word": "19",
+      "count": 1
+    },
+    {
+      "word": "190",
+      "count": 1
+    },
+    {
+      "word": "19119",
+      "count": 1
+    },
+    {
+      "word": "193",
+      "count": 1
+    },
+    {
+      "word": "1st",
+      "count": 1
+    },
+    {
+      "word": "20",
+      "count": 1
+    },
+    {
+      "word": "201",
+      "count": 1
+    },
+    {
+      "word": "203000",
+      "count": 1
+    },
+    {
+      "word": "208",
+      "count": 1
+    },
+    {
+      "word": "212",
+      "count": 1
+    },
+    {
+      "word": "223",
+      "count": 1
+    },
+    {
+      "word": "23",
+      "count": 1
+    },
+    {
+      "word": "239",
+      "count": 1
+    },
+    {
+      "word": "24",
+      "count": 1
+    },
+    {
+      "word": "242",
+      "count": 1
+    },
+    {
+      "word": "25000",
+      "count": 1
+    },
+    {
+      "word": "254",
+      "count": 1
+    },
+    {
+      "word": "255",
+      "count": 1
+    },
+    {
+      "word": "258",
+      "count": 1
+    },
+    {
+      "word": "260",
+      "count": 1
+    },
+    {
+      "word": "280",
+      "count": 1
+    },
+    {
+      "word": "3",
+      "count": 1
+    },
+    {
+      "word": "300",
+      "count": 1
+    },
+    {
+      "word": "30000",
+      "count": 1
+    },
+    {
+      "word": "303",
+      "count": 1
+    },
+    {
+      "word": "330000",
+      "count": 1
+    },
+    {
+      "word": "34",
+      "count": 1
+    },
+    {
+      "word": "36",
+      "count": 1
+    },
+    {
+      "word": "383",
+      "count": 1
+    },
+    {
+      "word": "385",
+      "count": 1
+    },
+    {
+      "word": "39",
+      "count": 1
+    },
+    {
+      "word": "392",
+      "count": 1
+    },
+    {
+      "word": "393",
+      "count": 1
+    },
+    {
+      "word": "4",
+      "count": 1
+    },
+    {
+      "word": "40000",
+      "count": 1
+    },
+    {
+      "word": "42507",
+      "count": 1
+    },
+    {
+      "word": "500",
+      "count": 1
+    },
+    {
+      "word": "513",
+      "count": 1
+    },
+    {
+      "word": "52",
+      "count": 1
+    },
+    {
+      "word": "543",
+      "count": 1
+    },
+    {
+      "word": "545",
+      "count": 1
+    },
+    {
+      "word": "554",
+      "count": 1
+    },
+    {
+      "word": "55714",
+      "count": 1
+    },
+    {
+      "word": "561",
+      "count": 1
+    },
+    {
+      "word": "577",
+      "count": 1
+    },
+    {
+      "word": "58",
+      "count": 1
+    },
+    {
+      "word": "584",
+      "count": 1
+    },
+    {
+      "word": "6",
+      "count": 1
+    },
+    {
+      "word": "600",
+      "count": 1
+    },
+    {
+      "word": "60000",
+      "count": 1
+    },
+    {
+      "word": "61",
+      "count": 1
+    },
+    {
+      "word": "62",
+      "count": 1
+    },
+    {
+      "word": "626",
+      "count": 1
+    },
+    {
+      "word": "65",
+      "count": 1
+    },
+    {
+      "word": "69",
+      "count": 1
+    },
+    {
+      "word": "6th",
+      "count": 1
+    },
+    {
+      "word": "717",
+      "count": 1
+    },
+    {
+      "word": "74",
+      "count": 1
+    },
+    {
+      "word": "749",
+      "count": 1
+    },
+    {
+      "word": "76",
+      "count": 1
+    },
+    {
+      "word": "762",
+      "count": 1
+    },
+    {
+      "word": "776",
+      "count": 1
+    },
+    {
+      "word": "79",
+      "count": 1
+    },
+    {
+      "word": "8",
+      "count": 1
+    },
+    {
+      "word": "80",
+      "count": 1
+    },
+    {
+      "word": "81",
+      "count": 1
+    },
+    {
+      "word": "85",
+      "count": 1
+    },
+    {
+      "word": "895",
+      "count": 1
+    },
+    {
+      "word": "91",
+      "count": 1
+    },
+    {
+      "word": "92",
+      "count": 1
+    },
+    {
+      "word": "93",
+      "count": 1
+    },
+    {
+      "word": "95",
+      "count": 1
+    },
+    {
+      "word": "97",
+      "count": 1
+    },
+    {
+      "word": "abandoned",
+      "count": 1
+    },
+    {
+      "word": "abandonedassassination",
+      "count": 1
+    },
+    {
+      "word": "abbeville",
+      "count": 1
+    },
+    {
+      "word": "abilities",
+      "count": 1
+    },
+    {
+      "word": "abolish",
+      "count": 1
+    },
+    {
+      "word": "absence",
+      "count": 1
+    },
+    {
+      "word": "absolute",
+      "count": 1
+    },
+    {
+      "word": "absolutely",
+      "count": 1
+    },
+    {
+      "word": "abstruse",
+      "count": 1
+    },
+    {
+      "word": "accept",
+      "count": 1
+    },
+    {
+      "word": "accommodation",
+      "count": 1
+    },
+    {
+      "word": "accompany",
+      "count": 1
+    },
+    {
+      "word": "accomplices",
+      "count": 1
+    },
+    {
+      "word": "accustomed",
+      "count": 1
+    },
+    {
+      "word": "acknowledging",
+      "count": 1
+    },
+    {
+      "word": "acquainted",
+      "count": 1
+    },
+    {
+      "word": "acquire",
+      "count": 1
+    },
+    {
+      "word": "acquisition",
+      "count": 1
+    },
+    {
+      "word": "across",
+      "count": 1
+    },
+    {
+      "word": "actions",
+      "count": 1
+    },
+    {
+      "word": "active",
+      "count": 1
+    },
+    {
+      "word": "acts",
+      "count": 1
+    },
+    {
+      "word": "addition",
+      "count": 1
+    },
+    {
+      "word": "address",
+      "count": 1
+    },
+    {
+      "word": "adhere",
+      "count": 1
+    },
+    {
+      "word": "adhered",
+      "count": 1
+    },
+    {
+      "word": "adherence",
+      "count": 1
+    },
+    {
+      "word": "adjust",
+      "count": 1
+    },
+    {
+      "word": "administered",
+      "count": 1
+    },
+    {
+      "word": "advantageous",
+      "count": 1
+    },
+    {
+      "word": "advice",
+      "count": 1
+    },
+    {
+      "word": "advised",
+      "count": 1
+    },
+    {
+      "word": "advocate",
+      "count": 1
+    },
+    {
+      "word": "affability",
+      "count": 1
+    },
+    {
+      "word": "affected",
+      "count": 1
+    },
+    {
+      "word": "affections",
+      "count": 1
+    },
+    {
+      "word": "aggravated",
+      "count": 1
+    },
+    {
+      "word": "agitated",
+      "count": 1
+    },
+    {
+      "word": "agreeable",
+      "count": 1
+    },
+    {
+      "word": "agreement",
+      "count": 1
+    },
+    {
+      "word": "aid",
+      "count": 1
+    },
+    {
+      "word": "alien",
+      "count": 1
+    },
+    {
+      "word": "alive",
+      "count": 1
+    },
+    {
+      "word": "allan",
+      "count": 1
+    },
+    {
+      "word": "allowance",
+      "count": 1
+    },
+    {
+      "word": "allowing",
+      "count": 1
+    },
+    {
+      "word": "allured",
+      "count": 1
+    },
+    {
+      "word": "ally",
+      "count": 1
+    },
+    {
+      "word": "altar",
+      "count": 1
+    },
+    {
+      "word": "alterations",
+      "count": 1
+    },
+    {
+      "word": "altered",
+      "count": 1
+    },
+    {
+      "word": "altogether",
+      "count": 1
+    },
+    {
+      "word": "amassed",
+      "count": 1
+    },
+    {
+      "word": "amendment",
+      "count": 1
+    },
+    {
+      "word": "amiens",
+      "count": 1
+    },
+    {
+      "word": "amity",
+      "count": 1
+    },
+    {
+      "word": "amounts",
+      "count": 1
+    },
+    {
+      "word": "amusement",
+      "count": 1
+    },
+    {
+      "word": "anchor",
+      "count": 1
+    },
+    {
+      "word": "anew",
+      "count": 1
+    },
+    {
+      "word": "angoumois",
+      "count": 1
+    },
+    {
+      "word": "annex",
+      "count": 1
+    },
+    {
+      "word": "annexation",
+      "count": 1
+    },
+    {
+      "word": "annoy",
+      "count": 1
+    },
+    {
+      "word": "annual",
+      "count": 1
+    },
+    {
+      "word": "antipathy",
+      "count": 1
+    },
+    {
+      "word": "anywise",
+      "count": 1
+    },
+    {
+      "word": "appealed",
+      "count": 1
+    },
+    {
+      "word": "appear",
+      "count": 1
+    },
+    {
+      "word": "appearing",
+      "count": 1
+    },
+    {
+      "word": "appendage",
+      "count": 1
+    },
+    {
+      "word": "application",
+      "count": 1
+    },
+    {
+      "word": "apprehended",
+      "count": 1
+    },
+    {
+      "word": "apprehensions",
+      "count": 1
+    },
+    {
+      "word": "apprized",
+      "count": 1
+    },
+    {
+      "word": "approaching",
+      "count": 1
+    },
+    {
+      "word": "approbation",
+      "count": 1
+    },
+    {
+      "word": "apt",
+      "count": 1
+    },
+    {
+      "word": "arbitrary",
+      "count": 1
+    },
+    {
+      "word": "ardour",
+      "count": 1
+    },
+    {
+      "word": "aristocracy",
+      "count": 1
+    },
+    {
+      "word": "arras",
+      "count": 1
+    },
+    {
+      "word": "array",
+      "count": 1
+    },
+    {
+      "word": "arrival",
+      "count": 1
+    },
+    {
+      "word": "arrived",
+      "count": 1
+    },
+    {
+      "word": "arrows",
+      "count": 1
+    },
+    {
+      "word": "art",
+      "count": 1
+    },
+    {
+      "word": "arundel",
+      "count": 1
+    },
+    {
+      "word": "ascendant",
+      "count": 1
+    },
+    {
+      "word": "ascribed",
+      "count": 1
+    },
+    {
+      "word": "ashamed",
+      "count": 1
+    },
+    {
+      "word": "aspired",
+      "count": 1
+    },
+    {
+      "word": "assassinated",
+      "count": 1
+    },
+    {
+      "word": "assassinations",
+      "count": 1
+    },
+    {
+      "word": "assemblies",
+      "count": 1
+    },
+    {
+      "word": "assembling",
+      "count": 1
+    },
+    {
+      "word": "assist",
+      "count": 1
+    },
+    {
+      "word": "associates",
+      "count": 1
+    },
+    {
+      "word": "assuming",
+      "count": 1
+    },
+    {
+      "word": "astonished",
+      "count": 1
+    },
+    {
+      "word": "astonishing",
+      "count": 1
+    },
+    {
+      "word": "attached",
+      "count": 1
+    },
+    {
+      "word": "attaching",
+      "count": 1
+    },
+    {
+      "word": "attacked",
+      "count": 1
+    },
+    {
+      "word": "attacking",
+      "count": 1
+    },
+    {
+      "word": "attending",
+      "count": 1
+    },
+    {
+      "word": "attends",
+      "count": 1
+    },
+    {
+      "word": "augmented",
+      "count": 1
+    },
+    {
+      "word": "august",
+      "count": 1
+    },
+    {
+      "word": "augustus",
+      "count": 1
+    },
+    {
+      "word": "authentic",
+      "count": 1
+    },
+    {
+      "word": "author",
+      "count": 1
+    },
+    {
+      "word": "auxerre",
+      "count": 1
+    },
+    {
+      "word": "averse",
+      "count": 1
+    },
+    {
+      "word": "avoid",
+      "count": 1
+    },
+    {
+      "word": "avowal",
+      "count": 1
+    },
+    {
+      "word": "avowing",
+      "count": 1
+    },
+    {
+      "word": "awe",
+      "count": 1
+    },
+    {
+      "word": "azincourhenry",
+      "count": 1
+    },
+    {
+      "word": "baggage",
+      "count": 1
+    },
+    {
+      "word": "balls",
+      "count": 1
+    },
+    {
+      "word": "bands",
+      "count": 1
+    },
+    {
+      "word": "bank",
+      "count": 1
+    },
+    {
+      "word": "bar",
+      "count": 1
+    },
+    {
+      "word": "barbarity",
+      "count": 1
+    },
+    {
+      "word": "barons",
+      "count": 1
+    },
+    {
+      "word": "barre",
+      "count": 1
+    },
+    {
+      "word": "basest",
+      "count": 1
+    },
+    {
+      "word": "bastard",
+      "count": 1
+    },
+    {
+      "word": "battle-axes",
+      "count": 1
+    },
+    {
+      "word": "battles",
+      "count": 1
+    },
+    {
+      "word": "baugé",
+      "count": 1
+    },
+    {
+      "word": "bavaria",
+      "count": 1
+    },
+    {
+      "word": "beaumont",
+      "count": 1
+    },
+    {
+      "word": "beautiful",
+      "count": 1
+    },
+    {
+      "word": "beginning",
+      "count": 1
+    },
+    {
+      "word": "begun",
+      "count": 1
+    },
+    {
+      "word": "behoved",
+      "count": 1
+    },
+    {
+      "word": "benches",
+      "count": 1
+    },
+    {
+      "word": "bent",
+      "count": 1
+    },
+    {
+      "word": "bequeathed",
+      "count": 1
+    },
+    {
+      "word": "berri",
+      "count": 1
+    },
+    {
+      "word": "besieged",
+      "count": 1
+    },
+    {
+      "word": "besiegers",
+      "count": 1
+    },
+    {
+      "word": "bestowed",
+      "count": 1
+    },
+    {
+      "word": "betrayed",
+      "count": 1
+    },
+    {
+      "word": "birth",
+      "count": 1
+    },
+    {
+      "word": "black",
+      "count": 1
+    },
+    {
+      "word": "blame",
+      "count": 1
+    },
+    {
+      "word": "blangi",
+      "count": 1
+    },
+    {
+      "word": "blanquetague",
+      "count": 1
+    },
+    {
+      "word": "blemish",
+      "count": 1
+    },
+    {
+      "word": "blind",
+      "count": 1
+    },
+    {
+      "word": "bodies",
+      "count": 1
+    },
+    {
+      "word": "bois-bourdon",
+      "count": 1
+    },
+    {
+      "word": "boldness",
+      "count": 1
+    },
+    {
+      "word": "borough",
+      "count": 1
+    },
+    {
+      "word": "borrowed",
+      "count": 1
+    },
+    {
+      "word": "boucicaut",
+      "count": 1
+    },
+    {
+      "word": "bound",
+      "count": 1
+    },
+    {
+      "word": "box",
+      "count": 1
+    },
+    {
+      "word": "brabant",
+      "count": 1
+    },
+    {
+      "word": "break",
+      "count": 1
+    },
+    {
+      "word": "breaking",
+      "count": 1
+    },
+    {
+      "word": "breed",
+      "count": 1
+    },
+    {
+      "word": "bretigni",
+      "count": 1
+    },
+    {
+      "word": "bribe",
+      "count": 1
+    },
+    {
+      "word": "brighter",
+      "count": 1
+    },
+    {
+      "word": "broken",
+      "count": 1
+    },
+    {
+      "word": "build",
+      "count": 1
+    },
+    {
+      "word": "bulk",
+      "count": 1
+    },
+    {
+      "word": "burgundian",
+      "count": 1
+    },
+    {
+      "word": "buried",
+      "count": 1
+    },
+    {
+      "word": "burned",
+      "count": 1
+    },
+    {
+      "word": "burnt",
+      "count": 1
+    },
+    {
+      "word": "butchers",
+      "count": 1
+    },
+    {
+      "word": "caen",
+      "count": 1
+    },
+    {
+      "word": "camp",
+      "count": 1
+    },
+    {
+      "word": "campaign",
+      "count": 1
+    },
+    {
+      "word": "can",
+      "count": 1
+    },
+    {
+      "word": "capitivity",
+      "count": 1
+    },
+    {
+      "word": "captives",
+      "count": 1
+    },
+    {
+      "word": "captivity",
+      "count": 1
+    },
+    {
+      "word": "cardinal",
+      "count": 1
+    },
+    {
+      "word": "cares",
+      "count": 1
+    },
+    {
+      "word": "carpenters",
+      "count": 1
+    },
+    {
+      "word": "carrying",
+      "count": 1
+    },
+    {
+      "word": "catholic",
+      "count": 1
+    },
+    {
+      "word": "cautiously",
+      "count": 1
+    },
+    {
+      "word": "ceased",
+      "count": 1
+    },
+    {
+      "word": "ceded",
+      "count": 1
+    },
+    {
+      "word": "celebrated",
+      "count": 1
+    },
+    {
+      "word": "cemented",
+      "count": 1
+    },
+    {
+      "word": "center",
+      "count": 1
+    },
+    {
+      "word": "ceremony",
+      "count": 1
+    },
+    {
+      "word": "cession",
+      "count": 1
+    },
+    {
+      "word": "chalons",
+      "count": 1
+    },
+    {
+      "word": "chancellor",
+      "count": 1
+    },
+    {
+      "word": "changes",
+      "count": 1
+    },
+    {
+      "word": "characters",
+      "count": 1
+    },
+    {
+      "word": "charolois",
+      "count": 1
+    },
+    {
+      "word": "charter",
+      "count": 1
+    },
+    {
+      "word": "chased",
+      "count": 1
+    },
+    {
+      "word": "chatel",
+      "count": 1
+    },
+    {
+      "word": "cheapness",
+      "count": 1
+    },
+    {
+      "word": "check",
+      "count": 1
+    },
+    {
+      "word": "cherished",
+      "count": 1
+    },
+    {
+      "word": "chicheley",
+      "count": 1
+    },
+    {
+      "word": "chiefly",
+      "count": 1
+    },
+    {
+      "word": "chosen",
+      "count": 1
+    },
+    {
+      "word": "chronicon",
+      "count": 1
+    },
+    {
+      "word": "claims",
+      "count": 1
+    },
+    {
+      "word": "clay",
+      "count": 1
+    },
+    {
+      "word": "clemency",
+      "count": 1
+    },
+    {
+      "word": "cloud",
+      "count": 1
+    },
+    {
+      "word": "coasts",
+      "count": 1
+    },
+    {
+      "word": "cobham's",
+      "count": 1
+    },
+    {
+      "word": "combination",
+      "count": 1
+    },
+    {
+      "word": "combustion",
+      "count": 1
+    },
+    {
+      "word": "comfort",
+      "count": 1
+    },
+    {
+      "word": "coming",
+      "count": 1
+    },
+    {
+      "word": "command",
+      "count": 1
+    },
+    {
+      "word": "commanded",
+      "count": 1
+    },
+    {
+      "word": "commands",
+      "count": 1
+    },
+    {
+      "word": "commerce",
+      "count": 1
+    },
+    {
+      "word": "commissioners",
+      "count": 1
+    },
+    {
+      "word": "commoners",
+      "count": 1
+    },
+    {
+      "word": "commons",
+      "count": 1
+    },
+    {
+      "word": "commotion",
+      "count": 1
+    },
+    {
+      "word": "commotions",
+      "count": 1
+    },
+    {
+      "word": "communities",
+      "count": 1
+    },
+    {
+      "word": "companies",
+      "count": 1
+    },
+    {
+      "word": "companion",
+      "count": 1
+    },
+    {
+      "word": "compass",
+      "count": 1
+    },
+    {
+      "word": "compensation",
+      "count": 1
+    },
+    {
+      "word": "competitor",
+      "count": 1
+    },
+    {
+      "word": "complained",
+      "count": 1
+    },
+    {
+      "word": "complaisance",
+      "count": 1
+    },
+    {
+      "word": "completion",
+      "count": 1
+    },
+    {
+      "word": "complied",
+      "count": 1
+    },
+    {
+      "word": "composed",
+      "count": 1
+    },
+    {
+      "word": "compute",
+      "count": 1
+    },
+    {
+      "word": "computed",
+      "count": 1
+    },
+    {
+      "word": "conceal",
+      "count": 1
+    },
+    {
+      "word": "concern",
+      "count": 1
+    },
+    {
+      "word": "concerned",
+      "count": 1
+    },
+    {
+      "word": "concerning",
+      "count": 1
+    },
+    {
+      "word": "concerted",
+      "count": 1
+    },
+    {
+      "word": "concession",
+      "count": 1
+    },
+    {
+      "word": "conciliate",
+      "count": 1
+    },
+    {
+      "word": "concise",
+      "count": 1
+    },
+    {
+      "word": "concurred",
+      "count": 1
+    },
+    {
+      "word": "condition",
+      "count": 1
+    },
+    {
+      "word": "conditions",
+      "count": 1
+    },
+    {
+      "word": "conducting",
+      "count": 1
+    },
+    {
+      "word": "confer",
+      "count": 1
+    },
+    {
+      "word": "conference",
+      "count": 1
+    },
+    {
+      "word": "conferences",
+      "count": 1
+    },
+    {
+      "word": "conferred",
+      "count": 1
+    },
+    {
+      "word": "confessed",
+      "count": 1
+    },
+    {
+      "word": "confession",
+      "count": 1
+    },
+    {
+      "word": "confine",
+      "count": 1
+    },
+    {
+      "word": "confirmed",
+      "count": 1
+    },
+    {
+      "word": "confusions",
+      "count": 1
+    },
+    {
+      "word": "conjured",
+      "count": 1
+    },
+    {
+      "word": "connection",
+      "count": 1
+    },
+    {
+      "word": "connexions",
+      "count": 1
+    },
+    {
+      "word": "conquered",
+      "count": 1
+    },
+    {
+      "word": "conquests",
+      "count": 1
+    },
+    {
+      "word": "consciousness",
+      "count": 1
+    },
+    {
+      "word": "consequently",
+      "count": 1
+    },
+    {
+      "word": "considerations",
+      "count": 1
+    },
+    {
+      "word": "conspires",
+      "count": 1
+    },
+    {
+      "word": "consternation",
+      "count": 1
+    },
+    {
+      "word": "constitution",
+      "count": 1
+    },
+    {
+      "word": "cont",
+      "count": 1
+    },
+    {
+      "word": "contending",
+      "count": 1
+    },
+    {
+      "word": "contented",
+      "count": 1
+    },
+    {
+      "word": "contin",
+      "count": 1
+    },
+    {
+      "word": "continent",
+      "count": 1
+    },
+    {
+      "word": "continue",
+      "count": 1
+    },
+    {
+      "word": "continuing",
+      "count": 1
+    },
+    {
+      "word": "contracted",
+      "count": 1
+    },
+    {
+      "word": "contrary",
+      "count": 1
+    },
+    {
+      "word": "contrivances",
+      "count": 1
+    },
+    {
+      "word": "contrive",
+      "count": 1
+    },
+    {
+      "word": "controversies",
+      "count": 1
+    },
+    {
+      "word": "controversy",
+      "count": 1
+    },
+    {
+      "word": "convenience",
+      "count": 1
+    },
+    {
+      "word": "conversation",
+      "count": 1
+    },
+    {
+      "word": "conversion",
+      "count": 1
+    },
+    {
+      "word": "convert",
+      "count": 1
+    },
+    {
+      "word": "convicted",
+      "count": 1
+    },
+    {
+      "word": "conviction",
+      "count": 1
+    },
+    {
+      "word": "correspondence",
+      "count": 1
+    },
+    {
+      "word": "cost",
+      "count": 1
+    },
+    {
+      "word": "cotton",
+      "count": 1
+    },
+    {
+      "word": "counterbalance",
+      "count": 1
+    },
+    {
+      "word": "counterpoize",
+      "count": 1
+    },
+    {
+      "word": "countries",
+      "count": 1
+    },
+    {
+      "word": "countrymen",
+      "count": 1
+    },
+    {
+      "word": "counts",
+      "count": 1
+    },
+    {
+      "word": "courted",
+      "count": 1
+    },
+    {
+      "word": "courtesy",
+      "count": 1
+    },
+    {
+      "word": "cousin-german",
+      "count": 1
+    },
+    {
+      "word": "cover",
+      "count": 1
+    },
+    {
+      "word": "covered",
+      "count": 1
+    },
+    {
+      "word": "credible",
+      "count": 1
+    },
+    {
+      "word": "cries",
+      "count": 1
+    },
+    {
+      "word": "crimes",
+      "count": 1
+    },
+    {
+      "word": "criminals",
+      "count": 1
+    },
+    {
+      "word": "crowded",
+      "count": 1
+    },
+    {
+      "word": "crowned",
+      "count": 1
+    },
+    {
+      "word": "croyl",
+      "count": 1
+    },
+    {
+      "word": "croyland",
+      "count": 1
+    },
+    {
+      "word": "crusade",
+      "count": 1
+    },
+    {
+      "word": "culture",
+      "count": 1
+    },
+    {
+      "word": "cure",
+      "count": 1
+    },
+    {
+      "word": "curiosity",
+      "count": 1
+    },
+    {
+      "word": "customs",
+      "count": 1
+    },
+    {
+      "word": "d'estoüteville",
+      "count": 1
+    },
+    {
+      "word": "d'eu",
+      "count": 1
+    },
+    {
+      "word": "dangers",
+      "count": 1
+    },
+    {
+      "word": "dared",
+      "count": 1
+    },
+    {
+      "word": "dauphin's",
+      "count": 1
+    },
+    {
+      "word": "david's",
+      "count": 1
+    },
+    {
+      "word": "days",
+      "count": 1
+    },
+    {
+      "word": "dazzled",
+      "count": 1
+    },
+    {
+      "word": "deal",
+      "count": 1
+    },
+    {
+      "word": "dear",
+      "count": 1
+    },
+    {
+      "word": "debauchery",
+      "count": 1
+    },
+    {
+      "word": "deceiving",
+      "count": 1
+    },
+    {
+      "word": "decency",
+      "count": 1
+    },
+    {
+      "word": "decision",
+      "count": 1
+    },
+    {
+      "word": "decisive",
+      "count": 1
+    },
+    {
+      "word": "decline",
+      "count": 1
+    },
+    {
+      "word": "deem",
+      "count": 1
+    },
+    {
+      "word": "deemed",
+      "count": 1
+    },
+    {
+      "word": "deeming",
+      "count": 1
+    },
+    {
+      "word": "deepest",
+      "count": 1
+    },
+    {
+      "word": "defeated",
+      "count": 1
+    },
+    {
+      "word": "defenceless",
+      "count": 1
+    },
+    {
+      "word": "deficiency",
+      "count": 1
+    },
+    {
+      "word": "degraded",
+      "count": 1
+    },
+    {
+      "word": "delay",
+      "count": 1
+    },
+    {
+      "word": "deliberate",
+      "count": 1
+    },
+    {
+      "word": "deliberately",
+      "count": 1
+    },
+    {
+      "word": "deliver",
+      "count": 1
+    },
+    {
+      "word": "deliverance",
+      "count": 1
+    },
+    {
+      "word": "demand",
+      "count": 1
+    },
+    {
+      "word": "demanding",
+      "count": 1
+    },
+    {
+      "word": "deportment",
+      "count": 1
+    },
+    {
+      "word": "deposed",
+      "count": 1
+    },
+    {
+      "word": "deposing",
+      "count": 1
+    },
+    {
+      "word": "deposition",
+      "count": 1
+    },
+    {
+      "word": "depredations",
+      "count": 1
+    },
+    {
+      "word": "derision",
+      "count": 1
+    },
+    {
+      "word": "descendant",
+      "count": 1
+    },
+    {
+      "word": "descended",
+      "count": 1
+    },
+    {
+      "word": "design",
+      "count": 1
+    },
+    {
+      "word": "desired",
+      "count": 1
+    },
+    {
+      "word": "despaired",
+      "count": 1
+    },
+    {
+      "word": "desperate",
+      "count": 1
+    },
+    {
+      "word": "despoiling",
+      "count": 1
+    },
+    {
+      "word": "destroyed",
+      "count": 1
+    },
+    {
+      "word": "destructive",
+      "count": 1
+    },
+    {
+      "word": "detection",
+      "count": 1
+    },
+    {
+      "word": "detention",
+      "count": 1
+    },
+    {
+      "word": "detestable",
+      "count": 1
+    },
+    {
+      "word": "detestation",
+      "count": 1
+    },
+    {
+      "word": "detested",
+      "count": 1
+    },
+    {
+      "word": "devolved",
+      "count": 1
+    },
+    {
+      "word": "devoted",
+      "count": 1
+    },
+    {
+      "word": "devotions",
+      "count": 1
+    },
+    {
+      "word": "dexterity",
+      "count": 1
+    },
+    {
+      "word": "dexterous",
+      "count": 1
+    },
+    {
+      "word": "dictate",
+      "count": 1
+    },
+    {
+      "word": "did",
+      "count": 1
+    },
+    {
+      "word": "died",
+      "count": 1
+    },
+    {
+      "word": "differences",
+      "count": 1
+    },
+    {
+      "word": "different",
+      "count": 1
+    },
+    {
+      "word": "dignity",
+      "count": 1
+    },
+    {
+      "word": "dilatory",
+      "count": 1
+    },
+    {
+      "word": "direction",
+      "count": 1
+    },
+    {
+      "word": "disappointed",
+      "count": 1
+    },
+    {
+      "word": "disappointment",
+      "count": 1
+    },
+    {
+      "word": "disbanded",
+      "count": 1
+    },
+    {
+      "word": "disciples",
+      "count": 1
+    },
+    {
+      "word": "discomposed",
+      "count": 1
+    },
+    {
+      "word": "discourage",
+      "count": 1
+    },
+    {
+      "word": "discouraged",
+      "count": 1
+    },
+    {
+      "word": "discouragement",
+      "count": 1
+    },
+    {
+      "word": "discover",
+      "count": 1
+    },
+    {
+      "word": "discovering",
+      "count": 1
+    },
+    {
+      "word": "discovery",
+      "count": 1
+    },
+    {
+      "word": "discredit",
+      "count": 1
+    },
+    {
+      "word": "discredited",
+      "count": 1
+    },
+    {
+      "word": "discretion",
+      "count": 1
+    },
+    {
+      "word": "disembarked",
+      "count": 1
+    },
+    {
+      "word": "disgrace",
+      "count": 1
+    },
+    {
+      "word": "disjointed",
+      "count": 1
+    },
+    {
+      "word": "dismay",
+      "count": 1
+    },
+    {
+      "word": "dismounted",
+      "count": 1
+    },
+    {
+      "word": "disorder",
+      "count": 1
+    },
+    {
+      "word": "disordered",
+      "count": 1
+    },
+    {
+      "word": "disordersthemanyjealousies",
+      "count": 1
+    },
+    {
+      "word": "dispatching",
+      "count": 1
+    },
+    {
+      "word": "displeased",
+      "count": 1
+    },
+    {
+      "word": "displeasure",
+      "count": 1
+    },
+    {
+      "word": "disposed",
+      "count": 1
+    },
+    {
+      "word": "disposes",
+      "count": 1
+    },
+    {
+      "word": "disposition",
+      "count": 1
+    },
+    {
+      "word": "disputed",
+      "count": 1
+    },
+    {
+      "word": "disputes",
+      "count": 1
+    },
+    {
+      "word": "dissidence",
+      "count": 1
+    },
+    {
+      "word": "dissolute",
+      "count": 1
+    },
+    {
+      "word": "dissoluteness",
+      "count": 1
+    },
+    {
+      "word": "dissolve",
+      "count": 1
+    },
+    {
+      "word": "dissolved",
+      "count": 1
+    },
+    {
+      "word": "distemper",
+      "count": 1
+    },
+    {
+      "word": "distractions",
+      "count": 1
+    },
+    {
+      "word": "disturbance",
+      "count": 1
+    },
+    {
+      "word": "divide",
+      "count": 1
+    },
+    {
+      "word": "doing",
+      "count": 1
+    },
+    {
+      "word": "dominions",
+      "count": 1
+    },
+    {
+      "word": "dourlens",
+      "count": 1
+    },
+    {
+      "word": "dover",
+      "count": 1
+    },
+    {
+      "word": "down",
+      "count": 1
+    },
+    {
+      "word": "downfal",
+      "count": 1
+    },
+    {
+      "word": "draw",
+      "count": 1
+    },
+    {
+      "word": "dread",
+      "count": 1
+    },
+    {
+      "word": "dreux",
+      "count": 1
+    },
+    {
+      "word": "drooping",
+      "count": 1
+    },
+    {
+      "word": "dropping",
+      "count": 1
+    },
+    {
+      "word": "duly",
+      "count": 1
+    },
+    {
+      "word": "duration",
+      "count": 1
+    },
+    {
+      "word": "duties",
+      "count": 1
+    },
+    {
+      "word": "dying",
+      "count": 1
+    },
+    {
+      "word": "eager",
+      "count": 1
+    },
+    {
+      "word": "earls",
+      "count": 1
+    },
+    {
+      "word": "easily",
+      "count": 1
+    },
+    {
+      "word": "edmund",
+      "count": 1
+    },
+    {
+      "word": "efforts",
+      "count": 1
+    },
+    {
+      "word": "eighteen",
+      "count": 1
+    },
+    {
+      "word": "eighteenth",
+      "count": 1
+    },
+    {
+      "word": "elder",
+      "count": 1
+    },
+    {
+      "word": "elected",
+      "count": 1
+    },
+    {
+      "word": "eltham",
+      "count": 1
+    },
+    {
+      "word": "embarkation",
+      "count": 1
+    },
+    {
+      "word": "embarking",
+      "count": 1
+    },
+    {
+      "word": "embassadors",
+      "count": 1
+    },
+    {
+      "word": "embassies",
+      "count": 1
+    },
+    {
+      "word": "emissaries",
+      "count": 1
+    },
+    {
+      "word": "empires",
+      "count": 1
+    },
+    {
+      "word": "employ",
+      "count": 1
+    },
+    {
+      "word": "enable",
+      "count": 1
+    },
+    {
+      "word": "enabled",
+      "count": 1
+    },
+    {
+      "word": "enacted",
+      "count": 1
+    },
+    {
+      "word": "enacting",
+      "count": 1
+    },
+    {
+      "word": "encountered",
+      "count": 1
+    },
+    {
+      "word": "encouraged",
+      "count": 1
+    },
+    {
+      "word": "encouragement",
+      "count": 1
+    },
+    {
+      "word": "encreasing",
+      "count": 1
+    },
+    {
+      "word": "endeavour",
+      "count": 1
+    },
+    {
+      "word": "endeavours",
+      "count": 1
+    },
+    {
+      "word": "enemies'",
+      "count": 1
+    },
+    {
+      "word": "enemy's",
+      "count": 1
+    },
+    {
+      "word": "engagement",
+      "count": 1
+    },
+    {
+      "word": "engagements",
+      "count": 1
+    },
+    {
+      "word": "engaging",
+      "count": 1
+    },
+    {
+      "word": "enjoy",
+      "count": 1
+    },
+    {
+      "word": "enough",
+      "count": 1
+    },
+    {
+      "word": "entertain",
+      "count": 1
+    },
+    {
+      "word": "enthusiasm",
+      "count": 1
+    },
+    {
+      "word": "entrusted",
+      "count": 1
+    },
+    {
+      "word": "equal",
+      "count": 1
+    },
+    {
+      "word": "era",
+      "count": 1
+    },
+    {
+      "word": "erroneous",
+      "count": 1
+    },
+    {
+      "word": "escaped",
+      "count": 1
+    },
+    {
+      "word": "essential",
+      "count": 1
+    },
+    {
+      "word": "establishing",
+      "count": 1
+    },
+    {
+      "word": "estates",
+      "count": 1
+    },
+    {
+      "word": "esteem",
+      "count": 1
+    },
+    {
+      "word": "etampes",
+      "count": 1
+    },
+    {
+      "word": "evidently",
+      "count": 1
+    },
+    {
+      "word": "evils",
+      "count": 1
+    },
+    {
+      "word": "evreux",
+      "count": 1
+    },
+    {
+      "word": "exact",
+      "count": 1
+    },
+    {
+      "word": "exactly",
+      "count": 1
+    },
+    {
+      "word": "examined",
+      "count": 1
+    },
+    {
+      "word": "exceeded",
+      "count": 1
+    },
+    {
+      "word": "excelled",
+      "count": 1
+    },
+    {
+      "word": "excluded",
+      "count": 1
+    },
+    {
+      "word": "execute",
+      "count": 1
+    },
+    {
+      "word": "execution31st",
+      "count": 1
+    },
+    {
+      "word": "exercise",
+      "count": 1
+    },
+    {
+      "word": "exercises",
+      "count": 1
+    },
+    {
+      "word": "exercising",
+      "count": 1
+    },
+    {
+      "word": "exert",
+      "count": 1
+    },
+    {
+      "word": "exhausted",
+      "count": 1
+    },
+    {
+      "word": "exhortations",
+      "count": 1
+    },
+    {
+      "word": "exorbitant",
+      "count": 1
+    },
+    {
+      "word": "expeditions",
+      "count": 1
+    },
+    {
+      "word": "expel",
+      "count": 1
+    },
+    {
+      "word": "expences",
+      "count": 1
+    },
+    {
+      "word": "experience",
+      "count": 1
+    },
+    {
+      "word": "expired",
+      "count": 1
+    },
+    {
+      "word": "exportation",
+      "count": 1
+    },
+    {
+      "word": "expose",
+      "count": 1
+    },
+    {
+      "word": "express",
+      "count": 1
+    },
+    {
+      "word": "expressions",
+      "count": 1
+    },
+    {
+      "word": "expressly",
+      "count": 1
+    },
+    {
+      "word": "expulsion",
+      "count": 1
+    },
+    {
+      "word": "extended",
+      "count": 1
+    },
+    {
+      "word": "extensive",
+      "count": 1
+    },
+    {
+      "word": "exterior",
+      "count": 1
+    },
+    {
+      "word": "extirpation",
+      "count": 1
+    },
+    {
+      "word": "extravagancies",
+      "count": 1
+    },
+    {
+      "word": "extravagant",
+      "count": 1
+    },
+    {
+      "word": "extremity",
+      "count": 1
+    },
+    {
+      "word": "eye",
+      "count": 1
+    },
+    {
+      "word": "face",
+      "count": 1
+    },
+    {
+      "word": "facility",
+      "count": 1
+    },
+    {
+      "word": "faith",
+      "count": 1
+    },
+    {
+      "word": "faithful",
+      "count": 1
+    },
+    {
+      "word": "falaise",
+      "count": 1
+    },
+    {
+      "word": "famine",
+      "count": 1
+    },
+    {
+      "word": "famous",
+      "count": 1
+    },
+    {
+      "word": "fathers",
+      "count": 1
+    },
+    {
+      "word": "fatigue",
+      "count": 1
+    },
+    {
+      "word": "fatigues",
+      "count": 1
+    },
+    {
+      "word": "favourite",
+      "count": 1
+    },
+    {
+      "word": "feared",
+      "count": 1
+    },
+    {
+      "word": "female",
+      "count": 1
+    },
+    {
+      "word": "fewer",
+      "count": 1
+    },
+    {
+      "word": "fields",
+      "count": 1
+    },
+    {
+      "word": "fifteenths",
+      "count": 1
+    },
+    {
+      "word": "fifty-first",
+      "count": 1
+    },
+    {
+      "word": "fighting",
+      "count": 1
+    },
+    {
+      "word": "filled",
+      "count": 1
+    },
+    {
+      "word": "finally",
+      "count": 1
+    },
+    {
+      "word": "finding",
+      "count": 1
+    },
+    {
+      "word": "finished",
+      "count": 1
+    },
+    {
+      "word": "firmness",
+      "count": 1
+    },
+    {
+      "word": "fistula",
+      "count": 1
+    },
+    {
+      "word": "fit",
+      "count": 1
+    },
+    {
+      "word": "flame",
+      "count": 1
+    },
+    {
+      "word": "flames",
+      "count": 1
+    },
+    {
+      "word": "flank",
+      "count": 1
+    },
+    {
+      "word": "fleet",
+      "count": 1
+    },
+    {
+      "word": "fleetwood's",
+      "count": 1
+    },
+    {
+      "word": "flemish",
+      "count": 1
+    },
+    {
+      "word": "follow",
+      "count": 1
+    },
+    {
+      "word": "followers",
+      "count": 1
+    },
+    {
+      "word": "fomented",
+      "count": 1
+    },
+    {
+      "word": "forces",
+      "count": 1
+    },
+    {
+      "word": "forfeit",
+      "count": 1
+    },
+    {
+      "word": "forgotten",
+      "count": 1
+    },
+    {
+      "word": "form",
+      "count": 1
+    },
+    {
+      "word": "formalities",
+      "count": 1
+    },
+    {
+      "word": "formidable",
+      "count": 1
+    },
+    {
+      "word": "fortifications",
+      "count": 1
+    },
+    {
+      "word": "fortress",
+      "count": 1
+    },
+    {
+      "word": "fortresses",
+      "count": 1
+    },
+    {
+      "word": "fortunes",
+      "count": 1
+    },
+    {
+      "word": "fox's",
+      "count": 1
+    },
+    {
+      "word": "france14th",
+      "count": 1
+    },
+    {
+      "word": "francebut",
+      "count": 1
+    },
+    {
+      "word": "free",
+      "count": 1
+    },
+    {
+      "word": "freemen",
+      "count": 1
+    },
+    {
+      "word": "frenzy",
+      "count": 1
+    },
+    {
+      "word": "froissard",
+      "count": 1
+    },
+    {
+      "word": "frolic",
+      "count": 1
+    },
+    {
+      "word": "front",
+      "count": 1
+    },
+    {
+      "word": "frontier",
+      "count": 1
+    },
+    {
+      "word": "fruitless",
+      "count": 1
+    },
+    {
+      "word": "fundamental",
+      "count": 1
+    },
+    {
+      "word": "funeral",
+      "count": 1
+    },
+    {
+      "word": "furies",
+      "count": 1
+    },
+    {
+      "word": "furious",
+      "count": 1
+    },
+    {
+      "word": "gaining",
+      "count": 1
+    },
+    {
+      "word": "gallantry",
+      "count": 1
+    },
+    {
+      "word": "gaucourt",
+      "count": 1
+    },
+    {
+      "word": "gaunt",
+      "count": 1
+    },
+    {
+      "word": "generality",
+      "count": 1
+    },
+    {
+      "word": "generally",
+      "count": 1
+    },
+    {
+      "word": "generals",
+      "count": 1
+    },
+    {
+      "word": "generous",
+      "count": 1
+    },
+    {
+      "word": "genteel",
+      "count": 1
+    },
+    {
+      "word": "gentleman",
+      "count": 1
+    },
+    {
+      "word": "gibbet",
+      "count": 1
+    },
+    {
+      "word": "giles's",
+      "count": 1
+    },
+    {
+      "word": "gisors",
+      "count": 1
+    },
+    {
+      "word": "giving",
+      "count": 1
+    },
+    {
+      "word": "gleams",
+      "count": 1
+    },
+    {
+      "word": "glories",
+      "count": 1
+    },
+    {
+      "word": "gloucester",
+      "count": 1
+    },
+    {
+      "word": "go",
+      "count": 1
+    },
+    {
+      "word": "goodwin",
+      "count": 1
+    },
+    {
+      "word": "goodwin's",
+      "count": 1
+    },
+    {
+      "word": "governed",
+      "count": 1
+    },
+    {
+      "word": "gradually",
+      "count": 1
+    },
+    {
+      "word": "grandson",
+      "count": 1
+    },
+    {
+      "word": "grant",
+      "count": 1
+    },
+    {
+      "word": "gratification",
+      "count": 1
+    },
+    {
+      "word": "greatest",
+      "count": 1
+    },
+    {
+      "word": "ground",
+      "count": 1
+    },
+    {
+      "word": "guienne",
+      "count": 1
+    },
+    {
+      "word": "guitri",
+      "count": 1
+    },
+    {
+      "word": "half",
+      "count": 1
+    },
+    {
+      "word": "hang",
+      "count": 1
+    },
+    {
+      "word": "harangues",
+      "count": 1
+    },
+    {
+      "word": "harass",
+      "count": 1
+    },
+    {
+      "word": "harassed",
+      "count": 1
+    },
+    {
+      "word": "hard",
+      "count": 1
+    },
+    {
+      "word": "hastened",
+      "count": 1
+    },
+    {
+      "word": "hastening",
+      "count": 1
+    },
+    {
+      "word": "hazard",
+      "count": 1
+    },
+    {
+      "word": "hazardous",
+      "count": 1
+    },
+    {
+      "word": "hazards",
+      "count": 1
+    },
+    {
+      "word": "heat",
+      "count": 1
+    },
+    {
+      "word": "heated",
+      "count": 1
+    },
+    {
+      "word": "heights",
+      "count": 1
+    },
+    {
+      "word": "heirs",
+      "count": 1
+    },
+    {
+      "word": "hen",
+      "count": 1
+    },
+    {
+      "word": "heresiarch",
+      "count": 1
+    },
+    {
+      "word": "heretic",
+      "count": 1
+    },
+    {
+      "word": "heretics",
+      "count": 1
+    },
+    {
+      "word": "heton",
+      "count": 1
+    },
+    {
+      "word": "hewed",
+      "count": 1
+    },
+    {
+      "word": "higher",
+      "count": 1
+    },
+    {
+      "word": "highways",
+      "count": 1
+    },
+    {
+      "word": "hindered",
+      "count": 1
+    },
+    {
+      "word": "historians",
+      "count": 1
+    },
+    {
+      "word": "hither",
+      "count": 1
+    },
+    {
+      "word": "holy",
+      "count": 1
+    },
+    {
+      "word": "home",
+      "count": 1
+    },
+    {
+      "word": "hope",
+      "count": 1
+    },
+    {
+      "word": "hoped",
+      "count": 1
+    },
+    {
+      "word": "hoping",
+      "count": 1
+    },
+    {
+      "word": "horse",
+      "count": 1
+    },
+    {
+      "word": "horseback",
+      "count": 1
+    },
+    {
+      "word": "horseman",
+      "count": 1
+    },
+    {
+      "word": "horsemen",
+      "count": 1
+    },
+    {
+      "word": "horses",
+      "count": 1
+    },
+    {
+      "word": "household",
+      "count": 1
+    },
+    {
+      "word": "houses",
+      "count": 1
+    },
+    {
+      "word": "however",
+      "count": 1
+    },
+    {
+      "word": "humour",
+      "count": 1
+    },
+    {
+      "word": "huntingdon",
+      "count": 1
+    },
+    {
+      "word": "hurry",
+      "count": 1
+    },
+    {
+      "word": "husband",
+      "count": 1
+    },
+    {
+      "word": "huss",
+      "count": 1
+    },
+    {
+      "word": "iiid's",
+      "count": 1
+    },
+    {
+      "word": "imbecility",
+      "count": 1
+    },
+    {
+      "word": "imitate",
+      "count": 1
+    },
+    {
+      "word": "imminent",
+      "count": 1
+    },
+    {
+      "word": "impaired",
+      "count": 1
+    },
+    {
+      "word": "impartial",
+      "count": 1
+    },
+    {
+      "word": "impassable",
+      "count": 1
+    },
+    {
+      "word": "impelled",
+      "count": 1
+    },
+    {
+      "word": "implements",
+      "count": 1
+    },
+    {
+      "word": "implicitly",
+      "count": 1
+    },
+    {
+      "word": "importance",
+      "count": 1
+    },
+    {
+      "word": "impose",
+      "count": 1
+    },
+    {
+      "word": "imposed",
+      "count": 1
+    },
+    {
+      "word": "impossible",
+      "count": 1
+    },
+    {
+      "word": "impowered",
+      "count": 1
+    },
+    {
+      "word": "impracticable",
+      "count": 1
+    },
+    {
+      "word": "impression",
+      "count": 1
+    },
+    {
+      "word": "imprisoned",
+      "count": 1
+    },
+    {
+      "word": "imprudence",
+      "count": 1
+    },
+    {
+      "word": "imprudent",
+      "count": 1
+    },
+    {
+      "word": "imputed",
+      "count": 1
+    },
+    {
+      "word": "incline",
+      "count": 1
+    },
+    {
+      "word": "inclining",
+      "count": 1
+    },
+    {
+      "word": "income",
+      "count": 1
+    },
+    {
+      "word": "incommoded",
+      "count": 1
+    },
+    {
+      "word": "incurred",
+      "count": 1
+    },
+    {
+      "word": "incursions",
+      "count": 1
+    },
+    {
+      "word": "independent",
+      "count": 1
+    },
+    {
+      "word": "indication",
+      "count": 1
+    },
+    {
+      "word": "indict",
+      "count": 1
+    },
+    {
+      "word": "indifference",
+      "count": 1
+    },
+    {
+      "word": "indulged",
+      "count": 1
+    },
+    {
+      "word": "ineffectual",
+      "count": 1
+    },
+    {
+      "word": "infancy",
+      "count": 1
+    },
+    {
+      "word": "infected",
+      "count": 1
+    },
+    {
+      "word": "inferior",
+      "count": 1
+    },
+    {
+      "word": "infidels",
+      "count": 1
+    },
+    {
+      "word": "inflexible",
+      "count": 1
+    },
+    {
+      "word": "influenced",
+      "count": 1
+    },
+    {
+      "word": "ingenious",
+      "count": 1
+    },
+    {
+      "word": "inherited",
+      "count": 1
+    },
+    {
+      "word": "inhibited",
+      "count": 1
+    },
+    {
+      "word": "inhuman",
+      "count": 1
+    },
+    {
+      "word": "iniquities",
+      "count": 1
+    },
+    {
+      "word": "injunction",
+      "count": 1
+    },
+    {
+      "word": "inlet",
+      "count": 1
+    },
+    {
+      "word": "innovated",
+      "count": 1
+    },
+    {
+      "word": "innovation",
+      "count": 1
+    },
+    {
+      "word": "innovators",
+      "count": 1
+    },
+    {
+      "word": "inquietude",
+      "count": 1
+    },
+    {
+      "word": "inseparable",
+      "count": 1
+    },
+    {
+      "word": "inspiring",
+      "count": 1
+    },
+    {
+      "word": "instance",
+      "count": 1
+    },
+    {
+      "word": "instances",
+      "count": 1
+    },
+    {
+      "word": "instruments",
+      "count": 1
+    },
+    {
+      "word": "insult",
+      "count": 1
+    },
+    {
+      "word": "insults",
+      "count": 1
+    },
+    {
+      "word": "insuperable",
+      "count": 1
+    },
+    {
+      "word": "insurrection",
+      "count": 1
+    },
+    {
+      "word": "intelligence",
+      "count": 1
+    },
+    {
+      "word": "intended",
+      "count": 1
+    },
+    {
+      "word": "intercede",
+      "count": 1
+    },
+    {
+      "word": "intercepting",
+      "count": 1
+    },
+    {
+      "word": "intermediate",
+      "count": 1
+    },
+    {
+      "word": "intermingled",
+      "count": 1
+    },
+    {
+      "word": "intermitted",
+      "count": 1
+    },
+    {
+      "word": "interposition",
+      "count": 1
+    },
+    {
+      "word": "interruption",
+      "count": 1
+    },
+    {
+      "word": "interruptions",
+      "count": 1
+    },
+    {
+      "word": "intimate",
+      "count": 1
+    },
+    {
+      "word": "intimating",
+      "count": 1
+    },
+    {
+      "word": "intrigues",
+      "count": 1
+    },
+    {
+      "word": "introduce",
+      "count": 1
+    },
+    {
+      "word": "ireland",
+      "count": 1
+    },
+    {
+      "word": "island",
+      "count": 1
+    },
+    {
+      "word": "issued",
+      "count": 1
+    },
+    {
+      "word": "iv",
+      "count": 1
+    },
+    {
+      "word": "iv's",
+      "count": 1
+    },
+    {
+      "word": "ivth's",
+      "count": 1
+    },
+    {
+      "word": "jan",
+      "count": 1
+    },
+    {
+      "word": "jasper",
+      "count": 1
+    },
+    {
+      "word": "jerome",
+      "count": 1
+    },
+    {
+      "word": "jerusalem",
+      "count": 1
+    },
+    {
+      "word": "jewels",
+      "count": 1
+    },
+    {
+      "word": "john's",
+      "count": 1
+    },
+    {
+      "word": "join",
+      "count": 1
+    },
+    {
+      "word": "jollity",
+      "count": 1
+    },
+    {
+      "word": "journies",
+      "count": 1
+    },
+    {
+      "word": "judge",
+      "count": 1
+    },
+    {
+      "word": "judgment",
+      "count": 1
+    },
+    {
+      "word": "judicature",
+      "count": 1
+    },
+    {
+      "word": "justify",
+      "count": 1
+    },
+    {
+      "word": "justifying",
+      "count": 1
+    },
+    {
+      "word": "justly",
+      "count": 1
+    },
+    {
+      "word": "juvenal",
+      "count": 1
+    },
+    {
+      "word": "keep",
+      "count": 1
+    },
+    {
+      "word": "keeping",
+      "count": 1
+    },
+    {
+      "word": "kings",
+      "count": 1
+    },
+    {
+      "word": "knew",
+      "count": 1
+    },
+    {
+      "word": "knight",
+      "count": 1
+    },
+    {
+      "word": "knowledge",
+      "count": 1
+    },
+    {
+      "word": "l'arche",
+      "count": 1
+    },
+    {
+      "word": "laboured",
+      "count": 1
+    },
+    {
+      "word": "lancastrian",
+      "count": 1
+    },
+    {
+      "word": "lands",
+      "count": 1
+    },
+    {
+      "word": "languished",
+      "count": 1
+    },
+    {
+      "word": "lately",
+      "count": 1
+    },
+    {
+      "word": "latin",
+      "count": 1
+    },
+    {
+      "word": "lawful",
+      "count": 1
+    },
+    {
+      "word": "league",
+      "count": 1
+    },
+    {
+      "word": "learn",
+      "count": 1
+    },
+    {
+      "word": "leather",
+      "count": 1
+    },
+    {
+      "word": "levying",
+      "count": 1
+    },
+    {
+      "word": "lewis",
+      "count": 1
+    },
+    {
+      "word": "liberal",
+      "count": 1
+    },
+    {
+      "word": "liberty",
+      "count": 1
+    },
+    {
+      "word": "light",
+      "count": 1
+    },
+    {
+      "word": "lile-adam",
+      "count": 1
+    },
+    {
+      "word": "limbs",
+      "count": 1
+    },
+    {
+      "word": "limit",
+      "count": 1
+    },
+    {
+      "word": "line",
+      "count": 1
+    },
+    {
+      "word": "liquor",
+      "count": 1
+    },
+    {
+      "word": "literature",
+      "count": 1
+    },
+    {
+      "word": "lives",
+      "count": 1
+    },
+    {
+      "word": "lodged",
+      "count": 1
+    },
+    {
+      "word": "loire",
+      "count": 1
+    },
+    {
+      "word": "lollardsthere",
+      "count": 1
+    },
+    {
+      "word": "lollardy",
+      "count": 1
+    },
+    {
+      "word": "lorraine",
+      "count": 1
+    },
+    {
+      "word": "loss",
+      "count": 1
+    },
+    {
+      "word": "losses",
+      "count": 1
+    },
+    {
+      "word": "lost",
+      "count": 1
+    },
+    {
+      "word": "love",
+      "count": 1
+    },
+    {
+      "word": "low-countries1417",
+      "count": 1
+    },
+    {
+      "word": "lower",
+      "count": 1
+    },
+    {
+      "word": "loyalty",
+      "count": 1
+    },
+    {
+      "word": "lv",
+      "count": 1
+    },
+    {
+      "word": "magistrates",
+      "count": 1
+    },
+    {
+      "word": "maintain",
+      "count": 1
+    },
+    {
+      "word": "maintaining",
+      "count": 1
+    },
+    {
+      "word": "maintenance",
+      "count": 1
+    },
+    {
+      "word": "majesty",
+      "count": 1
+    },
+    {
+      "word": "makes",
+      "count": 1
+    },
+    {
+      "word": "malady",
+      "count": 1
+    },
+    {
+      "word": "manly",
+      "count": 1
+    },
+    {
+      "word": "marched",
+      "count": 1
+    },
+    {
+      "word": "marches",
+      "count": 1
+    },
+    {
+      "word": "marching",
+      "count": 1
+    },
+    {
+      "word": "mareschal",
+      "count": 1
+    },
+    {
+      "word": "marle",
+      "count": 1
+    },
+    {
+      "word": "married",
+      "count": 1
+    },
+    {
+      "word": "martial",
+      "count": 1
+    },
+    {
+      "word": "martin",
+      "count": 1
+    },
+    {
+      "word": "masham",
+      "count": 1
+    },
+    {
+      "word": "material",
+      "count": 1
+    },
+    {
+      "word": "may",
+      "count": 1
+    },
+    {
+      "word": "mean",
+      "count": 1
+    },
+    {
+      "word": "meanwhile",
+      "count": 1
+    },
+    {
+      "word": "measure",
+      "count": 1
+    },
+    {
+      "word": "meditating",
+      "count": 1
+    },
+    {
+      "word": "medium",
+      "count": 1
+    },
+    {
+      "word": "meet",
+      "count": 1
+    },
+    {
+      "word": "melun",
+      "count": 1
+    },
+    {
+      "word": "mercy",
+      "count": 1
+    },
+    {
+      "word": "merely",
+      "count": 1
+    },
+    {
+      "word": "methods",
+      "count": 1
+    },
+    {
+      "word": "meulant",
+      "count": 1
+    },
+    {
+      "word": "middle",
+      "count": 1
+    },
+    {
+      "word": "militia",
+      "count": 1
+    },
+    {
+      "word": "million",
+      "count": 1
+    },
+    {
+      "word": "millions",
+      "count": 1
+    },
+    {
+      "word": "mindful",
+      "count": 1
+    },
+    {
+      "word": "minority",
+      "count": 1
+    },
+    {
+      "word": "miscellaneous",
+      "count": 1
+    },
+    {
+      "word": "mischievous",
+      "count": 1
+    },
+    {
+      "word": "misconduct",
+      "count": 1
+    },
+    {
+      "word": "misfortunes",
+      "count": 1
+    },
+    {
+      "word": "mode",
+      "count": 1
+    },
+    {
+      "word": "moderate",
+      "count": 1
+    },
+    {
+      "word": "moistened",
+      "count": 1
+    },
+    {
+      "word": "momentary",
+      "count": 1
+    },
+    {
+      "word": "moments",
+      "count": 1
+    },
+    {
+      "word": "monarch1420",
+      "count": 1
+    },
+    {
+      "word": "monarchies",
+      "count": 1
+    },
+    {
+      "word": "montlheri",
+      "count": 1
+    },
+    {
+      "word": "montreüil",
+      "count": 1
+    },
+    {
+      "word": "monuments",
+      "count": 1
+    },
+    {
+      "word": "mortimer",
+      "count": 1
+    },
+    {
+      "word": "mostly",
+      "count": 1
+    },
+    {
+      "word": "mother",
+      "count": 1
+    },
+    {
+      "word": "moveables",
+      "count": 1
+    },
+    {
+      "word": "moved",
+      "count": 1
+    },
+    {
+      "word": "murderers",
+      "count": 1
+    },
+    {
+      "word": "murders",
+      "count": 1
+    },
+    {
+      "word": "my",
+      "count": 1
+    },
+    {
+      "word": "national",
+      "count": 1
+    },
+    {
+      "word": "native",
+      "count": 1
+    },
+    {
+      "word": "nearer",
+      "count": 1
+    },
+    {
+      "word": "neglect",
+      "count": 1
+    },
+    {
+      "word": "negotiate",
+      "count": 1
+    },
+    {
+      "word": "negotiations",
+      "count": 1
+    },
+    {
+      "word": "nephew",
+      "count": 1
+    },
+    {
+      "word": "neust",
+      "count": 1
+    },
+    {
+      "word": "nevers",
+      "count": 1
+    },
+    {
+      "word": "next",
+      "count": 1
+    },
+    {
+      "word": "nine",
+      "count": 1
+    },
+    {
+      "word": "noblemen",
+      "count": 1
+    },
+    {
+      "word": "northwards",
+      "count": 1
+    },
+    {
+      "word": "notion",
+      "count": 1
+    },
+    {
+      "word": "oath",
+      "count": 1
+    },
+    {
+      "word": "obedience",
+      "count": 1
+    },
+    {
+      "word": "obey",
+      "count": 1
+    },
+    {
+      "word": "object",
+      "count": 1
+    },
+    {
+      "word": "objections",
+      "count": 1
+    },
+    {
+      "word": "objects",
+      "count": 1
+    },
+    {
+      "word": "obliging",
+      "count": 1
+    },
+    {
+      "word": "obsequies",
+      "count": 1
+    },
+    {
+      "word": "obstacle",
+      "count": 1
+    },
+    {
+      "word": "obtain",
+      "count": 1
+    },
+    {
+      "word": "obvious",
+      "count": 1
+    },
+    {
+      "word": "occupied",
+      "count": 1
+    },
+    {
+      "word": "oct",
+      "count": 1
+    },
+    {
+      "word": "offended",
+      "count": 1
+    },
+    {
+      "word": "offering",
+      "count": 1
+    },
+    {
+      "word": "office",
+      "count": 1
+    },
+    {
+      "word": "officer",
+      "count": 1
+    },
+    {
+      "word": "officers",
+      "count": 1
+    },
+    {
+      "word": "offices",
+      "count": 1
+    },
+    {
+      "word": "old",
+      "count": 1
+    },
+    {
+      "word": "oldcastle",
+      "count": 1
+    },
+    {
+      "word": "operations",
+      "count": 1
+    },
+    {
+      "word": "orderly",
+      "count": 1
+    },
+    {
+      "word": "otterbourne",
+      "count": 1
+    },
+    {
+      "word": "ought",
+      "count": 1
+    },
+    {
+      "word": "outrage",
+      "count": 1
+    },
+    {
+      "word": "outrages",
+      "count": 1
+    },
+    {
+      "word": "over-awed",
+      "count": 1
+    },
+    {
+      "word": "overcome",
+      "count": 1
+    },
+    {
+      "word": "overlooked",
+      "count": 1
+    },
+    {
+      "word": "overthrown",
+      "count": 1
+    },
+    {
+      "word": "overturn",
+      "count": 1
+    },
+    {
+      "word": "owen",
+      "count": 1
+    },
+    {
+      "word": "owing",
+      "count": 1
+    },
+    {
+      "word": "palliate",
+      "count": 1
+    },
+    {
+      "word": "pallisadoes",
+      "count": 1
+    },
+    {
+      "word": "palpable",
+      "count": 1
+    },
+    {
+      "word": "pardon",
+      "count": 1
+    },
+    {
+      "word": "pardonedpunishment",
+      "count": 1
+    },
+    {
+      "word": "parisians",
+      "count": 1
+    },
+    {
+      "word": "particular",
+      "count": 1
+    },
+    {
+      "word": "particularly",
+      "count": 1
+    },
+    {
+      "word": "party-distinctions",
+      "count": 1
+    },
+    {
+      "word": "passages",
+      "count": 1
+    },
+    {
+      "word": "passengers",
+      "count": 1
+    },
+    {
+      "word": "passionately",
+      "count": 1
+    },
+    {
+      "word": "passions",
+      "count": 1
+    },
+    {
+      "word": "patiently",
+      "count": 1
+    },
+    {
+      "word": "pawned",
+      "count": 1
+    },
+    {
+      "word": "payed",
+      "count": 1
+    },
+    {
+      "word": "paying",
+      "count": 1
+    },
+    {
+      "word": "peaceably",
+      "count": 1
+    },
+    {
+      "word": "peaceful",
+      "count": 1
+    },
+    {
+      "word": "peasants",
+      "count": 1
+    },
+    {
+      "word": "peculiar",
+      "count": 1
+    },
+    {
+      "word": "pecuniary",
+      "count": 1
+    },
+    {
+      "word": "peerage",
+      "count": 1
+    },
+    {
+      "word": "peers",
+      "count": 1
+    },
+    {
+      "word": "pembroke",
+      "count": 1
+    },
+    {
+      "word": "penitential",
+      "count": 1
+    },
+    {
+      "word": "pent",
+      "count": 1
+    },
+    {
+      "word": "peopling",
+      "count": 1
+    },
+    {
+      "word": "perceived",
+      "count": 1
+    },
+    {
+      "word": "perceiving",
+      "count": 1
+    },
+    {
+      "word": "perigord",
+      "count": 1
+    },
+    {
+      "word": "perished",
+      "count": 1
+    },
+    {
+      "word": "permission",
+      "count": 1
+    },
+    {
+      "word": "permitted",
+      "count": 1
+    },
+    {
+      "word": "pernicious",
+      "count": 1
+    },
+    {
+      "word": "perpetrated",
+      "count": 1
+    },
+    {
+      "word": "perpetually",
+      "count": 1
+    },
+    {
+      "word": "persecutors",
+      "count": 1
+    },
+    {
+      "word": "persevere",
+      "count": 1
+    },
+    {
+      "word": "persevering",
+      "count": 1
+    },
+    {
+      "word": "persuading",
+      "count": 1
+    },
+    {
+      "word": "pieces",
+      "count": 1
+    },
+    {
+      "word": "piercy",
+      "count": 1
+    },
+    {
+      "word": "placed",
+      "count": 1
+    },
+    {
+      "word": "places",
+      "count": 1
+    },
+    {
+      "word": "placing",
+      "count": 1
+    },
+    {
+      "word": "plain",
+      "count": 1
+    },
+    {
+      "word": "plains",
+      "count": 1
+    },
+    {
+      "word": "plans",
+      "count": 1
+    },
+    {
+      "word": "play",
+      "count": 1
+    },
+    {
+      "word": "pleasure",
+      "count": 1
+    },
+    {
+      "word": "pledge",
+      "count": 1
+    },
+    {
+      "word": "plentifully",
+      "count": 1
+    },
+    {
+      "word": "plunder",
+      "count": 1
+    },
+    {
+      "word": "plyed",
+      "count": 1
+    },
+    {
+      "word": "pointed",
+      "count": 1
+    },
+    {
+      "word": "points",
+      "count": 1
+    },
+    {
+      "word": "policy",
+      "count": 1
+    },
+    {
+      "word": "pomp",
+      "count": 1
+    },
+    {
+      "word": "pompous",
+      "count": 1
+    },
+    {
+      "word": "pont",
+      "count": 1
+    },
+    {
+      "word": "pontiffs",
+      "count": 1
+    },
+    {
+      "word": "poor",
+      "count": 1
+    },
+    {
+      "word": "poorer",
+      "count": 1
+    },
+    {
+      "word": "popularity",
+      "count": 1
+    },
+    {
+      "word": "portion",
+      "count": 1
+    },
+    {
+      "word": "possible",
+      "count": 1
+    },
+    {
+      "word": "possibly",
+      "count": 1
+    },
+    {
+      "word": "posted",
+      "count": 1
+    },
+    {
+      "word": "poundage",
+      "count": 1
+    },
+    {
+      "word": "poverty",
+      "count": 1
+    },
+    {
+      "word": "powerful",
+      "count": 1
+    },
+    {
+      "word": "practice",
+      "count": 1
+    },
+    {
+      "word": "practices",
+      "count": 1
+    },
+    {
+      "word": "prague",
+      "count": 1
+    },
+    {
+      "word": "praises",
+      "count": 1
+    },
+    {
+      "word": "precautions",
+      "count": 1
+    },
+    {
+      "word": "preceding",
+      "count": 1
+    },
+    {
+      "word": "preciosum",
+      "count": 1
+    },
+    {
+      "word": "precipitate",
+      "count": 1
+    },
+    {
+      "word": "precipitation",
+      "count": 1
+    },
+    {
+      "word": "preferable",
+      "count": 1
+    },
+    {
+      "word": "preferment",
+      "count": 1
+    },
+    {
+      "word": "premeditated",
+      "count": 1
+    },
+    {
+      "word": "preparation",
+      "count": 1
+    },
+    {
+      "word": "prepared",
+      "count": 1
+    },
+    {
+      "word": "prepossessions",
+      "count": 1
+    },
+    {
+      "word": "prerogative",
+      "count": 1
+    },
+    {
+      "word": "presents",
+      "count": 1
+    },
+    {
+      "word": "preserved",
+      "count": 1
+    },
+    {
+      "word": "preserving",
+      "count": 1
+    },
+    {
+      "word": "presided",
+      "count": 1
+    },
+    {
+      "word": "pressed",
+      "count": 1
+    },
+    {
+      "word": "pretence",
+      "count": 1
+    },
+    {
+      "word": "pretend",
+      "count": 1
+    },
+    {
+      "word": "prevail",
+      "count": 1
+    },
+    {
+      "word": "prevailed",
+      "count": 1
+    },
+    {
+      "word": "prevented",
+      "count": 1
+    },
+    {
+      "word": "price",
+      "count": 1
+    },
+    {
+      "word": "priest",
+      "count": 1
+    },
+    {
+      "word": "priests",
+      "count": 1
+    },
+    {
+      "word": "principal",
+      "count": 1
+    },
+    {
+      "word": "priories",
+      "count": 1
+    },
+    {
+      "word": "prisons",
+      "count": 1
+    },
+    {
+      "word": "private",
+      "count": 1
+    },
+    {
+      "word": "privilege",
+      "count": 1
+    },
+    {
+      "word": "privileges",
+      "count": 1
+    },
+    {
+      "word": "probably",
+      "count": 1
+    },
+    {
+      "word": "probity",
+      "count": 1
+    },
+    {
+      "word": "proceed",
+      "count": 1
+    },
+    {
+      "word": "proceedings",
+      "count": 1
+    },
+    {
+      "word": "proclaimed",
+      "count": 1
+    },
+    {
+      "word": "procuring",
+      "count": 1
+    },
+    {
+      "word": "professed",
+      "count": 1
+    },
+    {
+      "word": "professors",
+      "count": 1
+    },
+    {
+      "word": "profit",
+      "count": 1
+    },
+    {
+      "word": "profited",
+      "count": 1
+    },
+    {
+      "word": "projects",
+      "count": 1
+    },
+    {
+      "word": "prolonged",
+      "count": 1
+    },
+    {
+      "word": "promised",
+      "count": 1
+    },
+    {
+      "word": "promising",
+      "count": 1
+    },
+    {
+      "word": "proofs",
+      "count": 1
+    },
+    {
+      "word": "propagate",
+      "count": 1
+    },
+    {
+      "word": "propinquity",
+      "count": 1
+    },
+    {
+      "word": "proportionable",
+      "count": 1
+    },
+    {
+      "word": "proposal",
+      "count": 1
+    },
+    {
+      "word": "prosecute",
+      "count": 1
+    },
+    {
+      "word": "prosecution",
+      "count": 1
+    },
+    {
+      "word": "prosperities",
+      "count": 1
+    },
+    {
+      "word": "protection",
+      "count": 1
+    },
+    {
+      "word": "providing",
+      "count": 1
+    },
+    {
+      "word": "provoked",
+      "count": 1
+    },
+    {
+      "word": "prudence",
+      "count": 1
+    },
+    {
+      "word": "prudent",
+      "count": 1
+    },
+    {
+      "word": "prudently",
+      "count": 1
+    },
+    {
+      "word": "psalm",
+      "count": 1
+    },
+    {
+      "word": "psalms",
+      "count": 1
+    },
+    {
+      "word": "purposed",
+      "count": 1
+    },
+    {
+      "word": "pursuits",
+      "count": 1
+    },
+    {
+      "word": "purveyance",
+      "count": 1
+    },
+    {
+      "word": "pushing",
+      "count": 1
+    },
+    {
+      "word": "putting",
+      "count": 1
+    },
+    {
+      "word": "quarrel",
+      "count": 1
+    },
+    {
+      "word": "quintin",
+      "count": 1
+    },
+    {
+      "word": "rage",
+      "count": 1
+    },
+    {
+      "word": "rain",
+      "count": 1
+    },
+    {
+      "word": "raising",
+      "count": 1
+    },
+    {
+      "word": "ran",
+      "count": 1
+    },
+    {
+      "word": "ranged",
+      "count": 1
+    },
+    {
+      "word": "ransom",
+      "count": 1
+    },
+    {
+      "word": "ratification",
+      "count": 1
+    },
+    {
+      "word": "ratified",
+      "count": 1
+    },
+    {
+      "word": "ravished",
+      "count": 1
+    },
+    {
+      "word": "re-instate",
+      "count": 1
+    },
+    {
+      "word": "reach",
+      "count": 1
+    },
+    {
+      "word": "readiness",
+      "count": 1
+    },
+    {
+      "word": "ready",
+      "count": 1
+    },
+    {
+      "word": "rear",
+      "count": 1
+    },
+    {
+      "word": "receive",
+      "count": 1
+    },
+    {
+      "word": "recite",
+      "count": 1
+    },
+    {
+      "word": "reclaim",
+      "count": 1
+    },
+    {
+      "word": "recommended",
+      "count": 1
+    },
+    {
+      "word": "reconcile",
+      "count": 1
+    },
+    {
+      "word": "reconciled",
+      "count": 1
+    },
+    {
+      "word": "recourse",
+      "count": 1
+    },
+    {
+      "word": "recovered",
+      "count": 1
+    },
+    {
+      "word": "reduce",
+      "count": 1
+    },
+    {
+      "word": "reflection",
+      "count": 1
+    },
+    {
+      "word": "reflectionmarriage",
+      "count": 1
+    },
+    {
+      "word": "reflections",
+      "count": 1
+    },
+    {
+      "word": "reformationthe",
+      "count": 1
+    },
+    {
+      "word": "regarded",
+      "count": 1
+    },
+    {
+      "word": "regency",
+      "count": 1
+    },
+    {
+      "word": "regret",
+      "count": 1
+    },
+    {
+      "word": "regretted",
+      "count": 1
+    },
+    {
+      "word": "rejoicings",
+      "count": 1
+    },
+    {
+      "word": "relapses",
+      "count": 1
+    },
+    {
+      "word": "relating",
+      "count": 1
+    },
+    {
+      "word": "relaxed",
+      "count": 1
+    },
+    {
+      "word": "relied",
+      "count": 1
+    },
+    {
+      "word": "relieve",
+      "count": 1
+    },
+    {
+      "word": "religious",
+      "count": 1
+    },
+    {
+      "word": "relinquish",
+      "count": 1
+    },
+    {
+      "word": "remove",
+      "count": 1
+    },
+    {
+      "word": "removed",
+      "count": 1
+    },
+    {
+      "word": "render",
+      "count": 1
+    },
+    {
+      "word": "renewed",
+      "count": 1
+    },
+    {
+      "word": "renown",
+      "count": 1
+    },
+    {
+      "word": "repent",
+      "count": 1
+    },
+    {
+      "word": "repentance",
+      "count": 1
+    },
+    {
+      "word": "reported",
+      "count": 1
+    },
+    {
+      "word": "represented",
+      "count": 1
+    },
+    {
+      "word": "reprizals",
+      "count": 1
+    },
+    {
+      "word": "reproaches",
+      "count": 1
+    },
+    {
+      "word": "resemblance",
+      "count": 1
+    },
+    {
+      "word": "resign",
+      "count": 1
+    },
+    {
+      "word": "resolution",
+      "count": 1
+    },
+    {
+      "word": "resolve",
+      "count": 1
+    },
+    {
+      "word": "resolved",
+      "count": 1
+    },
+    {
+      "word": "rest",
+      "count": 1
+    },
+    {
+      "word": "restless",
+      "count": 1
+    },
+    {
+      "word": "restored",
+      "count": 1
+    },
+    {
+      "word": "restrain",
+      "count": 1
+    },
+    {
+      "word": "restrained",
+      "count": 1
+    },
+    {
+      "word": "restraints",
+      "count": 1
+    },
+    {
+      "word": "resulted",
+      "count": 1
+    },
+    {
+      "word": "resuming",
+      "count": 1
+    },
+    {
+      "word": "retain",
+      "count": 1
+    },
+    {
+      "word": "retained",
+      "count": 1
+    },
+    {
+      "word": "retainers",
+      "count": 1
+    },
+    {
+      "word": "retaliate",
+      "count": 1
+    },
+    {
+      "word": "retinue",
+      "count": 1
+    },
+    {
+      "word": "retreat25th",
+      "count": 1
+    },
+    {
+      "word": "returning",
+      "count": 1
+    },
+    {
+      "word": "revenging",
+      "count": 1
+    },
+    {
+      "word": "revenues",
+      "count": 1
+    },
+    {
+      "word": "review",
+      "count": 1
+    },
+    {
+      "word": "revive",
+      "count": 1
+    },
+    {
+      "word": "revived",
+      "count": 1
+    },
+    {
+      "word": "reward",
+      "count": 1
+    },
+    {
+      "word": "rich",
+      "count": 1
+    },
+    {
+      "word": "richard's",
+      "count": 1
+    },
+    {
+      "word": "richemont",
+      "count": 1
+    },
+    {
+      "word": "riches",
+      "count": 1
+    },
+    {
+      "word": "richmond",
+      "count": 1
+    },
+    {
+      "word": "rights",
+      "count": 1
+    },
+    {
+      "word": "rigorous",
+      "count": 1
+    },
+    {
+      "word": "ringleaders",
+      "count": 1
+    },
+    {
+      "word": "riot",
+      "count": 1
+    },
+    {
+      "word": "riots",
+      "count": 1
+    },
+    {
+      "word": "risen",
+      "count": 1
+    },
+    {
+      "word": "road",
+      "count": 1
+    },
+    {
+      "word": "roman",
+      "count": 1
+    },
+    {
+      "word": "rose",
+      "count": 1
+    },
+    {
+      "word": "rovergue",
+      "count": 1
+    },
+    {
+      "word": "rude",
+      "count": 1
+    },
+    {
+      "word": "ruin",
+      "count": 1
+    },
+    {
+      "word": "rule",
+      "count": 1
+    },
+    {
+      "word": "rupture",
+      "count": 1
+    },
+    {
+      "word": "rush",
+      "count": 1
+    },
+    {
+      "word": "sacrament",
+      "count": 1
+    },
+    {
+      "word": "sacred",
+      "count": 1
+    },
+    {
+      "word": "sacrificed",
+      "count": 1
+    },
+    {
+      "word": "safe-conduct",
+      "count": 1
+    },
+    {
+      "word": "sake",
+      "count": 1
+    },
+    {
+      "word": "sallies",
+      "count": 1
+    },
+    {
+      "word": "sanguinary",
+      "count": 1
+    },
+    {
+      "word": "sanguine",
+      "count": 1
+    },
+    {
+      "word": "satiated",
+      "count": 1
+    },
+    {
+      "word": "satisfaction",
+      "count": 1
+    },
+    {
+      "word": "save",
+      "count": 1
+    },
+    {
+      "word": "saved",
+      "count": 1
+    },
+    {
+      "word": "say",
+      "count": 1
+    },
+    {
+      "word": "scantiness",
+      "count": 1
+    },
+    {
+      "word": "scarcely",
+      "count": 1
+    },
+    {
+      "word": "scheme",
+      "count": 1
+    },
+    {
+      "word": "scotland",
+      "count": 1
+    },
+    {
+      "word": "scottish",
+      "count": 1
+    },
+    {
+      "word": "scrope",
+      "count": 1
+    },
+    {
+      "word": "scruple",
+      "count": 1
+    },
+    {
+      "word": "sea",
+      "count": 1
+    },
+    {
+      "word": "sea-side",
+      "count": 1
+    },
+    {
+      "word": "season",
+      "count": 1
+    },
+    {
+      "word": "seated",
+      "count": 1
+    },
+    {
+      "word": "sectaries",
+      "count": 1
+    },
+    {
+      "word": "secure",
+      "count": 1
+    },
+    {
+      "word": "seek",
+      "count": 1
+    },
+    {
+      "word": "seem",
+      "count": 1
+    },
+    {
+      "word": "seems",
+      "count": 1
+    },
+    {
+      "word": "seine",
+      "count": 1
+    },
+    {
+      "word": "send",
+      "count": 1
+    },
+    {
+      "word": "sending",
+      "count": 1
+    },
+    {
+      "word": "senlis",
+      "count": 1
+    },
+    {
+      "word": "sensibly",
+      "count": 1
+    },
+    {
+      "word": "sentiment",
+      "count": 1
+    },
+    {
+      "word": "sentiments",
+      "count": 1
+    },
+    {
+      "word": "separately",
+      "count": 1
+    },
+    {
+      "word": "separation",
+      "count": 1
+    },
+    {
+      "word": "september",
+      "count": 1
+    },
+    {
+      "word": "serious",
+      "count": 1
+    },
+    {
+      "word": "serve",
+      "count": 1
+    },
+    {
+      "word": "settled",
+      "count": 1
+    },
+    {
+      "word": "settlement",
+      "count": 1
+    },
+    {
+      "word": "severe",
+      "count": 1
+    },
+    {
+      "word": "severer",
+      "count": 1
+    },
+    {
+      "word": "shaded",
+      "count": 1
+    },
+    {
+      "word": "shared",
+      "count": 1
+    },
+    {
+      "word": "sharing",
+      "count": 1
+    },
+    {
+      "word": "sheriffs",
+      "count": 1
+    },
+    {
+      "word": "shewed",
+      "count": 1
+    },
+    {
+      "word": "shifts",
+      "count": 1
+    },
+    {
+      "word": "shot",
+      "count": 1
+    },
+    {
+      "word": "shower",
+      "count": 1
+    },
+    {
+      "word": "shut",
+      "count": 1
+    },
+    {
+      "word": "sickness",
+      "count": 1
+    },
+    {
+      "word": "signalize",
+      "count": 1
+    },
+    {
+      "word": "signed",
+      "count": 1
+    },
+    {
+      "word": "sincerely",
+      "count": 1
+    },
+    {
+      "word": "six",
+      "count": 1
+    },
+    {
+      "word": "sixteen",
+      "count": 1
+    },
+    {
+      "word": "size",
+      "count": 1
+    },
+    {
+      "word": "skill",
+      "count": 1
+    },
+    {
+      "word": "slavery",
+      "count": 1
+    },
+    {
+      "word": "slender",
+      "count": 1
+    },
+    {
+      "word": "slight",
+      "count": 1
+    },
+    {
+      "word": "slow",
+      "count": 1
+    },
+    {
+      "word": "smoke",
+      "count": 1
+    },
+    {
+      "word": "solemn",
+      "count": 1
+    },
+    {
+      "word": "solemnity",
+      "count": 1
+    },
+    {
+      "word": "solicitation",
+      "count": 1
+    },
+    {
+      "word": "soliciting",
+      "count": 1
+    },
+    {
+      "word": "sons",
+      "count": 1
+    },
+    {
+      "word": "sooner",
+      "count": 1
+    },
+    {
+      "word": "sorrow",
+      "count": 1
+    },
+    {
+      "word": "sought",
+      "count": 1
+    },
+    {
+      "word": "source",
+      "count": 1
+    },
+    {
+      "word": "south",
+      "count": 1
+    },
+    {
+      "word": "sovereigns",
+      "count": 1
+    },
+    {
+      "word": "spare",
+      "count": 1
+    },
+    {
+      "word": "spectators",
+      "count": 1
+    },
+    {
+      "word": "spilt",
+      "count": 1
+    },
+    {
+      "word": "splendid",
+      "count": 1
+    },
+    {
+      "word": "standard",
+      "count": 1
+    },
+    {
+      "word": "station",
+      "count": 1
+    },
+    {
+      "word": "stature",
+      "count": 1
+    },
+    {
+      "word": "steady",
+      "count": 1
+    },
+    {
+      "word": "steps",
+      "count": 1
+    },
+    {
+      "word": "sterling",
+      "count": 1
+    },
+    {
+      "word": "stimulated",
+      "count": 1
+    },
+    {
+      "word": "stipulated",
+      "count": 1
+    },
+    {
+      "word": "stipulating",
+      "count": 1
+    },
+    {
+      "word": "stop",
+      "count": 1
+    },
+    {
+      "word": "story",
+      "count": 1
+    },
+    {
+      "word": "stranger",
+      "count": 1
+    },
+    {
+      "word": "strictly",
+      "count": 1
+    },
+    {
+      "word": "strike",
+      "count": 1
+    },
+    {
+      "word": "strong",
+      "count": 1
+    },
+    {
+      "word": "style",
+      "count": 1
+    },
+    {
+      "word": "subdue",
+      "count": 1
+    },
+    {
+      "word": "subject",
+      "count": 1
+    },
+    {
+      "word": "submit",
+      "count": 1
+    },
+    {
+      "word": "submitting",
+      "count": 1
+    },
+    {
+      "word": "subsidies",
+      "count": 1
+    },
+    {
+      "word": "subsidy",
+      "count": 1
+    },
+    {
+      "word": "succour",
+      "count": 1
+    },
+    {
+      "word": "suddenly",
+      "count": 1
+    },
+    {
+      "word": "suffragans",
+      "count": 1
+    },
+    {
+      "word": "sum",
+      "count": 1
+    },
+    {
+      "word": "summit",
+      "count": 1
+    },
+    {
+      "word": "summon",
+      "count": 1
+    },
+    {
+      "word": "superiority",
+      "count": 1
+    },
+    {
+      "word": "superstition",
+      "count": 1
+    },
+    {
+      "word": "supplied",
+      "count": 1
+    },
+    {
+      "word": "supporting",
+      "count": 1
+    },
+    {
+      "word": "sure",
+      "count": 1
+    },
+    {
+      "word": "surgeons",
+      "count": 1
+    },
+    {
+      "word": "surpassed",
+      "count": 1
+    },
+    {
+      "word": "surplus",
+      "count": 1
+    },
+    {
+      "word": "surprised",
+      "count": 1
+    },
+    {
+      "word": "surprized",
+      "count": 1
+    },
+    {
+      "word": "susceptible",
+      "count": 1
+    },
+    {
+      "word": "suspected",
+      "count": 1
+    },
+    {
+      "word": "suspicions",
+      "count": 1
+    },
+    {
+      "word": "suspicious",
+      "count": 1
+    },
+    {
+      "word": "sustained",
+      "count": 1
+    },
+    {
+      "word": "swear",
+      "count": 1
+    },
+    {
+      "word": "swinton",
+      "count": 1
+    },
+    {
+      "word": "sword1414",
+      "count": 1
+    },
+    {
+      "word": "swords",
+      "count": 1
+    },
+    {
+      "word": "symptoms",
+      "count": 1
+    },
+    {
+      "word": "system",
+      "count": 1
+    },
+    {
+      "word": "talent",
+      "count": 1
+    },
+    {
+      "word": "tannegui",
+      "count": 1
+    },
+    {
+      "word": "taxes",
+      "count": 1
+    },
+    {
+      "word": "teach",
+      "count": 1
+    },
+    {
+      "word": "temper",
+      "count": 1
+    },
+    {
+      "word": "temporize",
+      "count": 1
+    },
+    {
+      "word": "tenet",
+      "count": 1
+    },
+    {
+      "word": "tenets",
+      "count": 1
+    },
+    {
+      "word": "tennis",
+      "count": 1
+    },
+    {
+      "word": "tenor",
+      "count": 1
+    },
+    {
+      "word": "tenth",
+      "count": 1
+    },
+    {
+      "word": "tenths",
+      "count": 1
+    },
+    {
+      "word": "termed",
+      "count": 1
+    },
+    {
+      "word": "ternois",
+      "count": 1
+    },
+    {
+      "word": "terrible",
+      "count": 1
+    },
+    {
+      "word": "territories",
+      "count": 1
+    },
+    {
+      "word": "thence",
+      "count": 1
+    },
+    {
+      "word": "thereby",
+      "count": 1
+    },
+    {
+      "word": "think",
+      "count": 1
+    },
+    {
+      "word": "thinks",
+      "count": 1
+    },
+    {
+      "word": "third",
+      "count": 1
+    },
+    {
+      "word": "thirty",
+      "count": 1
+    },
+    {
+      "word": "thirty-fourth",
+      "count": 1
+    },
+    {
+      "word": "thou",
+      "count": 1
+    },
+    {
+      "word": "throw",
+      "count": 1
+    },
+    {
+      "word": "thrown",
+      "count": 1
+    },
+    {
+      "word": "tide",
+      "count": 1
+    },
+    {
+      "word": "tie",
+      "count": 1
+    },
+    {
+      "word": "titles",
+      "count": 1
+    },
+    {
+      "word": "tolerable",
+      "count": 1
+    },
+    {
+      "word": "tonnage",
+      "count": 1
+    },
+    {
+      "word": "torture",
+      "count": 1
+    },
+    {
+      "word": "total",
+      "count": 1
+    },
+    {
+      "word": "tours",
+      "count": 1
+    },
+    {
+      "word": "tower",
+      "count": 1
+    },
+    {
+      "word": "tradition",
+      "count": 1
+    },
+    {
+      "word": "traitor",
+      "count": 1
+    },
+    {
+      "word": "trample",
+      "count": 1
+    },
+    {
+      "word": "transactionsthe",
+      "count": 1
+    },
+    {
+      "word": "transfer",
+      "count": 1
+    },
+    {
+      "word": "transferred",
+      "count": 1
+    },
+    {
+      "word": "transport",
+      "count": 1
+    },
+    {
+      "word": "transported",
+      "count": 1
+    },
+    {
+      "word": "transports",
+      "count": 1
+    },
+    {
+      "word": "treasonable",
+      "count": 1
+    },
+    {
+      "word": "treasure",
+      "count": 1
+    },
+    {
+      "word": "treasurer",
+      "count": 1
+    },
+    {
+      "word": "treasures",
+      "count": 1
+    },
+    {
+      "word": "tree",
+      "count": 1
+    },
+    {
+      "word": "trembled",
+      "count": 1
+    },
+    {
+      "word": "troyethe",
+      "count": 1
+    },
+    {
+      "word": "truces",
+      "count": 1
+    },
+    {
+      "word": "true",
+      "count": 1
+    },
+    {
+      "word": "trusting",
+      "count": 1
+    },
+    {
+      "word": "truths",
+      "count": 1
+    },
+    {
+      "word": "turn",
+      "count": 1
+    },
+    {
+      "word": "twentieth",
+      "count": 1
+    },
+    {
+      "word": "twenty-five",
+      "count": 1
+    },
+    {
+      "word": "twenty-seventh",
+      "count": 1
+    },
+    {
+      "word": "twenty-two",
+      "count": 1
+    },
+    {
+      "word": "tyrannicide",
+      "count": 1
+    },
+    {
+      "word": "tyrant",
+      "count": 1
+    },
+    {
+      "word": "unambitious",
+      "count": 1
+    },
+    {
+      "word": "unanimous",
+      "count": 1
+    },
+    {
+      "word": "unavoidable",
+      "count": 1
+    },
+    {
+      "word": "uncertain",
+      "count": 1
+    },
+    {
+      "word": "uncertainty",
+      "count": 1
+    },
+    {
+      "word": "uncle",
+      "count": 1
+    },
+    {
+      "word": "undecided",
+      "count": 1
+    },
+    {
+      "word": "undertake",
+      "count": 1
+    },
+    {
+      "word": "undoubted",
+      "count": 1
+    },
+    {
+      "word": "unexpected",
+      "count": 1
+    },
+    {
+      "word": "unexpectedly",
+      "count": 1
+    },
+    {
+      "word": "unfinished",
+      "count": 1
+    },
+    {
+      "word": "unfortunate",
+      "count": 1
+    },
+    {
+      "word": "unincumbered",
+      "count": 1
+    },
+    {
+      "word": "unintelligible",
+      "count": 1
+    },
+    {
+      "word": "uninterrupted",
+      "count": 1
+    },
+    {
+      "word": "unknowingly",
+      "count": 1
+    },
+    {
+      "word": "unknown",
+      "count": 1
+    },
+    {
+      "word": "unlimited",
+      "count": 1
+    },
+    {
+      "word": "unpopular",
+      "count": 1
+    },
+    {
+      "word": "unreasonable",
+      "count": 1
+    },
+    {
+      "word": "unrelenting",
+      "count": 1
+    },
+    {
+      "word": "unsatisfactory",
+      "count": 1
+    },
+    {
+      "word": "unstained",
+      "count": 1
+    },
+    {
+      "word": "unworthy",
+      "count": 1
+    },
+    {
+      "word": "urged",
+      "count": 1
+    },
+    {
+      "word": "us",
+      "count": 1
+    },
+    {
+      "word": "usages",
+      "count": 1
+    },
+    {
+      "word": "useful",
+      "count": 1
+    },
+    {
+      "word": "utterly",
+      "count": 1
+    },
+    {
+      "word": "vacancies",
+      "count": 1
+    },
+    {
+      "word": "valiantly",
+      "count": 1
+    },
+    {
+      "word": "valois",
+      "count": 1
+    },
+    {
+      "word": "vanished",
+      "count": 1
+    },
+    {
+      "word": "varying",
+      "count": 1
+    },
+    {
+      "word": "vassals",
+      "count": 1
+    },
+    {
+      "word": "vaudemont",
+      "count": 1
+    },
+    {
+      "word": "vaurus",
+      "count": 1
+    },
+    {
+      "word": "vendôme",
+      "count": 1
+    },
+    {
+      "word": "vengeance",
+      "count": 1
+    },
+    {
+      "word": "venture",
+      "count": 1
+    },
+    {
+      "word": "vernon",
+      "count": 1
+    },
+    {
+      "word": "victorious",
+      "count": 1
+    },
+    {
+      "word": "vigorous",
+      "count": 1
+    },
+    {
+      "word": "vii",
+      "count": 1
+    },
+    {
+      "word": "violation",
+      "count": 1
+    },
+    {
+      "word": "virtue",
+      "count": 1
+    },
+    {
+      "word": "vulgar",
+      "count": 1
+    },
+    {
+      "word": "waited",
+      "count": 1
+    },
+    {
+      "word": "wales",
+      "count": 1
+    },
+    {
+      "word": "walls",
+      "count": 1
+    },
+    {
+      "word": "walsing",
+      "count": 1
+    },
+    {
+      "word": "want",
+      "count": 1
+    },
+    {
+      "word": "wardrobe",
+      "count": 1
+    },
+    {
+      "word": "warlike",
+      "count": 1
+    },
+    {
+      "word": "wasted",
+      "count": 1
+    },
+    {
+      "word": "weakness",
+      "count": 1
+    },
+    {
+      "word": "weeds",
+      "count": 1
+    },
+    {
+      "word": "weight",
+      "count": 1
+    },
+    {
+      "word": "welsh",
+      "count": 1
+    },
+    {
+      "word": "west",
+      "count": 1
+    },
+    {
+      "word": "westminster",
+      "count": 1
+    },
+    {
+      "word": "what",
+      "count": 1
+    },
+    {
+      "word": "whoever",
+      "count": 1
+    },
+    {
+      "word": "wickliffites",
+      "count": 1
+    },
+    {
+      "word": "widow",
+      "count": 1
+    },
+    {
+      "word": "wild",
+      "count": 1
+    },
+    {
+      "word": "willingly",
+      "count": 1
+    },
+    {
+      "word": "winchester",
+      "count": 1
+    },
+    {
+      "word": "wine",
+      "count": 1
+    },
+    {
+      "word": "within",
+      "count": 1
+    },
+    {
+      "word": "wool",
+      "count": 1
+    },
+    {
+      "word": "work",
+      "count": 1
+    },
+    {
+      "word": "writers",
+      "count": 1
+    },
+    {
+      "word": "xaintonge",
+      "count": 1
+    },
+    {
+      "word": "xxiii",
+      "count": 1
+    },
+    {
+      "word": "xxvii",
+      "count": 1
+    },
+    {
+      "word": "yonne",
+      "count": 1
+    },
+    {
+      "word": "you",
+      "count": 1
+    },
+    {
+      "word": "younger",
+      "count": 1
+    },
+    {
+      "word": "ypod",
+      "count": 1
+    },
+    {
+      "word": "zealous",
+      "count": 1
+    },
+    {
+      "word": "zealously",
+      "count": 1
+    }
+  ]
+}

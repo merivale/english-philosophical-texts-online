@@ -1,0 +1,8 @@
+<div class="context">
+  {% if text.prev %}
+    <a class="prev" href="{{ text.prev.url }}">&lt; {{ text.prev.breadcrumb }}</a>
+  {% endif %}
+  {% if text.next %}
+    <a class="next" href="{{ text.next.url }}">{{ text.next.breadcrumb }} &gt;</a>
+  {% endif %}
+</div>

@@ -1,0 +1,11 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'home/nav.twig' with { 'page': 'contact' } %}
+{% endblock %}
+
+{% block content %}
+  <h1>Contact Us</h1>
+  <p><i>English Philosophical Texts Online</i> is being developed by <a href="https://merivale.uk">Amyas Merivale</a> and <a href="http://www.millican.org">Peter Millican</a> at the <a href="https://www.ox.ac.uk">University of Oxford</a>. We are philosophers and historians of 18th century philosophy, with a keen interest in digital humanities and in the value of high-quality digital texts. We developed <a href="https://davidhume.org">Hume Texts Online</a>, a site providing free digital editions of the complete works of David Hume. With this larger project we hope to provide a similar resource encompassing the works of many more British philosophers.</p>
+  <p>For suggestions or queries, please contact Amyas Merivale at <a href="mailto:amyas.merivale@philosophy.ox.ac.uk">amyas.merivale@philosophy.ox.ac.uk</a>.</p>
+{% endblock %}

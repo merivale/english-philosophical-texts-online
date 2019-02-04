@@ -1,0 +1,30 @@
+{
+  "id": "Hume.NHR",
+  "title": "The Natural History of Religion",
+  "breadcrumb": "Natural History of Religion",
+  "fulltitle": "<h1>The Natural History of Religion</h1>",
+  "published": "1757",
+  "copytext": "1777",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/texts/n.yml",
+  "imported": true,
+  "comments": "This text has been imported from <a href=\"https://davidhume.org\">Hume Texts Online</a>. Refer to the editorial notes on that site for details.",
+  "copyright": "The copyright for this text is held by Amyas Merivale and Peter Millican. The text may be used freely for educational and academic purposes. It may not be used in any way for profit.",
+  "texts": [
+    "Hume.NHR.Intro",
+    "Hume.NHR.1",
+    "Hume.NHR.2",
+    "Hume.NHR.3",
+    "Hume.NHR.4",
+    "Hume.NHR.5",
+    "Hume.NHR.6",
+    "Hume.NHR.7",
+    "Hume.NHR.8",
+    "Hume.NHR.9",
+    "Hume.NHR.10",
+    "Hume.NHR.11",
+    "Hume.NHR.12",
+    "Hume.NHR.13",
+    "Hume.NHR.14",
+    "Hume.NHR.15"
+  ]
+}

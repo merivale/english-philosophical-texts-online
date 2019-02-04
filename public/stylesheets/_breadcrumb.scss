@@ -1,0 +1,7 @@
+.breadcrumb {
+  padding: .5em .75em;
+  border-bottom: 1px solid $gray;
+  a:not(:last-child) {
+    margin-right: .25em;
+  }
+}

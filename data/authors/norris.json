@@ -1,0 +1,20 @@
+{
+  "id": "Norris",
+  "forename": "John",
+  "surname": "Norris",
+  "birth": 1657,
+  "death": 1711,
+  "published": 1687,
+  "nationality": "English",
+  "sex": "Male",
+  "texts": [
+    "Norris.CM",
+    "Norris.TRL",
+    "Norris.CRE",
+    "Norris.LLG",
+    "Norris.TSS",
+    "Norris.ETW",
+    "Norris.DIS",
+    "Norris.LD"
+  ]
+}
