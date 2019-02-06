@@ -71,6 +71,7 @@ const Text = (data) => ({
   source: data.source || undefined,
   imported: data.imported || false,
   duplicate: data.duplicate || undefined,
+  private: data.private || undefined,
   comments: data.comments || undefined,
   copyright: data.copyright || undefined,
   texts: data.texts ? data.texts : undefined,
