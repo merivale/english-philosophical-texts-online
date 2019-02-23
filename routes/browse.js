@@ -63,6 +63,20 @@ router.get('/:author/:text*/concordance', (req, res) => {
   }
 })
 
+// text details page
+router.get('/:author/:text*/details', (req, res) => {
+  const author = get.author(req.params.author)
+  const textId = `${req.params.author}/${req.params.text}${req.params[0]}`
+  const text = get.text(textId)
+  if (author && text && text.imported && text.paragraphs) {
+    const details = get.details(text)
+    const lexemes = get.lexemes(text)
+    res.render('browse/details', { area, author, text, details, lexemes })
+  } else {
+    res.status(404).end()
+  }
+})
+
 // text main page
 router.get('/:author/:text*', (req, res, next) => {
   const author = get.author(req.params.author)

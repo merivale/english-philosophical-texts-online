@@ -14,4 +14,10 @@ router.get('/letters/:letter', (req, res) => {
   res.json(words)
 })
 
+// vocabulary json
+router.get('/vocabulary/:author/:letter', (req, res) => {
+  const words = get.vocabulary(req.params.author, req.params.letter)
+  res.json(words)
+})
+
 module.exports = router

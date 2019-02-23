@@ -1,6 +1,7 @@
 // dependencies
 const fs = require('fs')
 const path = require('./path')
+const lexicon = require('./lexicon')
 
 // get array of all authors
 const authors = (options = {}) =>
@@ -64,13 +65,92 @@ const concordance = (id) =>
 const dictionary = (letter = null) => {
   const letters = 'abcdefghijklmnopqrstuvwxyz'.split('')
   if (letter && letters.includes(letter)) return open('dictionary', letter)
-  return letters.map(l => open('dictionary', l))
-    .reduce((sofar, current) => sofar.concat(current))
+  return letters.map(l => open('dictionary', l)).reduce((x, y) => x.concat(y))
 }
+
+// get details from a text
+const details = (text) => {
+  const blocks = text.paragraphs.concat(text.notes)
+  const people = blocks.map(block => block.content.match(/<u>.*?<\/u>/g))
+    .reduce((x, y) => x.concat(y), []).filter(Boolean)
+    .sort().reduce((sofar, current) => {
+      const existing = sofar.find(x => x.name === current)
+      if (existing) {
+        existing.frequency += 1
+      } else {
+        sofar.push({ name: current, frequency: 1 })
+      }
+      return sofar
+    }, [])
+  const citations = blocks.map(block => block.content.match(/<cite>.*?<\/cite>/g))
+    .reduce((x, y) => x.concat(y), []).filter(Boolean)
+  const foreign = blocks.map(block => block.content.match(/<i>.*?<\/i>/g))
+    .reduce((x, y) => x.concat(y), []).filter(Boolean)
+  return { people, citations, foreign }
+}
+
+// get lexemes from a text
+const lexemes = (text) => {
+  const tokens = text.paragraphs.concat(text.notes)
+    .map(block => tokenize(block.content))
+    .reduce((x, y) => x.concat(y), [])
+  const numbers = tokens.filter(x => !isNaN(x[0])).sort()
+  const forms = tokens.filter(x => isNaN(x[0]))
+  const lexemes = []
+  const wordsTemp = []
+  forms.forEach((form) => {
+    const lexeme = lexicon[form]
+    if (lexeme) {
+      const existing = lexemes.find(x => x.id === lexeme)
+      if (existing) {
+        existing.frequency += 1
+        if (!existing.forms.includes(form)) existing.forms.push(form)
+      } else {
+        lexemes.push({ id: lexeme, frequency: 1, forms: [form] })
+      }
+    } else {
+      wordsTemp.push(form)
+    }
+  })
+  lexemes.sort((x, y) => x.id.localeCompare(y.id, 'en'))
+  const words = wordsTemp.sort().reduce((sofar, current) => {
+    const existing = sofar.find(x => x.form === current)
+    if (existing) {
+      existing.frequency += 1
+    } else {
+      sofar.push({ form: current, frequency: 1 })
+    }
+    return sofar
+  }, [])
+  return { numbers, lexemes, words }
+}
+
+// convert a string of marked-up text to an array of (plain text) words
+const tokenize = content =>
+  content.toLowerCase()
+    .replace(/[,.;:!?()]/g, '') // remove all punctuation
+    .replace(/&amp/g, '&amp;') // reinstate semicolon after escaped ampersand
+    .replace(/<a(.*?)>(.*?)<\/a>/g, '') // remove all footnote anchors
+    .replace(/<i>(.*?)<\/i>/g, '') // remove all foreign language text
+    .replace(/<cite>(.*?)<\/cite>/g, '') // remove all citations
+    .replace(/(<(b|em)>)?<u>(.*?)<\/u>(<\/(b|em)>)?('s)?/g, '') // remove all names
+    .replace(/<small>(.*?)<\/small>/g, '') // remove anything marked as <small>
+    .replace(/<([^>]+)>/g, '') // remove all HTML tags
+    .replace(/-|—/g, ' ') // replace dashes with spaces
+    .split(' ') // split into an array of words
+    .filter(x => x.length > 0) // and get rid of empties caused by multiple adjacent spaces
 
 // open and parse a JSON file
 const open = (type, id) =>
   fs.existsSync(path(type, id)) ? JSON.parse(fs.readFileSync(path(type, id))) : undefined
 
 // export the getters
-module.exports = { authors, author, text, concordance, dictionary }
+module.exports = {
+  authors,
+  author,
+  text,
+  concordance,
+  dictionary,
+  details,
+  lexemes
+}

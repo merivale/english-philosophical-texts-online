@@ -8,9 +8,10 @@
   {% if text %}
     <a href="{{ text.url }}" class="{% if page == 'text' %}active{% endif %}">Text</a>
     <a href="{{ text.url }}/about" class="{% if page == 'about' %}active{% endif %}">About</a>
-    <a href="{{ text.url }}/concordance" class="{% if page == 'concordance' %}active{% endif %}">Concordance</a>
+    {% if text.paragraphs %}
+      <a href="{{ text.url }}/details" class="{% if page == 'details' %}active{% endif %}">Details</a>
+    {% endif %}
   {% else %}
     <a href="{{ author.url }}" class="{% if page == 'author' %}active{% endif %}">Works</a>
-    <a href="{{ author.url }}/concordance" class="{% if page == 'concordance' %}active{% endif %}">Concordance</a>
   {% endif %}
 </nav>

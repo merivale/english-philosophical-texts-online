@@ -1,0 +1,79 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'browse/nav.twig' with { 'page': 'details' } %}
+{% endblock %}
+
+{% block content %}
+  <h2>Named People</h2>
+  {% if details.people %}
+    <ul>
+      {% for person in details.people %}
+        <li>{{ person.name }} ({{ person.frequency }})</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No named people.</p>
+  {% endif %}
+  <h2>Citations</h2>
+  {% if details.citations %}
+    <ul>
+      {% for citation in details.citations %}
+        <li>{{ citation }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No citations.</p>
+  {% endif %}
+  <h2>Foreign Text</h2>
+  {% if details.foreign %}
+    <ul>
+      {% for foreign in details.foreign %}
+        <li>{{ foreign }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No foreign text.</p>
+  {% endif %}
+  <h2>Numbers</h2>
+  {% if lexemes.numbers %}
+    <ul>
+      {% for number in lexemes.numbers %}
+        <li>{{ number }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No numbers.</p>
+  {% endif %}
+  <h2>Identified lexemes</h2>
+  {% if lexemes.lexemes %}
+    <table>
+      <thead>
+        <tr><th>lexeme</th><th>forms</th><th>frequency</th></tr>
+      </thead>
+      <tbody>
+        {% for lexeme in lexemes.lexemes %}
+          <tr><td>{{ lexeme.id }}</td><td>{{ lexeme.forms | join(', ') }}</td><td>{{ lexeme.frequency }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    <p>No identified lexemes.</p>
+  {% endif %}
+  <br><br>
+  <h2>Unidentified Words</h2>
+  {% if lexemes.words %}
+    <table>
+      <thead>
+        <tr><th>form</th><th>frequency</th></tr>
+      </thead>
+      <tbody>
+        {% for word in lexemes.words %}
+          <tr><td>{{ word.form }}</td><td>{{ word.frequency }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    <p>No unidentified words.</p>
+  {% endif %}
+{% endblock %}

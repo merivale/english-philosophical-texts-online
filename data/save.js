@@ -18,6 +18,16 @@ const concordance = (data) => {
   save('concordances', Concordance(data))
 }
 
+// save vocabulary data
+const vocabulary = (id, data) => {
+  const characters = '0123456789abcdefghijklmnopqrstuvwxyz'.split('')
+  const files = characters.map(c => data.filter(x => x.word[0] === c))
+  files.forEach((file, index) => {
+    file.sort((x, y) => x.word.localeCompare(y.lexeme, 'en'))
+    save('vocabulary', file, `${id}/${characters[index]}`)
+  })
+}
+
 // save dictionary data
 const dictionary = (data) => {
   const characters = '0123456789abcdefghijklmnopqrstuvwxyz'.split('')
@@ -102,4 +112,4 @@ const Concordance = (data) => ({
 })
 
 // export the save functions
-module.exports = { author, text, concordance, dictionary }
+module.exports = { author, text, concordance, vocabulary, dictionary }

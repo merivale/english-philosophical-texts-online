@@ -1,0 +1,5351 @@
+[
+  {
+    "word": "can",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.3",
+      "Astell.SPL.3",
+      "Astell.SPL.3",
+      "Astell.SPL.8",
+      "Astell.SPL.10",
+      "Astell.SPL.10",
+      "Astell.SPL.10",
+      "Astell.SPL.11",
+      "Astell.SPL.11",
+      "Astell.SPL.12",
+      "Astell.SPL.14",
+      "Astell.SPL.17",
+      "Astell.SPL.17",
+      "Astell.SPL.17",
+      "Astell.SPL.17",
+      "Astell.SPL.17",
+      "Astell.SPL.18",
+      "Astell.SPL.19",
+      "Astell.SPL.19",
+      "Astell.SPL.20",
+      "Astell.SPL.20",
+      "Astell.SPL.25",
+      "Astell.SPL.31",
+      "Astell.SPL.33",
+      "Astell.SPL.34",
+      "Astell.SPL.36",
+      "Astell.SPL.37",
+      "Astell.SPL.40",
+      "Astell.SPL.41",
+      "Astell.SPL.42",
+      "Astell.SPL.43",
+      "Astell.SPL.44",
+      "Astell.SPL.48",
+      "Astell.SPL.48",
+      "Astell.SPL.49",
+      "Astell.SPL.50",
+      "Astell.SPL.51",
+      "Astell.SPL.52",
+      "Astell.SPL.52",
+      "Astell.SPL.53",
+      "Norris.LLG.Pref.Read.1",
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.6",
+      "Norris.LLG.Pref.Read.6",
+      "Norris.LLG.Pref.Read.6",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.10",
+      "Norris.LLG.Pref.Read.10",
+      "Norris.LLG.Pref.Read.10",
+      "Norris.LLG.Pref.Read.12",
+      "Norris.LLG.Pref.Read.12",
+      "Norris.LLG.Pref.Read.12",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.1.2",
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.Pref.1.5",
+      "Norris.LLG.Pref.1.5",
+      "Norris.LLG.Pref.1.5",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.Pref.Post.2",
+      "Astell.LLG.1.1",
+      "Astell.LLG.1.2",
+      "Astell.LLG.1.2",
+      "Astell.LLG.1.5",
+      "Norris.LLG.2.1",
+      "Norris.LLG.2.3",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.8",
+      "Astell.LLG.3.1",
+      "Astell.LLG.3.1",
+      "Astell.LLG.3.1",
+      "Astell.LLG.3.1",
+      "Astell.LLG.3.4",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.8",
+      "Astell.LLG.3.10",
+      "Astell.LLG.3.10",
+      "Astell.LLG.3.11",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.6",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.8",
+      "Norris.LLG.4.8",
+      "Astell.LLG.5.4",
+      "Astell.LLG.5.4",
+      "Astell.LLG.5.5",
+      "Astell.LLG.5.6",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.10",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.13",
+      "Astell.LLG.5.13",
+      "Astell.LLG.5.13",
+      "Astell.LLG.5.15",
+      "Astell.LLG.5.15",
+      "Astell.LLG.5.15",
+      "Astell.LLG.5.15",
+      "Astell.LLG.5.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.4",
+      "Norris.LLG.6.4",
+      "Norris.LLG.6.4",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.6",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.4",
+      "Astell.LLG.7.4",
+      "Astell.LLG.7.6",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.5",
+      "Norris.LLG.8.6",
+      "Norris.LLG.8.6",
+      "Astell.LLG.9.1",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.8",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.14",
+      "Astell.LLG.9.14",
+      "Astell.LLG.9.14",
+      "Astell.LLG.9.14",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.16",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.5",
+      "Norris.LLG.10.5",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.7",
+      "Norris.LLG.10.7",
+      "Norris.LLG.10.7",
+      "Norris.LLG.10.10",
+      "Astell.LLG.11.2",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.4",
+      "Astell.LLG.11.6",
+      "Astell.LLG.11.7",
+      "Astell.LLG.11.7",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.4",
+      "Norris.LLG.App.2.6"
+    ]
+  },
+  {
+    "word": "conceptions",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "clarifie",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "compendious",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.3",
+      "Norris.LLG.4.3",
+      "Norris.LLG.6.7"
+    ]
+  },
+  {
+    "word": "communion",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.3"
+    ]
+  },
+  {
+    "word": "capacity",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.Pref.1.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.6",
+      "Astell.LLG.7.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.6",
+      "Norris.LLG.10.5",
+      "Astell.LLG.App.1.4"
+    ]
+  },
+  {
+    "word": "compound",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.4"
+    ]
+  },
+  {
+    "word": "calling",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.4.4"
+    ]
+  },
+  {
+    "word": "contemplate",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.6",
+      "Astell.LLG.5.13",
+      "Norris.LLG.6.3",
+      "Astell.LLG.9.7"
+    ]
+  },
+  {
+    "word": "converses",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.6"
+    ]
+  },
+  {
+    "word": "comprehend",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.6",
+      "Norris.LLG.Pref.Read.6",
+      "Norris.LLG.2.1",
+      "Norris.LLG.4.9",
+      "Astell.LLG.9.15",
+      "Astell.LLG.11.2"
+    ]
+  },
+  {
+    "word": "chicane",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "christ",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.6",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.Read.12",
+      "Norris.LLG.8.6",
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "composures",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "carrying",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.7"
+    ]
+  },
+  {
+    "word": "correspondent",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.1"
+    ]
+  },
+  {
+    "word": "consumed",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.10.5"
+    ]
+  },
+  {
+    "word": "correspondence",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.1",
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.Pref.Read.14",
+      "Norris.LLG.Pref.1.2",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.3.1",
+      "Norris.LLG.4.1",
+      "Norris.LLG.4.1",
+      "Norris.LLG.6.6",
+      "Norris.LLG.10.10"
+    ]
+  },
+  {
+    "word": "condescendes",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.7"
+    ]
+  },
+  {
+    "word": "cheerful",
+    "paragraphs": [
+      "Astell.SPL.53"
+    ]
+  },
+  {
+    "word": "conclusion",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.13",
+      "Norris.LLG.Pref.Read.13",
+      "Norris.LLG.Pref.Read.13",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.Pref.Post.2",
+      "Norris.LLG.Pref.Post.2",
+      "Astell.LLG.3.1",
+      "Norris.LLG.4.10",
+      "Astell.LLG.9.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.5",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "chiefly",
+    "paragraphs": [
+      "Astell.SPL.53",
+      "Norris.LLG.Pref.Read.6",
+      "Astell.LLG.3.3"
+    ]
+  },
+  {
+    "word": "commonly",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "conditions",
+    "paragraphs": [
+      "Astell.SPL.53",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "cardinal",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "cool",
+    "paragraphs": [
+      "Astell.SPL.53"
+    ]
+  },
+  {
+    "word": "compendii",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "continue",
+    "paragraphs": [
+      "Astell.SPL.53",
+      "Astell.LLG.5.17",
+      "Norris.LLG.10.10",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "chrestien",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "countenances",
+    "paragraphs": [
+      "Astell.SPL.52"
+    ]
+  },
+  {
+    "word": "corneille's",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "common",
+    "paragraphs": [
+      "Astell.SPL.52",
+      "Norris.LLG.Pref.Read.13",
+      "Norris.LLG.Pref.1.5",
+      "Norris.LLG.2.10",
+      "Norris.LLG.2.10",
+      "Norris.LLG.4.1",
+      "Norris.LLG.4.8",
+      "Astell.LLG.5.7",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.2",
+      "Norris.LLG.8.2"
+    ]
+  },
+  {
+    "word": "celuy",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "caprice",
+    "paragraphs": [
+      "Astell.SPL.52"
+    ]
+  },
+  {
+    "word": "coeur",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "cast",
+    "paragraphs": [
+      "Astell.SPL.52",
+      "Astell.SPL.53",
+      "Norris.LLG.2.1",
+      "Norris.LLG.2.5",
+      "Norris.LLG.6.7",
+      "Norris.LLG.10.5"
+    ]
+  },
+  {
+    "word": "ce",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.8",
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "complement",
+    "paragraphs": [
+      "Astell.SPL.51"
+    ]
+  },
+  {
+    "word": "c'est",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "chambre",
+    "paragraphs": [
+      "Astell.SPL.51"
+    ]
+  },
+  {
+    "word": "cest",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "criticism",
+    "paragraphs": [
+      "Astell.SPL.51"
+    ]
+  },
+  {
+    "word": "charmer",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "coffers",
+    "paragraphs": [
+      "Astell.SPL.49"
+    ]
+  },
+  {
+    "word": "celestes",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "chusing",
+    "paragraphs": [
+      "Astell.SPL.49"
+    ]
+  },
+  {
+    "word": "commandment",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.10",
+      "Norris.LLG.Pref.Read.12",
+      "Astell.LLG.1.3",
+      "Norris.LLG.2.2",
+      "Norris.LLG.2.5",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.7",
+      "Norris.LLG.6.7",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.3",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.6",
+      "Norris.LLG.8.6",
+      "Norris.LLG.8.6",
+      "Norris.LLG.8.6",
+      "Astell.LLG.9.2",
+      "Astell.LLG.9.6"
+    ]
+  },
+  {
+    "word": "cover",
+    "paragraphs": [
+      "Astell.SPL.48"
+    ]
+  },
+  {
+    "word": "corsival",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.10"
+    ]
+  },
+  {
+    "word": "conceal",
+    "paragraphs": [
+      "Astell.SPL.48",
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "challenge",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.10",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "courses",
+    "paragraphs": [
+      "Astell.SPL.48"
+    ]
+  },
+  {
+    "word": "caesar",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.Read.11"
+    ]
+  },
+  {
+    "word": "childhood",
+    "paragraphs": [
+      "Astell.SPL.48"
+    ]
+  },
+  {
+    "word": "called",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.11",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.4.8",
+      "Norris.LLG.4.10",
+      "Norris.LLG.6.5",
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.3"
+    ]
+  },
+  {
+    "word": "calmly",
+    "paragraphs": [
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "coin",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.Read.11"
+    ]
+  },
+  {
+    "word": "clamour",
+    "paragraphs": [
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "caesar's",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.Read.11"
+    ]
+  },
+  {
+    "word": "consummated",
+    "paragraphs": [
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "creation",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.Read.11",
+      "Astell.LLG.5.3",
+      "Norris.LLG.10.1",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "consideration",
+    "paragraphs": [
+      "Astell.SPL.46",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.2.10",
+      "Norris.LLG.2.12",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.1",
+      "Norris.LLG.6.2",
+      "Astell.LLG.7.2",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.4",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "corinthians",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.11"
+    ]
+  },
+  {
+    "word": "confirm'd",
+    "paragraphs": [
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "conclusive",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.13"
+    ]
+  },
+  {
+    "word": "cyons",
+    "paragraphs": [
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "contains",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.14",
+      "Norris.LLG.6.3",
+      "Norris.LLG.10.2"
+    ]
+  },
+  {
+    "word": "comfortable",
+    "paragraphs": [
+      "Astell.SPL.45",
+      "Astell.SPL.48",
+      "Astell.LLG.3.6"
+    ]
+  },
+  {
+    "word": "communicating",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.14"
+    ]
+  },
+  {
+    "word": "caress'd",
+    "paragraphs": [
+      "Astell.SPL.44"
+    ]
+  },
+  {
+    "word": "contain",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.14",
+      "Astell.LLG.7.3"
+    ]
+  },
+  {
+    "word": "courted",
+    "paragraphs": [
+      "Astell.SPL.44",
+      "Astell.LLG.5.1",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "correspondents",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.14"
+    ]
+  },
+  {
+    "word": "credit",
+    "paragraphs": [
+      "Astell.SPL.44",
+      "Norris.LLG.Pref.Read.1"
+    ]
+  },
+  {
+    "word": "compliance",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.14",
+      "Astell.LLG.9.2"
+    ]
+  },
+  {
+    "word": "curse",
+    "paragraphs": [
+      "Astell.SPL.43"
+    ]
+  },
+  {
+    "word": "concluded",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.4.5",
+      "Norris.LLG.8.6",
+      "Astell.LLG.11.1"
+    ]
+  },
+  {
+    "word": "condition",
+    "paragraphs": [
+      "Astell.SPL.42",
+      "Astell.SPL.44",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.14",
+      "Norris.LLG.6.1",
+      "Norris.LLG.10.6",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "complain",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.1",
+      "Astell.LLG.7.4",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.13"
+    ]
+  },
+  {
+    "word": "communicated",
+    "paragraphs": [
+      "Astell.SPL.42"
+    ]
+  },
+  {
+    "word": "choiceness",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.1"
+    ]
+  },
+  {
+    "word": "conclude",
+    "paragraphs": [
+      "Astell.SPL.42",
+      "Norris.LLG.Pref.1.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.1.3",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.7",
+      "Norris.LLG.2.10",
+      "Astell.LLG.3.2",
+      "Astell.LLG.3.4",
+      "Norris.LLG.6.5",
+      "Astell.LLG.7.3",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.6",
+      "Astell.LLG.9.14",
+      "Norris.LLG.10.5",
+      "Norris.LLG.10.8",
+      "Norris.LLG.10.10",
+      "Astell.LLG.11.10",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "contrivance",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.1"
+    ]
+  },
+  {
+    "word": "centre",
+    "paragraphs": [
+      "Astell.SPL.42",
+      "Norris.LLG.8.3"
+    ]
+  },
+  {
+    "word": "clearness",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.1"
+    ]
+  },
+  {
+    "word": "cannon",
+    "paragraphs": [
+      "Astell.SPL.42"
+    ]
+  },
+  {
+    "word": "commanding",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.2"
+    ]
+  },
+  {
+    "word": "combination",
+    "paragraphs": [
+      "Astell.SPL.41"
+    ]
+  },
+  {
+    "word": "complaint",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.3"
+    ]
+  },
+  {
+    "word": "contrivances",
+    "paragraphs": [
+      "Astell.SPL.41"
+    ]
+  },
+  {
+    "word": "considered",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.2.4",
+      "Astell.LLG.3.2",
+      "Astell.LLG.3.5",
+      "Astell.LLG.3.8",
+      "Astell.LLG.3.8",
+      "Norris.LLG.4.2",
+      "Norris.LLG.4.3",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.7",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.4",
+      "Astell.LLG.9.4",
+      "Astell.LLG.9.12",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "combinations",
+    "paragraphs": [
+      "Astell.SPL.41"
+    ]
+  },
+  {
+    "word": "captives",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.4"
+    ]
+  },
+  {
+    "word": "comprehends",
+    "paragraphs": [
+      "Astell.SPL.41",
+      "Astell.LLG.7.1",
+      "Norris.LLG.10.2"
+    ]
+  },
+  {
+    "word": "canst",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.4",
+      "Astell.LLG.11.10"
+    ]
+  },
+  {
+    "word": "caelestial",
+    "paragraphs": [
+      "Astell.SPL.41"
+    ]
+  },
+  {
+    "word": "conscious",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.4.5",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "choicest",
+    "paragraphs": [
+      "Astell.SPL.41"
+    ]
+  },
+  {
+    "word": "consumes",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.4"
+    ]
+  },
+  {
+    "word": "capricious",
+    "paragraphs": [
+      "Astell.SPL.40"
+    ]
+  },
+  {
+    "word": "comfortably",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.4"
+    ]
+  },
+  {
+    "word": "convincing",
+    "paragraphs": [
+      "Astell.SPL.40",
+      "Norris.LLG.10.1",
+      "Astell.LLG.11.1"
+    ]
+  },
+  {
+    "word": "concealed",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.5"
+    ]
+  },
+  {
+    "word": "contribute",
+    "paragraphs": [
+      "Astell.SPL.40",
+      "Astell.SPL.52",
+      "Astell.LLG.App.1.3",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "conducive",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.5",
+      "Astell.LLG.3.10"
+    ]
+  },
+  {
+    "word": "clearly",
+    "paragraphs": [
+      "Astell.SPL.40",
+      "Astell.SPL.42",
+      "Norris.LLG.2.5",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.5",
+      "Astell.LLG.9.1",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "casuist",
+    "paragraphs": [
+      "Norris.LLG.Pref.1.5"
+    ]
+  },
+  {
+    "word": "croud",
+    "paragraphs": [
+      "Astell.SPL.39"
+    ]
+  },
+  {
+    "word": "characters",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.8.6"
+    ]
+  },
+  {
+    "word": "chase",
+    "paragraphs": [
+      "Astell.SPL.39",
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "censor",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1"
+    ]
+  },
+  {
+    "word": "contention",
+    "paragraphs": [
+      "Astell.SPL.38",
+      "Norris.LLG.Pref.Read.2",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "confessor",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1"
+    ]
+  },
+  {
+    "word": "cutting",
+    "paragraphs": [
+      "Astell.SPL.38"
+    ]
+  },
+  {
+    "word": "candor",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.3"
+    ]
+  },
+  {
+    "word": "cares",
+    "paragraphs": [
+      "Astell.SPL.37",
+      "Norris.LLG.10.6",
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "critick",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1"
+    ]
+  },
+  {
+    "word": "censures",
+    "paragraphs": [
+      "Astell.SPL.37"
+    ]
+  },
+  {
+    "word": "concealment",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1"
+    ]
+  },
+  {
+    "word": "courage",
+    "paragraphs": [
+      "Astell.SPL.37",
+      "Norris.LLG.Pref.Read.8"
+    ]
+  },
+  {
+    "word": "considerations",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.2.12",
+      "Norris.LLG.6.1",
+      "Norris.LLG.8.6"
+    ]
+  },
+  {
+    "word": "considerable",
+    "paragraphs": [
+      "Astell.SPL.36",
+      "Astell.SPL.37",
+      "Astell.SPL.41",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.2.10",
+      "Astell.LLG.3.1",
+      "Astell.LLG.3.5",
+      "Norris.LLG.4.2",
+      "Norris.LLG.8.1",
+      "Astell.LLG.9.10",
+      "Norris.LLG.10.3"
+    ]
+  },
+  {
+    "word": "comparable",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1"
+    ]
+  },
+  {
+    "word": "contracts",
+    "paragraphs": [
+      "Astell.SPL.36",
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "commendations",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "condemn'd",
+    "paragraphs": [
+      "Astell.SPL.36"
+    ]
+  },
+  {
+    "word": "confess",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.5.5",
+      "Norris.LLG.6.2",
+      "Astell.LLG.7.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.5",
+      "Norris.LLG.10.2",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "censoriousness",
+    "paragraphs": [
+      "Astell.SPL.34",
+      "Astell.LLG.11.9"
+    ]
+  },
+  {
+    "word": "compositions",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.2"
+    ]
+  },
+  {
+    "word": "civilities",
+    "paragraphs": [
+      "Astell.SPL.34",
+      "Astell.LLG.Pref.2.2"
+    ]
+  },
+  {
+    "word": "captious",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.2"
+    ]
+  },
+  {
+    "word": "conquer",
+    "paragraphs": [
+      "Astell.SPL.34"
+    ]
+  },
+  {
+    "word": "complaisant",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.2"
+    ]
+  },
+  {
+    "word": "conversing",
+    "paragraphs": [
+      "Astell.SPL.34"
+    ]
+  },
+  {
+    "word": "convinced",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.10",
+      "Astell.LLG.5.6",
+      "Astell.LLG.9.13",
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "continually",
+    "paragraphs": [
+      "Astell.SPL.33",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.4.1",
+      "Norris.LLG.10.3"
+    ]
+  },
+  {
+    "word": "compensate",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.3"
+    ]
+  },
+  {
+    "word": "crazy",
+    "paragraphs": [
+      "Astell.SPL.32"
+    ]
+  },
+  {
+    "word": "crude",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.11.6"
+    ]
+  },
+  {
+    "word": "cocker'd",
+    "paragraphs": [
+      "Astell.SPL.32"
+    ]
+  },
+  {
+    "word": "commentators",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.3"
+    ]
+  },
+  {
+    "word": "childish",
+    "paragraphs": [
+      "Astell.SPL.32",
+      "Astell.LLG.7.1"
+    ]
+  },
+  {
+    "word": "curiosity",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.1.1"
+    ]
+  },
+  {
+    "word": "concernedly",
+    "paragraphs": [
+      "Astell.SPL.31"
+    ]
+  },
+  {
+    "word": "coveting",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.7.3"
+    ]
+  },
+  {
+    "word": "clearest",
+    "paragraphs": [
+      "Astell.SPL.31",
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "celestial",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.4"
+    ]
+  },
+  {
+    "word": "converse",
+    "paragraphs": [
+      "Astell.SPL.30",
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "cleave",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.5.9",
+      "Astell.LLG.7.4",
+      "Astell.LLG.9.4",
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "convey'd",
+    "paragraphs": [
+      "Astell.SPL.30"
+    ]
+  },
+  {
+    "word": "claim",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.4"
+    ]
+  },
+  {
+    "word": "conveys",
+    "paragraphs": [
+      "Astell.SPL.30"
+    ]
+  },
+  {
+    "word": "composed",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.4"
+    ]
+  },
+  {
+    "word": "cursory",
+    "paragraphs": [
+      "Astell.SPL.29"
+    ]
+  },
+  {
+    "word": "coldness",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "concomitants",
+    "paragraphs": [
+      "Astell.SPL.29"
+    ]
+  },
+  {
+    "word": "copy",
+    "paragraphs": [
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.9.13"
+    ]
+  },
+  {
+    "word": "confine",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Astell.LLG.1.1",
+      "Norris.LLG.4.8"
+    ]
+  },
+  {
+    "word": "continuation",
+    "paragraphs": [
+      "Norris.LLG.Pref.Post.1"
+    ]
+  },
+  {
+    "word": "can't",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Astell.SPL.51",
+      "Astell.LLG.1.1",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.4",
+      "Norris.LLG.2.1",
+      "Norris.LLG.2.6",
+      "Astell.LLG.3.1",
+      "Astell.LLG.5.1",
+      "Astell.LLG.5.2",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.9.4"
+    ]
+  },
+  {
+    "word": "carnal",
+    "paragraphs": [
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.10.9",
+      "Astell.LLG.11.9"
+    ]
+  },
+  {
+    "word": "corrected",
+    "paragraphs": [
+      "Astell.SPL.28"
+    ]
+  },
+  {
+    "word": "currant",
+    "paragraphs": [
+      "Astell.LLG.1.2",
+      "Astell.LLG.3.10"
+    ]
+  },
+  {
+    "word": "charming",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Norris.LLG.Pref.1.4",
+      "Astell.LLG.Pref.2.4"
+    ]
+  },
+  {
+    "word": "crudely",
+    "paragraphs": [
+      "Astell.LLG.1.5"
+    ]
+  },
+  {
+    "word": "consulting",
+    "paragraphs": [
+      "Astell.SPL.28"
+    ]
+  },
+  {
+    "word": "civility",
+    "paragraphs": [
+      "Norris.LLG.2.1"
+    ]
+  },
+  {
+    "word": "conspire",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Norris.LLG.10.2"
+    ]
+  },
+  {
+    "word": "contents",
+    "paragraphs": [
+      "Norris.LLG.2.1",
+      "Norris.LLG.4.2"
+    ]
+  },
+  {
+    "word": "commensurate",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Norris.LLG.8.5"
+    ]
+  },
+  {
+    "word": "condescended",
+    "paragraphs": [
+      "Norris.LLG.2.1"
+    ]
+  },
+  {
+    "word": "charge",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Astell.SPL.28",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.6"
+    ]
+  },
+  {
+    "word": "contended",
+    "paragraphs": [
+      "Norris.LLG.2.2"
+    ]
+  },
+  {
+    "word": "comfort",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Astell.SPL.51",
+      "Norris.LLG.Pref.1.2",
+      "Norris.LLG.6.6"
+    ]
+  },
+  {
+    "word": "connexion",
+    "paragraphs": [
+      "Norris.LLG.2.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "comprehensive",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Astell.LLG.5.1",
+      "Norris.LLG.6.1",
+      "Astell.LLG.7.4",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "consisting",
+    "paragraphs": [
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.6"
+    ]
+  },
+  {
+    "word": "consummate",
+    "paragraphs": [
+      "Astell.SPL.28",
+      "Astell.SPL.40",
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "causing",
+    "paragraphs": [
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6"
+    ]
+  },
+  {
+    "word": "conscience",
+    "paragraphs": [
+      "Astell.SPL.27",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "comporting",
+    "paragraphs": [
+      "Norris.LLG.2.6"
+    ]
+  },
+  {
+    "word": "censure",
+    "paragraphs": [
+      "Astell.SPL.27",
+      "Astell.SPL.37",
+      "Astell.SPL.42",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.3"
+    ]
+  },
+  {
+    "word": "consist",
+    "paragraphs": [
+      "Norris.LLG.2.10",
+      "Astell.LLG.3.4",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.8"
+    ]
+  },
+  {
+    "word": "carkass",
+    "paragraphs": [
+      "Astell.SPL.26"
+    ]
+  },
+  {
+    "word": "conceiv'd",
+    "paragraphs": [
+      "Astell.LLG.3.1"
+    ]
+  },
+  {
+    "word": "considers",
+    "paragraphs": [
+      "Astell.SPL.26",
+      "Astell.LLG.5.12"
+    ]
+  },
+  {
+    "word": "conforming",
+    "paragraphs": [
+      "Astell.LLG.3.1"
+    ]
+  },
+  {
+    "word": "commend",
+    "paragraphs": [
+      "Astell.SPL.26",
+      "Astell.SPL.50",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "conclusions",
+    "paragraphs": [
+      "Astell.LLG.3.1",
+      "Astell.LLG.5.16"
+    ]
+  },
+  {
+    "word": "chief",
+    "paragraphs": [
+      "Astell.SPL.24",
+      "Astell.SPL.42",
+      "Norris.LLG.Pref.1.3"
+    ]
+  },
+  {
+    "word": "confuse",
+    "paragraphs": [
+      "Astell.LLG.3.1",
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "constitutions",
+    "paragraphs": [
+      "Astell.SPL.24"
+    ]
+  },
+  {
+    "word": "continued",
+    "paragraphs": [
+      "Astell.LLG.3.1"
+    ]
+  },
+  {
+    "word": "carefully",
+    "paragraphs": [
+      "Astell.SPL.24",
+      "Norris.LLG.Pref.Read.14",
+      "Norris.LLG.4.10",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "circumstantiated",
+    "paragraphs": [
+      "Astell.LLG.3.2"
+    ]
+  },
+  {
+    "word": "consider",
+    "paragraphs": [
+      "Astell.SPL.24",
+      "Astell.SPL.36",
+      "Astell.SPL.39",
+      "Astell.SPL.51",
+      "Astell.SPL.53",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.2.1",
+      "Norris.LLG.2.3",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Astell.LLG.3.9",
+      "Norris.LLG.4.2",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.6",
+      "Astell.LLG.5.7",
+      "Norris.LLG.6.6",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.3",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.14",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.10",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "contradicted",
+    "paragraphs": [
+      "Astell.LLG.3.3"
+    ]
+  },
+  {
+    "word": "ceas'd",
+    "paragraphs": [
+      "Astell.SPL.24"
+    ]
+  },
+  {
+    "word": "controversies",
+    "paragraphs": [
+      "Astell.LLG.3.3"
+    ]
+  },
+  {
+    "word": "command",
+    "paragraphs": [
+      "Astell.SPL.24",
+      "Astell.SPL.28",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.6.1",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.5",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.8",
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "consequent",
+    "paragraphs": [
+      "Astell.LLG.3.5",
+      "Astell.LLG.9.7"
+    ]
+  },
+  {
+    "word": "catechizing",
+    "paragraphs": [
+      "Astell.SPL.24",
+      "Astell.SPL.31"
+    ]
+  },
+  {
+    "word": "craving",
+    "paragraphs": [
+      "Astell.LLG.3.6",
+      "Norris.LLG.8.4"
+    ]
+  },
+  {
+    "word": "celebration",
+    "paragraphs": [
+      "Astell.SPL.24"
+    ]
+  },
+  {
+    "word": "chillness",
+    "paragraphs": [
+      "Astell.LLG.3.6"
+    ]
+  },
+  {
+    "word": "cathedral",
+    "paragraphs": [
+      "Astell.SPL.24"
+    ]
+  },
+  {
+    "word": "complexion",
+    "paragraphs": [
+      "Astell.LLG.3.6"
+    ]
+  },
+  {
+    "word": "correcting",
+    "paragraphs": [
+      "Astell.SPL.23",
+      "Astell.SPL.47"
+    ]
+  },
+  {
+    "word": "chearing",
+    "paragraphs": [
+      "Astell.LLG.3.7"
+    ]
+  },
+  {
+    "word": "comforting",
+    "paragraphs": [
+      "Astell.SPL.23"
+    ]
+  },
+  {
+    "word": "call'd",
+    "paragraphs": [
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.9",
+      "Norris.LLG.4.9",
+      "Astell.LLG.5.4",
+      "Astell.LLG.5.7"
+    ]
+  },
+  {
+    "word": "counselling",
+    "paragraphs": [
+      "Astell.SPL.23"
+    ]
+  },
+  {
+    "word": "competition",
+    "paragraphs": [
+      "Astell.LLG.3.9",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "corporal",
+    "paragraphs": [
+      "Astell.SPL.23",
+      "Norris.LLG.Pref.Post.1"
+    ]
+  },
+  {
+    "word": "calamity",
+    "paragraphs": [
+      "Astell.LLG.3.9"
+    ]
+  },
+  {
+    "word": "charitable",
+    "paragraphs": [
+      "Astell.SPL.23",
+      "Astell.SPL.27",
+      "Astell.SPL.28"
+    ]
+  },
+  {
+    "word": "confident",
+    "paragraphs": [
+      "Astell.LLG.3.9",
+      "Astell.LLG.App.1.5"
+    ]
+  },
+  {
+    "word": "constant",
+    "paragraphs": [
+      "Astell.SPL.23",
+      "Astell.SPL.32",
+      "Astell.SPL.34",
+      "Astell.SPL.40",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.4.10",
+      "Astell.LLG.5.15",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "calls",
+    "paragraphs": [
+      "Astell.LLG.3.10",
+      "Norris.LLG.10.8",
+      "Astell.LLG.App.1.2"
+    ]
+  },
+  {
+    "word": "careful",
+    "paragraphs": [
+      "Astell.SPL.23",
+      "Astell.SPL.39",
+      "Norris.LLG.Pref.1.4"
+    ]
+  },
+  {
+    "word": "concernment",
+    "paragraphs": [
+      "Astell.LLG.3.11"
+    ]
+  },
+  {
+    "word": "concerning",
+    "paragraphs": [
+      "Astell.SPL.23",
+      "Astell.SPL.35",
+      "Astell.SPL.39",
+      "Norris.LLG.Pref.Read.14",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.2.8",
+      "Norris.LLG.4.6",
+      "Norris.LLG.4.8",
+      "Norris.LLG.4.11",
+      "Astell.LLG.5.2",
+      "Astell.LLG.5.6",
+      "Astell.LLG.5.11",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.2",
+      "Norris.LLG.6.7",
+      "Norris.LLG.6.7",
+      "Norris.LLG.8.6",
+      "Norris.LLG.8.6",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Astell.LLG.App.1.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "commode",
+    "paragraphs": [
+      "Astell.LLG.3.11"
+    ]
+  },
+  {
+    "word": "catechis'd",
+    "paragraphs": [
+      "Astell.SPL.22"
+    ]
+  },
+  {
+    "word": "congratulate",
+    "paragraphs": [
+      "Norris.LLG.4.1"
+    ]
+  },
+  {
+    "word": "cartes",
+    "paragraphs": [
+      "Astell.SPL.21"
+    ]
+  },
+  {
+    "word": "chosen",
+    "paragraphs": [
+      "Norris.LLG.4.1",
+      "Astell.LLG.5.9",
+      "Norris.LLG.6.1"
+    ]
+  },
+  {
+    "word": "convince",
+    "paragraphs": [
+      "Astell.SPL.21",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.4",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "companies",
+    "paragraphs": [
+      "Norris.LLG.4.1"
+    ]
+  },
+  {
+    "word": "creep",
+    "paragraphs": [
+      "Astell.SPL.21",
+      "Astell.LLG.7.4"
+    ]
+  },
+  {
+    "word": "commence",
+    "paragraphs": [
+      "Norris.LLG.4.1"
+    ]
+  },
+  {
+    "word": "captive",
+    "paragraphs": [
+      "Astell.SPL.21",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "comparing",
+    "paragraphs": [
+      "Norris.LLG.4.2",
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "company",
+    "paragraphs": [
+      "Astell.SPL.20",
+      "Astell.SPL.34",
+      "Astell.SPL.39",
+      "Astell.SPL.50"
+    ]
+  },
+  {
+    "word": "casting",
+    "paragraphs": [
+      "Norris.LLG.4.3"
+    ]
+  },
+  {
+    "word": "conversations",
+    "paragraphs": [
+      "Astell.SPL.20",
+      "Astell.SPL.34",
+      "Astell.SPL.41",
+      "Astell.SPL.42",
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "confound",
+    "paragraphs": [
+      "Norris.LLG.4.4"
+    ]
+  },
+  {
+    "word": "crampt",
+    "paragraphs": [
+      "Astell.SPL.20"
+    ]
+  },
+  {
+    "word": "choose",
+    "paragraphs": [
+      "Norris.LLG.4.4",
+      "Astell.LLG.5.6"
+    ]
+  },
+  {
+    "word": "cruel",
+    "paragraphs": [
+      "Astell.SPL.20"
+    ]
+  },
+  {
+    "word": "caused",
+    "paragraphs": [
+      "Norris.LLG.4.5"
+    ]
+  },
+  {
+    "word": "created",
+    "paragraphs": [
+      "Astell.SPL.20",
+      "Norris.LLG.Pref.Read.11",
+      "Norris.LLG.Pref.1.4",
+      "Astell.LLG.7.1",
+      "Astell.LLG.9.4",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "conceiving",
+    "paragraphs": [
+      "Norris.LLG.4.5"
+    ]
+  },
+  {
+    "word": "closets",
+    "paragraphs": [
+      "Astell.SPL.19"
+    ]
+  },
+  {
+    "word": "consequentially",
+    "paragraphs": [
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.7",
+      "Astell.LLG.5.4",
+      "Astell.LLG.5.9"
+    ]
+  },
+  {
+    "word": "catalogue",
+    "paragraphs": [
+      "Astell.SPL.19"
+    ]
+  },
+  {
+    "word": "causality",
+    "paragraphs": [
+      "Norris.LLG.4.6",
+      "Norris.LLG.10.1",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.5"
+    ]
+  },
+  {
+    "word": "confirm",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Astell.SPL.42",
+      "Astell.SPL.46",
+      "Astell.LLG.3.3",
+      "Astell.LLG.7.1",
+      "Astell.LLG.9.15",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "circumstantiating",
+    "paragraphs": [
+      "Norris.LLG.4.8"
+    ]
+  },
+  {
+    "word": "church",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Astell.SPL.21",
+      "Astell.SPL.24",
+      "Astell.SPL.24",
+      "Astell.SPL.24",
+      "Norris.LLG.Pref.Read.7"
+    ]
+  },
+  {
+    "word": "circumstances",
+    "paragraphs": [
+      "Norris.LLG.4.8",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.7",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.9",
+      "Norris.LLG.6.1"
+    ]
+  },
+  {
+    "word": "christianity",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Astell.SPL.21",
+      "Astell.SPL.28",
+      "Astell.SPL.41",
+      "Astell.LLG.Pref.2.4"
+    ]
+  },
+  {
+    "word": "commit",
+    "paragraphs": [
+      "Norris.LLG.4.9",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.9",
+      "Astell.LLG.9.10"
+    ]
+  },
+  {
+    "word": "cloud",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Norris.LLG.2.1",
+      "Astell.LLG.3.7",
+      "Astell.LLG.11.10"
+    ]
+  },
+  {
+    "word": "candid",
+    "paragraphs": [
+      "Astell.LLG.5.1"
+    ]
+  },
+  {
+    "word": "carried",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Norris.LLG.10.3"
+    ]
+  },
+  {
+    "word": "condiscending",
+    "paragraphs": [
+      "Astell.LLG.5.1"
+    ]
+  },
+  {
+    "word": "competent",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Astell.SPL.31"
+    ]
+  },
+  {
+    "word": "critical",
+    "paragraphs": [
+      "Astell.LLG.5.2"
+    ]
+  },
+  {
+    "word": "contracting",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Astell.SPL.41",
+      "Astell.SPL.41",
+      "Astell.LLG.7.4"
+    ]
+  },
+  {
+    "word": "confounded",
+    "paragraphs": [
+      "Astell.LLG.5.3",
+      "Norris.LLG.6.1"
+    ]
+  },
+  {
+    "word": "consider'd",
+    "paragraphs": [
+      "Astell.SPL.19",
+      "Astell.SPL.19",
+      "Astell.SPL.44",
+      "Astell.SPL.46",
+      "Norris.LLG.6.2"
+    ]
+  },
+  {
+    "word": "concomitant",
+    "paragraphs": [
+      "Astell.LLG.5.3",
+      "Astell.LLG.9.10"
+    ]
+  },
+  {
+    "word": "caus'd",
+    "paragraphs": [
+      "Astell.SPL.18",
+      "Norris.LLG.2.9"
+    ]
+  },
+  {
+    "word": "contradicts",
+    "paragraphs": [
+      "Astell.LLG.5.3"
+    ]
+  },
+  {
+    "word": "cut",
+    "paragraphs": [
+      "Astell.SPL.18",
+      "Astell.LLG.3.11",
+      "Astell.LLG.7.1",
+      "Astell.LLG.9.15",
+      "Astell.LLG.App.1.4"
+    ]
+  },
+  {
+    "word": "ceases",
+    "paragraphs": [
+      "Astell.LLG.5.3"
+    ]
+  },
+  {
+    "word": "contemplative",
+    "paragraphs": [
+      "Astell.SPL.18",
+      "Astell.LLG.1.5"
+    ]
+  },
+  {
+    "word": "contemplations",
+    "paragraphs": [
+      "Astell.LLG.5.7",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "communicate",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Norris.LLG.Pref.1.5",
+      "Norris.LLG.4.11",
+      "Astell.LLG.5.11",
+      "Norris.LLG.6.7",
+      "Norris.LLG.10.10",
+      "Astell.LLG.11.7"
+    ]
+  },
+  {
+    "word": "comparative",
+    "paragraphs": [
+      "Astell.LLG.5.9"
+    ]
+  },
+  {
+    "word": "contemplation",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.SPL.17",
+      "Astell.SPL.20",
+      "Astell.SPL.20",
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.2.3",
+      "Astell.LLG.3.9",
+      "Astell.LLG.5.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "circumstance",
+    "paragraphs": [
+      "Astell.LLG.5.9",
+      "Norris.LLG.6.1"
+    ]
+  },
+  {
+    "word": "compleat",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.SPL.54",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.12"
+    ]
+  },
+  {
+    "word": "comforts",
+    "paragraphs": [
+      "Astell.LLG.5.9"
+    ]
+  },
+  {
+    "word": "conformable",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.SPL.30",
+      "Norris.LLG.10.4",
+      "Norris.LLG.10.5"
+    ]
+  },
+  {
+    "word": "cease",
+    "paragraphs": [
+      "Astell.LLG.5.13",
+      "Astell.LLG.5.13",
+      "Norris.LLG.6.7",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.7"
+    ]
+  },
+  {
+    "word": "crowns",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.LLG.5.15"
+    ]
+  },
+  {
+    "word": "cravings",
+    "paragraphs": [
+      "Astell.LLG.5.13"
+    ]
+  },
+  {
+    "word": "covetousness",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Norris.LLG.Pref.1.4"
+    ]
+  },
+  {
+    "word": "cordial",
+    "paragraphs": [
+      "Astell.LLG.5.14"
+    ]
+  },
+  {
+    "word": "canker",
+    "paragraphs": [
+      "Astell.SPL.17"
+    ]
+  },
+  {
+    "word": "calamitous",
+    "paragraphs": [
+      "Astell.LLG.5.14"
+    ]
+  },
+  {
+    "word": "creatures",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.Read.7",
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.7",
+      "Norris.LLG.2.7",
+      "Norris.LLG.2.7",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.10",
+      "Norris.LLG.4.10",
+      "Astell.LLG.5.1",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.5",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.14",
+      "Astell.LLG.9.14",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.7",
+      "Norris.LLG.10.7",
+      "Astell.LLG.11.1",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.10",
+      "Astell.LLG.App.1.4",
+      "Norris.LLG.App.2.5"
+    ]
+  },
+  {
+    "word": "cramps",
+    "paragraphs": [
+      "Astell.LLG.5.15"
+    ]
+  },
+  {
+    "word": "cou'd",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.SPL.40",
+      "Astell.SPL.44",
+      "Astell.SPL.48",
+      "Astell.SPL.51",
+      "Astell.SPL.51",
+      "Astell.SPL.52"
+    ]
+  },
+  {
+    "word": "clay",
+    "paragraphs": [
+      "Astell.LLG.5.15"
+    ]
+  },
+  {
+    "word": "capacities",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.LLG.3.9",
+      "Astell.LLG.5.7",
+      "Astell.LLG.5.14",
+      "Astell.LLG.7.1",
+      "Astell.LLG.9.3"
+    ]
+  },
+  {
+    "word": "condescention",
+    "paragraphs": [
+      "Astell.LLG.5.17"
+    ]
+  },
+  {
+    "word": "conceive",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Norris.LLG.Pref.1.4",
+      "Norris.LLG.4.4",
+      "Norris.LLG.6.1",
+      "Norris.LLG.8.4",
+      "Astell.LLG.11.3",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "challenges",
+    "paragraphs": [
+      "Norris.LLG.6.1"
+    ]
+  },
+  {
+    "word": "counsels",
+    "paragraphs": [
+      "Astell.SPL.17"
+    ]
+  },
+  {
+    "word": "clause",
+    "paragraphs": [
+      "Norris.LLG.6.1",
+      "Norris.LLG.8.6",
+      "Astell.LLG.App.1.4"
+    ]
+  },
+  {
+    "word": "chat",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.SPL.31"
+    ]
+  },
+  {
+    "word": "contradictory",
+    "paragraphs": [
+      "Norris.LLG.6.1",
+      "Astell.LLG.7.6",
+      "Norris.LLG.8.2"
+    ]
+  },
+  {
+    "word": "confinement",
+    "paragraphs": [
+      "Astell.SPL.17",
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "comply",
+    "paragraphs": [
+      "Norris.LLG.6.2"
+    ]
+  },
+  {
+    "word": "corruptions",
+    "paragraphs": [
+      "Astell.SPL.16",
+      "Astell.SPL.40",
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "cases",
+    "paragraphs": [
+      "Norris.LLG.6.2",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "cumbersom",
+    "paragraphs": [
+      "Astell.SPL.16"
+    ]
+  },
+  {
+    "word": "confessing",
+    "paragraphs": [
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "convenient",
+    "paragraphs": [
+      "Astell.SPL.16",
+      "Astell.SPL.26",
+      "Astell.SPL.43",
+      "Astell.SPL.43",
+      "Norris.LLG.Pref.Post.1",
+      "Astell.LLG.1.5",
+      "Astell.LLG.5.1",
+      "Astell.LLG.5.16"
+    ]
+  },
+  {
+    "word": "consciousness",
+    "paragraphs": [
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.4"
+    ]
+  },
+  {
+    "word": "came",
+    "paragraphs": [
+      "Astell.SPL.16",
+      "Norris.LLG.Pref.1.2",
+      "Norris.LLG.8.1"
+    ]
+  },
+  {
+    "word": "chapter",
+    "paragraphs": [
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.6",
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "confin'd",
+    "paragraphs": [
+      "Astell.SPL.16"
+    ]
+  },
+  {
+    "word": "chrestiennes",
+    "paragraphs": [
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "convinc'd",
+    "paragraphs": [
+      "Astell.SPL.16",
+      "Astell.SPL.17"
+    ]
+  },
+  {
+    "word": "cologne",
+    "paragraphs": [
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "call",
+    "paragraphs": [
+      "Astell.SPL.16",
+      "Astell.SPL.52",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.3.4",
+      "Astell.LLG.3.4",
+      "Astell.LLG.3.6",
+      "Astell.LLG.3.6",
+      "Astell.LLG.3.6",
+      "Norris.LLG.4.8",
+      "Astell.LLG.5.3",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.7",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.11",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.4",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "closely",
+    "paragraphs": [
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "could",
+    "paragraphs": [
+      "Astell.SPL.15",
+      "Astell.SPL.39",
+      "Astell.SPL.41",
+      "Astell.SPL.44",
+      "Norris.LLG.Pref.1.1",
+      "Astell.LLG.Pref.2.3",
+      "Norris.LLG.4.5",
+      "Astell.LLG.5.6",
+      "Astell.LLG.5.7",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.14",
+      "Astell.LLG.5.14",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.7",
+      "Norris.LLG.6.7",
+      "Astell.LLG.7.4",
+      "Astell.LLG.7.7",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.1",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.15",
+      "Astell.LLG.11.1",
+      "Astell.LLG.11.4",
+      "Astell.LLG.App.1.3",
+      "Astell.LLG.App.1.3",
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "compares",
+    "paragraphs": [
+      "Norris.LLG.6.3"
+    ]
+  },
+  {
+    "word": "complicated",
+    "paragraphs": [
+      "Astell.SPL.15"
+    ]
+  },
+  {
+    "word": "contemplating",
+    "paragraphs": [
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "cure",
+    "paragraphs": [
+      "Astell.SPL.15",
+      "Norris.LLG.2.12",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "colour",
+    "paragraphs": [
+      "Norris.LLG.6.4",
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "creature",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.19",
+      "Astell.SPL.28",
+      "Astell.SPL.42",
+      "Astell.SPL.48",
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.Pref.Post.1",
+      "Astell.LLG.1.1",
+      "Astell.LLG.3.8",
+      "Astell.LLG.3.9",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.10",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.13",
+      "Astell.LLG.5.13",
+      "Astell.LLG.5.15",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.6",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.4",
+      "Astell.LLG.7.5",
+      "Astell.LLG.7.5",
+      "Astell.LLG.7.5",
+      "Astell.LLG.7.6",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.2",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.4",
+      "Astell.LLG.9.5",
+      "Astell.LLG.9.5",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.8",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.5",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.7",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "corporeal",
+    "paragraphs": [
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "consistent",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Norris.LLG.Pref.Read.2",
+      "Astell.LLG.3.3",
+      "Astell.LLG.3.7",
+      "Astell.LLG.5.1",
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.10",
+      "Astell.LLG.11.9"
+    ]
+  },
+  {
+    "word": "cogitationis",
+    "paragraphs": [
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "charity",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.18",
+      "Astell.SPL.23",
+      "Astell.SPL.29",
+      "Astell.SPL.34",
+      "Astell.SPL.41",
+      "Astell.SPL.41",
+      "Astell.SPL.41",
+      "Astell.SPL.45",
+      "Astell.SPL.52",
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.9",
+      "Norris.LLG.Pref.Read.9",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.6.6",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.5",
+      "Norris.LLG.8.5",
+      "Norris.LLG.8.5",
+      "Norris.LLG.8.6",
+      "Norris.LLG.10.9",
+      "Norris.LLG.10.10",
+      "Astell.LLG.11.6",
+      "Astell.LLG.11.8",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "consciis",
+    "paragraphs": [
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "conversation",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.17",
+      "Astell.SPL.22",
+      "Astell.SPL.28",
+      "Astell.SPL.38",
+      "Astell.SPL.39",
+      "Astell.SPL.42",
+      "Astell.SPL.48",
+      "Astell.SPL.52",
+      "Astell.SPL.53",
+      "Norris.LLG.4.1",
+      "Astell.LLG.5.7",
+      "Astell.LLG.9.11"
+    ]
+  },
+  {
+    "word": "conscientia",
+    "paragraphs": [
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "commute",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "cogitare",
+    "paragraphs": [
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "contracted",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.20",
+      "Astell.SPL.41",
+      "Astell.LLG.3.11"
+    ]
+  },
+  {
+    "word": "conscientiousness",
+    "paragraphs": [
+      "Norris.LLG.6.5"
+    ]
+  },
+  {
+    "word": "censorious",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "connection",
+    "paragraphs": [
+      "Norris.LLG.6.6"
+    ]
+  },
+  {
+    "word": "contempt",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "conception",
+    "paragraphs": [
+      "Norris.LLG.6.6"
+    ]
+  },
+  {
+    "word": "cold",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.31",
+      "Astell.SPL.41",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.1.3",
+      "Norris.LLG.Pref.1.3",
+      "Astell.LLG.3.9",
+      "Astell.LLG.11.4",
+      "Astell.LLG.App.1.2"
+    ]
+  },
+  {
+    "word": "commences",
+    "paragraphs": [
+      "Norris.LLG.6.6"
+    ]
+  },
+  {
+    "word": "comer",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "create",
+    "paragraphs": [
+      "Norris.LLG.6.7",
+      "Astell.LLG.11.4",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "changeable",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "commandments",
+    "paragraphs": [
+      "Norris.LLG.6.7",
+      "Astell.LLG.9.7",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "cloudy",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "chymical",
+    "paragraphs": [
+      "Norris.LLG.6.7"
+    ]
+  },
+  {
+    "word": "cleaves",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "converts",
+    "paragraphs": [
+      "Norris.LLG.6.7"
+    ]
+  },
+  {
+    "word": "christian",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.14",
+      "Astell.SPL.14",
+      "Astell.SPL.28",
+      "Norris.LLG.Pref.Read.9",
+      "Astell.LLG.5.5",
+      "Astell.LLG.5.11",
+      "Norris.LLG.6.2",
+      "Norris.LLG.8.5",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.6",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "current",
+    "paragraphs": [
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.4",
+      "Norris.LLG.10.5"
+    ]
+  },
+  {
+    "word": "conformity",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.14",
+      "Astell.SPL.24",
+      "Astell.SPL.41",
+      "Astell.LLG.3.9",
+      "Astell.LLG.5.3",
+      "Astell.LLG.9.15",
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "concert",
+    "paragraphs": [
+      "Astell.LLG.7.1"
+    ]
+  },
+  {
+    "word": "country",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.46"
+    ]
+  },
+  {
+    "word": "compass",
+    "paragraphs": [
+      "Astell.LLG.7.1",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.13"
+    ]
+  },
+  {
+    "word": "course",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.14",
+      "Astell.SPL.19",
+      "Astell.SPL.24",
+      "Astell.SPL.50",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "closer",
+    "paragraphs": [
+      "Astell.LLG.7.1"
+    ]
+  },
+  {
+    "word": "censur'd",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "clash",
+    "paragraphs": [
+      "Astell.LLG.7.3",
+      "Astell.LLG.11.9"
+    ]
+  },
+  {
+    "word": "concerned",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Norris.LLG.Pref.Read.5",
+      "Norris.LLG.Pref.Read.13",
+      "Norris.LLG.4.2",
+      "Norris.LLG.6.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "concluding",
+    "paragraphs": [
+      "Astell.LLG.7.3"
+    ]
+  },
+  {
+    "word": "celebrated",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "cross",
+    "paragraphs": [
+      "Astell.LLG.7.3",
+      "Norris.LLG.10.1",
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "courtship",
+    "paragraphs": [
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "cherished",
+    "paragraphs": [
+      "Astell.LLG.7.3"
+    ]
+  },
+  {
+    "word": "cloaths",
+    "paragraphs": [
+      "Astell.SPL.14",
+      "Astell.SPL.26",
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "centres",
+    "paragraphs": [
+      "Astell.LLG.7.3"
+    ]
+  },
+  {
+    "word": "causes",
+    "paragraphs": [
+      "Astell.SPL.13",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.4",
+      "Astell.LLG.1.4",
+      "Astell.LLG.1.4",
+      "Astell.LLG.1.4",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.7",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Astell.LLG.3.2",
+      "Astell.LLG.3.3",
+      "Norris.LLG.4.3",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.6",
+      "Norris.LLG.4.6",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.10",
+      "Norris.LLG.4.10",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.3",
+      "Norris.LLG.8.1",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.6",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "confidence",
+    "paragraphs": [
+      "Astell.LLG.7.3"
+    ]
+  },
+  {
+    "word": "corrupt",
+    "paragraphs": [
+      "Astell.SPL.13",
+      "Astell.SPL.34",
+      "Astell.SPL.52",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "commands",
+    "paragraphs": [
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.11",
+      "Norris.LLG.10.5",
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "conversant",
+    "paragraphs": [
+      "Astell.SPL.13"
+    ]
+  },
+  {
+    "word": "creates",
+    "paragraphs": [
+      "Astell.LLG.7.4"
+    ]
+  },
+  {
+    "word": "contexture",
+    "paragraphs": [
+      "Astell.SPL.13"
+    ]
+  },
+  {
+    "word": "constituted",
+    "paragraphs": [
+      "Astell.LLG.7.4"
+    ]
+  },
+  {
+    "word": "continual",
+    "paragraphs": [
+      "Astell.SPL.13",
+      "Astell.SPL.16",
+      "Astell.SPL.28",
+      "Astell.SPL.34",
+      "Astell.SPL.36",
+      "Astell.SPL.41",
+      "Astell.LLG.7.5",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "cann't",
+    "paragraphs": [
+      "Astell.LLG.7.4"
+    ]
+  },
+  {
+    "word": "complete",
+    "paragraphs": [
+      "Astell.SPL.13"
+    ]
+  },
+  {
+    "word": "cisterns",
+    "paragraphs": [
+      "Astell.LLG.7.5"
+    ]
+  },
+  {
+    "word": "constantly",
+    "paragraphs": [
+      "Astell.SPL.13",
+      "Astell.SPL.30",
+      "Astell.SPL.38",
+      "Astell.SPL.39",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.5.12",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.13",
+      "Norris.LLG.10.7",
+      "Astell.LLG.11.6",
+      "Astell.LLG.11.9",
+      "Astell.LLG.App.1.4"
+    ]
+  },
+  {
+    "word": "circumscribe",
+    "paragraphs": [
+      "Astell.LLG.7.6"
+    ]
+  },
+  {
+    "word": "complyance",
+    "paragraphs": [
+      "Astell.SPL.12"
+    ]
+  },
+  {
+    "word": "composing",
+    "paragraphs": [
+      "Norris.LLG.8.1"
+    ]
+  },
+  {
+    "word": "contrary",
+    "paragraphs": [
+      "Astell.SPL.12",
+      "Astell.SPL.49",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.9",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Astell.LLG.5.7",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.12",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.2",
+      "Norris.LLG.8.6",
+      "Norris.LLG.8.6",
+      "Astell.LLG.9.13",
+      "Norris.LLG.10.3",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "cartesian",
+    "paragraphs": [
+      "Norris.LLG.8.1"
+    ]
+  },
+  {
+    "word": "choices",
+    "paragraphs": [
+      "Astell.SPL.12"
+    ]
+  },
+  {
+    "word": "contends",
+    "paragraphs": [
+      "Norris.LLG.8.1"
+    ]
+  },
+  {
+    "word": "consequences",
+    "paragraphs": [
+      "Astell.SPL.12",
+      "Norris.LLG.2.9",
+      "Norris.LLG.4.4",
+      "Astell.LLG.5.11",
+      "Astell.LLG.9.10"
+    ]
+  },
+  {
+    "word": "concludes",
+    "paragraphs": [
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.1"
+    ]
+  },
+  {
+    "word": "change",
+    "paragraphs": [
+      "Astell.SPL.12",
+      "Astell.SPL.32",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.4",
+      "Astell.LLG.9.15",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "caution",
+    "paragraphs": [
+      "Norris.LLG.8.2"
+    ]
+  },
+  {
+    "word": "carries",
+    "paragraphs": [
+      "Astell.SPL.12",
+      "Astell.LLG.5.14",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.3"
+    ]
+  },
+  {
+    "word": "commanded",
+    "paragraphs": [
+      "Norris.LLG.8.3",
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.11"
+    ]
+  },
+  {
+    "word": "careless",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Norris.LLG.Pref.1.2",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "cistern",
+    "paragraphs": [
+      "Norris.LLG.8.3"
+    ]
+  },
+  {
+    "word": "curious",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.SPL.52",
+      "Norris.LLG.Pref.Read.2"
+    ]
+  },
+  {
+    "word": "community",
+    "paragraphs": [
+      "Norris.LLG.8.4"
+    ]
+  },
+  {
+    "word": "crimes",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.LLG.11.9"
+    ]
+  },
+  {
+    "word": "contented",
+    "paragraphs": [
+      "Astell.LLG.9.2"
+    ]
+  },
+  {
+    "word": "connivers",
+    "paragraphs": [
+      "Astell.SPL.11"
+    ]
+  },
+  {
+    "word": "crosses",
+    "paragraphs": [
+      "Astell.LLG.9.4"
+    ]
+  },
+  {
+    "word": "commended",
+    "paragraphs": [
+      "Astell.SPL.11"
+    ]
+  },
+  {
+    "word": "conduce",
+    "paragraphs": [
+      "Astell.LLG.9.6"
+    ]
+  },
+  {
+    "word": "corruption",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.SPL.41",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "cordially",
+    "paragraphs": [
+      "Astell.LLG.9.6"
+    ]
+  },
+  {
+    "word": "contradiction",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.LLG.5.9"
+    ]
+  },
+  {
+    "word": "conformed",
+    "paragraphs": [
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.6"
+    ]
+  },
+  {
+    "word": "calumnies",
+    "paragraphs": [
+      "Astell.SPL.11"
+    ]
+  },
+  {
+    "word": "criterion",
+    "paragraphs": [
+      "Astell.LLG.9.7"
+    ]
+  },
+  {
+    "word": "counter",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.SPL.14",
+      "Astell.LLG.5.3"
+    ]
+  },
+  {
+    "word": "chapters",
+    "paragraphs": [
+      "Astell.LLG.9.7"
+    ]
+  },
+  {
+    "word": "character",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.SPL.21",
+      "Astell.SPL.33",
+      "Astell.SPL.42",
+      "Norris.LLG.Pref.1.3",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.6.7",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.5",
+      "Astell.LLG.11.6"
+    ]
+  },
+  {
+    "word": "contriving",
+    "paragraphs": [
+      "Astell.LLG.9.7"
+    ]
+  },
+  {
+    "word": "considerate",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.SPL.12",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "contemplates",
+    "paragraphs": [
+      "Astell.LLG.9.9",
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "consent",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.10.3"
+    ]
+  },
+  {
+    "word": "chariot",
+    "paragraphs": [
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "compare",
+    "paragraphs": [
+      "Astell.SPL.11",
+      "Astell.LLG.5.7",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.7"
+    ]
+  },
+  {
+    "word": "costs",
+    "paragraphs": [
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "calm",
+    "paragraphs": [
+      "Astell.SPL.10",
+      "Astell.SPL.53",
+      "Astell.LLG.7.1",
+      "Norris.LLG.10.6",
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "chearfulness",
+    "paragraphs": [
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "commendation",
+    "paragraphs": [
+      "Astell.SPL.10"
+    ]
+  },
+  {
+    "word": "constancy",
+    "paragraphs": [
+      "Astell.LLG.9.9"
+    ]
+  },
+  {
+    "word": "chary",
+    "paragraphs": [
+      "Astell.SPL.10",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "cleanse",
+    "paragraphs": [
+      "Astell.LLG.9.11"
+    ]
+  },
+  {
+    "word": "consequently",
+    "paragraphs": [
+      "Astell.SPL.10",
+      "Astell.SPL.11",
+      "Astell.SPL.30",
+      "Astell.SPL.51",
+      "Astell.LLG.Pref.2.2",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.4",
+      "Norris.LLG.2.3",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.8",
+      "Norris.LLG.2.12",
+      "Astell.LLG.3.8",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.4",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.9",
+      "Astell.LLG.5.12",
+      "Norris.LLG.6.3",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.3",
+      "Astell.LLG.7.4",
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.16",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "condiscention",
+    "paragraphs": [
+      "Astell.LLG.9.11",
+      "Astell.LLG.9.14"
+    ]
+  },
+  {
+    "word": "contraries",
+    "paragraphs": [
+      "Astell.SPL.10"
+    ]
+  },
+  {
+    "word": "centers",
+    "paragraphs": [
+      "Astell.LLG.9.12"
+    ]
+  },
+  {
+    "word": "credulously",
+    "paragraphs": [
+      "Astell.SPL.10"
+    ]
+  },
+  {
+    "word": "center",
+    "paragraphs": [
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.13",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "cup",
+    "paragraphs": [
+      "Astell.SPL.10"
+    ]
+  },
+  {
+    "word": "composition",
+    "paragraphs": [
+      "Astell.LLG.9.13"
+    ]
+  },
+  {
+    "word": "cunning",
+    "paragraphs": [
+      "Astell.SPL.10"
+    ]
+  },
+  {
+    "word": "covetous",
+    "paragraphs": [
+      "Astell.LLG.9.14"
+    ]
+  },
+  {
+    "word": "crime",
+    "paragraphs": [
+      "Astell.SPL.10"
+    ]
+  },
+  {
+    "word": "cleaving",
+    "paragraphs": [
+      "Astell.LLG.9.14",
+      "Norris.LLG.10.1",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "chuse",
+    "paragraphs": [
+      "Astell.SPL.10",
+      "Astell.SPL.11",
+      "Astell.SPL.20",
+      "Norris.LLG.4.5",
+      "Astell.LLG.5.2",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.12",
+      "Astell.LLG.9.11",
+      "Astell.LLG.11.7"
+    ]
+  },
+  {
+    "word": "communicative",
+    "paragraphs": [
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "corrupted",
+    "paragraphs": [
+      "Astell.SPL.10",
+      "Astell.SPL.46",
+      "Astell.SPL.53"
+    ]
+  },
+  {
+    "word": "conveyance",
+    "paragraphs": [
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "conduct",
+    "paragraphs": [
+      "Astell.SPL.9",
+      "Astell.SPL.18",
+      "Astell.LLG.5.1",
+      "Norris.LLG.10.7",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "covet",
+    "paragraphs": [
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "come",
+    "paragraphs": [
+      "Astell.SPL.9",
+      "Astell.SPL.10",
+      "Astell.SPL.10",
+      "Astell.SPL.17",
+      "Astell.SPL.20",
+      "Astell.SPL.39",
+      "Astell.SPL.40",
+      "Astell.SPL.48",
+      "Astell.SPL.52",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.10",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.1.3",
+      "Norris.LLG.Pref.1.5",
+      "Norris.LLG.2.1",
+      "Astell.LLG.3.6",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.7",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.2",
+      "Astell.LLG.7.1",
+      "Norris.LLG.8.3",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.13",
+      "Norris.LLG.10.7",
+      "Astell.LLG.App.1.3",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "customs",
+    "paragraphs": [
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "complain'd",
+    "paragraphs": [
+      "Astell.SPL.9"
+    ]
+  },
+  {
+    "word": "clap",
+    "paragraphs": [
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "child",
+    "paragraphs": [
+      "Astell.SPL.8",
+      "Astell.SPL.48",
+      "Astell.SPL.48"
+    ]
+  },
+  {
+    "word": "channel",
+    "paragraphs": [
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "complections",
+    "paragraphs": [
+      "Astell.SPL.8"
+    ]
+  },
+  {
+    "word": "crossing",
+    "paragraphs": [
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "caring",
+    "paragraphs": [
+      "Astell.SPL.8"
+    ]
+  },
+  {
+    "word": "comparison",
+    "paragraphs": [
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "children",
+    "paragraphs": [
+      "Astell.SPL.8",
+      "Astell.SPL.44",
+      "Astell.SPL.49",
+      "Astell.SPL.50",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "crucifixion",
+    "paragraphs": [
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "choice",
+    "paragraphs": [
+      "Astell.SPL.8",
+      "Astell.SPL.8",
+      "Astell.SPL.14",
+      "Astell.SPL.14",
+      "Astell.SPL.23",
+      "Astell.SPL.26",
+      "Astell.SPL.33",
+      "Astell.SPL.41",
+      "Astell.SPL.41",
+      "Astell.SPL.43",
+      "Astell.SPL.44",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.4.5",
+      "Astell.LLG.5.7",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.5",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "crucified",
+    "paragraphs": [
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1"
+    ]
+  },
+  {
+    "word": "convey",
+    "paragraphs": [
+      "Astell.SPL.8"
+    ]
+  },
+  {
+    "word": "concupiscence",
+    "paragraphs": [
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.7",
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "childrens",
+    "paragraphs": [
+      "Astell.SPL.8"
+    ]
+  },
+  {
+    "word": "conform",
+    "paragraphs": [
+      "Norris.LLG.10.2"
+    ]
+  },
+  {
+    "word": "civil",
+    "paragraphs": [
+      "Astell.SPL.7",
+      "Astell.LLG.Pref.2.2",
+      "Norris.LLG.6.1"
+    ]
+  },
+  {
+    "word": "concenter",
+    "paragraphs": [
+      "Norris.LLG.10.2"
+    ]
+  },
+  {
+    "word": "cultivated",
+    "paragraphs": [
+      "Astell.SPL.7"
+    ]
+  },
+  {
+    "word": "chanel",
+    "paragraphs": [
+      "Norris.LLG.10.5"
+    ]
+  },
+  {
+    "word": "concoction",
+    "paragraphs": [
+      "Astell.SPL.6"
+    ]
+  },
+  {
+    "word": "changes",
+    "paragraphs": [
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "cause",
+    "paragraphs": [
+      "Astell.SPL.6",
+      "Astell.SPL.9",
+      "Astell.SPL.10",
+      "Astell.SPL.15",
+      "Astell.SPL.39",
+      "Astell.SPL.41",
+      "Astell.SPL.41",
+      "Norris.LLG.Pref.Read.12",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.4",
+      "Astell.LLG.1.4",
+      "Astell.LLG.1.4",
+      "Astell.LLG.1.4",
+      "Norris.LLG.2.2",
+      "Norris.LLG.2.2",
+      "Norris.LLG.2.2",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.6",
+      "Norris.LLG.2.8",
+      "Norris.LLG.2.8",
+      "Norris.LLG.2.8",
+      "Norris.LLG.2.8",
+      "Norris.LLG.2.8",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.9",
+      "Norris.LLG.2.12",
+      "Astell.LLG.3.1",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.9",
+      "Norris.LLG.4.2",
+      "Norris.LLG.4.3",
+      "Norris.LLG.4.3",
+      "Norris.LLG.4.3",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.8",
+      "Norris.LLG.4.8",
+      "Norris.LLG.4.10",
+      "Norris.LLG.4.10",
+      "Norris.LLG.4.10",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.4",
+      "Astell.LLG.5.6",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.1",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.9",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Astell.LLG.App.1.1",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.4",
+      "Norris.LLG.App.2.5"
+    ]
+  },
+  {
+    "word": "chances",
+    "paragraphs": [
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "concerns",
+    "paragraphs": [
+      "Astell.SPL.5",
+      "Astell.SPL.19",
+      "Astell.SPL.23",
+      "Astell.SPL.31"
+    ]
+  },
+  {
+    "word": "climbing",
+    "paragraphs": [
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "cyphers",
+    "paragraphs": [
+      "Astell.SPL.5"
+    ]
+  },
+  {
+    "word": "complaining",
+    "paragraphs": [
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "confute",
+    "paragraphs": [
+      "Astell.SPL.4"
+    ]
+  },
+  {
+    "word": "commotions",
+    "paragraphs": [
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "catching",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.SPL.38"
+    ]
+  },
+  {
+    "word": "chaste",
+    "paragraphs": [
+      "Norris.LLG.10.7",
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "compensation",
+    "paragraphs": [
+      "Astell.SPL.3"
+    ]
+  },
+  {
+    "word": "cleanness",
+    "paragraphs": [
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "conjecture",
+    "paragraphs": [
+      "Astell.SPL.3"
+    ]
+  },
+  {
+    "word": "constitution",
+    "paragraphs": [
+      "Norris.LLG.10.7",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "cultivate",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.SPL.20"
+    ]
+  },
+  {
+    "word": "check",
+    "paragraphs": [
+      "Norris.LLG.10.7",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "cry",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Norris.LLG.Pref.Read.6"
+    ]
+  },
+  {
+    "word": "compliant",
+    "paragraphs": [
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "confluence",
+    "paragraphs": [
+      "Astell.SPL.3"
+    ]
+  },
+  {
+    "word": "chearful",
+    "paragraphs": [
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "conspicuous",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.SPL.53"
+    ]
+  },
+  {
+    "word": "cor",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "countenance",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.SPL.3",
+      "Astell.LLG.3.6",
+      "Astell.LLG.3.7",
+      "Astell.LLG.11.10"
+    ]
+  },
+  {
+    "word": "continuâ",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "correct",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.SPL.30",
+      "Norris.LLG.Pref.Read.4",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.7.4"
+    ]
+  },
+  {
+    "word": "carnalium",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "considering",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.SPL.14",
+      "Astell.SPL.24",
+      "Astell.SPL.32",
+      "Astell.SPL.35",
+      "Astell.SPL.41",
+      "Norris.LLG.2.1",
+      "Norris.LLG.4.2",
+      "Astell.LLG.5.1",
+      "Astell.LLG.7.4",
+      "Norris.LLG.10.1",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "concupiscentiarum",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "conviction",
+    "paragraphs": [
+      "Astell.SPL.3",
+      "Astell.LLG.5.12",
+      "Astell.LLG.9.1",
+      "Norris.LLG.10.1",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "currens",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "conquest",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.26",
+      "Astell.SPL.50"
+    ]
+  },
+  {
+    "word": "capiunt",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "custom",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.10",
+      "Astell.SPL.12",
+      "Astell.SPL.12",
+      "Astell.SPL.12",
+      "Astell.SPL.12",
+      "Astell.SPL.12",
+      "Astell.SPL.19",
+      "Astell.SPL.37",
+      "Astell.SPL.37",
+      "Astell.SPL.42",
+      "Astell.SPL.49",
+      "Astell.SPL.49",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.4",
+      "Astell.LLG.5.1",
+      "Astell.LLG.9.15",
+      "Astell.LLG.9.15"
+    ]
+  },
+  {
+    "word": "charitas",
+    "paragraphs": [
+      "Norris.LLG.10.8",
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "circle",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.50"
+    ]
+  },
+  {
+    "word": "crucians",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "conquests",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "caste",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "clear",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.14",
+      "Astell.SPL.28",
+      "Astell.SPL.31",
+      "Astell.SPL.37",
+      "Norris.LLG.Pref.Read.13",
+      "Norris.LLG.Pref.Post.2",
+      "Norris.LLG.Pref.Post.2",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Astell.LLG.1.3",
+      "Norris.LLG.2.1",
+      "Norris.LLG.2.2",
+      "Norris.LLG.2.3",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.4",
+      "Norris.LLG.2.5",
+      "Astell.LLG.3.1",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.10",
+      "Astell.LLG.5.5",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.6",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.3",
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "christe",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "casts",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "concupiscentiâ",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "creator",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.LLG.3.11",
+      "Astell.LLG.5.12",
+      "Norris.LLG.6.6",
+      "Norris.LLG.6.6",
+      "Astell.LLG.9.8",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.14"
+    ]
+  },
+  {
+    "word": "casta",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "coming",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.4"
+    ]
+  },
+  {
+    "word": "charitatis",
+    "paragraphs": [
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "contending",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Norris.LLG.10.6"
+    ]
+  },
+  {
+    "word": "corde",
+    "paragraphs": [
+      "Norris.LLG.10.8",
+      "Norris.LLG.10.8"
+    ]
+  },
+  {
+    "word": "court",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.LLG.Pref.2.1"
+    ]
+  },
+  {
+    "word": "concupiscences",
+    "paragraphs": [
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "content",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.5",
+      "Astell.SPL.26",
+      "Astell.SPL.42",
+      "Astell.SPL.46",
+      "Astell.SPL.47",
+      "Astell.SPL.51",
+      "Norris.LLG.Pref.Read.13",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.2",
+      "Astell.LLG.9.12",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "chast",
+    "paragraphs": [
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "commendable",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.38"
+    ]
+  },
+  {
+    "word": "clean",
+    "paragraphs": [
+      "Norris.LLG.10.9"
+    ]
+  },
+  {
+    "word": "contend",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Norris.LLG.4.6",
+      "Astell.LLG.5.9",
+      "Astell.LLG.7.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Astell.LLG.App.1.1",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "chafe",
+    "paragraphs": [
+      "Astell.LLG.11.1"
+    ]
+  },
+  {
+    "word": "catch",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.9.12"
+    ]
+  },
+  {
+    "word": "caressed",
+    "paragraphs": [
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "companion",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "connatural",
+    "paragraphs": [
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "charm",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "clearing",
+    "paragraphs": [
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "carry",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.20",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "cords",
+    "paragraphs": [
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "compos'd",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "crying",
+    "paragraphs": [
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "carriage",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "conquered",
+    "paragraphs": [
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "certainly",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.8",
+      "Astell.SPL.10",
+      "Astell.SPL.12",
+      "Astell.SPL.28",
+      "Astell.SPL.40",
+      "Astell.SPL.41",
+      "Astell.SPL.42",
+      "Astell.SPL.49",
+      "Norris.LLG.Pref.Read.5",
+      "Norris.LLG.Pref.Read.8",
+      "Astell.LLG.3.6",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.6",
+      "Norris.LLG.4.7",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.15",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.7",
+      "Astell.LLG.App.1.4",
+      "Norris.LLG.App.2.5"
+    ]
+  },
+  {
+    "word": "complacency",
+    "paragraphs": [
+      "Astell.LLG.11.4",
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "consult",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Norris.LLG.4.5",
+      "Astell.LLG.7.5",
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "connive",
+    "paragraphs": [
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "correction",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.46",
+      "Astell.LLG.7.2",
+      "Norris.LLG.10.10"
+    ]
+  },
+  {
+    "word": "contemned",
+    "paragraphs": [
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "colours",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.17",
+      "Norris.LLG.Pref.1.1",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.4",
+      "Astell.LLG.App.1.2"
+    ]
+  },
+  {
+    "word": "cuts",
+    "paragraphs": [
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "cheating",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "chuses",
+    "paragraphs": [
+      "Astell.LLG.11.5"
+    ]
+  },
+  {
+    "word": "care",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.3",
+      "Astell.SPL.3",
+      "Astell.SPL.7",
+      "Astell.SPL.8",
+      "Astell.SPL.8",
+      "Astell.SPL.8",
+      "Astell.SPL.11",
+      "Astell.SPL.14",
+      "Astell.SPL.19",
+      "Astell.SPL.28",
+      "Astell.SPL.44",
+      "Astell.SPL.46",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.11",
+      "Norris.LLG.6.3",
+      "Astell.LLG.9.7",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.5",
+      "Norris.LLG.10.7"
+    ]
+  },
+  {
+    "word": "chap",
+    "paragraphs": [
+      "Astell.LLG.11.6",
+      "Astell.LLG.App.1.2"
+    ]
+  },
+  {
+    "word": "case",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.LLG.Pref.2.3",
+      "Norris.LLG.2.8",
+      "Astell.LLG.5.9",
+      "Norris.LLG.8.2",
+      "Astell.LLG.App.1.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "communicativeness",
+    "paragraphs": [
+      "Astell.LLG.11.6"
+    ]
+  },
+  {
+    "word": "curiously",
+    "paragraphs": [
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "conveniently",
+    "paragraphs": [
+      "Astell.LLG.11.7"
+    ]
+  },
+  {
+    "word": "concern",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Norris.LLG.2.4",
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "consummation",
+    "paragraphs": [
+      "Astell.LLG.11.10"
+    ]
+  },
+  {
+    "word": "consequence",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.35",
+      "Astell.SPL.39",
+      "Astell.SPL.39",
+      "Astell.SPL.41",
+      "Norris.LLG.Pref.Post.1",
+      "Norris.LLG.2.10",
+      "Norris.LLG.4.2",
+      "Astell.LLG.9.12",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.9",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "conceded",
+    "paragraphs": [
+      "Astell.LLG.App.1.1"
+    ]
+  },
+  {
+    "word": "consists",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.10",
+      "Astell.SPL.20",
+      "Astell.SPL.53",
+      "Astell.LLG.5.3",
+      "Norris.LLG.6.1",
+      "Astell.LLG.9.11",
+      "Astell.LLG.11.5",
+      "Astell.LLG.11.9"
+    ]
+  },
+  {
+    "word": "comport",
+    "paragraphs": [
+      "Astell.LLG.App.1.1",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "capable",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.5",
+      "Astell.SPL.8",
+      "Astell.SPL.8",
+      "Astell.SPL.9",
+      "Astell.SPL.11",
+      "Astell.SPL.12",
+      "Astell.SPL.16",
+      "Astell.SPL.17",
+      "Astell.SPL.20",
+      "Astell.SPL.20",
+      "Astell.SPL.22",
+      "Astell.SPL.39",
+      "Astell.SPL.44",
+      "Astell.SPL.48",
+      "Astell.LLG.Pref.2.4",
+      "Astell.LLG.3.4",
+      "Astell.LLG.3.9",
+      "Astell.LLG.3.9",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.4",
+      "Astell.LLG.5.2",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.12",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.3",
+      "Norris.LLG.6.5",
+      "Astell.LLG.7.7",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.5",
+      "Norris.LLG.10.1",
+      "Astell.LLG.11.6"
+    ]
+  },
+  {
+    "word": "congruity",
+    "paragraphs": [
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Astell.LLG.App.1.2",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "close",
+    "paragraphs": [
+      "Astell.SPL.2",
+      "Astell.SPL.54",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.3.1",
+      "Astell.LLG.9.15",
+      "Astell.LLG.11.3"
+    ]
+  },
+  {
+    "word": "concurrence",
+    "paragraphs": [
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "complements",
+    "paragraphs": [
+      "Astell.SPL.1"
+    ]
+  },
+  {
+    "word": "chusingly",
+    "paragraphs": [
+      "Astell.LLG.App.1.4"
+    ]
+  },
+  {
+    "word": "comely",
+    "paragraphs": [
+      "Astell.SPL.1"
+    ]
+  },
+  {
+    "word": "convincingly",
+    "paragraphs": [
+      "Norris.LLG.App.2.1"
+    ]
+  },
+  {
+    "word": "corruptible",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.LLG.9.11"
+    ]
+  },
+  {
+    "word": "concession",
+    "paragraphs": [
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "cannot",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.1",
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.13",
+      "Astell.SPL.14",
+      "Astell.SPL.20",
+      "Astell.SPL.22",
+      "Astell.SPL.35",
+      "Astell.SPL.40",
+      "Astell.SPL.41",
+      "Astell.SPL.44",
+      "Astell.SPL.46",
+      "Astell.SPL.47",
+      "Astell.SPL.52",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.4",
+      "Norris.LLG.Pref.Read.2",
+      "Norris.LLG.Pref.1.1",
+      "Norris.LLG.Pref.1.4",
+      "Astell.LLG.Pref.2.1",
+      "Astell.LLG.Pref.2.3",
+      "Astell.LLG.Pref.2.4",
+      "Norris.LLG.2.1",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.5",
+      "Norris.LLG.2.7",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.7",
+      "Astell.LLG.3.9",
+      "Astell.LLG.3.11",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.4",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.5",
+      "Norris.LLG.4.7",
+      "Norris.LLG.4.8",
+      "Norris.LLG.4.9",
+      "Norris.LLG.4.9",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.3",
+      "Astell.LLG.5.12",
+      "Norris.LLG.6.4",
+      "Norris.LLG.6.7",
+      "Astell.LLG.7.1",
+      "Astell.LLG.7.2",
+      "Astell.LLG.7.2",
+      "Norris.LLG.8.1",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.3",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.4",
+      "Norris.LLG.8.5",
+      "Norris.LLG.8.6",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.3",
+      "Astell.LLG.9.5",
+      "Astell.LLG.9.6",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.10",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.12",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.13",
+      "Astell.LLG.9.14",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.2",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.9",
+      "Norris.LLG.10.10",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.4",
+      "Astell.LLG.11.5",
+      "Astell.LLG.11.7",
+      "Astell.LLG.11.7",
+      "Astell.LLG.11.8",
+      "Astell.LLG.11.11",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "configuration",
+    "paragraphs": [
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "contemptible",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.3",
+      "Astell.SPL.11",
+      "Astell.SPL.51",
+      "Astell.SPL.53",
+      "Astell.LLG.App.1.3"
+    ]
+  },
+  {
+    "word": "clearer",
+    "paragraphs": [
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "cheap",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.2"
+    ]
+  },
+  {
+    "word": "conveniency",
+    "paragraphs": [
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "charms",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.2",
+      "Astell.SPL.2",
+      "Astell.SPL.10",
+      "Astell.SPL.19",
+      "Astell.SPL.28",
+      "Astell.SPL.28",
+      "Astell.SPL.48",
+      "Astell.SPL.52",
+      "Astell.SPL.52",
+      "Astell.SPL.53",
+      "Astell.LLG.3.11",
+      "Astell.LLG.5.12",
+      "Astell.LLG.5.13",
+      "Astell.LLG.11.3",
+      "Astell.LLG.11.4"
+    ]
+  },
+  {
+    "word": "congruities",
+    "paragraphs": [
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "certain",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.30",
+      "Astell.SPL.48",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.2.5",
+      "Norris.LLG.4.5",
+      "Astell.LLG.5.9",
+      "Norris.LLG.6.1",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.5",
+      "Norris.LLG.6.5",
+      "Norris.LLG.8.2",
+      "Norris.LLG.8.6",
+      "Astell.LLG.9.1",
+      "Astell.LLG.9.4",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.7",
+      "Astell.LLG.9.7",
+      "Norris.LLG.10.1",
+      "Norris.LLG.10.3",
+      "Astell.LLG.11.3",
+      "Astell.LLG.App.1.2",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.1",
+      "Norris.LLG.App.2.2",
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "cherish",
+    "paragraphs": [
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "comes",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.28",
+      "Norris.LLG.Pref.1.1",
+      "Astell.LLG.Pref.2.1",
+      "Norris.LLG.2.6",
+      "Astell.LLG.7.4",
+      "Norris.LLG.8.4",
+      "Astell.LLG.9.3",
+      "Norris.LLG.10.3",
+      "Norris.LLG.10.8",
+      "Norris.LLG.App.2.2"
+    ]
+  },
+  {
+    "word": "cur",
+    "paragraphs": [
+      "Norris.LLG.App.2.3"
+    ]
+  },
+  {
+    "word": "chance",
+    "paragraphs": [
+      "Astell.SPL.1",
+      "Astell.SPL.14"
+    ]
+  },
+  {
+    "word": "chimera",
+    "paragraphs": [
+      "Norris.LLG.App.2.4"
+    ]
+  },
+  {
+    "word": "comsummated",
+    "paragraphs": [
+      "Norris.LLG.Pref.Read.4"
+    ]
+  }
+]
