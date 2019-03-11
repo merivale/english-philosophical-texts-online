@@ -11,6 +11,8 @@
     "Trotter.DLE",
     "Trotter.DGC",
     "Trotter.LH",
-    "Trotter.RRE"
+    "Trotter.RFV",
+    "Trotter.RRE",
+    "Trotter.VLP"
   ]
 }

@@ -9,7 +9,12 @@
   "sex": "Female",
   "texts": [
     "Macaulay.HE",
+    "Macaulay.LR",
+    "Macaulay.OP",
+    "Macaulay.PPC",
+    "Macaulay.AP",
     "Macaulay.TMT",
-    "Macaulay.LE"
+    "Macaulay.LE",
+    "Macaulay.ORB"
   ]
 }
