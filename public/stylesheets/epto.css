@@ -310,6 +310,11 @@ table {
   .text .paragraph .content .before, .text .note .content .before {
     float: left;
     margin-right: .5em; }
+  .text .paragraph .content .placeholder, .text .note .content .placeholder {
+    padding: .5em 1em;
+    background: #f5f5f5;
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 1rem; }
 
 @media (min-width: 912px) {
   .text {

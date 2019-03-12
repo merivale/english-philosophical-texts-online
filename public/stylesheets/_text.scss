@@ -78,6 +78,12 @@
         float: left;
         margin-right: .5em;
       }
+      .placeholder {
+        padding: .5em 1em;
+        background: $lightgray;
+        font-family: $sans;
+        font-size: 1rem;
+      }
     }
   }
 }
