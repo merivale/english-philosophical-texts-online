@@ -15,17 +15,6 @@ router.get('/', (req, res) => {
   res.render('browse/index', { area, authors, maleAuthors, femaleAuthors, authorsWithTexts, imported, total })
 })
 
-// author concordance page
-router.get('/:author/concordance', (req, res, next) => {
-  const author = get.author(req.params.author, { concordance: true })
-  if (author) {
-    const concordance = author.concordance
-    res.render('browse/concordance', { area, author, concordance })
-  } else {
-    next(createError(404))
-  }
-})
-
 // author main page
 router.get('/:author', (req, res, next) => {
   const author = get.author(req.params.author, { enrich: true })
@@ -50,24 +39,11 @@ router.get('/:author/:text*/about', (req, res, next) => {
   }
 })
 
-// text concordance page
-router.get('/:author/:text*/concordance', (req, res) => {
-  const author = get.author(req.params.author)
-  const textId = `${req.params.author}/${req.params.text}${req.params[0]}`
-  const text = get.text(textId, { context: true, concordance: true })
-  if (author && text) {
-    const concordance = text.concordance
-    res.render('browse/concordance', { area, author, text, concordance })
-  } else {
-    res.status(404).end()
-  }
-})
-
 // text details page
 router.get('/:author/:text*/details', (req, res) => {
   const author = get.author(req.params.author)
   const textId = `${req.params.author}/${req.params.text}${req.params[0]}`
-  const text = get.text(textId)
+  const text = get.text(textId, { context: true })
   if (author && text && text.imported && text.paragraphs) {
     const details = get.details(text)
     const lexemes = get.lexemes(text)

@@ -1,8 +1,8 @@
 # Dictionary
 
-The dictionary is an array of lexemes (spread out over 26 files, one for each letter of the alphabet). Each lexeme has an ID (the standard or base form), and type, and a regex describing the various forms that lexeme can take.
+The dictionary is an array of lexemes (spread out over 26 files, one for each letter of the alphabet). Each lexeme has an ID (the standard or base form), a type, and a regular expression describing the various forms that lexeme can take.
 
-Standardly, lexemes are allowed to have common forms; for example, the noun "bear" and the verb "bear" are typically considered as distinct lexemes, notwithstanding the several overlapping forms. On this understanding, it would be undeterminable whether an instance of "bears" in the database was the plural form of the noun, or the third person singular form of the verb.
+Standardly, lexemes are allowed to have common forms; for example, the noun "bear" and the verb "bear" are typically considered as distinct lexemes, notwithstanding their several overlapping forms. On this understanding, it would be undeterminable whether an instance of "bears" in the database was the plural form of the noun, or the third person singular form of the verb.
 
 To sidestep this problem (rather than solve it), lexemes in this dictionary are *not* allowed to have any forms in common. There is thus no indeterminacy, and every form is unambiguously the form of no more than one lexeme. The consequence of this is that *types* of lexemes must be understood more flexibly. For example, the lexeme "bear" is identified in this dictionary as a *verb*, notwithstanding the fact that it can also occur as a noun.
 
