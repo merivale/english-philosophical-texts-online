@@ -30,7 +30,7 @@
 *, ::before, ::after {
   border: 0;
   box-sizing: inherit;
-  font: inherit;
+  font-size: inherit;
   line-height: inherit;
   margin: 0;
   padding: 0; }
@@ -38,7 +38,7 @@
 html {
   box-sizing: border-box;
   color: #363636;
-  font: 16px "Segoe UI", Helvetica, Arial, sans-serif;
+  font: 16px -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
   overflow-y: scroll; }
 
@@ -149,7 +149,8 @@ input[type="text"], input[type="number"], select {
 
 table {
   border-collapse: collapse;
-  width: 100%; }
+  width: 100%;
+  margin-bottom: 2em; }
   table tr {
     border-bottom: 1px solid #8e8e8e; }
   table th, table td {
@@ -284,7 +285,7 @@ table {
   .text i {
     font-style: italic; }
   .text .context {
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
     display: flex;
     padding: .5em 0;
@@ -303,7 +304,7 @@ table {
       margin-left: 1.5em; }
   .text .paragraph .id, .text .note .id {
     color: #3277ae;
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
     text-align: right;
     margin-bottom: .75rem; }

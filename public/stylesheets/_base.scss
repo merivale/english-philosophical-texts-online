@@ -1,7 +1,7 @@
 *, ::before, ::after {
   border: 0;
   box-sizing: inherit;
-  font: inherit;
+  font-size: inherit;
   line-height: inherit;
   margin: 0;
   padding: 0;
@@ -156,6 +156,7 @@ input[type="text"], input[type="number"], select {
 table {
   border-collapse: collapse;
   width: 100%;
+  margin-bottom: 2em;
   tr {
     border-bottom: 1px solid $darkgray;
   }

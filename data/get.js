@@ -15,7 +15,6 @@ const author = (id, options = {}) => {
   a.fullname = a.title ? `${a.title} [${a.forename} ${a.surname}]` : `${a.forename} ${a.surname}`
   a.imported = a.texts.filter(id => text(id).imported)
   if (options.enrich) a.texts = a.texts.map(stub)
-  if (options.concordance) a.concordance = concordance(id)
   return a
 }
 
@@ -39,7 +38,6 @@ const text = (id, options = {}) => {
     }
   }
   if (options.enrich && t.texts) t.texts = t.texts.map(stub)
-  if (options.concordance) t.concordance = concordance(id)
   return t
 }
 
@@ -57,22 +55,12 @@ const stub = (id) => {
   }
 }
 
-// get concordance data
-const concordance = (id) =>
-  open('concordances', id)
-
-// get dictionary
-const dictionary = (letter = null) => {
-  const letters = 'abcdefghijklmnopqrstuvwxyz'.split('')
-  if (letter && letters.includes(letter)) return open('dictionary', letter)
-  return letters.map(l => open('dictionary', l)).reduce((x, y) => x.concat(y))
-}
-
 // get details from a text
 const details = (text) => {
   const blocks = text.paragraphs.concat(text.notes)
   const people = blocks.map(block => block.content.match(/<u>.*?<\/u>/g))
     .reduce((x, y) => x.concat(y), []).filter(Boolean)
+    .map(x => x.replace(/<([^>]+)>/g, '')) // strip html
     .sort().reduce((sofar, current) => {
       const existing = sofar.find(x => x.name === current)
       if (existing) {
@@ -96,6 +84,7 @@ const lexemes = (text) => {
     .reduce((x, y) => x.concat(y), [])
   const numbers = tokens.filter(x => !isNaN(x[0])).sort()
   const forms = tokens.filter(x => isNaN(x[0]))
+  const count = forms.length
   const lexemes = []
   const wordsTemp = []
   forms.forEach((form) => {
@@ -104,7 +93,10 @@ const lexemes = (text) => {
       const existing = lexemes.find(x => x.id === lexeme)
       if (existing) {
         existing.frequency += 1
-        if (!existing.forms.includes(form)) existing.forms.push(form)
+        if (!existing.forms.includes(form)) {
+          existing.forms.push(form)
+          existing.forms.sort()
+        }
       } else {
         lexemes.push({ id: lexeme, frequency: 1, forms: [form] })
       }
@@ -122,7 +114,7 @@ const lexemes = (text) => {
     }
     return sofar
   }, [])
-  return { numbers, lexemes, words }
+  return { numbers, lexemes, words, count }
 }
 
 // convert a string of marked-up text to an array of (plain text) words
@@ -134,6 +126,7 @@ const tokenize = content =>
     .replace(/<i>(.*?)<\/i>/g, '') // remove all foreign language text
     .replace(/<cite>(.*?)<\/cite>/g, '') // remove all citations
     .replace(/(<(b|em)>)?<u>(.*?)<\/u>(<\/(b|em)>)?('s)?/g, '') // remove all names
+    .replace(/<label>(.*?)<\/label>/g, '') // remove all margin notes
     .replace(/<small>(.*?)<\/small>/g, '') // remove anything marked as <small>
     .replace(/<([^>]+)>/g, '') // remove all HTML tags
     .replace(/-|—/g, ' ') // replace dashes with spaces
@@ -149,8 +142,6 @@ module.exports = {
   authors,
   author,
   text,
-  concordance,
-  dictionary,
   details,
   lexemes
 }

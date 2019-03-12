@@ -5,48 +5,41 @@
 {% endblock %}
 
 {% block content %}
-  <h2>Named People</h2>
-  {% if details.people %}
-    <ul>
-      {% for person in details.people %}
-        <li>{{ person.name }} ({{ person.frequency }})</li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p>No named people.</p>
-  {% endif %}
-  <h2>Citations</h2>
+  <h2>Summary</h2>
+  <p>This article contains:</p>
+  <ul>
+    <li>{{ lexemes.count }} instance{% if lexemes.count != 1 %}s{% endif %} of {{ lexemes.lexemes.length + lexemes.words.length }} lexeme{% if lexemes.lexemes.length + lexemes.words.length != 1 %}s{% endif %}</li>
+    <li>{{ details.citations.length }} citation{% if details.citations.length != 1 %}s{% endif %}</li>
+    <li>{{ details.people.length }} name{% if details.people.length != 1 %}s{% endif %}</li>
+    <li>{{ details.foreign.length }} piece{% if details.foreign.length != 1 %}s{% endif %} of foreign text</li>
+  </ul>
+  <p><strong>Note:</strong> This data is provisional. Citations, named people, and foreign text all have to be identified and marked up manually, and we have only just started this process.</p>
   {% if details.citations %}
+    <h2>Citations</h2>
     <ul>
       {% for citation in details.citations %}
         <li>{{ citation }}</li>
       {% endfor %}
     </ul>
-  {% else %}
-    <p>No citations.</p>
   {% endif %}
-  <h2>Foreign Text</h2>
+  {% if details.people %}
+    <h2>Names</h2>
+    <ul>
+      {% for person in details.people %}
+        <li>{{ person.name }} ({{ person.frequency }})</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
   {% if details.foreign %}
+    <h2>Foreign Text</h2>
     <ul>
       {% for foreign in details.foreign %}
         <li>{{ foreign }}</li>
       {% endfor %}
     </ul>
-  {% else %}
-    <p>No foreign text.</p>
   {% endif %}
-  <h2>Numbers</h2>
-  {% if lexemes.numbers %}
-    <ul>
-      {% for number in lexemes.numbers %}
-        <li>{{ number }}</li>
-      {% endfor %}
-    </ul>
-  {% else %}
-    <p>No numbers.</p>
-  {% endif %}
-  <h2>Identified lexemes</h2>
   {% if lexemes.lexemes %}
+    <h2>Identified lexemes</h2>
     <table>
       <thead>
         <tr><th>lexeme</th><th>forms</th><th>frequency</th></tr>
@@ -57,12 +50,10 @@
         {% endfor %}
       </tbody>
     </table>
-  {% else %}
-    <p>No identified lexemes.</p>
   {% endif %}
-  <br><br>
-  <h2>Unidentified Words</h2>
   {% if lexemes.words %}
+    <h2>Unidentified Words</h2>
+    <p>In due course, every word in our texts will be identified. In the meantime, this list represents work still to be done.</p>
     <table>
       <thead>
         <tr><th>form</th><th>frequency</th></tr>
@@ -73,7 +64,5 @@
         {% endfor %}
       </tbody>
     </table>
-  {% else %}
-    <p>No unidentified words.</p>
   {% endif %}
 {% endblock %}
