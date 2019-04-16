@@ -46,8 +46,8 @@ router.get('/:author/:text*/details', (req, res) => {
   const text = get.text(textId, { context: true })
   if (author && text && text.imported && text.paragraphs) {
     const details = get.details(text)
-    const lexemes = get.lexemes(text)
-    res.render('browse/details', { area, author, text, details, lexemes })
+    const lemmas = get.lemmas(text)
+    res.render('browse/details', { area, author, text, details, lemmas })
   } else {
     res.status(404).end()
   }

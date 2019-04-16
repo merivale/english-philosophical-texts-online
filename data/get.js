@@ -77,44 +77,40 @@ const details = (text) => {
   return { people, citations, foreign }
 }
 
-// get lexemes from a text
-const lexemes = (text) => {
+// get lemmas from a text
+const lemmas = (text) => {
+  const entries = Object.entries(lexicon)
   const tokens = text.paragraphs.concat(text.notes)
     .map(block => tokenize(block.content))
     .reduce((x, y) => x.concat(y), [])
   const numbers = tokens.filter(x => !isNaN(x[0])).sort()
-  const forms = tokens.filter(x => isNaN(x[0]))
-  const count = forms.length
-  const lexemes = []
-  const wordsTemp = []
-  forms.forEach((form) => {
-    const lexeme = lexicon[form]
-    if (lexeme) {
-      const existing = lexemes.find(x => x.id === lexeme)
+  const words = tokens.filter(x => isNaN(x[0]))
+  const count = words.length
+  const lemmas = []
+  const unidentified = []
+  words.forEach((word) => {
+    const lexeme = entries.find(x => x[0] === word || x[1].includes(word))
+    const lemma = lexeme ? lexeme[0] : undefined
+    if (lemma) {
+      const existing = lemmas.find(x => x.lemma === lemma)
       if (existing) {
         existing.frequency += 1
-        if (!existing.forms.includes(form)) {
-          existing.forms.push(form)
-          existing.forms.sort()
-        }
       } else {
-        lexemes.push({ id: lexeme, frequency: 1, forms: [form] })
+        lemmas.push({ lemma, frequency: 1 })
       }
     } else {
-      wordsTemp.push(form)
+      if (word === 'better') console.log(lexeme)
+      const existing = unidentified.find(x => x.word === word)
+      if (existing) {
+        existing.frequency += 1
+      } else {
+        unidentified.push({ word, frequency: 1 })
+      }
     }
   })
-  lexemes.sort((x, y) => x.id.localeCompare(y.id, 'en'))
-  const words = wordsTemp.sort().reduce((sofar, current) => {
-    const existing = sofar.find(x => x.form === current)
-    if (existing) {
-      existing.frequency += 1
-    } else {
-      sofar.push({ form: current, frequency: 1 })
-    }
-    return sofar
-  }, [])
-  return { numbers, lexemes, words, count }
+  lemmas.sort((x, y) => x.lemma.localeCompare(y.lemma, 'en'))
+  unidentified.sort((x, y) => x.word.localeCompare(y.word, 'en'))
+  return { numbers, lemmas, unidentified, count }
 }
 
 // convert a string of marked-up text to an array of (plain text) words
@@ -143,5 +139,5 @@ module.exports = {
   author,
   text,
   details,
-  lexemes
+  lemmas
 }
