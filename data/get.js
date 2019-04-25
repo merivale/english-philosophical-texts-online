@@ -116,6 +116,7 @@ const lemmas = (text) => {
 // convert a string of marked-up text to an array of (plain text) words
 const tokenize = content =>
   content.toLowerCase()
+    .replace(/&(nb|en|em)sp;/g, ' ') // convert HTML spaces to regular spaces
     .replace(/[,.;:!?()]/g, '') // remove all punctuation
     .replace(/&amp/g, '&amp;') // reinstate semicolon after escaped ampersand
     .replace(/<a(.*?)>(.*?)<\/a>/g, '') // remove all footnote anchors
