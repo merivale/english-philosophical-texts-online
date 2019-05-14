@@ -1,7 +1,25 @@
 .breadcrumb {
-  padding: .5em .75em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
   border-bottom: 1px solid $gray;
-  a:not(:last-child) {
-    margin-right: .25em;
+  padding: 0 .25em;
+  a {
+    padding: .25em .5em;
+  }
+}
+
+.context {
+  display: flex;
+  border-top: 1px solid $gray;
+  border-bottom: 1px solid $gray;
+  a {
+    padding: .25em .75em;
+  }
+  .prev, .next {
+    flex: 1;
+  }
+  .next {
+    text-align: right;
   }
 }

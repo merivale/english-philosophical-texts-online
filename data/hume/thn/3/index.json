@@ -1,0 +1,16 @@
+{
+  "id": "Hume.THN.3",
+  "parent": "Hume.THN",
+  "title": "Book III. Of Morals",
+  "breadcrumb": "Book 3",
+  "fulltitle": "<h1>Book III.</h1> <h2><em>Of <b>Morals</b>.</em></h2>",
+  "published": "1740",
+  "copytext": "1740",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/3/index.json",
+  "imported": true,
+  "texts": [
+    "Hume.THN.3.1",
+    "Hume.THN.3.2",
+    "Hume.THN.3.3"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Hume.HE.Vol5",
+  "parent": "Hume.HE",
+  "title": "Volume 5. The History of Great Britain, Part 1",
+  "breadcrumb": "Volume 5",
+  "fulltitle": "<h1>Volume 5. The History of Great Britain, Part 1</h1>",
+  "published": "1754",
+  "copytext": "1778",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/h/vol5.json",
+  "imported": true,
+  "texts": [
+    "Hume.HE.45",
+    "Hume.HE.46",
+    "Hume.HE.47",
+    "Hume.HE.48",
+    "Hume.HE.49",
+    "Hume.HE.App4",
+    "Hume.HE.50",
+    "Hume.HE.51",
+    "Hume.HE.52",
+    "Hume.HE.53",
+    "Hume.HE.54",
+    "Hume.HE.55",
+    "Hume.HE.56",
+    "Hume.HE.57",
+    "Hume.HE.58",
+    "Hume.HE.59"
+  ]
+}

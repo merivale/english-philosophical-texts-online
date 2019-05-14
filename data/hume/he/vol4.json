@@ -1,0 +1,21 @@
+{
+  "id": "Hume.HE.Vol4",
+  "parent": "Hume.HE",
+  "title": "Volume 4. The History of the House of Tudor, Part 2",
+  "breadcrumb": "Volume 4",
+  "fulltitle": "<h1>Volume 4. The History of the House of Tudor, Part 2</h1>",
+  "published": "1759",
+  "copytext": "1778",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/h/vol4.json",
+  "imported": true,
+  "texts": [
+    "Hume.HE.38",
+    "Hume.HE.39",
+    "Hume.HE.40",
+    "Hume.HE.41",
+    "Hume.HE.42",
+    "Hume.HE.43",
+    "Hume.HE.44",
+    "Hume.HE.App3"
+  ]
+}
