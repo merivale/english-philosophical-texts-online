@@ -1,9 +1,9 @@
 {
-  "id": "Norris.LLG.Pref.Read",
-  "parent": "Norris.LLG.Pref",
-  "title": "To the Reader",
-  "breadcrumb": "To the Reader",
-  "fulltitle": "<h1>To the Reader</h1>",
+  "id": "Norris.LLG.Pref",
+  "parent": "Norris.LLG",
+  "title": "The Preface",
+  "breadcrumb": "Preface",
+  "fulltitle": "<h3>TO THE</h3> <h1>READER.</h1>",
   "published": "1695",
   "copytext": "1705",
   "source": "https://quod.lib.umich.edu/e/eebo/A52424.0001.001/1:4?rgn=div1;view=fulltext",
@@ -11,7 +11,6 @@
   "paragraphs": [
     {
       "id": "1",
-      "title": "<h2>To the Reader</h2>",
       "content": "<p><em>THE Letters herelaid open to thy View are a late Correspondence between my self and a Gentlewoman, and to add to thy Wonder, a young Gentlewoman. Her Name I have not the Liberty to publish. For her Person, as her Modesty will not suffer me to say much of her, so the present Productions of her Pen make it utterly needless to say any thing, unless it be by way of Prevention to obviate a Diffidence in some who from the surprizing Excellency of these Writings may be tempted to question whether my Correspondent be really a Woman or no. To whom my Answer is, that indeed I did not see her write these Letters, but that I have all the moral and reasonable Assurance that she did write them, and is the true Author of them, that can be had in a thing of this Nature. And I hope my Credit may be good enough with those that know me to be believed upon my serious Word, where there is no other Satisfaction to be given.</em></p>"
     },
     {

@@ -6,10 +6,12 @@ The following words are ambiguous in the very precise and minimal sense that the
 
 N.B. No attempts are made to disambiguate words more generally. For example, the words "alarm" and "alarms" both map to the same lemma "alarm", even though both may occur as either a verb or a noun. Disambiguation on a larger scale would be unfeasible, and is kept to an absolute minimum here.
 
+- "art": archaic form of "be" ("thou art") / singular noun
 - "flatter": comparative of adjective "flat" / base of verb "flatter"
 - "left": adjective / past of verb "leave"
 - "lent": singular noun of "lent" / past of verb "lend"
 - "lives": plural of noun "life" / present of verb "live"
+- "might": noun / past of modal "may"
 - "thought": singular of noun "thought" / past of verb "think"
 
 ## Spaced Words

@@ -2,7 +2,7 @@
   "id": "Norris.LLG",
   "title": "Letters Concerning the Love of God, Between the Author of the Proposal to the Ladies and Mr. John Norris",
   "breadcrumb": "Letters Concerning the Love of God",
-  "fulltitle": "<h1>Letters Concerning the Love of God</h1><h2>Between the Author of the Proposal to the Ladies and Mr. John Norris</h2>",
+  "fulltitle": "<h1>LETTERS</h1> <h3>Concerning the</h3> <h1>Love of GOD,</h1> <h4>Between the Author of the</h4> <h3>Proposal to the <b>Ladies</b></h3> <h4><b>and</b></h4> <h3>Mr. <em>JOHN NORRIS:</em></h3> <p>Wherein his late Discourse, shewing that it ought to be intire and exclusive of all other Loves, is further cleared and justified.<p>",
   "published": "1695",
   "copytext": "1705",
   "source": "https://quod.lib.umich.edu/e/eebo/A52424.0001.001?rgn=main;view=fulltext",
@@ -12,6 +12,9 @@
   "copyright": "This text is in the public domain.",
   "texts": [
     "Norris.LLG.Pref",
+    "Norris.LLG.Pref1",
+    "Astell.LLG.Pref2",
+    "Norris.LLG.Post",
     "Astell.LLG.1",
     "Norris.LLG.2",
     "Astell.LLG.3",
@@ -23,6 +26,7 @@
     "Astell.LLG.9",
     "Norris.LLG.10",
     "Astell.LLG.11",
-    "Norris.LLG.App"
+    "Astell.LLG.App1",
+    "Norris.LLG.App2"
   ]
 }
