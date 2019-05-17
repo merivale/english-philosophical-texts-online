@@ -11,14 +11,14 @@ const converter = converters[process.argv[3]]
 const override = process.argv[4]
 
 // sanity check
-if (!fs.existsSync(`./texts/${path}`)) throw new Error(`Bad path ${path}`)
+if (!fs.existsSync(`./data/${path}`)) throw new Error(`Bad path ${path}`)
 if (!converter) throw new Error(`No converter ${converter}`)
 
 // get all filenames in path
 const paths = []
 const getPaths = (path) => {
-  if (fs.statSync(`./texts/${path}`).isDirectory()) {
-    fs.readdirSync(`./texts/${path}`).forEach((p) => { getPaths(`${path}/${p}`) })
+  if (fs.statSync(`./data/${path}`).isDirectory()) {
+    fs.readdirSync(`./data/${path}`).forEach((p) => { getPaths(`${path}/${p}`) })
   } else {
     paths.push(path)
   }
@@ -26,16 +26,16 @@ const getPaths = (path) => {
 getPaths(path)
 
 // get the texts
-const texts = paths.map(path => JSON.parse(fs.readFileSync(`./texts/${path}`)))
+const texts = paths.map(path => JSON.parse(fs.readFileSync(`./data/${path}`)))
 
-// get texts that are sections not yet imported (with source data)
-const sections = override
-  ? texts.filter(x => !x.texts && x.source)
-  : texts.filter(x => !x.texts && !x.imported && x.source)
+// get texts to be imported
+const textsToBeImported = override
+  ? texts.filter(x => x.source)
+  : texts.filter(x => x.source && !x.imported)
 
-if (sections.length > 0) {
+if (textsToBeImported.length > 0) {
   // apply the converter to import those sections
-  sections.forEach(converter)
+  textsToBeImported.forEach(converter)
 } else {
   console.log('Nothing to import.')
 }

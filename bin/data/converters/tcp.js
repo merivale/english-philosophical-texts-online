@@ -8,6 +8,7 @@ const docs = {}
 
 // the main conversion function
 const convert = (data) => {
+  if (data.texts) return // don't do anything with collections
   const doc = docs[data.source] || new JSDOM(request('GET', data.source).getBody()).window.document
   if (!docs[data.source]) docs[data.source] = doc // save for subsequent conversions
   const notesData = []

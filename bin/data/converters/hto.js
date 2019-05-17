@@ -1,48 +1,16 @@
 // dependencies
 const request = require('sync-request')
-const yaml = require('js-yaml')
-const save = require('../../../data/save')
+const file = require('../../../data/file')
 
 // the main conversion function
 const convert = (data) => {
   const input = request('GET', data.source).getBody()
-  const section = transform(yaml.load(input))
-  save.section(section)
+  const newdata = JSON.parse(input)
+  data.fulltitle = newdata.fulltitle
+  data.paragraphs.forEach((block) => {})
+  data.notes.forEach((block) => {})
+  file.save(data)
   console.log(`Imported ${section.id}`)
-}
-
-// transform JSONified input to required format
-const transform = (input) => {
-  const output = {}
-  output.id = id(input.label)
-  if (input.paragraphs) output.paragraphs = input.paragraphs.map(paragraph)
-  if (input.notes) output.notes = input.notes.map(note)
-  return output
-}
-
-// convert a label to an id
-const id = (label) => {
-  const first = label.split('.')[0]
-  switch (first) {
-    case 'D':
-      return label.replace(/^D/, 'Hume.DNR').replace(/\.0$/, '.Intro')
-    case 'E':
-      return label.replace(/^E/, 'Hume.EHU')
-    case 'H':
-      return label.replace(/^H/, 'Hume.HE')
-    case 'L':
-      return label.replace(/^L/, 'Hume.LG')
-    case 'M':
-      return label.replace(/^M/, 'Hume.EPM')
-    case 'N':
-      return label.replace(/^N/, 'Hume.NHR').replace(/\.0$/, '.Intro')
-    case 'P':
-      return label.replace(/^P/, 'Hume.DP')
-    case 'T':
-      return label.replace(/^T/, 'Hume.THN').replace(/\.0$/, '.Intro')
-    default:
-      return `Hume.${label}`
-  }
 }
 
 // convert a paragraph
