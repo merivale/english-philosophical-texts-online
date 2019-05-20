@@ -30,7 +30,7 @@
 *, ::before, ::after {
   border: 0;
   box-sizing: inherit;
-  font: inherit;
+  font-size: inherit;
   line-height: inherit;
   margin: 0;
   padding: 0; }
@@ -38,7 +38,7 @@
 html {
   box-sizing: border-box;
   color: #363636;
-  font: 16px "Segoe UI", Helvetica, Arial, sans-serif;
+  font: 16px -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5;
   overflow-y: scroll; }
 
@@ -149,7 +149,8 @@ input[type="text"], input[type="number"], select {
 
 table {
   border-collapse: collapse;
-  width: 100%; }
+  width: 100%;
+  margin-bottom: 2em; }
   table tr {
     border-bottom: 1px solid #8e8e8e; }
   table th, table td {
@@ -172,10 +173,14 @@ table {
     width: 19rem;
     margin: 0; }
   .header .logos {
-    margin-bottom: -1.75em; }
-    .header .logos img {
-      display: inline-block;
-      margin-left: .5em; }
+    display: none; }
+    @media (min-width: 912px) {
+      .header .logos {
+        display: block;
+        margin-bottom: -1.75em; }
+        .header .logos img {
+          display: inline-block;
+          margin-left: .5em; } }
 
 .tabs {
   display: flex;
@@ -212,10 +217,24 @@ table {
     display: block; }
 
 .breadcrumb {
-  padding: .5em .75em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  border-bottom: 1px solid #ddd;
+  padding: 0 .25em; }
+  .breadcrumb a {
+    padding: .25em .5em; }
+
+.context {
+  display: flex;
+  border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd; }
-  .breadcrumb a:not(:last-child) {
-    margin-right: .25em; }
+  .context a {
+    padding: .25em .75em; }
+  .context .prev, .context .next {
+    flex: 1; }
+  .context .next {
+    text-align: right; }
 
 .main {
   margin-top: 1em; }
@@ -283,27 +302,20 @@ table {
     font-size: 1em; }
   .text i {
     font-style: italic; }
-  .text .context {
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 1rem;
-    display: flex;
-    padding: .5em 0;
-    margin: .5em 0 1em;
-    border-top: 1px solid #ddd;
-    border-bottom: 1px solid #ddd; }
-    .text .context .prev, .text .context .next {
-      flex: 1; }
-    .text .context .next {
-      text-align: right; }
+  .text .title h1 {
+    font-size: 2em; }
+  .text .title h2 {
+    font-size: 1.5em; }
+  .text .title h3 {
+    font-size: 1.25em; }
+  .text .title p {
+    text-indent: -1em;
+    margin-left: 1em; }
   .text .toc {
-    list-style: none;
-    margin-left: 0; }
-    .text .toc li {
-      text-indent: -1.5em;
-      margin-left: 1.5em; }
+    list-style: none; }
   .text .paragraph .id, .text .note .id {
     color: #3277ae;
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem;
     text-align: right;
     margin-bottom: .75rem; }

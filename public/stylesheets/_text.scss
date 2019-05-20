@@ -42,28 +42,26 @@
   i { // foreign text
     font-style: italic;
   }
-  .context {
-    font-family: $sans;
-    font-size: 1rem;
-    display: flex;
-    padding: .5em 0;
-    margin: .5em 0 1em;
-    border-top: 1px solid $gray;
-    border-bottom: 1px solid $gray;
-    .prev, .next {
-      flex: 1;
+  .title {
+    h1 {
+      font-size: 2em;
     }
-    .next {
-      text-align: right;
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      font-size: 1.25em;
+    }
+    h4 {}
+    h5 {}
+    h6 {}
+    p {
+      text-indent: -1em;
+      margin-left: 1em;
     }
   }
   .toc {
     list-style: none;
-    margin-left: 0;
-    li {
-      text-indent: -1.5em;
-      margin-left: 1.5em;
-    }
   }
   .paragraph, .note {
     .id {

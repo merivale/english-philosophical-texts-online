@@ -1,0 +1,28 @@
+{
+  "id": "Hume.EPM",
+  "title": "An Enquiry Concerning the Principles of Morals",
+  "breadcrumb": "Enquiry Concerning the Principles of Morals",
+  "fulltitle": "<h3>AN</h3> <h1>ENQUIRY</h1> <h3><b>concerning the</b></h3> <h2><b>principles</b></h2> <h3>OF</h3> <h2>MORALS.</h2>",
+  "published": "1751",
+  "copytext": "1777",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/index.json",
+  "imported": true,
+  "comments": "This text has been imported from <a href=\"https://davidhume.org\">Hume Texts Online</a>. Refer to the editorial notes on that site for details.",
+  "copyright": "The copyright for this text is held by Amyas Merivale and Peter Millican. The text may be used freely for educational and academic purposes. It may not be used in any way for profit.",
+  "texts": [
+    "Hume.EPM.1",
+    "Hume.EPM.2",
+    "Hume.EPM.3",
+    "Hume.EPM.4",
+    "Hume.EPM.5",
+    "Hume.EPM.6",
+    "Hume.EPM.7",
+    "Hume.EPM.8",
+    "Hume.EPM.9",
+    "Hume.EPM.App1",
+    "Hume.EPM.App2",
+    "Hume.EPM.App3",
+    "Hume.EPM.App4",
+    "Hume.EPM.D"
+  ]
+}

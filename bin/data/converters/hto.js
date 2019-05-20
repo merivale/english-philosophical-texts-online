@@ -1,76 +1,46 @@
 // dependencies
 const request = require('sync-request')
-const yaml = require('js-yaml')
-const save = require('../../../data/save')
+const file = require('../../../data/file')
 
 // the main conversion function
 const convert = (data) => {
   const input = request('GET', data.source).getBody()
-  const section = transform(yaml.load(input))
-  save.section(section)
-  console.log(`Imported ${section.id}`)
-}
-
-// transform JSONified input to required format
-const transform = (input) => {
-  const output = {}
-  output.id = id(input.label)
-  if (input.paragraphs) output.paragraphs = input.paragraphs.map(paragraph)
-  if (input.notes) output.notes = input.notes.map(note)
-  return output
-}
-
-// convert a label to an id
-const id = (label) => {
-  const first = label.split('.')[0]
-  switch (first) {
-    case 'D':
-      return label.replace(/^D/, 'Hume.DNR').replace(/\.0$/, '.Intro')
-    case 'E':
-      return label.replace(/^E/, 'Hume.EHU')
-    case 'H':
-      return label.replace(/^H/, 'Hume.HE')
-    case 'L':
-      return label.replace(/^L/, 'Hume.LG')
-    case 'M':
-      return label.replace(/^M/, 'Hume.EPM')
-    case 'N':
-      return label.replace(/^N/, 'Hume.NHR').replace(/\.0$/, '.Intro')
-    case 'P':
-      return label.replace(/^P/, 'Hume.DP')
-    case 'T':
-      return label.replace(/^T/, 'Hume.THN').replace(/\.0$/, '.Intro')
-    default:
-      return `Hume.${label}`
-  }
+  const newdata = JSON.parse(input)
+  data.fulltitle = content(newdata.fulltitle)
+  if (data.paragraphs) data.paragraphs = newdata.paragraphs.map(paragraph)
+  if (data.notes && data.notes.length) data.notes = newdata.notes.map(note)
+  file.save(data)
+  console.log(`Imported ${data.id}`)
 }
 
 // convert a paragraph
-const paragraph = x => {
-  const p = {}
-  p.id = x.id
-  p.title = x.title ? content(x.title) : undefined
-  p.before = x.subsection ? `${x.subsection}.` : undefined
-  p.content = content(x.content)
-  return p
-}
+const paragraph = x =>
+  ({
+    id: x.id,
+    title: x.title ? content(x.title) : undefined,
+    before: x.before ? `${x.before}.` : undefined,
+    content: content(x.content)
+  })
 
 // convert a footnote/endnote
-const note = x => {
-  const n = {}
-  n.id = x.id
-  n.paragraph = x.paragraph
-  n.content = content(x.content)
-  return n
-}
+const note = x =>
+  ({
+    id: x.id,
+    paragraph: x.paragraph,
+    content: content(x.content)
+  })
 
 // convert content
 const content = x =>
   x.replace(/<\/?strong>/g, '')
     .replace(/<del(.*?)<\/del>/g, '')
     .replace(/<ins(.*?)>(.*?)<\/ins>/g, '$2')
-    .replace(/<span class=('|")page-break('|")>\|<\/span>/g, '')
-    .replace(/<span class=('|")tab('|")><\/span>/g, '')
+    .replace(/\|/g, '')
+    .replace(/a priori/g, 'apriori')
+    .replace(/a posteriori/g, 'aposteriori')
+    .replace(/ad infinitum/g, 'adinfinitum')
+    .replace(/in infinitum/g, 'ininfinitum')
+    .replace(/ipso facto/g, 'ipsofacto')
 
 // export the main conversion function
 module.exports = convert

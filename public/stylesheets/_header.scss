@@ -12,10 +12,14 @@
     }
   }
   .logos {
-    margin-bottom: -1.75em;
-    img {
-      display: inline-block;
-      margin-left: .5em;
+    display: none;
+    @media (min-width: $break) {
+      display: block;
+      margin-bottom: -1.75em;
+      img {
+        display: inline-block;
+        margin-left: .5em;
+      }
     }
   }
 }

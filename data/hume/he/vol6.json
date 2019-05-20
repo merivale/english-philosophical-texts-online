@@ -1,0 +1,25 @@
+{
+  "id": "Hume.HE.Vol6",
+  "parent": "Hume.HE",
+  "title": "Volume 6. The History of Great Britain, Part 2",
+  "breadcrumb": "Volume 6",
+  "fulltitle": "<h4>THE</h4> <h2>HISTORY</h2> <h4>OF</h4> <h1>ENGLAND,</h1> <h2>VOL. VI.</h2> <h4><b>containing the reigns of</b></h4> <h3>JAMES I and CHARLES I.</h3>",
+  "published": "1757",
+  "copytext": "1778",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/h/vol6.json",
+  "imported": true,
+  "texts": [
+    "Hume.HE.60",
+    "Hume.HE.61",
+    "Hume.HE.62",
+    "Hume.HE.63",
+    "Hume.HE.64",
+    "Hume.HE.65",
+    "Hume.HE.66",
+    "Hume.HE.67",
+    "Hume.HE.68",
+    "Hume.HE.69",
+    "Hume.HE.70",
+    "Hume.HE.71"
+  ]
+}

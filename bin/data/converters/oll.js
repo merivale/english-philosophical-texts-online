@@ -8,6 +8,7 @@ const docs = {}
 
 // the main conversion function
 const convert = (data) => {
+  if (data.texts) return // don't do anything with collections
   const url = data.source.split('#')[0]
   const divId = data.source.split('#')[1]
   const doc = docs[url] || new JSDOM(request('GET', url).getBody()).window.document
