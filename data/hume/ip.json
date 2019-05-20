@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "Of the Independency of Parliament",
   "breadcrumb": "Of the Independency of Parliament",
-  "fulltitle": "<h1>Of the Independency of Parliament</h1>",
+  "fulltitle": "<h1>Of the <b>Independency</b> of <b>Parliament</b>.</h1>",
   "published": "1741",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ip.json",
@@ -35,7 +35,7 @@
     },
     {
       "id": "7",
-      "content": "<p>Instead then of asserting<sup><a href='#n1'>[1]</a></sup> absolutely, that the dependence of parliament, in every degree, is an infringement of <b>British</b> liberty, the country-party should have made some concessions to their adversaries, and have only examined what was the proper degree of this dependence, beyond which it became dangerous to liberty. But such a moderation is not to be expected in party-men of any kind. After a concession of this nature, all declamation must be abandoned; and a calm enquiry into the proper degree of court-influence and parliamentary dependence would have been expected by the readers. And though the advantage, in such a controversy, might possibly remain to the <em>country-party</em>; yet the victory would not be so compleat as they wish for, nor would a true patriot have given an entire loose to his zeal, for fear of running matters into a contrary extreme, by diminishing too<sup><a href='#n2'>[2]</a></sup> far the influence of the crown. It was, therefore, thought best to deny, that this extreme could ever be dangerous to the constitution, or that the crown could ever have too little influence over members of parliament.</p>"
+      "content": "<p>Instead then of asserting<a href=\"#n1\"><sup>[1]</sup></a> absolutely, that the dependence of parliament, in every degree, is an infringement of <b>British</b> liberty, the country-party should have made some concessions to their adversaries, and have only examined what was the proper degree of this dependence, beyond which it became dangerous to liberty. But such a moderation is not to be expected in party-men of any kind. After a concession of this nature, all declamation must be abandoned; and a calm enquiry into the proper degree of court-influence and parliamentary dependence would have been expected by the readers. And though the advantage, in such a controversy, might possibly remain to the <em>country-party</em>; yet the victory would not be so compleat as they wish for, nor would a true patriot have given an entire loose to his zeal, for fear of running matters into a contrary extreme, by diminishing too<a href=\"#n2\"><sup>[2]</sup></a> far the influence of the crown. It was, therefore, thought best to deny, that this extreme could ever be dangerous to the constitution, or that the crown could ever have too little influence over members of parliament.</p>"
     },
     {
       "id": "8",
@@ -45,14 +45,17 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "7",
       "content": "<p>See <em>Dissertation on Parties</em>, throughout.</p>"
     },
     {
       "id": "2",
+      "paragraph": "7",
       "content": "<p>See NOTE [B].</p>"
     },
     {
       "id": "2.1",
+      "paragraph": "7",
       "content": "<p>BY that <em>influence of the crown</em>, which I would justify, I mean only that which arises from the offices and honours that are at the disposal of the crown. As to private <em>bribery</em>, it may be considered in the same light as the practice of employing spies, which is scarcely justifiable in a good minister, and is infamous in a bad one: But to be a spy, or to be corrupted, is always infamous under all ministers, and is to be regarded as a shameless prostitution. <b>Polybius</b> justly esteems the pecuniary influence of the senate and censors to be one of the regular and constitutional weights, which preserved the balance of the <b>Roman</b> government. Lib. vi. cap. 15.</p>"
     }
   ]

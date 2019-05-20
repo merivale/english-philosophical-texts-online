@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.3",
   "title": "Section 6. Of the influence of the imagination on the passions",
   "breadcrumb": "Section 6",
-  "fulltitle": "<h1>Section 6. Of the influence of the imagination on the passions</h1>",
+  "fulltitle": "<h3>SECT. VI.</h3> <h4><em>Of the influence of the imagination on the passions.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/3/6.json",
@@ -23,7 +23,7 @@
     },
     {
       "id": "4",
-      "content": "<p><b>A late</b> celebrated<sup><a href='#n66'>[66]</a></sup> historian admires this passage of antient history, as one of the most singular that is any where to be met with. <em>Here</em>, says he, <em>they are not philosophers, to whom 'tis easy in their schools to establish the finest maxims and most sublime rules of morality, who decide that interest ought never to prevail above justice. 'Tis a whole people interested in the proposal, which is made to them, who consider it as of importance to the public good, and who notwithstanding reject it unanimously, and without hesitation, merely because it is contrary to justice</em>. For my part I see nothing so extraordinary in this proceeding of the <em>Athenians</em>. The same reasons, which render it so easy for philosophers to establish these sublime maxims, tend, in part, to diminish the merit of such a conduct in that people. Philosophers never ballance betwixt profit and honesty, because their decisions are general, and neither their passions nor imaginations are interested in the objects. And tho' in the present case the advantage was immediate to the <em>Athenians</em>, yet as it was known only under the general notion of advantage, without being conceiv'd by any particular idea, it must have had a less considerable influence on their imaginations, and have been a less violent temptation, than if they had been acquainted with all its circumstances: Otherwise 'tis difficult to conceive, that a whole people, unjust and violent as men commonly are, shou'd so unanimously have adher'd to justice, and rejected any considerable advantage.</p>"
+      "content": "<p><b>A late</b> celebrated<a href=\"#n66\"><sup>[66]</sup></a> historian admires this passage of antient history, as one of the most singular that is any where to be met with. <em>Here</em>, says he, <em>they are not philosophers, to whom 'tis easy in their schools to establish the finest maxims and most sublime rules of morality, who decide that interest ought never to prevail above justice. 'Tis a whole people interested in the proposal, which is made to them, who consider it as of importance to the public good, and who notwithstanding reject it unanimously, and without hesitation, merely because it is contrary to justice</em>. For my part I see nothing so extraordinary in this proceeding of the <em>Athenians</em>. The same reasons, which render it so easy for philosophers to establish these sublime maxims, tend, in part, to diminish the merit of such a conduct in that people. Philosophers never ballance betwixt profit and honesty, because their decisions are general, and neither their passions nor imaginations are interested in the objects. And tho' in the present case the advantage was immediate to the <em>Athenians</em>, yet as it was known only under the general notion of advantage, without being conceiv'd by any particular idea, it must have had a less considerable influence on their imaginations, and have been a less violent temptation, than if they had been acquainted with all its circumstances: Otherwise 'tis difficult to conceive, that a whole people, unjust and violent as men commonly are, shou'd so unanimously have adher'd to justice, and rejected any considerable advantage.</p>"
     },
     {
       "id": "5",
@@ -53,6 +53,7 @@
   "notes": [
     {
       "id": "66",
+      "paragraph": "4",
       "content": "<p>Mons. <em>Rollin</em>.</p>"
     }
   ]

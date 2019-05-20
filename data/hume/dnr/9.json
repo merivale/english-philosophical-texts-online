@@ -3,7 +3,7 @@
   "parent": "Hume.DNR",
   "title": "Part 9",
   "breadcrumb": "Part 9",
-  "fulltitle": "<h1>Part 9</h1>",
+  "fulltitle": "<h1>PART IX.</h1>",
   "published": "1779",
   "copytext": "1779",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/d/9.json",
@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": "1",
-      "content": "<p><b>But</b> if so many difficulties attend the argument <em>aposteriori</em>, said <b>Demea</b>, had we not better adhere to that simple and sublime argument <em>apriori</em>, which, by offering to us infallible demonstration, cuts off at once all doubt and difficulty? By this argument too, we may prove the INFINITY of the divine attributes, which, I am afraid, can never be ascertained with certainty from any other topic. For how can an effect, which either is finite, or, for aught we know, may be so; how can such an effect, I say, prove an infinite cause? The unity too of the Divine Nature, it is very difficult, if not absolutely impossible, to deduce merely from contemplating the works of nature; nor will the uniformity alone of the plan, even were it allowed, give us any assurance of that attribute. Whereas the argument <em>apriori</em>. . . . . .</p>"
+      "content": "<p><b>But</b> if so many difficulties attend the argument <em>a posteriori</em>, said <b>Demea</b>, had we not better adhere to that simple and sublime argument <em>a priori</em>, which, by offering to us infallible demonstration, cuts off at once all doubt and difficulty? By this argument too, we may prove the INFINITY of the divine attributes, which, I am afraid, can never be ascertained with certainty from any other topic. For how can an effect, which either is finite, or, for aught we know, may be so; how can such an effect, I say, prove an infinite cause? The unity too of the Divine Nature, it is very difficult, if not absolutely impossible, to deduce merely from contemplating the works of nature; nor will the uniformity alone of the plan, even were it allowed, give us any assurance of that attribute. Whereas the argument <em>a priori</em>. . . . . .</p>"
     },
     {
       "id": "2",
@@ -27,7 +27,7 @@
     },
     {
       "id": "5",
-      "content": "<p>I shall begin with observing, that there is an evident absurdity in pretending to demonstrate a matter of fact, or to prove it by any arguments <em>apriori</em>. Nothing is demonstrable, unless the contrary implies a contradiction. Nothing, that is distinctly conceivable, implies a contradiction. Whatever we conceive as existent, we can also conceive as non-existent. There is no being, therefore, whose non-existence implies a contradiction. Consequently there is no being, whose existence is demonstrable. I propose this argument as entirely decisive, and am willing to rest the whole controversy upon it.</p>"
+      "content": "<p>I shall begin with observing, that there is an evident absurdity in pretending to demonstrate a matter of fact, or to prove it by any arguments <em>a priori</em>. Nothing is demonstrable, unless the contrary implies a contradiction. Nothing, that is distinctly conceivable, implies a contradiction. Whatever we conceive as existent, we can also conceive as non-existent. There is no being, therefore, whose non-existence implies a contradiction. Consequently there is no being, whose existence is demonstrable. I propose this argument as entirely decisive, and am willing to rest the whole controversy upon it.</p>"
     },
     {
       "id": "6",
@@ -35,7 +35,7 @@
     },
     {
       "id": "7",
-      "content": "<p>But farther; why may not the material universe be the necessarily-existent Being, according to this pretended explication of necessity? We dare not affirm that we know all the qualities of matter; and for aught we can determine, it may contain some qualities, which, were they known, would make its non-existence appear as great a contradiction as that twice two is five. I find only one argument employed to prove, that the material world is not the necessarily-existent Being; and this argument is derived from the contingency both of the matter and the form of the world. <q>Any particle of matter,</q> 'tis said<sup><a href='#n7'>[7]</a></sup>, <q>may be <em>conceived</em> to be annihilated; and any form may be <em>conceived</em> to be altered. Such an annihilation or alteration, therefore, is not impossible.</q> But it seems a great partiality not to perceive, that the same argument extends equally to the Deity, so far as we have any conception of him; and that the mind can at least imagine him to be non-existent, or his attributes to be altered. It must be some unknown, inconceivable qualities, which can make his non-existence appear impossible, or his attributes unalterable: And no reason can be assigned, why these qualities may not belong to matter. As they are altogether unknown and inconceivable, they can never be proved incompatible with it.</p>"
+      "content": "<p>But farther; why may not the material universe be the necessarily-existent Being, according to this pretended explication of necessity? We dare not affirm that we know all the qualities of matter; and for aught we can determine, it may contain some qualities, which, were they known, would make its non-existence appear as great a contradiction as that twice two is five. I find only one argument employed to prove, that the material world is not the necessarily-existent Being; and this argument is derived from the contingency both of the matter and the form of the world. <q>Any particle of matter,</q> 'tis said<a href=\"#n7\"><sup>[7]</sup></a>, <q>may be <em>conceived</em> to be annihilated; and any form may be <em>conceived</em> to be altered. Such an annihilation or alteration, therefore, is not impossible.</q> But it seems a great partiality not to perceive, that the same argument extends equally to the Deity, so far as we have any conception of him; and that the mind can at least imagine him to be non-existent, or his attributes to be altered. It must be some unknown, inconceivable qualities, which can make his non-existence appear impossible, or his attributes unalterable: And no reason can be assigned, why these qualities may not belong to matter. As they are altogether unknown and inconceivable, they can never be proved incompatible with it.</p>"
     },
     {
       "id": "8",
@@ -47,21 +47,23 @@
     },
     {
       "id": "10",
-      "content": "<p>Though the reasonings, which you have urged, <b>Cleanthes</b>, may well excuse me, said <b>Philo</b>, from starting any farther difficulties; yet I cannot forbear insisting still upon another topic. 'Tis observed by arithmeticians, that the products of 9 compose always either 9 or some lesser product of 9; if you add together all the characters, of which any of the former products is composed. Thus, of 18, 27, 36, which are products of 9, you make 9 by adding 1 to 8, 2 to 7, 3 to 6. Thus 369 is a product also of 9; and if you add 3, 6, and 9, you make 18, a lesser product of 9<sup><a href='#n8'>[8]</a></sup>. To a superficial observer, so wonderful a regularity may be admired as the effect either of chance or design; but a skilful algebraist immediately concludes it to be the work of necessity, and demonstrates, that it must for ever result from the nature of these numbers. Is it not probable, I ask, that the whole œconomy of the universe is conducted by a like necessity, though no human algebra can furnish a key, which solves the difficulty? And instead of admiring the order of natural beings, may it not happen, that, could we penetrate into the intimate nature of bodies, we should clearly see why it was absolutely impossible, they could ever admit of any other disposition? So dangerous is it to introduce this idea of necessity into the present question! and so naturally does it afford an inference directly opposite to the religious hypothesis!</p>"
+      "content": "<p>Though the reasonings, which you have urged, <b>Cleanthes</b>, may well excuse me, said <b>Philo</b>, from starting any farther difficulties; yet I cannot forbear insisting still upon another topic. 'Tis observed by arithmeticians, that the products of 9 compose always either 9 or some lesser product of 9; if you add together all the characters, of which any of the former products is composed. Thus, of 18, 27, 36, which are products of 9, you make 9 by adding 1 to 8, 2 to 7, 3 to 6. Thus 369 is a product also of 9; and if you add 3, 6, and 9, you make 18, a lesser product of 9<a href=\"#n8\"><sup>[8]</sup></a>. To a superficial observer, so wonderful a regularity may be admired as the effect either of chance or design; but a skilful algebraist immediately concludes it to be the work of necessity, and demonstrates, that it must for ever result from the nature of these numbers. Is it not probable, I ask, that the whole œconomy of the universe is conducted by a like necessity, though no human algebra can furnish a key, which solves the difficulty? And instead of admiring the order of natural beings, may it not happen, that, could we penetrate into the intimate nature of bodies, we should clearly see why it was absolutely impossible, they could ever admit of any other disposition? So dangerous is it to introduce this idea of necessity into the present question! and so naturally does it afford an inference directly opposite to the religious hypothesis!</p>"
     },
     {
       "id": "11",
-      "content": "<p>But dropping all these abstractions, continued <b>Philo</b>; and confining ourselves to more familiar topics; I shall venture to add an observation, that the argument <em>apriori</em> has seldom been found very convincing, except to people of a metaphysical head, who have accustomed themselves to abstract reasoning, and who finding from mathematics, that the understanding frequently leads to truth, through obscurity, and contrary to first appearances, have transferred the same habit of thinking to subjects, where it ought not to have place. Other people, even of good sense and the best inclined to religion, feel always some deficiency in such arguments, though they are not perhaps able to explain distinctly where it lies. A certain proof, that men ever did, and ever will derive their religion from other sources than from this species of reasoning.</p>"
+      "content": "<p>But dropping all these abstractions, continued <b>Philo</b>; and confining ourselves to more familiar topics; I shall venture to add an observation, that the argument <em>a priori</em> has seldom been found very convincing, except to people of a metaphysical head, who have accustomed themselves to abstract reasoning, and who finding from mathematics, that the understanding frequently leads to truth, through obscurity, and contrary to first appearances, have transferred the same habit of thinking to subjects, where it ought not to have place. Other people, even of good sense and the best inclined to religion, feel always some deficiency in such arguments, though they are not perhaps able to explain distinctly where it lies. A certain proof, that men ever did, and ever will derive their religion from other sources than from this species of reasoning.</p>"
     }
   ],
   "notes": [
     {
       "id": "7",
+      "paragraph": "7",
       "content": "<p>Dr. Clarke.</p>"
     },
     {
       "id": "8",
-      "content": "<p><cite>Republique des Lettres, Aout. 1685.</cite></p>"
+      "paragraph": "10",
+      "content": "<p>Republique des Lettres, Aout. 1685.</p>"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "parent": "Hume.DNR",
   "title": "Part 10",
   "breadcrumb": "Part 10",
-  "fulltitle": "<h1>Part 10</h1>",
+  "fulltitle": "<h1>PART X.</h1>",
   "published": "1779",
   "copytext": "1779",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/d/10.json",
@@ -31,7 +31,7 @@
     },
     {
       "id": "6",
-      "content": "<p>There you must excuse me, said <b>Philo</b>: <b>Leibnitz</b> has denied it; and is perhaps the first<sup><a href='#n9'>[9]</a></sup>, who ventured upon so bold and paradoxical an opinion; at least, the first, who made it essential to his philosophical system.</p>"
+      "content": "<p>There you must excuse me, said <b>Philo</b>: <b>Leibnitz</b> has denied it; and is perhaps the first<a href=\"#n9\"><sup>[9]</sup></a>, who ventured upon so bold and paradoxical an opinion; at least, the first, who made it essential to his philosophical system.</p>"
     },
     {
       "id": "7",
@@ -157,6 +157,7 @@
   "notes": [
     {
       "id": "9",
+      "paragraph": "6",
       "content": "<p>That sentiment had been maintained by Dr King and some few others before <b>Leibniz</b>; though by none of so great fame as that <b>German</b> philosopher.</p>"
     }
   ]

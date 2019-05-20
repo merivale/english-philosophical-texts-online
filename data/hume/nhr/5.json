@@ -3,7 +3,7 @@
   "parent": "Hume.NHR",
   "title": "Section 5. Various Forms of Polytheism: Allegory, Hero-Worship",
   "breadcrumb": "Section 5",
-  "fulltitle": "<h1>Section 5. Various Forms of Polytheism: Allegory, Hero-Worship</h1>",
+  "fulltitle": "<h1><b>Sect. V.</b> <em>Various Forms of Polytheism: Allegory, Hero-Worship.</em></h1>",
   "published": "1757",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/n/5.json",
@@ -23,7 +23,7 @@
     },
     {
       "id": "4",
-      "content": "<p>Allegories, indeed, entirely perfect, we ought not to expect as the productions of ignorance and superstition; there being no work of genius that requires a nicer hand, or has been more rarely executed with success. That <em>Fear</em> and <em>Terror</em> are the sons of <b>Mars</b> is just; but why by <b>Venus</b><sup><a href='#n31'>[31]</a></sup>? That <em>Harmony</em> is the daughter of <b>Venus</b> is regular; but why by <b>Mars</b><sup><a href='#n32'>[32]</a></sup>? That <em>Sleep</em> is the brother of <em>Death</em> is suitable; but why describe him as enamoured of one of the Graces<sup><a href='#n33'>[33]</a></sup>? And since the ancient mythologists fall into mistakes so gross and palpable, we have no reason surely to expect such refined and long-spun allegories, as some have endeavoured to deduce from their fictions.</p>"
+      "content": "<p>Allegories, indeed, entirely perfect, we ought not to expect as the productions of ignorance and superstition; there being no work of genius that requires a nicer hand, or has been more rarely executed with success. That <em>Fear</em> and <em>Terror</em> are the sons of <b>Mars</b> is just; but why by <b>Venus</b><a href=\"#n31\"><sup>[31]</sup></a>? That <em>Harmony</em> is the daughter of <b>Venus</b> is regular; but why by <b>Mars</b><a href=\"#n32\"><sup>[32]</sup></a>? That <em>Sleep</em> is the brother of <em>Death</em> is suitable; but why describe him as enamoured of one of the Graces<a href=\"#n33\"><sup>[33]</sup></a>? And since the ancient mythologists fall into mistakes so gross and palpable, we have no reason surely to expect such refined and long-spun allegories, as some have endeavoured to deduce from their fictions.</p>"
     },
     {
       "id": "5",
@@ -35,11 +35,11 @@
     },
     {
       "id": "7",
-      "content": "<p>Painters too and sculptors came in for their share of profit in the sacred mysteries; and furnishing men with sensible representations of their divinities, whom they cloathed in human figures, gave great encrease to the public devotion, and determined its object. It was probably for want of these arts in rude and barbarous ages, that men deified plants, animals, and even brute, unorganized matter; and rather than be without a sensible object of worship, affixed divinity to such ungainly forms. Could any statuary of <b>Syria</b>, in early times, have formed a just figure of <b>Apollo</b>, the conic stone, <b>Heliogabalus</b>, had never become the object of such profound adoration, and been received as a representation of the solar deity<sup><a href='#n34'>[34]</a></sup>.</p>"
+      "content": "<p>Painters too and sculptors came in for their share of profit in the sacred mysteries; and furnishing men with sensible representations of their divinities, whom they cloathed in human figures, gave great encrease to the public devotion, and determined its object. It was probably for want of these arts in rude and barbarous ages, that men deified plants, animals, and even brute, unorganized matter; and rather than be without a sensible object of worship, affixed divinity to such ungainly forms. Could any statuary of <b>Syria</b>, in early times, have formed a just figure of <b>Apollo</b>, the conic stone, <b>Heliogabalus</b>, had never become the object of such profound adoration, and been received as a representation of the solar deity<a href=\"#n34\"><sup>[34]</sup></a>.</p>"
     },
     {
       "id": "8",
-      "content": "<p><b>Stilpo</b> was banished by the council of <b>Areopagus</b>, for affirming that the <b>Minerva</b> in the citadel was no divinity; but the workmanship of <b>Phidias</b>, the sculptor<sup><a href='#n35'>[35]</a></sup>. What degree of reason must we expect in the religious belief of the vulgar in other nations; when <b>Athenians</b> and <b>Areopagites</b> could entertain such gross conceptions?</p>"
+      "content": "<p><b>Stilpo</b> was banished by the council of <b>Areopagus</b>, for affirming that the <b>Minerva</b> in the citadel was no divinity; but the workmanship of <b>Phidias</b>, the sculptor<a href=\"#n35\"><sup>[35]</sup></a>. What degree of reason must we expect in the religious belief of the vulgar in other nations; when <b>Athenians</b> and <b>Areopagites</b> could entertain such gross conceptions?</p>"
     },
     {
       "id": "9",
@@ -47,36 +47,43 @@
     },
     {
       "id": "10",
-      "content": "<p>Almost all idolaters, of whatever age or country, concur in these general principles and conceptions; and even the particular characters and provinces, which they assign to their deities, are not extremely different<sup><a href='#n36'>[36]</a></sup>. The <b>Greek</b> and <b>Roman</b> travellers and conquerors, without much difficulty, found their own deities every where; and said, This is <b>Mercury</b>, that <b>Venus</b>; this <b>Mars</b>, that <b>Neptune</b>; by whatever title the strange gods might be denominated. The goddess <b>Hertha</b> of our <b>Saxon</b> ancestors seems to be no other, according to <b>Tacitus</b><sup><a href='#n37'>[37]</a></sup>, than the <em>Mater Tellus</em> of the <b>Romans</b>; and his conjecture was evidently just.</p>"
+      "content": "<p>Almost all idolaters, of whatever age or country, concur in these general principles and conceptions; and even the particular characters and provinces, which they assign to their deities, are not extremely different<a href=\"#n36\"><sup>[36]</sup></a>. The <b>Greek</b> and <b>Roman</b> travellers and conquerors, without much difficulty, found their own deities every where; and said, This is <b>Mercury</b>, that <b>Venus</b>; this <b>Mars</b>, that <b>Neptune</b>; by whatever title the strange gods might be denominated. The goddess <b>Hertha</b> of our <b>Saxon</b> ancestors seems to be no other, according to <b>Tacitus</b><a href=\"#n37\"><sup>[37]</sup></a>, than the <em>Mater Tellus</em> of the <b>Romans</b>; and his conjecture was evidently just.</p>"
     }
   ],
   "notes": [
     {
       "id": "31",
+      "paragraph": "4",
       "content": "<p><b>Hesiod</b>. Theog. l. 935.</p>"
     },
     {
       "id": "32",
+      "paragraph": "4",
       "content": "<p>Id. ibid. &amp; <b>Plut.</b> in vita <b>Pelop.</b></p>"
     },
     {
       "id": "33",
+      "paragraph": "4",
       "content": "<p><b>Illiad</b>. xiv. 267.</p>"
     },
     {
       "id": "34",
+      "paragraph": "7",
       "content": "<p><b>Herodian</b>. lib. v. <b>Jupiter Ammon</b> is represented by <b>Curtius</b> as a deity of the same kind, lib. iv. cap. 7. The <b>Arabians</b> and <b>Persinuntians</b> adored also shapeless unformed stones as their deity. <b>Arnob.</b> lib. vi. So much did their folly exceed that of the <b>Egyptians</b>.</p>"
     },
     {
       "id": "35",
+      "paragraph": "8",
       "content": "<p><b>Diod. Lært.</b> lib. ii.</p>"
     },
     {
       "id": "36",
+      "paragraph": "10",
       "content": "<p>See <b>Cæsar</b> of the religion of the <b>Gauls</b>, De bello Gallico, lib. xi.</p>"
     },
     {
       "id": "37",
+      "paragraph": "10",
       "content": "<p>De moribus <b>Germ.</b></p>"
     }
   ]

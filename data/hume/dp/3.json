@@ -3,7 +3,7 @@
   "parent": "Hume.DP",
   "title": "Section 3",
   "breadcrumb": "Section 3",
-  "fulltitle": "<h1>Section 3</h1>",
+  "fulltitle": "<h1>SECT III.</h1>",
   "published": "1757",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/p/3.json",
@@ -21,7 +21,7 @@
     {
       "id": "3",
       "before": "2.",
-      "content": "<p>Sometimes a relation to ourselves excites affection towards any person. But there is always here implied a relation of sentiments, without which the other relation would have no influence<sup><a href='#n4'>[4]</a></sup>.</p>"
+      "content": "<p>Sometimes a relation to ourselves excites affection towards any person. But there is always here implied a relation of sentiments, without which the other relation would have no influence<a href=\"#n4\"><sup>[4]</sup></a>.</p>"
     },
     {
       "id": "4",
@@ -76,6 +76,7 @@
   "notes": [
     {
       "id": "4",
+      "paragraph": "3",
       "content": "<p>The affection of parents to children seems founded on an original instinct. The affection towards other relations depends on the principles here explained.</p>"
     }
   ]

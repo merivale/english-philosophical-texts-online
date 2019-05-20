@@ -3,7 +3,7 @@
   "parent": "Hume.EPM",
   "title": "Appendix 1. Concerning Moral Sentiment",
   "breadcrumb": "Appendix 1",
-  "fulltitle": "<h1>Appendix 1. Concerning Moral Sentiment</h1>",
+  "fulltitle": "<h1>APPENDIX I.</h1> <h2><b>Concerning Moral Sentiment</b>.</h2>",
   "published": "1751",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/app1.json",
@@ -11,11 +11,11 @@
   "paragraphs": [
     {
       "id": "1",
-      "content": "<p>IF the foregoing hypothesis be received, it will now be easy for us to determine the question first started<sup><a href='#n58'>[58]</a></sup>, concerning the general principles of morals; and though we postponed the decision of that question, lest it should then involve us in intricate speculations, which are unfit for moral discourses, we may resume it at present, and examine how far either <em>reason</em> or <em>sentiment</em> enters into all decisions of praise or censure.</p>"
+      "content": "<p>IF the foregoing hypothesis be received, it will now be easy for us to determine the question first started<a href=\"#n58\"><sup>[58]</sup></a>, concerning the general principles of morals; and though we postponed the decision of that question, lest it should then involve us in intricate speculations, which are unfit for moral discourses, we may resume it at present, and examine how far either <em>reason</em> or <em>sentiment</em> enters into all decisions of praise or censure.</p>"
     },
     {
       "id": "2",
-      "content": "<p>One principal foundation of moral praise being supposed to lie in the usefulness of any quality or action; it is evident, that <em>reason</em> must enter for a considerable share in all decisions of this kind; since nothing but that faculty can instruct us in the tendency of qualities and actions, and point out their beneficial consequences to society and to their possessor. In many cases this is an affair liable to great controversy: Doubts may arise; opposite interests may occur; and a preference must be given to one side, from very nice views, and a small overbalance of utility. This is particularly remarkable in questions with regard to justice; as is, indeed, natural to suppose, from that species of utility, which attends this virtue<sup><a href='#n59'>[59]</a></sup>. Were every single instance of justice, like that of benevolence, useful to society; this would be a more simple state of the case, and seldom liable to great controversy. But as single instances of justice are often pernicious in their first and immediate tendency, and as the advantage to society results only from the observance of the general rule, and from the concurrence and combination of several persons in the same equitable conduct; the case here becomes more intricate and involved. The various circumstances of society; the various consequences of any practice; the various interests, which may be proposed: These, on many occasions, are doubtful, and subject to great discussion and inquiry. The object of municipal laws is to fix all the questions with regard to justice: The debates of civilians; the reflections of politicians; the precedents of history and public records, are all directed to the same purpose. And a very accurate <em>reason</em> or <em>judgment</em> is often requisite, to give the true determination, amidst such intricate doubts arising from obscure or opposite utilities.</p>"
+      "content": "<p>One principal foundation of moral praise being supposed to lie in the usefulness of any quality or action; it is evident, that <em>reason</em> must enter for a considerable share in all decisions of this kind; since nothing but that faculty can instruct us in the tendency of qualities and actions, and point out their beneficial consequences to society and to their possessor. In many cases this is an affair liable to great controversy: Doubts may arise; opposite interests may occur; and a preference must be given to one side, from very nice views, and a small overbalance of utility. This is particularly remarkable in questions with regard to justice; as is, indeed, natural to suppose, from that species of utility, which attends this virtue<a href=\"#n59\"><sup>[59]</sup></a>. Were every single instance of justice, like that of benevolence, useful to society; this would be a more simple state of the case, and seldom liable to great controversy. But as single instances of justice are often pernicious in their first and immediate tendency, and as the advantage to society results only from the observance of the general rule, and from the concurrence and combination of several persons in the same equitable conduct; the case here becomes more intricate and involved. The various circumstances of society; the various consequences of any practice; the various interests, which may be proposed: These, on many occasions, are doubtful, and subject to great discussion and inquiry. The object of municipal laws is to fix all the questions with regard to justice: The debates of civilians; the reflections of politicians; the precedents of history and public records, are all directed to the same purpose. And a very accurate <em>reason</em> or <em>judgment</em> is often requisite, to give the true determination, amidst such intricate doubts arising from obscure or opposite utilities.</p>"
     },
     {
       "id": "3",
@@ -97,10 +97,12 @@
   "notes": [
     {
       "id": "58",
+      "paragraph": "1",
       "content": "<p>Sect. I.</p>"
     },
     {
       "id": "59",
+      "paragraph": "2",
       "content": "<p>See Appendix III.</p>"
     }
   ]

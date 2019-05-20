@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.1",
   "title": "Section 11. Of the love of fame",
   "breadcrumb": "Section 11",
-  "fulltitle": "<h1>Section 11. Of the love of fame</h1>",
+  "fulltitle": "<h3>SECT. XI.</h3> <h4><em>Of the love of fame.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/1/11.json",
@@ -31,7 +31,7 @@
     },
     {
       "id": "6",
-      "content": "<p><b>Nor</b> is resemblance the only relation, which has this effect, but receives new force from other relations, that may accompany it. The sentiments of others have little influence, when far remov'd from us, and require the relation of contiguity, to make them communicate themselves entirely. The relations of blood, being a species of causation, may sometimes contribute to the same effect; as also acquaintance, which operates in the same manner with education and custom; as we shall see more fully<sup><a href='#n58'>[58]</a></sup> afterwards. All these relations, when united together, convey the impression or consciousness of our own person to the idea of the sentiments or passions of others, and makes us conceive them in the strongest and most lively manner.</p>"
+      "content": "<p><b>Nor</b> is resemblance the only relation, which has this effect, but receives new force from other relations, that may accompany it. The sentiments of others have little influence, when far remov'd from us, and require the relation of contiguity, to make them communicate themselves entirely. The relations of blood, being a species of causation, may sometimes contribute to the same effect; as also acquaintance, which operates in the same manner with education and custom; as we shall see more fully<a href=\"#n58\"><sup>[58]</sup></a> afterwards. All these relations, when united together, convey the impression or consciousness of our own person to the idea of the sentiments or passions of others, and makes us conceive them in the strongest and most lively manner.</p>"
     },
     {
       "id": "7",
@@ -43,7 +43,7 @@
     },
     {
       "id": "9",
-      "content": "<p>'<b>Tis</b> now time to turn our view from the general consideration of sympathy, to its influence on pride and humility, when these passions arise from praise and blame, from reputation and infamy. We may observe, that no person is ever prais'd by another for any quality, which wou'd not, if real, produce, of itself, a pride in the person possest of it. The elogiums either turn upon his power, or riches, or family, or virtue; all of which are subjects of vanity, that we have already explain'd and accounted for. 'Tis certain, then, that if a person consider'd himself in the same light, in which he appears to his admirer, he wou'd first receive a separate pleasure, and afterwards a pride or self-satisfaction, according to the hypothesis above explain'd. Now nothing is more natural than for us to embrace the opinions of others in this particular; both from <em>sympathy</em>, which renders all their sentiments intimately present to us; and from <em>reasoning</em>, which makes us regard their judgment, as a kind of argument for what they affirm. These two principles of authority and sympathy influence almost all our opinions; but must have a peculiar influence, when we judge of our own worth and character. Such judgments are always attended with passion<sup><a href='#n59'>[59]</a></sup>; and nothing tends more to disturb our understanding, and precipitate us into any opinions, however unreasonable, than their connexion with passion; which diffuses itself over the imagination, and gives an additional force to every related idea. To which we may add, that being conscious of great partiality in our own favour, we are peculiarly pleas'd with any thing, that confirms the good opinion we have of ourselves, and are easily shock'd with whatever opposes it.</p>"
+      "content": "<p>'<b>Tis</b> now time to turn our view from the general consideration of sympathy, to its influence on pride and humility, when these passions arise from praise and blame, from reputation and infamy. We may observe, that no person is ever prais'd by another for any quality, which wou'd not, if real, produce, of itself, a pride in the person possest of it. The elogiums either turn upon his power, or riches, or family, or virtue; all of which are subjects of vanity, that we have already explain'd and accounted for. 'Tis certain, then, that if a person consider'd himself in the same light, in which he appears to his admirer, he wou'd first receive a separate pleasure, and afterwards a pride or self-satisfaction, according to the hypothesis above explain'd. Now nothing is more natural than for us to embrace the opinions of others in this particular; both from <em>sympathy</em>, which renders all their sentiments intimately present to us; and from <em>reasoning</em>, which makes us regard their judgment, as a kind of argument for what they affirm. These two principles of authority and sympathy influence almost all our opinions; but must have a peculiar influence, when we judge of our own worth and character. Such judgments are always attended with passion<a href=\"#n59\"><sup>[59]</sup></a>; and nothing tends more to disturb our understanding, and precipitate us into any opinions, however unreasonable, than their connexion with passion; which diffuses itself over the imagination, and gives an additional force to every related idea. To which we may add, that being conscious of great partiality in our own favour, we are peculiarly pleas'd with any thing, that confirms the good opinion we have of ourselves, and are easily shock'd with whatever opposes it.</p>"
     },
     {
       "id": "10",
@@ -89,10 +89,12 @@
   "notes": [
     {
       "id": "58",
+      "paragraph": "6",
       "content": "<p>Part II. Sect. 4. [Difficulties solv'd]</p>"
     },
     {
       "id": "59",
+      "paragraph": "9",
       "content": "<p>Book I. Part III. Sect. 10. [Of the influence of belief]</p>"
     }
   ]

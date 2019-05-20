@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.2",
   "title": "Section 5. The same subject continu'd",
   "breadcrumb": "Section 5",
-  "fulltitle": "<h1>Section 5. The same subject continu'd</h1>",
+  "fulltitle": "<h3>SECT. V.</h3> <h4><em>The same subject continu'd.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/2/5.json",
@@ -111,7 +111,7 @@
     },
     {
       "id": "26",
-      "content": "<p><b>I answer</b> this objection, by pleading guilty, and by confessing that my intention never was to penetrate into the nature of bodies, or explain the secret causes of their operations. For besides that this belongs not to my present purpose, I am afraid, that such an enterprize is beyond the reach of human understanding, and that we can never pretend to know body otherwise than by those external properties, which discover themselves to the senses. As to those who attempt any thing farther, I cannot approve of their ambition, till I see, in some one instance at least, that they have met with success. But at present I content myself with knowing perfectly the manner in which objects affect my senses, and their connections with each other, as far as experience informs me of them. This suffices for the conduct of life; and this also suffices for my philosophy, which pretends only to explain the nature and causes of our perceptions, or impressions and ideas<sup><a href='#n12'>[12]</a></sup>.</p>"
+      "content": "<p><b>I answer</b> this objection, by pleading guilty, and by confessing that my intention never was to penetrate into the nature of bodies, or explain the secret causes of their operations. For besides that this belongs not to my present purpose, I am afraid, that such an enterprize is beyond the reach of human understanding, and that we can never pretend to know body otherwise than by those external properties, which discover themselves to the senses. As to those who attempt any thing farther, I cannot approve of their ambition, till I see, in some one instance at least, that they have met with success. But at present I content myself with knowing perfectly the manner in which objects affect my senses, and their connections with each other, as far as experience informs me of them. This suffices for the conduct of life; and this also suffices for my philosophy, which pretends only to explain the nature and causes of our perceptions, or impressions and ideas<a href=\"#n12\"><sup>[12]</sup></a>.</p>"
     },
     {
       "id": "27",
@@ -129,6 +129,7 @@
   "notes": [
     {
       "id": "12",
+      "paragraph": "26",
       "content": "<p><b>As</b> long as we confine our speculations to <em>the appearances</em> of objects to our senses, without entering into disquisitions concerning their real nature and operations, we are safe from all difficulties, and can never be embarrass'd by any question. Thus, if it be ask'd, whether the invisible and intangible distance, interpos'd betwixt two objects, be something or nothing: 'Tis easy to answer, that it is <em>something</em>, viz. a property of the objects, which affect the <em>senses</em> after such a particular manner. If it be ask'd, whether two objects, having such a distance betwixt them, touch or not: It may be answer'd, that this depends upon the definition of the word, <em>touch</em>. If objects be said to touch, when there is nothing <em>sensible</em> interpos'd betwixt them, these objects touch: If objects be said to touch, when their <em>images</em> strike contiguous parts of the eye, and when the hand <em>feels</em> both objects successively, without any interpos'd motion, these objects do not touch. The appearances of objects to our senses are all consistent; and no difficulties can ever arise, but from the obscurity of the terms we make use of.</p><p><b>If</b> we carry our enquiry beyond the appearances of objects to the senses, I am afraid, that most of our conclusions will be full of scepticism and uncertainty. Thus if it be ask'd, whether or not the invisible and intangible distance be always full of <em>body</em>, or of something that by an improvement of our organs might become visible or tangible, I must acknowledge, that I find no very decisive arguments on either side; tho' I am inclin'd to the contrary opinion, as being more suitable to vulgar and popular notions. If <em>the Newtonian</em> philosophy be rightly understood it will be found to mean no more. A vacuum is asserted: That is, bodies are said to be plac'd after such a manner, as to receive bodies betwixt them, without impulsion or penetration. The real nature of this position of bodies is unknown. We are only acquainted with its effects on the senses, and its power of receiving body. Nothing is more suitable to that philosophy, than a modest scepticism to a certain degree, and a fair confession of ignorance in subjects, that exceed all human capacity.</p>"
     }
   ]

@@ -20,4 +20,6 @@ Some Latin phrases occur in English only as pairs, and should be treated as sing
 
 - "a priori"
 - "a posteriori"
+- "ad infinitum"
+- "in infinitum"
 - "ipso facto"

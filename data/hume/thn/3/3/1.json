@@ -3,7 +3,7 @@
   "parent": "Hume.THN.3.3",
   "title": "Section 1. Of the origin of the natural virtues and vices",
   "breadcrumb": "Section 1",
-  "fulltitle": "<h1>Section 1. Of the origin of the natural virtues and vices</h1>",
+  "fulltitle": "<h3>SECT. I.</h3> <h4><em>Of the origin of the natural virtues and vices.</em></h4>",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/3/3/1.json",
   "imported": true,
   "paragraphs": [
@@ -37,7 +37,7 @@
     },
     {
       "id": "8",
-      "content": "<p><b>Our</b> sense of beauty depends very much on this principle; and where any object has a tendency to produce pleasure in its possessor, it is always regarded as beautiful; as every object, that has a tendency to produce pain, is disagreeable and deform'd. Thus the conveniency of a house, the fertility of a field, the strength of a horse, the capacity, security, and swift-sailing of a vessel, form the principal beauty of these several objects. Here the object, which is denominated beautiful, pleases only by its tendency to produce a certain effect. That effect is the pleasure or advantage of some other person. Now the pleasure of a stranger, for whom we have no friendship, pleases us only by sympathy. To this principle, therefore, is owing the beauty, which we find in every thing that is useful. How considerable a part this is of beauty will easily appear upon reflection. Wherever an object has a tendency to produce pleasure in the possessor, or in other words, is the proper <em>cause</em> of pleasure, it is sure to please the spectator, by a delicate sympathy with the possessor. Most of the works of art are esteem'd beautiful, in proportion to their fitness for the use of man, and even many of the productions of nature derive their beauty from that source. Handsome and beautiful, on most occasions, is not an absolute but a relative quality, and pleases us by nothing but its tendency to produce an end that is agreeable<sup><a href='#n83'>[83]</a></sup>.</p>"
+      "content": "<p><b>Our</b> sense of beauty depends very much on this principle; and where any object has a tendency to produce pleasure in its possessor, it is always regarded as beautiful; as every object, that has a tendency to produce pain, is disagreeable and deform'd. Thus the conveniency of a house, the fertility of a field, the strength of a horse, the capacity, security, and swift-sailing of a vessel, form the principal beauty of these several objects. Here the object, which is denominated beautiful, pleases only by its tendency to produce a certain effect. That effect is the pleasure or advantage of some other person. Now the pleasure of a stranger, for whom we have no friendship, pleases us only by sympathy. To this principle, therefore, is owing the beauty, which we find in every thing that is useful. How considerable a part this is of beauty will easily appear upon reflection. Wherever an object has a tendency to produce pleasure in the possessor, or in other words, is the proper <em>cause</em> of pleasure, it is sure to please the spectator, by a delicate sympathy with the possessor. Most of the works of art are esteem'd beautiful, in proportion to their fitness for the use of man, and even many of the productions of nature derive their beauty from that source. Handsome and beautiful, on most occasions, is not an absolute but a relative quality, and pleases us by nothing but its tendency to produce an end that is agreeable<a href=\"#n83\"><sup>[83]</sup></a>.</p>"
     },
     {
       "id": "9",
@@ -135,7 +135,8 @@
   "notes": [
     {
       "id": "83",
-      "content": "<p>Decentior equus cujus astricta sunt ilia; sed idem velocior. Pulcher aspectu sit athleta, cujus lacertos exercitatio expressit; idem certamini paratior. Nunquam vero <em>species</em> ab <em>utilitate</em> dividitur. Sed hoc quidem discernere, modici judicii est. <br><em>Quinct.</em> lib. 8.</p>"
+      "paragraph": "8",
+      "content": "<p>Decentior equus cujus astricta sunt ilia; sed idem velocior. Pulcher aspectu sit athleta, cujus lacertos exercitatio expressit; idem certamini paratior. Nunquam vero <em>species</em> ab <em>utilitate</em> dividitur. Sed hoc quidem discernere, modici judicii est. <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<em>Quinct.</em> lib. 8.</p>"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.2",
   "title": "Section 4. Objections answer'd",
   "breadcrumb": "Section 4",
-  "fulltitle": "<h1>Section 4. Objections answer'd</h1>",
+  "fulltitle": "<h3>SECT. IV.</h3> <h4><em>Objections answer'd.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/2/4.json",
@@ -55,7 +55,7 @@
     },
     {
       "id": "12",
-      "content": "<p><b>There</b> is therefore no medium betwixt allowing at least the possibility of indivisible points, and denying their idea; and 'tis on this latter principle, that the second answer to the foregoing argument is founded. It has been<sup><a href='#n10'>[10]</a></sup> pretended, that tho' it be impossible to conceive a length without any breadth, yet by an abstraction without a separation, we can consider the one without regarding the other; in the same manner as we may think of the length of the way betwixt two towns, and overlook its breadth. The length is inseparable from the breadth both in nature and in our minds; but this excludes not a partial consideration, and a <em>distinction of reason</em>, after the manner above explain'd.</p>"
+      "content": "<p><b>There</b> is therefore no medium betwixt allowing at least the possibility of indivisible points, and denying their idea; and 'tis on this latter principle, that the second answer to the foregoing argument is founded. It has been<a href=\"#n10\"><sup>[10]</sup></a> pretended, that tho' it be impossible to conceive a length without any breadth, yet by an abstraction without a separation, we can consider the one without regarding the other; in the same manner as we may think of the length of the way betwixt two towns, and overlook its breadth. The length is inseparable from the breadth both in nature and in our minds; but this excludes not a partial consideration, and a <em>distinction of reason</em>, after the manner above explain'd.</p>"
     },
     {
       "id": "13",
@@ -91,7 +91,7 @@
     },
     {
       "id": "21",
-      "content": "<p><b>There</b> are some<sup><a href='#n11'>[11]</a></sup>, who pretend, that equality is best defin'd by <em>congruity</em>, and that any two figures are equal, when upon the placing of one upon the other, all their parts correspond to and touch each other. In order to judge of this definition let us consider, that since equality is a relation, it is not, strictly speaking, a property in the figures themselves, but arises merely from the comparison, which the mind makes betwixt them. If it consists, therefore, in this imaginary application and mutual contact of parts, we must at least have a distinct notion of these parts, and must conceive their contact. Now 'tis plain, that in this conception we wou'd run up these parts to the greatest minuteness, which can possibly be conceiv'd; since the contact of large parts wou'd never render the figures equal. But the minutest parts we can conceive are mathematical points; and consequently this standard of equality is the same with that deriv'd from the equality of the number of points, which we have already determin'd to be a just but an useless standard. We must therefore look to some other quarter for a solution of the present difficulty.</p>"
+      "content": "<p><b>There</b> are some<a href=\"#n11\"><sup>[11]</sup></a>, who pretend, that equality is best defin'd by <em>congruity</em>, and that any two figures are equal, when upon the placing of one upon the other, all their parts correspond to and touch each other. In order to judge of this definition let us consider, that since equality is a relation, it is not, strictly speaking, a property in the figures themselves, but arises merely from the comparison, which the mind makes betwixt them. If it consists, therefore, in this imaginary application and mutual contact of parts, we must at least have a distinct notion of these parts, and must conceive their contact. Now 'tis plain, that in this conception we wou'd run up these parts to the greatest minuteness, which can possibly be conceiv'd; since the contact of large parts wou'd never render the figures equal. But the minutest parts we can conceive are mathematical points; and consequently this standard of equality is the same with that deriv'd from the equality of the number of points, which we have already determin'd to be a just but an useless standard. We must therefore look to some other quarter for a solution of the present difficulty.</p>"
     },
     {
       "id": "22",
@@ -145,10 +145,12 @@
   "notes": [
     {
       "id": "10",
+      "paragraph": "12",
       "content": "<p><em>L'Art de penser</em>.</p>"
     },
     {
       "id": "11",
+      "paragraph": "21",
       "content": "<p>See Dr. <em>Barrow</em>'s mathematical lectures.</p>"
     }
   ]

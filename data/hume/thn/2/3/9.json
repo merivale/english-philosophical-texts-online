@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.3",
   "title": "Section 9. Of the direct passions",
   "breadcrumb": "Section 9",
-  "fulltitle": "<h1>Section 9. Of the direct passions</h1>",
+  "fulltitle": "<h3>SECT. IX.</h3> <h4><em>Of the direct passions.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/3/9.json",
@@ -119,7 +119,7 @@
     },
     {
       "id": "28",
-      "content": "<p>'<b>Tis</b> thus our uncertainty concerning any minute circumstance relating to a person encreases our apprehensions of his death or misfortune. <em>Horace</em> has remark'd this phænomenon.</p> <blockquote><em>Ut assidens implumibus pullus avis <br>Serpentium allapsus timet, <br>Magis relictis; non, ut adsit, auxili <br>Latura plus presentibus.</em></blockquote>"
+      "content": "<p>'<b>Tis</b> thus our uncertainty concerning any minute circumstance relating to a person encreases our apprehensions of his death or misfortune. <em>Horace</em> has remark'd this phænomenon.</p> <blockquote><em>Ut assidens implumibus pullus avis <br>&emsp;Serpentium allapsus timet, <br>Magis relictis; non, ut adsit, auxili <br>&emsp;Latura plus presentibus.</em></blockquote>"
     },
     {
       "id": "29",

@@ -3,7 +3,7 @@
   "parent": "Hume.Ess2",
   "title": "Of some Remarkable Customs",
   "breadcrumb": "Of some Remarkable Customs",
-  "fulltitle": "<h1>Of some Remarkable Customs</h1>",
+  "fulltitle": "<h1>Of <b>some Remarkable Customs</b>.</h1>",
   "published": "1752",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/rc.json",
@@ -19,7 +19,7 @@
     },
     {
       "id": "3",
-      "content": "<p>By the <i>γραφη παρανομων</i>, or <em>indictment of illegality</em>, (though it has not been remarked by antiquaries or commentators) any man was tried and punished in a common court of judicature, for any law which had passed upon his motion, in the assembly of the people, if that law appeared to the court unjust, or prejudicial to the public. Thus <b>Demosthenes</b>, finding that ship-money was levied irregularly, and that the poor bore the same burden as the rich in equipping the gallies, corrected this inequality by a very useful law, which proportioned the expence to the revenue and income of each individual. He moved for this law in the assembly: he proved its advantages<sup><a href='#n1'>[1]</a></sup>; he convinced the people, the only legislature in <b>Athens</b>; the law passed, and was carried into execution: Yet was he tried in a criminal court for that law, upon the complaint of the rich, who resented the alteration that he had introduced into the finances<sup><a href='#n2'>[2]</a></sup>. He was indeed acquitted, upon proving anew the usefulness of his law.</p>"
+      "content": "<p>By the <i>γραφη παρανομων</i>, or <em>indictment of illegality</em>, (though it has not been remarked by antiquaries or commentators) any man was tried and punished in a common court of judicature, for any law which had passed upon his motion, in the assembly of the people, if that law appeared to the court unjust, or prejudicial to the public. Thus <b>Demosthenes</b>, finding that ship-money was levied irregularly, and that the poor bore the same burden as the rich in equipping the gallies, corrected this inequality by a very useful law, which proportioned the expence to the revenue and income of each individual. He moved for this law in the assembly: he proved its advantages<a href=\"#n1\"><sup>[1]</sup></a>; he convinced the people, the only legislature in <b>Athens</b>; the law passed, and was carried into execution: Yet was he tried in a criminal court for that law, upon the complaint of the rich, who resented the alteration that he had introduced into the finances<a href=\"#n2\"><sup>[2]</sup></a>. He was indeed acquitted, upon proving anew the usefulness of his law.</p>"
     },
     {
       "id": "4",
@@ -27,23 +27,23 @@
     },
     {
       "id": "5",
-      "content": "<p>After the battle of <b>Chæronea</b>, a law was passed upon the motion of <b>Hyperides</b>, giving liberty to slaves, and inrolling them in the troops<sup><a href='#n3'>[3]</a></sup>. On account of this law, the orator was afterwards tried by the indictment above-mentioned, and defended himself, among other topics, by that stroke celebrated by <b>Plutarch</b> and <b>Longinus</b>. <em>It was not I</em>, said he, <em>that moved for this law: It was the necessities of war; it was the battle of</em> <b>Chæronea</b>. The orations of <b>Demosthenes</b> abound with many instances of trials of this nature, and prove clearly, that nothing was more commonly practised.</p>"
+      "content": "<p>After the battle of <b>Chæronea</b>, a law was passed upon the motion of <b>Hyperides</b>, giving liberty to slaves, and inrolling them in the troops<a href=\"#n3\"><sup>[3]</sup></a>. On account of this law, the orator was afterwards tried by the indictment above-mentioned, and defended himself, among other topics, by that stroke celebrated by <b>Plutarch</b> and <b>Longinus</b>. <em>It was not I</em>, said he, <em>that moved for this law: It was the necessities of war; it was the battle of</em> <b>Chæronea</b>. The orations of <b>Demosthenes</b> abound with many instances of trials of this nature, and prove clearly, that nothing was more commonly practised.</p>"
     },
     {
       "id": "6",
-      "content": "<p>The <b>Athenian</b> Democracy was such a tumultuous government as we can scarcely form a notion of in the present age of the world. The whole collective body of the people voted in every law, without any limitation of property, without any distinction of rank, without controul from any magistracy or senate<sup><a href='#n4'>[4]</a></sup>; and consequently without regard to order, justice, or prudence. The <b>Athenians</b> soon became sensible of the mischiefs attending this constitution: But being averse to checking themselves by any rule or restriction, they resolved, at least, to check their demagogues or counsellors, by the fear of future punishment and enquiry. They accordingly instituted this remarkable law; a law esteemed so essential to their form of government, that <b>Æschines</b> insists on it as a known truth, that, were it abolished or neglected, it were impossible for the Democracy to subsist<sup><a href='#n5'>[5]</a></sup>.</p>"
+      "content": "<p>The <b>Athenian</b> Democracy was such a tumultuous government as we can scarcely form a notion of in the present age of the world. The whole collective body of the people voted in every law, without any limitation of property, without any distinction of rank, without controul from any magistracy or senate<a href=\"#n4\"><sup>[4]</sup></a>; and consequently without regard to order, justice, or prudence. The <b>Athenians</b> soon became sensible of the mischiefs attending this constitution: But being averse to checking themselves by any rule or restriction, they resolved, at least, to check their demagogues or counsellors, by the fear of future punishment and enquiry. They accordingly instituted this remarkable law; a law esteemed so essential to their form of government, that <b>Æschines</b> insists on it as a known truth, that, were it abolished or neglected, it were impossible for the Democracy to subsist<a href=\"#n5\"><sup>[5]</sup></a>.</p>"
     },
     {
       "id": "7",
-      "content": "<p>The people feared not any ill consequence to liberty from the authority of the criminal courts; because these were nothing but very numerous juries, chosen by lot from among the people. And they justly considered themselves as in a state of perpetual pupillage; where they had an authority, after they came to the use of reason, not only to retract and controul whatever had been determined, but to punish any guardian for measures which they had embraced by his persuasion. The same law had place in <b>Thebes</b><sup><a href='#n6'>[6]</a></sup>; and for the same reason.</p>"
+      "content": "<p>The people feared not any ill consequence to liberty from the authority of the criminal courts; because these were nothing but very numerous juries, chosen by lot from among the people. And they justly considered themselves as in a state of perpetual pupillage; where they had an authority, after they came to the use of reason, not only to retract and controul whatever had been determined, but to punish any guardian for measures which they had embraced by his persuasion. The same law had place in <b>Thebes</b><a href=\"#n6\"><sup>[6]</sup></a>; and for the same reason.</p>"
     },
     {
       "id": "8",
-      "content": "<p>It appears to have been a usual practice in <b>Athens</b>, on the establishment of any law esteemed very useful or popular, to prohibit for ever its abrogation and repeal. Thus the demagogue, who diverted all the public revenues to the support of shows and spectacles, made it criminal so much as to move for a repeal of this law<sup><a href='#n7'>[7]</a></sup>. Thus <b>Leptines</b> moved for a law, not only to recal all the immunities formerly granted, but to deprive the people for the future of the power of granting any more<sup><a href='#n8'>[8]</a></sup>. Thus all bills of attainder<sup><a href='#n9'>[9]</a></sup> were forbid, or laws that affected one <b>Athenian</b>, without extending to the whole commonwealth. These absurd clauses, by which the legislature vainly attempted to bind itself for ever, proceeded from an universal sense in the people of their own levity and inconstancy.</p>"
+      "content": "<p>It appears to have been a usual practice in <b>Athens</b>, on the establishment of any law esteemed very useful or popular, to prohibit for ever its abrogation and repeal. Thus the demagogue, who diverted all the public revenues to the support of shows and spectacles, made it criminal so much as to move for a repeal of this law<a href=\"#n7\"><sup>[7]</sup></a>. Thus <b>Leptines</b> moved for a law, not only to recal all the immunities formerly granted, but to deprive the people for the future of the power of granting any more<a href=\"#n8\"><sup>[8]</sup></a>. Thus all bills of attainder<a href=\"#n9\"><sup>[9]</sup></a> were forbid, or laws that affected one <b>Athenian</b>, without extending to the whole commonwealth. These absurd clauses, by which the legislature vainly attempted to bind itself for ever, proceeded from an universal sense in the people of their own levity and inconstancy.</p>"
     },
     {
       "id": "9",
-      "content": "<p>II. A wheel within a wheel, such as we observe in the <b>German</b> empire, is considered by Lord <b>Shaftesbury</b><sup><a href='#n10'>[10]</a></sup> as an absurdity in politics: But what must we say to two equal wheels, which govern the same political machine, without any mutual check, controul, or subordination; and yet preserve the greatest harmony and concord? To establish two distinct legislatures, each of which possesses full and absolute authority within itself, and stands in no need of the other's assistance, in order to give validity to its acts; this may appear, before-hand, altogether impracticable, as long as men are actuated by the passions of ambition, emulation, and avarice, which have hitherto been their chief governing principles. And should I assert, that the state I have in my eye was divided into two distinct factions, each of which predominated in a distinct legislature, and yet produced no clashing in these independent powers; the supposition may appear incredible. And if, to augment the paradox, I should affirm, that this disjointed, irregular government, was the most active, triumphant, and illustrious commonwealth, that ever yet appeared; I should certainly be told, that such a political chimera was as absurd as any vision of priests or poets. But there is no need for searching long, in order to prove the reality of the foregoing suppositions: For this was actually the case with the <b>Roman</b> republic.</p>"
+      "content": "<p>II. A wheel within a wheel, such as we observe in the <b>German</b> empire, is considered by Lord <b>Shaftesbury</b><a href=\"#n10\"><sup>[10]</sup></a> as an absurdity in politics: But what must we say to two equal wheels, which govern the same political machine, without any mutual check, controul, or subordination; and yet preserve the greatest harmony and concord? To establish two distinct legislatures, each of which possesses full and absolute authority within itself, and stands in no need of the other's assistance, in order to give validity to its acts; this may appear, before-hand, altogether impracticable, as long as men are actuated by the passions of ambition, emulation, and avarice, which have hitherto been their chief governing principles. And should I assert, that the state I have in my eye was divided into two distinct factions, each of which predominated in a distinct legislature, and yet produced no clashing in these independent powers; the supposition may appear incredible. And if, to augment the paradox, I should affirm, that this disjointed, irregular government, was the most active, triumphant, and illustrious commonwealth, that ever yet appeared; I should certainly be told, that such a political chimera was as absurd as any vision of priests or poets. But there is no need for searching long, in order to prove the reality of the foregoing suppositions: For this was actually the case with the <b>Roman</b> republic.</p>"
     },
     {
       "id": "10",
@@ -77,42 +77,52 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "3",
       "content": "<p>His harangue for it is still extant; <i>περι Συμμοριας</i>.</p>"
     },
     {
       "id": "2",
+      "paragraph": "3",
       "content": "<p>Pro <b>Ctesiphonte</b>.</p>"
     },
     {
       "id": "3",
+      "paragraph": "5",
       "content": "<p><b>Plutarchus</b> <em>in vita decem oratorum</em>. <b>Demosthenes</b> gives a different account of this law. <em>Contra</em> <b>Aristogiton</b>. <em>orat.</em> II. He says, that its purport was, to render the <i>ατιμοι επιτιμοι</i>, or to restore the privilege of bearing offices to those who had been declared incapable. Perhaps these were both clauses of the same law.</p>"
     },
     {
       "id": "4",
+      "paragraph": "6",
       "content": "<p>The senate of the Bean was only a less numerous mob, chosen by lot from among the people; and their authority was not great.</p>"
     },
     {
       "id": "5",
+      "paragraph": "6",
       "content": "<p><em>In</em> <b>Ctesiphontem</b>. It is remarkable, that the first step after the dissolution of the Democracy by <b>Critias</b> and the Thirty, was to annul the <i>γραφη παρανομων</i>, as we learn from <b>Demosthenes</b> <i>κατα Τιμοκ</i>. The orator in this oration gives us the words of the law, establishing the <i>γραφη παρανομων</i>, pag. 297. <em>ex edit.</em> <b>Aldi</b>. And he accounts for it, from the same principles we here reason upon.</p>"
     },
     {
       "id": "6",
+      "paragraph": "7",
       "content": "<p><b>Plut.</b> <em>in vita</em> <b>Pelop.</b></p>"
     },
     {
       "id": "7",
+      "paragraph": "8",
       "content": "<p><b>Demost.</b> <em>Olynth.</em> I.2.</p>"
     },
     {
       "id": "8",
+      "paragraph": "8",
       "content": "<p><b>Demost.</b> <em>contra</em> <b>Lept.</b></p>"
     },
     {
       "id": "9",
+      "paragraph": "8",
       "content": "<p><b>Demost.</b> <em>contra</em> <b>Aristocratem</b>.</p>"
     },
     {
       "id": "10",
+      "paragraph": "9",
       "content": "<p>Essay on the freedom of wit and humour, part 3. §2.</p>"
     }
   ]

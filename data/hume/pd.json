@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "Of Polygamy and Divorces",
   "breadcrumb": "Of Polygamy and Divorces",
-  "fulltitle": "<h1>Of Polygamy and Divorces</h1>",
+  "fulltitle": "<h1>Of <b>Polygamy</b> and <b>Divorces</b>.</h1>",
   "published": "1742",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/pd.json",
@@ -63,7 +63,7 @@
     },
     {
       "id": "14",
-      "content": "<p>In another country, where polygamy is also allowed, they render their wives cripples, and make their feet of no use to them, in order to confine them to their own houses. But it will, perhaps, appear strange, that, in a <b>European</b> country, jealousy can yet be carried to such a height, that it is indecent so much as to suppose that a woman of rank can have feet or legs. Witness the following story, which we have from very good authority<sup><a href='#n1'>[1]</a></sup>. When the mother of the late king of <b>Spain</b> was on her road towards <b>Madrid</b>, she passed through a little town in <b>Spain</b>, famous for its manufactory of gloves and stockings. The magistrates of the place thought they could not better express their joy for the reception of their new queen, than by presenting her with a sample of those commodities, for which alone their town was remarkable. The <em>major domo</em>, who conducted the princess, received the gloves very graciously: But when the stockings were presented, he flung them away with great indignation, and severely reprimanded the magistrates for this egregious piece of indecency. <em>Know,</em> says he, <em>that a queen of <b>Spain</b> has no legs.</em> The young queen, who, at that time, understood the language but imperfectly, and had often been frightened with stories of <b>Spanish</b> jealousy, imagined that they were to cut off her legs. Upon which she fell a crying, and begged them to conduct her back to <b>Germany</b>; for that she never could endure the operation: And it was with some difficulty they could appease her. <b>Philip</b> IV. is said never in his life to have laughed heartily, but at the recital of this story.</p>"
+      "content": "<p>In another country, where polygamy is also allowed, they render their wives cripples, and make their feet of no use to them, in order to confine them to their own houses. But it will, perhaps, appear strange, that, in a <b>European</b> country, jealousy can yet be carried to such a height, that it is indecent so much as to suppose that a woman of rank can have feet or legs. Witness the following story, which we have from very good authority<a href=\"#n1\"><sup>[1]</sup></a>. When the mother of the late king of <b>Spain</b> was on her road towards <b>Madrid</b>, she passed through a little town in <b>Spain</b>, famous for its manufactory of gloves and stockings. The magistrates of the place thought they could not better express their joy for the reception of their new queen, than by presenting her with a sample of those commodities, for which alone their town was remarkable. The <em>major domo</em>, who conducted the princess, received the gloves very graciously: But when the stockings were presented, he flung them away with great indignation, and severely reprimanded the magistrates for this egregious piece of indecency. <em>Know,</em> says he, <em>that a queen of <b>Spain</b> has no legs.</em> The young queen, who, at that time, understood the language but imperfectly, and had often been frightened with stories of <b>Spanish</b> jealousy, imagined that they were to cut off her legs. Upon which she fell a crying, and begged them to conduct her back to <b>Germany</b>; for that she never could endure the operation: And it was with some difficulty they could appease her. <b>Philip</b> IV. is said never in his life to have laughed heartily, but at the recital of this story.</p>"
     },
     {
       "id": "15",
@@ -91,7 +91,7 @@
     },
     {
       "id": "21",
-      "content": "<p>Should these reasons against voluntary divorces be deemed insufficient, I hope no body will pretend to refuse the testimony of experience. At the time when divorces were most frequent among the <b>Romans</b>, marriages were most rare; and <b>Augustus</b> was obliged, by penal laws, to force men of fashion into the married state: A circumstance which is scarcely to be found in any other age or nation. The more ancient laws of <b>Rome</b>, which prohibited divorces, are extremely praised by <b>Dionysius Halycarnassæus</b><sup><a href='#n2'>[2]</a></sup>. Wonderful was the harmony, says the historian, which this inseparable union of interests produced between married persons; while each of them considered the inevitable necessity by which they were linked together, and abandoned all prospect of any other choice or establishment.</p>"
+      "content": "<p>Should these reasons against voluntary divorces be deemed insufficient, I hope no body will pretend to refuse the testimony of experience. At the time when divorces were most frequent among the <b>Romans</b>, marriages were most rare; and <b>Augustus</b> was obliged, by penal laws, to force men of fashion into the married state: A circumstance which is scarcely to be found in any other age or nation. The more ancient laws of <b>Rome</b>, which prohibited divorces, are extremely praised by <b>Dionysius Halycarnassæus</b><a href=\"#n2\"><sup>[2]</sup></a>. Wonderful was the harmony, says the historian, which this inseparable union of interests produced between married persons; while each of them considered the inevitable necessity by which they were linked together, and abandoned all prospect of any other choice or establishment.</p>"
     },
     {
       "id": "22",
@@ -101,10 +101,12 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "14",
       "content": "<p><em>Memoirs de la cour d'<b>Espagne</b> par Madame d'<b>Aunoy</b></em>.</p>"
     },
     {
       "id": "2",
+      "paragraph": "21",
       "content": "<p>Lib. ii.</p>"
     }
   ]

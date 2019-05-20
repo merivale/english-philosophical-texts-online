@@ -3,7 +3,7 @@
   "parent": "Hume.Ess2",
   "title": "Of Taxes",
   "breadcrumb": "Of Taxes",
-  "fulltitle": "<h1>Of Taxes</h1>",
+  "fulltitle": "<h1>Of <b>Taxes</b>.</h1>",
   "published": "1752",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ta.json",
@@ -19,11 +19,11 @@
     },
     {
       "id": "3",
-      "content": "<p>The places mentioned by <b>Cicero</b><sup><a href='#n1'>[1]</a></sup>, as possessed of the greatest commerce in his time, are <b>Alexandria</b>, <b>Colchus</b>, <b>Tyre</b>, <b>Sidon</b>, <b>Andros</b>, <b>Cyprus</b>, <b>Pamphylia</b>, <b>Lycia</b>, <b>Rhodes</b>, <b>Chios</b>, <b>Byzantium</b>, <b>Lesbos</b>, <b>Smyrna</b>, <b>Miletum</b>, <b>Coos</b>. All these, except <b>Alexandria</b>, were either small islands, or narrow territories. And that city owed its trade entirely to the happiness of its situation.</p>"
+      "content": "<p>The places mentioned by <b>Cicero</b><a href=\"#n1\"><sup>[1]</sup></a>, as possessed of the greatest commerce in his time, are <b>Alexandria</b>, <b>Colchus</b>, <b>Tyre</b>, <b>Sidon</b>, <b>Andros</b>, <b>Cyprus</b>, <b>Pamphylia</b>, <b>Lycia</b>, <b>Rhodes</b>, <b>Chios</b>, <b>Byzantium</b>, <b>Lesbos</b>, <b>Smyrna</b>, <b>Miletum</b>, <b>Coos</b>. All these, except <b>Alexandria</b>, were either small islands, or narrow territories. And that city owed its trade entirely to the happiness of its situation.</p>"
     },
     {
       "id": "4",
-      "content": "<p>Since therefore some natural necessities or disadvantages may be thought favourable to industry, why may not artificial burdens have the same effect? Sir <b>William Temple</b><sup><a href='#n2'>[2]</a></sup>, we may observe, ascribes the industry of the <b>Dutch</b> entirely to necessity, proceeding from their natural disadvantages; and illustrates his doctrine by a striking comparison with <b>Ireland</b>; <q>where,</q> says he, <q>by the largeness and plenty of the soil, and scarcity of people, all things necessary to life are so cheap, that an industrious man, by two days labour, may gain enough to feed him the rest of the week. Which I take to be a very plain ground of the laziness attributed to the people. For men naturally prefer ease before labour, and will not take pains if they can live idle; though when, by necessity, they have been inured to it, they cannot leave it, being grown a custom necessary to their health, and to their very entertainment. Nor perhaps is the change harder, from constant ease to labour, than from constant labour to ease.</q> After which the author proceeds to confirm his doctrine, by enumerating, as above, the places where trade has most flourished, in ancient and modern times; and which are commonly observed to be such narrow confined territories, as beget a necessity for industry.</p>"
+      "content": "<p>Since therefore some natural necessities or disadvantages may be thought favourable to industry, why may not artificial burdens have the same effect? Sir <b>William Temple</b><a href=\"#n2\"><sup>[2]</sup></a>, we may observe, ascribes the industry of the <b>Dutch</b> entirely to necessity, proceeding from their natural disadvantages; and illustrates his doctrine by a striking comparison with <b>Ireland</b>; <q>where,</q> says he, <q>by the largeness and plenty of the soil, and scarcity of people, all things necessary to life are so cheap, that an industrious man, by two days labour, may gain enough to feed him the rest of the week. Which I take to be a very plain ground of the laziness attributed to the people. For men naturally prefer ease before labour, and will not take pains if they can live idle; though when, by necessity, they have been inured to it, they cannot leave it, being grown a custom necessary to their health, and to their very entertainment. Nor perhaps is the change harder, from constant ease to labour, than from constant labour to ease.</q> After which the author proceeds to confirm his doctrine, by enumerating, as above, the places where trade has most flourished, in ancient and modern times; and which are commonly observed to be such narrow confined territories, as beget a necessity for industry.</p>"
     },
     {
       "id": "5",
@@ -57,10 +57,12 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "3",
       "content": "<p>Epist. ad <b>Att.</b> lib. ix. ep. II.</p>"
     },
     {
       "id": "2",
+      "paragraph": "4",
       "content": "<p>Account of the <b>Netherlands</b>, chap. 6.</p>"
     }
   ]

@@ -88,7 +88,7 @@
     },
     {
       "id": "20",
-      "content": "<p>So far I seem to be attended with sufficient evidence. But having thus loosen'd all our particular perceptions, when<sup><a href='#n89'>[89]</a></sup> I proceed to explain the principle of connexion, which binds them together, and makes us attribute to them a real simplicity and identity; I am sensible, that my account is very defective, and that nothing but the seeming evidence of the precedent reasonings cou'd have induc'd me to receive it. If perceptions are distinct existences, they form a whole only by being connected together. But no connexions among distinct existences are ever discoverable by human understanding. We only <em>feel</em> a connexion or determination of the thought, to pass from one object to another. It follows, therefore, that the thought alone finds personal identity, when reflecting on the train of past perceptions, that compose a mind, the ideas of them are felt to be connected together, and naturally introduce each other. However extraordinary this conclusion may seem, it need not surprize us. Most philosophers seem inclin'd to think, that personal identity <em>arises</em> from consciousness; and consciousness is nothing but a reflected thought or perception. The present philosophy, therefore, has so far a promising aspect. But all my hopes vanish, when I come to explain the principles, that unite our successive perceptions in our thought or consciousness. I cannot discover any theory, which gives me satisfaction on this head.</p>"
+      "content": "<p>So far I seem to be attended with sufficient evidence. But having thus loosen'd all our particular perceptions, when<a href=\"#n89\"><sup>[89]</sup></a> I proceed to explain the principle of connexion, which binds them together, and makes us attribute to them a real simplicity and identity; I am sensible, that my account is very defective, and that nothing but the seeming evidence of the precedent reasonings cou'd have induc'd me to receive it. If perceptions are distinct existences, they form a whole only by being connected together. But no connexions among distinct existences are ever discoverable by human understanding. We only <em>feel</em> a connexion or determination of the thought, to pass from one object to another. It follows, therefore, that the thought alone finds personal identity, when reflecting on the train of past perceptions, that compose a mind, the ideas of them are felt to be connected together, and naturally introduce each other. However extraordinary this conclusion may seem, it need not surprize us. Most philosophers seem inclin'd to think, that personal identity <em>arises</em> from consciousness; and consciousness is nothing but a reflected thought or perception. The present philosophy, therefore, has so far a promising aspect. But all my hopes vanish, when I come to explain the principles, that unite our successive perceptions in our thought or consciousness. I cannot discover any theory, which gives me satisfaction on this head.</p>"
     },
     {
       "id": "21",
@@ -102,6 +102,7 @@
   "notes": [
     {
       "id": "89",
+      "paragraph": "20",
       "content": "<p>Vol. I. page 452 [SBN 260].</p>"
     }
   ]

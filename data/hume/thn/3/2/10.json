@@ -3,7 +3,7 @@
   "parent": "Hume.THN.3.2",
   "title": "Section 10. Of the objects of allegiance",
   "breadcrumb": "Section 10",
-  "fulltitle": "<h1>Section 10. Of the objects of allegiance</h1>",
+  "fulltitle": "<h3>SECT. X.</h3> <h4><em>Of the objects of allegiance.</em></h4>",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/3/2/10.json",
   "imported": true,
   "paragraphs": [
@@ -37,11 +37,11 @@
     },
     {
       "id": "8",
-      "content": "<p><b>The</b> right of <em>conquest</em> may be consider'd as a <em>third</em> source of the title of sovereigns. This right resembles very much that of present possession; but has rather a superior force, being seconded by the notions of glory and honour, which we ascribe to <em>conquerors</em>, instead of the sentiments of hatred and detestation, which attend <em>usurpers</em>. Men naturally favour those they love; and therefore are more apt to ascribe a right to successful violence, betwixt one sovereign and another, than to the successful rebellion of a subject against his sovereign<sup><a href='#n81'>[81]</a></sup>.</p>"
+      "content": "<p><b>The</b> right of <em>conquest</em> may be consider'd as a <em>third</em> source of the title of sovereigns. This right resembles very much that of present possession; but has rather a superior force, being seconded by the notions of glory and honour, which we ascribe to <em>conquerors</em>, instead of the sentiments of hatred and detestation, which attend <em>usurpers</em>. Men naturally favour those they love; and therefore are more apt to ascribe a right to successful violence, betwixt one sovereign and another, than to the successful rebellion of a subject against his sovereign<a href=\"#n81\"><sup>[81]</sup></a>.</p>"
     },
     {
       "id": "9",
-      "content": "<p><b>When</b> neither long possession, nor present possession, nor conquest take place, as when the first sovereign, who founded any monarchy, dies; in that case, the right of <em>succession</em> naturally prevails in their stead, and men are commonly induc'd to place the son of their late monarch on the throne, and suppose him to inherit his father's authority. The presum'd consent of the father, the imitation of the succession to private families, the interest which the state has in chusing the person, who is most powerful, and has the most numerous followers; all these reasons lead men to prefer the son of their late monarch to any other person<sup><a href='#n82'>[82]</a></sup>.</p>"
+      "content": "<p><b>When</b> neither long possession, nor present possession, nor conquest take place, as when the first sovereign, who founded any monarchy, dies; in that case, the right of <em>succession</em> naturally prevails in their stead, and men are commonly induc'd to place the son of their late monarch on the throne, and suppose him to inherit his father's authority. The presum'd consent of the father, the imitation of the succession to private families, the interest which the state has in chusing the person, who is most powerful, and has the most numerous followers; all these reasons lead men to prefer the son of their late monarch to any other person<a href=\"#n82\"><sup>[82]</sup></a>.</p>"
     },
     {
       "id": "10",
@@ -87,10 +87,12 @@
   "notes": [
     {
       "id": "81",
+      "paragraph": "8",
       "content": "<p>It is not here asserted, that <em>present possession</em> or <em>conquest</em> are sufficient to give a title against <em>long possession</em> and <em>positive laws:</em> But only that they have some force, and will be able to cast the ballance where the titles are otherwise equal, and will even be sufficient <em>sometimes</em> to sanctify the weaker title. What degree of force they have is difficult to determine. I believe all moderate men will allow, that they have great force in all disputes concerning the rights of princes.</p>"
     },
     {
       "id": "82",
+      "paragraph": "9",
       "content": "<p>To prevent mistakes I must observe, that this case of succession is not the same with that of hereditary monarchies, where custom has fix'd the right of succession. These depend upon the principle of long possession above explain'd.</p>"
     }
   ]

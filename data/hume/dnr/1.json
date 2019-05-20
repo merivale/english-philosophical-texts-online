@@ -3,7 +3,7 @@
   "parent": "Hume.DNR",
   "title": "Part 1",
   "breadcrumb": "Part 1",
-  "fulltitle": "<h1>Part 1</h1>",
+  "fulltitle": "<h1>PART I.</h1>",
   "published": "1779",
   "copytext": "1779",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/d/1.json",
@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": "1",
-      "content": "<p>AFTER I joined the company, whom I found sitting in <b>Cleanthes</b>'s library, <b>Demea</b> paid <b>Cleanthes</b> some compliments, on the great care, which he took of my education, and on his unwearied perseverance and constancy in all his friendships. The father of <b>Pamphilus</b>, said he, was your intimate friend: The son is your pupil, and may indeed be regarded as your adopted son; were we to judge by the pains which you bestow in conveying to him every useful branch of literature and science. You are no more wanting, I am persuaded, in prudence than in industry. I shall, therefore, communicate to you a maxim which I have observed with regard to my own children, that I may learn how far it agrees with your practice. The method I follow in their education is founded on the saying of an ancient, <q><em>That students of philosophy ought first to learn Logics, then Ethics, next Physics, last of all, the Nature of the gods</em><sup><a href='#n1'>[1]</a></sup>.</q> This science of Natural Theology, according to him, being the most profound and abstruse of any, required the maturest judgement in its students; and none but a mind, enriched with all the other sciences, can safely be entrusted with it.</p>"
+      "content": "<p>AFTER I joined the company, whom I found sitting in <b>Cleanthes</b>'s library, <b>Demea</b> paid <b>Cleanthes</b> some compliments, on the great care, which he took of my education, and on his unwearied perseverance and constancy in all his friendships. The father of <b>Pamphilus</b>, said he, was your intimate friend: The son is your pupil, and may indeed be regarded as your adopted son; were we to judge by the pains which you bestow in conveying to him every useful branch of literature and science. You are no more wanting, I am persuaded, in prudence than in industry. I shall, therefore, communicate to you a maxim which I have observed with regard to my own children, that I may learn how far it agrees with your practice. The method I follow in their education is founded on the saying of an ancient, <q><em>That students of philosophy ought first to learn Logics, then Ethics, next Physics, last of all, the Nature of the gods</em><a href=\"#n1\"><sup>[1]</sup></a>.</q> This science of Natural Theology, according to him, being the most profound and abstruse of any, required the maturest judgement in its students; and none but a mind, enriched with all the other sciences, can safely be entrusted with it.</p>"
     },
     {
       "id": "2",
@@ -67,7 +67,7 @@
     },
     {
       "id": "15",
-      "content": "<p>I shall never assent to so harsh an opinion as that of a celebrated writer<sup><a href='#n2'>[2]</a></sup>, who says, that the sceptics are not a sect of philosophers: They are only a sect of liars. I may, however, affirm, (I hope, without offence) that they are a sect of jesters or ralliers. But for my part, whenever I find myself disposed to mirth and amusement, I shall certainly chuse my entertainment of a less perplexing and abstruse nature. A comedy, a novel, or at most a history, seems a more natural recreation than such metaphysical subtilties and abstractions.</p>"
+      "content": "<p>I shall never assent to so harsh an opinion as that of a celebrated writer<a href=\"#n2\"><sup>[2]</sup></a>, who says, that the sceptics are not a sect of philosophers: They are only a sect of liars. I may, however, affirm, (I hope, without offence) that they are a sect of jesters or ralliers. But for my part, whenever I find myself disposed to mirth and amusement, I shall certainly chuse my entertainment of a less perplexing and abstruse nature. A comedy, a novel, or at most a history, seems a more natural recreation than such metaphysical subtilties and abstractions.</p>"
     },
     {
       "id": "16",
@@ -75,7 +75,7 @@
     },
     {
       "id": "17",
-      "content": "<p>And here we may observe, continued he, turning himself towards <b>Demea</b>, a pretty curious circumstance in the history of the sciences. After the union of philosophy with the popular religion, upon the first establishment of Christianity, nothing was more usual, among all religious teachers, than declamations against reason, against the senses, against every principle, derived merely from human research and enquiry. All the topics of the ancient Academics were adopted by the Fathers; and thence propagated for several ages in every school and pulpit throughout Christendom. The Reformers embraced the same principles of reasoning, or rather declamation; and all panegyrics on the excellency of faith were sure to be interlarded with some severe strokes of satire against natural reason. A celebrated prelate too<sup><a href='#n3'>[3]</a></sup>, of the Romish communion, a man of the most extensive learning, who wrote a demonstration of Christianity, has also composed a treatise, which contains all the cavils of the boldest and most determined <b>Pyrrhonism</b>. <b>Locke</b> seems to have been the first Christian, who ventured openly to assert, that <em>faith</em> was nothing but a species of <em>reason</em>, that religion was only a branch of philosophy, and that a chain of arguments, similar to that which established any truth in morals, politics, or physics, was always employed in discovering all the principles of theology, natural and revealed. The ill use, which <b>Bayle</b> and other libertines made of the philosophical scepticism of the fathers and first reformers, still farther propagated the judicious sentiment of Mr <b>Locke</b>: and it is now, in a manner, avowed, by all pretenders to reasoning and philosophy, that Atheist and Sceptic are almost synonymous. And as it is certain, that no man is in earnest, when he professes the latter principle; I would fain hope, that there are as few, who seriously maintain the former.</p>"
+      "content": "<p>And here we may observe, continued he, turning himself towards <b>Demea</b>, a pretty curious circumstance in the history of the sciences. After the union of philosophy with the popular religion, upon the first establishment of Christianity, nothing was more usual, among all religious teachers, than declamations against reason, against the senses, against every principle, derived merely from human research and enquiry. All the topics of the ancient Academics were adopted by the Fathers; and thence propagated for several ages in every school and pulpit throughout Christendom. The Reformers embraced the same principles of reasoning, or rather declamation; and all panegyrics on the excellency of faith were sure to be interlarded with some severe strokes of satire against natural reason. A celebrated prelate too<a href=\"#n3\"><sup>[3]</sup></a>, of the Romish communion, a man of the most extensive learning, who wrote a demonstration of Christianity, has also composed a treatise, which contains all the cavils of the boldest and most determined <b>Pyrrhonism</b>. <b>Locke</b> seems to have been the first Christian, who ventured openly to assert, that <em>faith</em> was nothing but a species of <em>reason</em>, that religion was only a branch of philosophy, and that a chain of arguments, similar to that which established any truth in morals, politics, or physics, was always employed in discovering all the principles of theology, natural and revealed. The ill use, which <b>Bayle</b> and other libertines made of the philosophical scepticism of the fathers and first reformers, still farther propagated the judicious sentiment of Mr <b>Locke</b>: and it is now, in a manner, avowed, by all pretenders to reasoning and philosophy, that Atheist and Sceptic are almost synonymous. And as it is certain, that no man is in earnest, when he professes the latter principle; I would fain hope, that there are as few, who seriously maintain the former.</p>"
     },
     {
       "id": "18",
@@ -93,14 +93,17 @@
   "notes": [
     {
       "id": "1",
-      "content": "<p><cite>Chrysippus apud Plut. de repug. Stoicorum.</cite></p>"
+      "paragraph": "1",
+      "content": "<p>Chrysippus apud Plut. de repug. Stoicorum.</p>"
     },
     {
       "id": "2",
-      "content": "<p><cite>L'Art de penser.</cite></p>"
+      "paragraph": "15",
+      "content": "<p>L'Art de penser.</p>"
     },
     {
       "id": "3",
+      "paragraph": "17",
       "content": "<p>Mons. Huet.</p>"
     }
   ]

@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "The Sceptic",
   "breadcrumb": "The Sceptic",
-  "fulltitle": "<h1>The Sceptic</h1>",
+  "fulltitle": "<h1>The <b>Sceptic</b>.</h1>",
   "published": "1742",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/sc.json",
@@ -75,7 +75,7 @@
     },
     {
       "id": "17",
-      "content": "<p>The mathematician, who took no other pleasure in reading <b>Virgil</b>, but that of examining <b>Eneas</b>'s voyage by the map, might perfectly understand the meaning of every Latin word, employed by that divine author; and consequently, might have a distinct idea of the whole narration. He would even have a more distinct idea of it, than they could attain who had not studied so exactly the geography of the poem. He knew, therefore, every thing in the poem: But he was ignorant of its beauty; because the beauty, properly speaking, lies not in the poem, but in the sentiment or taste of the reader. And where a man has no such delicacy of temper, as to make him feel this sentiment, he must be ignorant of the beauty, though possessed of the science and understanding of an angel<sup><a href='#n1'>[1]</a></sup>.</p>"
+      "content": "<p>The mathematician, who took no other pleasure in reading <b>Virgil</b>, but that of examining <b>Eneas</b>'s voyage by the map, might perfectly understand the meaning of every Latin word, employed by that divine author; and consequently, might have a distinct idea of the whole narration. He would even have a more distinct idea of it, than they could attain who had not studied so exactly the geography of the poem. He knew, therefore, every thing in the poem: But he was ignorant of its beauty; because the beauty, properly speaking, lies not in the poem, but in the sentiment or taste of the reader. And where a man has no such delicacy of temper, as to make him feel this sentiment, he must be ignorant of the beauty, though possessed of the science and understanding of an angel<a href=\"#n1\"><sup>[1]</sup></a>.</p>"
     },
     {
       "id": "18",
@@ -159,7 +159,7 @@
     },
     {
       "id": "38",
-      "content": "<p>It will be easy, by one glance of the eye, to find one or other of these defects in most of those philosophical reflections, so much celebrated both in ancient and modern times. <em>Let not the injuries or violence of men,</em> say the philosophers<sup><a href='#n2'>[2]</a></sup>, <em>ever discompose you by anger or hatred. Would you be angry at the ape for its malice, or the tyger for its ferocity?</em> This reflection leads us into a bad opinion of human nature, and must extinguish the social affections. It tends also to prevent all remorse for a man's own crimes; when he considers, that vice is as natural to mankind, as the particular instincts to brute-creatures.</p>"
+      "content": "<p>It will be easy, by one glance of the eye, to find one or other of these defects in most of those philosophical reflections, so much celebrated both in ancient and modern times. <em>Let not the injuries or violence of men,</em> say the philosophers<a href=\"#n2\"><sup>[2]</sup></a>, <em>ever discompose you by anger or hatred. Would you be angry at the ape for its malice, or the tyger for its ferocity?</em> This reflection leads us into a bad opinion of human nature, and must extinguish the social affections. It tends also to prevent all remorse for a man's own crimes; when he considers, that vice is as natural to mankind, as the particular instincts to brute-creatures.</p>"
     },
     {
       "id": "39",
@@ -167,7 +167,7 @@
     },
     {
       "id": "40",
-      "content": "<p>To one who said, that none were happy, who were not above opinion, a <b>Spartan</b> replied, <em>then none are happy but knaves and robbers<sup><a href='#n3'>[3]</a></sup>.</em></p>"
+      "content": "<p>To one who said, that none were happy, who were not above opinion, a <b>Spartan</b> replied, <em>then none are happy but knaves and robbers<a href=\"#n3\"><sup>[3]</sup></a>.</em></p>"
     },
     {
       "id": "41",
@@ -183,7 +183,7 @@
     },
     {
       "id": "44",
-      "content": "<p><em>Cicero</em>'s consolation for deafness is somewhat curious. <em>How many languages are there,</em> says he, <em>which you do not understand? The <b>Punic</b>, <b>Spanish</b>, <b>Gallic</b>, <b>Ægyptian</b>, &amp;c. With regard to all these, you are as if you were deaf, yet you are indifferent about the matter. Is it then so great a misfortune to be deaf to one language more<sup><a href='#n4'>[4]</a></sup>?</em></p>"
+      "content": "<p><em>Cicero</em>'s consolation for deafness is somewhat curious. <em>How many languages are there,</em> says he, <em>which you do not understand? The <b>Punic</b>, <b>Spanish</b>, <b>Gallic</b>, <b>Ægyptian</b>, &amp;c. With regard to all these, you are as if you were deaf, yet you are indifferent about the matter. Is it then so great a misfortune to be deaf to one language more<a href=\"#n4\"><sup>[4]</sup></a>?</em></p>"
     },
     {
       "id": "45",
@@ -195,7 +195,7 @@
     },
     {
       "id": "47",
-      "content": "<p><em>Exile,</em> says <b>Plutarch</b> to a friend in banishment, <em>is no evil: Mathematicians tell us, that the whole earth is but a point, compared to the heavens. To change one's country then is little more than to remove from one street to another. Man is not a plant, rooted to a certain spot of earth: All soils and all climates are alike suited to him<sup><a href='#n5'>[5]</a></sup>.</em> These topics are admirable, could they fall only into the hands of banished persons. But what if they come also to the knowledge of those who are employed in public affairs, and destroy all their attachment to their native country? Or will they operate like the quack's medicine, which is equally good for a diabetes and a dropsy?</p>"
+      "content": "<p><em>Exile,</em> says <b>Plutarch</b> to a friend in banishment, <em>is no evil: Mathematicians tell us, that the whole earth is but a point, compared to the heavens. To change one's country then is little more than to remove from one street to another. Man is not a plant, rooted to a certain spot of earth: All soils and all climates are alike suited to him<a href=\"#n5\"><sup>[5]</sup></a>.</em> These topics are admirable, could they fall only into the hands of banished persons. But what if they come also to the knowledge of those who are employed in public affairs, and destroy all their attachment to their native country? Or will they operate like the quack's medicine, which is equally good for a diabetes and a dropsy?</p>"
     },
     {
       "id": "48",
@@ -211,7 +211,7 @@
     },
     {
       "id": "51",
-      "content": "<p>The <em>second</em> philosophical consideration, which may often have an influence on the affections, is derived from a comparison of our own condition with the condition of others. This comparison we are continually making, even in common life; but the misfortune is, that we are rather apt to compare our situation with that of our superiors, than with that of our inferiors. A philosopher corrects this natural infirmity, by turning his view to the other side, in order to render himself easy in the situation, to which fortune has confined him. There are few people, who are not susceptible of some consolation from this reflection, though, to a very good-natured man, the view of human miseries should rather produce sorrow than comfort, and add, to his lamentations for his own misfortunes, a deep compassion for those of others. Such is the imperfection, even of the best of these philosophical topics of consolation<sup><a href='#n6'>[6]</a></sup>.</p>"
+      "content": "<p>The <em>second</em> philosophical consideration, which may often have an influence on the affections, is derived from a comparison of our own condition with the condition of others. This comparison we are continually making, even in common life; but the misfortune is, that we are rather apt to compare our situation with that of our superiors, than with that of our inferiors. A philosopher corrects this natural infirmity, by turning his view to the other side, in order to render himself easy in the situation, to which fortune has confined him. There are few people, who are not susceptible of some consolation from this reflection, though, to a very good-natured man, the view of human miseries should rather produce sorrow than comfort, and add, to his lamentations for his own misfortunes, a deep compassion for those of others. Such is the imperfection, even of the best of these philosophical topics of consolation<a href=\"#n6\"><sup>[6]</sup></a>.</p>"
     },
     {
       "id": "52",
@@ -233,86 +233,107 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "17",
       "content": "<p>See NOTE [F].</p>"
     },
     {
       "id": "1.1",
+      "paragraph": "17",
       "content": "<p>WERE I not afraid of appearing too philosophical, I should remind my reader of that famous doctrine, supposed to be fully proved in modern times, <q>That tastes and colours, and all other sensible qualities, lie not in the bodies, but merely in the senses.</q> The case is the same with beauty and deformity, virtue and vice. This doctrine, however, takes off no more from the reality of the latter qualities, than from that of the former; nor need it give any umbrage either to critics or moralists. Though colours were allowed to lie only in the eye, would dyers or painters ever be less regarded or esteemed? There is a sufficient uniformity in the senses and feelings of mankind, to make all these qualities the objects of art and reasoning, and to have the greatest influence on life and manners. And as it is certain, that the discovery above-mentioned in natural philosophy, makes no alteration on action and conduct; why should a like discovery in moral philosophy make any alteration?</p>"
     },
     {
       "id": "2",
+      "paragraph": "38",
       "content": "<p><b>Plut.</b> <em>de ira cohibenda</em>.</p>"
     },
     {
       "id": "3",
+      "paragraph": "40",
       "content": "<p><b>Plut.</b> <em>Lacon. Apophtheg.</em></p>"
     },
     {
       "id": "4",
+      "paragraph": "44",
       "content": "<p><b>Tusc.</b> <em>Quest.</em> lib. v.</p>"
     },
     {
       "id": "5",
+      "paragraph": "47",
       "content": "<p><em>De exilio</em>.</p>"
     },
     {
       "id": "6",
+      "paragraph": "51",
       "content": "<p>See NOTE [G].</p>"
     },
     {
       "id": "6.1",
+      "paragraph": "51",
       "content": "<p>THE Sceptic, perhaps, carries the matter too far, when he limits all philosophical topics and reflections to these two. There seem to be others, whose truth is undeniable, and whose natural tendency is to tranquillize and soften all the passions. Philosophy greedily seizes these, studies them, weighs them, commits them to the memory, and familiarizes them to the mind: And their influence on tempers, which are thoughtful, gentle, and moderate, may be considerable. But what is their influence, you will say, if the temper be antecedently disposed after the same manner as that to which they pretend to form it? They may, at least, fortify that temper, and furnish it with views, by which it may entertain and nourish itself. Here are a few examples of such philosophical reflections.</p>"
     },
     {
       "id": "6.2",
+      "paragraph": "51",
       "content": "<p>1. Is it not certain, that every condition has concealed ills? Then why envy any body?</p>"
     },
     {
       "id": "6.3",
+      "paragraph": "51",
       "content": "<p>2. Every one has known ills; and there is a compensation throughout. Why not be contented with the present?</p>"
     },
     {
       "id": "6.4",
+      "paragraph": "51",
       "content": "<p>3. Custom deadens the sense both of the good and the ill, and levels every thing.</p>"
     },
     {
       "id": "6.5",
+      "paragraph": "51",
       "content": "<p>4. Health and humour all. The rest of little consequence, except these be affected.</p>"
     },
     {
       "id": "6.6",
+      "paragraph": "51",
       "content": "<p>5. How many other good things have I? Then why be vexed for one ill?</p>"
     },
     {
       "id": "6.7",
+      "paragraph": "51",
       "content": "<p>6. How many are happy in the condition of which I complain? How many envy me?</p>"
     },
     {
       "id": "6.8",
+      "paragraph": "51",
       "content": "<p>7. Every good must be paid for: Fortune by labour, favour by flattery. Would I keep the price, yet have the commodity?</p>"
     },
     {
       "id": "6.9",
+      "paragraph": "51",
       "content": "<p>8. Expect not too great happiness in life. Human nature admits it not.</p>"
     },
     {
       "id": "6.10",
+      "paragraph": "51",
       "content": "<p>9. Propose not a happiness too complicated. But does that depend on me? Yes: The first choice does. Life is like a game: One may choose the game: And passion, by degrees, seizes the proper object.</p>"
     },
     {
       "id": "6.11",
+      "paragraph": "51",
       "content": "<p>10. Anticipate by your hopes and fancy future consolation, which time infallibly brings to every affliction.</p>"
     },
     {
       "id": "6.12",
+      "paragraph": "51",
       "content": "<p>11. I desire to be rich. Why? That I may possess many fine objects; houses, gardens, equipage, <em>&amp;c.</em> How many fine objects does nature offer to every one without expence? If enjoyed, sufficient. If not: See the effect of custom or of temper, which would soon take off the relish of the riches.</p>"
     },
     {
       "id": "6.13",
+      "paragraph": "51",
       "content": "<p>12. I desire fame. Let this occur: If I act well, I shall have the esteem of all my acquaintance. And what is all the rest to me?</p>"
     },
     {
       "id": "6.14",
+      "paragraph": "51",
       "content": "<p>These reflections are so obvious, that it is a wonder they occur not to every man: So convincing, that it is a wonder they persuade not every man. But perhaps they do occur to and persuade most men; when they consider human life, by a general and calm survey: But where any real, affecting incident happens; when passion is awakened, fancy agitated, example draws, and counsel urges; the philosopher is lost in the man, and he seeks in vain for that persuasion which before seemed so firm and unshaken. What remedy for this inconvenience? Assist yourself by a frequent perusal of the entertaining moralists: Have recourse to the learning of <b>Plutarch</b>, the imagination of <b>Lucian</b>, the eloquence of <b>Cicero</b>, the wit of <b>Seneca</b>, the gaiety of <b>Montaigne</b>, the sublimity of <b>Shaftesbury</b>. Moral precepts, so couched, strike deep, and fortify the mind against the illusions of passion. But trust not altogether to external aid: By habit and study acquire that philosophical temper which both gives force to reflection, and by rendering a great part of your happiness independent, takes off the edge from all disorderly passions, and tranquillizes the mind. Despise not these helps; but confide not too much in them neither; unless nature has been favourable in the temper, with which she has endowed you.</p>"
     }
   ]

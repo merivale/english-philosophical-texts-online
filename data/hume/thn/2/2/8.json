@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.2",
   "title": "Section 8. Of malice and envy",
   "breadcrumb": "Section 8",
-  "fulltitle": "<h1>Section 8. Of malice and envy</h1>",
+  "fulltitle": "<h3>SECT. VIII.</h3> <h4><em>Of malice and envy.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/2/8.json",
@@ -23,7 +23,7 @@
     },
     {
       "id": "4",
-      "content": "<p><b>In</b> order to explain this matter, I shall just touch upon two principles, one of which shall be more fully explain'd in the progress of this treatise; the other has been already accounted for. I believe it may safely be establish'd for a general maxim, that no object is presented to the senses, nor image form'd in the fancy, but what is accompany'd with some emotion or movement of spirits proportion'd to it; and however custom may make us insensible of this sensation, and cause us to confound it with the object or idea, 'twill be easy, by careful and exact experiments, to separate and distinguish them. For to instance only in the cases of extension and number; 'tis evident, that any very bulky object, such as the ocean, an extended plain, a vast chain of mountains, a wide forest; or any very numerous collection of objects, such as an army, a fleet, a crowd, excite in the mind a sensible emotion; and that the admiration, which arises on the appearance of such objects, is one of the most lively pleasures, which human nature is capable of enjoying. Now as this admiration encreases or diminishes by the encrease or diminution of the objects, we may conclude, according to our foregoing<sup><a href='#n65'>[65]</a></sup> principles, that 'tis a compound effect, proceeding from the conjunction of the several effects, which arise from each part of the cause. Every part, then, of extension, and every unite of number has a separate emotion attending it, when conceiv'd by the mind; and tho' that emotion be not always agreeable, yet by its conjunction with others, and by its agitating the spirits to a just pitch, it contributes to the production of admiration, which is always agreeable. If this be allow'd with respect to extension and number, we can make no difficulty with respect to virtue and vice, wit and folly, riches and poverty, happiness and misery, and other objects of that kind, which are always attended with an evident emotion.</p>"
+      "content": "<p><b>In</b> order to explain this matter, I shall just touch upon two principles, one of which shall be more fully explain'd in the progress of this treatise; the other has been already accounted for. I believe it may safely be establish'd for a general maxim, that no object is presented to the senses, nor image form'd in the fancy, but what is accompany'd with some emotion or movement of spirits proportion'd to it; and however custom may make us insensible of this sensation, and cause us to confound it with the object or idea, 'twill be easy, by careful and exact experiments, to separate and distinguish them. For to instance only in the cases of extension and number; 'tis evident, that any very bulky object, such as the ocean, an extended plain, a vast chain of mountains, a wide forest; or any very numerous collection of objects, such as an army, a fleet, a crowd, excite in the mind a sensible emotion; and that the admiration, which arises on the appearance of such objects, is one of the most lively pleasures, which human nature is capable of enjoying. Now as this admiration encreases or diminishes by the encrease or diminution of the objects, we may conclude, according to our foregoing<a href=\"#n65\"><sup>[65]</sup></a> principles, that 'tis a compound effect, proceeding from the conjunction of the several effects, which arise from each part of the cause. Every part, then, of extension, and every unite of number has a separate emotion attending it, when conceiv'd by the mind; and tho' that emotion be not always agreeable, yet by its conjunction with others, and by its agitating the spirits to a just pitch, it contributes to the production of admiration, which is always agreeable. If this be allow'd with respect to extension and number, we can make no difficulty with respect to virtue and vice, wit and folly, riches and poverty, happiness and misery, and other objects of that kind, which are always attended with an evident emotion.</p>"
     },
     {
       "id": "5",
@@ -93,6 +93,7 @@
   "notes": [
     {
       "id": "65",
+      "paragraph": "4",
       "content": "<p>Book I. Part III. Sect. 15.</p>"
     }
   ]

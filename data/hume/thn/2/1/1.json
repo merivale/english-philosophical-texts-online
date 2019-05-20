@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.1",
   "title": "Section 1. Division of the Subject",
   "breadcrumb": "Section 1",
-  "fulltitle": "<h1>Section 1. Division of the Subject</h1>",
+  "fulltitle": "<h3>SECT. I.</h3> <h4><em>Division of the Subject.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/1/1.json",
@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": "1",
-      "content": "<p>AS all the perceptions of the mind may be divided into <em>impressions</em> and <em>ideas</em>, so the impressions admit of another division into <em>original</em> and <em>secondary</em>. This division of the impressions is the same with that which<sup><a href='#n54'>[54]</a></sup> I formerly made use of when I distinguish'd them into impressions of <em>sensation</em> and <em>reflection</em>. Original impressions or impressions of sensation are such as without any antecedent perception arise in the soul, from the constitution of the body, from the animal spirits, or from the application of objects to the external organs. Secondary, or reflective impressions are such as proceed from some of these original ones, either immediately or by the interposition of its idea. Of the first kind are all the impressions of the senses, and all bodily pains and pleasures: Of the second are the passions, and other emotions resembling them.</p>"
+      "content": "<p>AS all the perceptions of the mind may be divided into <em>impressions</em> and <em>ideas</em>, so the impressions admit of another division into <em>original</em> and <em>secondary</em>. This division of the impressions is the same with that which<a href=\"#n54\"><sup>[54]</sup></a> I formerly made use of when I distinguish'd them into impressions of <em>sensation</em> and <em>reflection</em>. Original impressions or impressions of sensation are such as without any antecedent perception arise in the soul, from the constitution of the body, from the animal spirits, or from the application of objects to the external organs. Secondary, or reflective impressions are such as proceed from some of these original ones, either immediately or by the interposition of its idea. Of the first kind are all the impressions of the senses, and all bodily pains and pleasures: Of the second are the passions, and other emotions resembling them.</p>"
     },
     {
       "id": "2",
@@ -29,6 +29,7 @@
   "notes": [
     {
       "id": "54",
+      "paragraph": "1",
       "content": "<p>Book I. Part I. Sect. 2.</p>"
     }
   ]

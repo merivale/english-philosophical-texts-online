@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "Of Superstition and Enthusiasm",
   "breadcrumb": "Of Superstition and Enthusiasm",
-  "fulltitle": "<h1>Of Superstition and Enthusiasm</h1>",
+  "fulltitle": "<h1>Of <b>Superstition</b> and <b>Enthusiasm</b>.</h1>",
   "published": "1741",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/se.json",
@@ -39,7 +39,7 @@
     },
     {
       "id": "8",
-      "content": "<p>It is thus enthusiasm produces the most cruel disorders in human society; but its fury is like that of thunder and tempest, which exhaust themselves in a little time, and leave the air more calm and serene than before. When the first fire of enthusiasm is spent, men naturally, in all fanatical sects, sink into the greatest remissness and coolness in sacred matters; there being no body of men among them, endowed with sufficient authority, whose interest is concerned to support the religious spirit: No rites, no ceremonies, no holy observances, which may enter into the common train of life, and preserve the sacred principles from oblivion. Superstition, on the contrary, steals in gradually and insensibly; renders men tame and submissive; is acceptable to the magistrate, and seems inoffensive to the people: Till at last the priest, having firmly established his authority, becomes the tyrant and disturber of human society, by his endless contentions, persecutions, and religious wars. How smoothly did the <b>Romish</b> church advance in her acquisition of power? But into what dismal convulsions did she throw all <b>Europe</b>, in order to maintain it? On the other hand, our sectaries, who were formerly such dangerous bigots, are now become very free reasoners; and the <em>quakers</em> seem to approach nearly the only regular body of <em>deists</em> in the universe, the <em>literati</em>, or the disciples of <b>Confucius</b> in <b>China</b><sup><a href='#n1'>[1]</a></sup>.</p>"
+      "content": "<p>It is thus enthusiasm produces the most cruel disorders in human society; but its fury is like that of thunder and tempest, which exhaust themselves in a little time, and leave the air more calm and serene than before. When the first fire of enthusiasm is spent, men naturally, in all fanatical sects, sink into the greatest remissness and coolness in sacred matters; there being no body of men among them, endowed with sufficient authority, whose interest is concerned to support the religious spirit: No rites, no ceremonies, no holy observances, which may enter into the common train of life, and preserve the sacred principles from oblivion. Superstition, on the contrary, steals in gradually and insensibly; renders men tame and submissive; is acceptable to the magistrate, and seems inoffensive to the people: Till at last the priest, having firmly established his authority, becomes the tyrant and disturber of human society, by his endless contentions, persecutions, and religious wars. How smoothly did the <b>Romish</b> church advance in her acquisition of power? But into what dismal convulsions did she throw all <b>Europe</b>, in order to maintain it? On the other hand, our sectaries, who were formerly such dangerous bigots, are now become very free reasoners; and the <em>quakers</em> seem to approach nearly the only regular body of <em>deists</em> in the universe, the <em>literati</em>, or the disciples of <b>Confucius</b> in <b>China</b><a href=\"#n1\"><sup>[1]</sup></a>.</p>"
     },
     {
       "id": "9",
@@ -53,6 +53,7 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "8",
       "content": "<p>The <b>Chinese</b> Literati have no priests or ecclesiastical establishment.</p>"
     }
   ]

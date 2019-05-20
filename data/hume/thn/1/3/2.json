@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.3",
   "title": "Section 2. Of probability; and of the idea of cause and effect",
   "breadcrumb": "Section 2",
-  "fulltitle": "<h1>Section 2. Of probability; and of the idea of cause and effect</h1>",
+  "fulltitle": "<h3>SECT. II.</h3> <h4><em>Of probability; and of the idea of cause and effect.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/3/2.json",
@@ -31,7 +31,7 @@
     },
     {
       "id": "6",
-      "content": "<p><b>The</b> idea, then, of causation must be deriv'd from some <em>relation</em> among objects; and that relation we must now endeavour to discover. I find in the first place, that whatever objects are consider'd as causes or effects, are <em>contiguous</em>; and that nothing can operate in a time or place, which is ever so little remov'd from those of its existence. Tho' distant objects may sometimes seem productive of each other, they are commonly found upon examination to be link'd by a chain of causes, which are contiguous among themselves, and to the distant objects; and when in any particular instance we cannot discover this connexion, we still presume it to exist. We may therefore consider the relation of <b>contiguity</b> as essential to that of causation; at least may suppose it such, according to the general opinion, till we can find a more<sup><a href='#n16'>[16]</a></sup> proper occasion to clear up this matter, by examining what objects are or are not susceptible of juxta-position and conjunction.</p>"
+      "content": "<p><b>The</b> idea, then, of causation must be deriv'd from some <em>relation</em> among objects; and that relation we must now endeavour to discover. I find in the first place, that whatever objects are consider'd as causes or effects, are <em>contiguous</em>; and that nothing can operate in a time or place, which is ever so little remov'd from those of its existence. Tho' distant objects may sometimes seem productive of each other, they are commonly found upon examination to be link'd by a chain of causes, which are contiguous among themselves, and to the distant objects; and when in any particular instance we cannot discover this connexion, we still presume it to exist. We may therefore consider the relation of <b>contiguity</b> as essential to that of causation; at least may suppose it such, according to the general opinion, till we can find a more<a href=\"#n16\"><sup>[16]</sup></a> proper occasion to clear up this matter, by examining what objects are or are not susceptible of juxta-position and conjunction.</p>"
     },
     {
       "id": "7",
@@ -77,6 +77,7 @@
   "notes": [
     {
       "id": "16",
+      "paragraph": "6",
       "content": "<p>Part IV. Sect. 5.</p>"
     }
   ]

@@ -6,39 +6,41 @@ const file = require('../../../data/file')
 const convert = (data) => {
   const input = request('GET', data.source).getBody()
   const newdata = JSON.parse(input)
-  data.fulltitle = newdata.fulltitle
-  data.paragraphs.forEach((block) => {})
-  data.notes.forEach((block) => {})
+  data.fulltitle = content(newdata.fulltitle)
+  if (data.paragraphs) data.paragraphs = newdata.paragraphs.map(paragraph)
+  if (data.notes && data.notes.length) data.notes = newdata.notes.map(note)
   file.save(data)
-  console.log(`Imported ${section.id}`)
+  console.log(`Imported ${data.id}`)
 }
 
 // convert a paragraph
-const paragraph = x => {
-  const p = {}
-  p.id = x.id
-  p.title = x.title ? content(x.title) : undefined
-  p.before = x.subsection ? `${x.subsection}.` : undefined
-  p.content = content(x.content)
-  return p
-}
+const paragraph = x =>
+  ({
+    id: x.id,
+    title: x.title ? content(x.title) : undefined,
+    before: x.before ? `${x.before}.` : undefined,
+    content: content(x.content)
+  })
 
 // convert a footnote/endnote
-const note = x => {
-  const n = {}
-  n.id = x.id
-  n.paragraph = x.paragraph
-  n.content = content(x.content)
-  return n
-}
+const note = x =>
+  ({
+    id: x.id,
+    paragraph: x.paragraph,
+    content: content(x.content)
+  })
 
 // convert content
 const content = x =>
   x.replace(/<\/?strong>/g, '')
     .replace(/<del(.*?)<\/del>/g, '')
     .replace(/<ins(.*?)>(.*?)<\/ins>/g, '$2')
-    .replace(/<span class=('|")page-break('|")>\|<\/span>/g, '')
-    .replace(/<span class=('|")tab('|")><\/span>/g, '')
+    .replace(/\|/g, '')
+    .replace(/a priori/g, 'apriori')
+    .replace(/a posteriori/g, 'aposteriori')
+    .replace(/ad infinitum/g, 'adinfinitum')
+    .replace(/in infinitum/g, 'ininfinitum')
+    .replace(/ipso facto/g, 'ipsofacto')
 
 // export the main conversion function
 module.exports = convert

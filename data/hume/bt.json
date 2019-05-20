@@ -3,7 +3,7 @@
   "parent": "Hume.Ess2",
   "title": "Of the Balance of Trade",
   "breadcrumb": "Of the Balance of Trade",
-  "fulltitle": "<h1>Of the Balance of Trade</h1>",
+  "fulltitle": "<h1>Of the <b>Balance</b> of <b>Trade</b>.</h1>",
   "published": "1752",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/bt.json",
@@ -15,7 +15,7 @@
     },
     {
       "id": "2",
-      "content": "<p>It is well known to the learned, that the ancient laws of <b>Athens</b> rendered the exportation of figs criminal; that being supposed a species of fruit so excellent in <b>Attica</b>, that the <b>Athenians</b> deemed it too delicious for the palate of any foreigner. And in this ridiculous prohibition they were so much in earnest, that informers were thence called <em>sycophants</em> among them, from two <b>Greek</b> words, which signify <em>figs</em> and <em>discoverer</em><sup><a href='#n1'>[1]</a></sup>. There are proofs in many old acts of parliament of the same ignorance in the nature of commerce, particularly in the reign of <b>Edward III</b>. And to this day, in <b>France</b>, the exportation of corn is almost always prohibited; in order, as they say, to prevent famines; though it is evident, that nothing contributes more to the frequent famines, which so much distress that fertile country.</p>"
+      "content": "<p>It is well known to the learned, that the ancient laws of <b>Athens</b> rendered the exportation of figs criminal; that being supposed a species of fruit so excellent in <b>Attica</b>, that the <b>Athenians</b> deemed it too delicious for the palate of any foreigner. And in this ridiculous prohibition they were so much in earnest, that informers were thence called <em>sycophants</em> among them, from two <b>Greek</b> words, which signify <em>figs</em> and <em>discoverer</em><a href=\"#n1\"><sup>[1]</sup></a>. There are proofs in many old acts of parliament of the same ignorance in the nature of commerce, particularly in the reign of <b>Edward III</b>. And to this day, in <b>France</b>, the exportation of corn is almost always prohibited; in order, as they say, to prevent famines; though it is evident, that nothing contributes more to the frequent famines, which so much distress that fertile country.</p>"
     },
     {
       "id": "3",
@@ -51,7 +51,7 @@
     },
     {
       "id": "11",
-      "content": "<p>Now, it is evident, that the same causes, which would correct these exorbitant inequalities, were they to happen miraculously, must prevent their happening in the common course of nature, and must for ever, in all neighbouring nations, preserve money nearly proportionable to the art and industry of each nation. All water, wherever it communicates, remains always at a level. Ask naturalists the reason; they tell you, that, were it to be raised in any one place, the superior gravity of that part not being balanced, must depress it, till it meet a counterpoise; and that the same cause, which redresses the inequality when it happens, must for ever prevent it, without some violent external operation<sup><a href='#n2'>[2]</a></sup>.</p>"
+      "content": "<p>Now, it is evident, that the same causes, which would correct these exorbitant inequalities, were they to happen miraculously, must prevent their happening in the common course of nature, and must for ever, in all neighbouring nations, preserve money nearly proportionable to the art and industry of each nation. All water, wherever it communicates, remains always at a level. Ask naturalists the reason; they tell you, that, were it to be raised in any one place, the superior gravity of that part not being balanced, must depress it, till it meet a counterpoise; and that the same cause, which redresses the inequality when it happens, must for ever prevent it, without some violent external operation<a href=\"#n2\"><sup>[2]</sup></a>.</p>"
     },
     {
       "id": "12",
@@ -63,11 +63,11 @@
     },
     {
       "id": "14",
-      "content": "<p>How is the balance kept in the provinces of every kingdom among themselves, but by the force of this principle, which makes it impossible for money to lose its level, and either to rise or sink beyond the proportion of the labour and commodities which are in each province? Did not long experience make people easy on this head, what a fund of gloomy reflections might calculations afford to a melancholy <b>Yorkshireman</b>, while he computed and magnified the sums drawn to <b>London</b> by taxes, absentees, commodities, and found on comparison the opposite articles so much inferior? And no doubt, had the <em>Heptarchy</em> subsisted in <b>England</b>, the legislature of each state had been continually alarmed by the fear of a wrong balance; and as it is probable that the mutual hatred of these states would have been extremely violent on account of their close neighbourhood, they would have loaded and oppressed all commerce, by a jealous and superfluous caution. Since the union has removed the barriers between <b>Scotland</b> and <b>England</b>, which of these nations gains from the other by this free commerce? Or if the former kingdom has received any encrease of riches, can it reasonably be accounted for by any thing but the encrease of its art and industry? It was a common apprehension in <b>England</b>, before the union, as we learn from <b>L'Abbe du Bos</b><sup><a href='#n3'>[3]</a></sup>, that <b>Scotland</b> would soon drain them of their treasure, were an open trade allowed; and on the other side the <b>Tweed</b> a contrary apprehension prevailed: With what justice in both, time has shown.</p>"
+      "content": "<p>How is the balance kept in the provinces of every kingdom among themselves, but by the force of this principle, which makes it impossible for money to lose its level, and either to rise or sink beyond the proportion of the labour and commodities which are in each province? Did not long experience make people easy on this head, what a fund of gloomy reflections might calculations afford to a melancholy <b>Yorkshireman</b>, while he computed and magnified the sums drawn to <b>London</b> by taxes, absentees, commodities, and found on comparison the opposite articles so much inferior? And no doubt, had the <em>Heptarchy</em> subsisted in <b>England</b>, the legislature of each state had been continually alarmed by the fear of a wrong balance; and as it is probable that the mutual hatred of these states would have been extremely violent on account of their close neighbourhood, they would have loaded and oppressed all commerce, by a jealous and superfluous caution. Since the union has removed the barriers between <b>Scotland</b> and <b>England</b>, which of these nations gains from the other by this free commerce? Or if the former kingdom has received any encrease of riches, can it reasonably be accounted for by any thing but the encrease of its art and industry? It was a common apprehension in <b>England</b>, before the union, as we learn from <b>L'Abbe du Bos</b><a href=\"#n3\"><sup>[3]</sup></a>, that <b>Scotland</b> would soon drain them of their treasure, were an open trade allowed; and on the other side the <b>Tweed</b> a contrary apprehension prevailed: With what justice in both, time has shown.</p>"
     },
     {
       "id": "15",
-      "content": "<p>What happens in small portions of mankind, must take place in greater. The provinces of the <b>Roman</b> empire, no doubt, kept their balance with each other, and with <b>Italy</b>, independent of the legislature; as much as the several counties of <b>Great Britain</b>, or the several parishes of each county. And any man who travels over <b>Europe</b> at this day, may see, by the prices of commodities, that money, in spite of the absurd jealousy of princes and states, has brought itself nearly to a level; and that the difference between one kingdom and another is not greater in this respect, than it is often between different provinces of the same kingdom. Men naturally flock to capital cities, sea-ports, and navigable rivers. There we find more men, more industry, more commodities, and consequently more money; but still the latter difference holds proportion with the former, and the level is preserved<sup><a href='#n4'>[4]</a></sup>.</p>"
+      "content": "<p>What happens in small portions of mankind, must take place in greater. The provinces of the <b>Roman</b> empire, no doubt, kept their balance with each other, and with <b>Italy</b>, independent of the legislature; as much as the several counties of <b>Great Britain</b>, or the several parishes of each county. And any man who travels over <b>Europe</b> at this day, may see, by the prices of commodities, that money, in spite of the absurd jealousy of princes and states, has brought itself nearly to a level; and that the difference between one kingdom and another is not greater in this respect, than it is often between different provinces of the same kingdom. Men naturally flock to capital cities, sea-ports, and navigable rivers. There we find more men, more industry, more commodities, and consequently more money; but still the latter difference holds proportion with the former, and the level is preserved<a href=\"#n4\"><sup>[4]</sup></a>.</p>"
     },
     {
       "id": "16",
@@ -87,7 +87,7 @@
     },
     {
       "id": "20",
-      "content": "<p>I scarcely know any method of sinking money below its level, but those institutions of banks, funds, and paper-credit, which are so much practised in this kingdom. These render paper equivalent to money, circulate it throughout the whole state, make it supply the place of gold and silver, raise proportionably the price of labour and commodities, and by that means either banish a great part of those precious metals, or prevent their farther encrease. What can be more shortsighted than our reasonings on this head? We fancy, because an individual would be much richer, were his stock of money doubled, that the same good effect would follow were the money of every one encreased; not considering, that this would raise as much the price of every commodity, and reduce every man, in time, to the same condition as before. It is only in our public negociations and transactions with foreigners, that a greater stock of money is advantageous; and as our paper is there absolutely insignificant, we feel, by its means, all the ill effects arising from a great abundance of money, without reaping any of the advantages<sup><a href='#n5'>[5]</a></sup>.</p>"
+      "content": "<p>I scarcely know any method of sinking money below its level, but those institutions of banks, funds, and paper-credit, which are so much practised in this kingdom. These render paper equivalent to money, circulate it throughout the whole state, make it supply the place of gold and silver, raise proportionably the price of labour and commodities, and by that means either banish a great part of those precious metals, or prevent their farther encrease. What can be more shortsighted than our reasonings on this head? We fancy, because an individual would be much richer, were his stock of money doubled, that the same good effect would follow were the money of every one encreased; not considering, that this would raise as much the price of every commodity, and reduce every man, in time, to the same condition as before. It is only in our public negociations and transactions with foreigners, that a greater stock of money is advantageous; and as our paper is there absolutely insignificant, we feel, by its means, all the ill effects arising from a great abundance of money, without reaping any of the advantages<a href=\"#n5\"><sup>[5]</sup></a>.</p>"
     },
     {
       "id": "21",
@@ -127,7 +127,7 @@
     },
     {
       "id": "30",
-      "content": "<p>Have we not an instance, in the small republic of <b>Athens</b> with its allies, who, in about fifty years, between the <b>Median</b> and <b>Peloponnesian</b> wars, amassed a sum not much inferior to that of <b>Harry VII.</b>? For all the <b>Greek</b> historians<sup><a href='#n6'>[6]</a></sup> and orators<sup><a href='#n7'>[7]</a></sup> agree, that the <b>Athenians</b> collected in the citadel more than 10,000 talents, which they afterwards dissipated to their own ruin, in rash and imprudent enterprizes. But when this money was set a running, and began to communicate with the surrounding fluid; what was the consequence? Did it remain in the state? No. For we find, by the memorable <em>census</em> mentioned by <b>Demosthenes</b><sup><a href='#n8'>[8]</a></sup> and <b>Polybius</b><sup><a href='#n9'>[9]</a></sup>, that, in about fifty years afterwards, the whole value of the republic, comprehending lands, houses, commodities, slaves, and money, was less than 6000 talents.</p>"
+      "content": "<p>Have we not an instance, in the small republic of <b>Athens</b> with its allies, who, in about fifty years, between the <b>Median</b> and <b>Peloponnesian</b> wars, amassed a sum not much inferior to that of <b>Harry VII.</b>? For all the <b>Greek</b> historians<a href=\"#n6\"><sup>[6]</sup></a> and orators<a href=\"#n7\"><sup>[7]</sup></a> agree, that the <b>Athenians</b> collected in the citadel more than 10,000 talents, which they afterwards dissipated to their own ruin, in rash and imprudent enterprizes. But when this money was set a running, and began to communicate with the surrounding fluid; what was the consequence? Did it remain in the state? No. For we find, by the memorable <em>census</em> mentioned by <b>Demosthenes</b><a href=\"#n8\"><sup>[8]</sup></a> and <b>Polybius</b><a href=\"#n9\"><sup>[9]</sup></a>, that, in about fifty years afterwards, the whole value of the republic, comprehending lands, houses, commodities, slaves, and money, was less than 6000 talents.</p>"
     },
     {
       "id": "31",
@@ -135,15 +135,15 @@
     },
     {
       "id": "32",
-      "content": "<p>Money was little more plentiful in <b>Greece</b> during the age of <b>Philip</b> and <b>Perseus</b>, than in <b>England</b> during that of <b>Harry VII.</b>: Yet these two monarchs in thirty years<sup><a href='#n10'>[10]</a></sup> collected from the small kingdom of <b>Macedon</b>, a larger treasure than that of the <b>English</b> monarch. <b>Paulus</b> <b>Æmilius</b> brought to <b>Rome</b> about 1,700,000 pounds <em>Sterling</em><sup><a href='#n11'>[11]</a></sup>. <b>Pliny</b> says, 2,400,000<sup><a href='#n12'>[12]</a></sup>. And that was but a part of the <b>Macedonian</b> treasure. The rest was dissipated by the resistance and flight of <b>Perseus</b><sup><a href='#n13'>[13]</a></sup>.</p>"
+      "content": "<p>Money was little more plentiful in <b>Greece</b> during the age of <b>Philip</b> and <b>Perseus</b>, than in <b>England</b> during that of <b>Harry VII.</b>: Yet these two monarchs in thirty years<a href=\"#n10\"><sup>[10]</sup></a> collected from the small kingdom of <b>Macedon</b>, a larger treasure than that of the <b>English</b> monarch. <b>Paulus</b> <b>Æmilius</b> brought to <b>Rome</b> about 1,700,000 pounds <em>Sterling</em><a href=\"#n11\"><sup>[11]</sup></a>. <b>Pliny</b> says, 2,400,000<a href=\"#n12\"><sup>[12]</sup></a>. And that was but a part of the <b>Macedonian</b> treasure. The rest was dissipated by the resistance and flight of <b>Perseus</b><a href=\"#n13\"><sup>[13]</sup></a>.</p>"
     },
     {
       "id": "33",
-      "content": "<p>We may learn from <b>Stanian</b>, that the canton of <b>Berne</b> had 300,000 pounds lent at interest, and had above six times as much in their treasury. Here then is a sum hoarded of 1,800,000 pounds <em>Sterling</em>, which is at least quadruple what should naturally circulate in such a petty state; and yet no one, who travels in the <b>Pais de Vaux</b>, or any part of that canton, observes any want of money more than could be supposed in a country of that extent, soil, and situation. On the contrary, there are scarce any inland provinces in the continent of <b>France</b> or <b>Germany</b>, where the inhabitants are at this time so opulent, though that canton has vastly encreased its treasure since 1714, the time when <b>Stanian</b> wrote his judicious account of <b>Switzerland</b><sup><a href='#n14'>[14]</a></sup>.</p>"
+      "content": "<p>We may learn from <b>Stanian</b>, that the canton of <b>Berne</b> had 300,000 pounds lent at interest, and had above six times as much in their treasury. Here then is a sum hoarded of 1,800,000 pounds <em>Sterling</em>, which is at least quadruple what should naturally circulate in such a petty state; and yet no one, who travels in the <b>Pais de Vaux</b>, or any part of that canton, observes any want of money more than could be supposed in a country of that extent, soil, and situation. On the contrary, there are scarce any inland provinces in the continent of <b>France</b> or <b>Germany</b>, where the inhabitants are at this time so opulent, though that canton has vastly encreased its treasure since 1714, the time when <b>Stanian</b> wrote his judicious account of <b>Switzerland</b><a href=\"#n14\"><sup>[14]</sup></a>.</p>"
     },
     {
       "id": "34",
-      "content": "<p>The account given by <b>Appian</b><sup><a href='#n15'>[15]</a></sup> of the treasure of the <b>Ptolemies</b>, is so prodigious, that one cannot admit of it; and so much the less, because the historian says, that the other successors of <b>Alexander</b> were also frugal, and had many of them treasures not much inferior. For this saving humour of the neighbouring princes must necessarily have checked the frugality of the <b>Egyptian</b> monarchs, according to the foregoing theory. The sum he mentions is 740,000 talents, or 191,166,666 pounds 13 shillings and 4 pence, according to Dr. <b>Arbuthnot</b>'s computation. And yet <b>Appian</b> says, that he extracted his account from the public records; and he was himself a native of <b>Alexandria</b>.</p>"
+      "content": "<p>The account given by <b>Appian</b><a href=\"#n15\"><sup>[15]</sup></a> of the treasure of the <b>Ptolemies</b>, is so prodigious, that one cannot admit of it; and so much the less, because the historian says, that the other successors of <b>Alexander</b> were also frugal, and had many of them treasures not much inferior. For this saving humour of the neighbouring princes must necessarily have checked the frugality of the <b>Egyptian</b> monarchs, according to the foregoing theory. The sum he mentions is 740,000 talents, or 191,166,666 pounds 13 shillings and 4 pence, according to Dr. <b>Arbuthnot</b>'s computation. And yet <b>Appian</b> says, that he extracted his account from the public records; and he was himself a native of <b>Alexandria</b>.</p>"
     },
     {
       "id": "35",
@@ -169,66 +169,82 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "2",
       "content": "<p><b>Plut.</b> <em>De Curiositate</em>.</p>"
     },
     {
       "id": "2",
+      "paragraph": "11",
       "content": "<p>There is another cause, though more limited in its operation, which checks the wrong balance of trade, to every particular nation to which the kingdom trades. When we import more goods than we export, the exchange turns against us, and this becomes a new encouragement to export; as much as the charge of carriage and insurance of the money which becomes due would amount to. For the exchange can never rise but a little higher than that sum.</p>"
     },
     {
       "id": "3",
+      "paragraph": "14",
       "content": "<p><em>Les interets d'<b>Angleterre</b> mal-entendus</em>.</p>"
     },
     {
       "id": "4",
+      "paragraph": "15",
       "content": "<p>See NOTE [R].</p>"
     },
     {
       "id": "4.1",
+      "paragraph": "15",
       "content": "<p>IT must carefully be remarked, that throughout this discourse, wherever I speak of the level of money, I mean always its proportional level to the commodities, labour, industry, and skill, which is in the several states. And I assert, that where these advantages are double, triple, quadruple, to what they are in the neighbouring states, the money infallibly will also be double, triple, quadruple. The only circumstance that can obstruct the exactness of these proportions, is the expence of transporting the commodities from one place to another; and this expence is sometimes unequal. Thus the corn, cattle, cheese, butter, of <b>Derbyshire</b>, cannot draw the money of <b>London</b>, so much as the manufactures of <b>London</b> draw the money of <b>Derbyshire</b>. But this objection is only a seeming one: For so far as the transport of commodities is expensive, so far is the communication between the places obstructed and imperfect.</p>"
     },
     {
       "id": "5",
+      "paragraph": "20",
       "content": "<p>We observed in Essay III. [Of Money] that money, when encreasing, gives encouragement to industry, during the interval between the encrease of money and rise of the prices. A good effect of this nature may follow too from paper-credit; but it is dangerous to precipitate matters, at the risk of losing all by the failing of that credit, as must happen upon any violent shock in public affairs.</p>"
     },
     {
       "id": "6",
+      "paragraph": "30",
       "content": "<p><b>Thucydides</b>, lib. ii. and <b>Diod. Sic.</b> lib. xii.</p>"
     },
     {
       "id": "7",
+      "paragraph": "30",
       "content": "<p><em>Vid.</em> <b>æschinis</b> <em>et</em> <b>Demosthenis</b> <em>Epist.</em></p>"
     },
     {
       "id": "8",
+      "paragraph": "30",
       "content": "<p><i>Περι Σνμμοριας</i>.</p>"
     },
     {
       "id": "9",
+      "paragraph": "30",
       "content": "<p>Lib. ii. cap. 62.</p>"
     },
     {
       "id": "10",
+      "paragraph": "32",
       "content": "<p><b>Titi Livii</b>, lib. xlv. cap. 40.</p>"
     },
     {
       "id": "11",
+      "paragraph": "32",
       "content": "<p><b>Vel. Paterc.</b> lib. i. cap. 9.</p>"
     },
     {
       "id": "12",
+      "paragraph": "32",
       "content": "<p>Lib. xxxiii. cap. 3.</p>"
     },
     {
       "id": "13",
+      "paragraph": "32",
       "content": "<p><b>Titi Livii</b>, <em>ibid.</em></p>"
     },
     {
       "id": "14",
+      "paragraph": "33",
       "content": "<p>The poverty which <b>Stanian</b> speaks of is only to be seen in the most mountainous cantons, where there is no commodity to bring money. And even there the people are not poorer than in the diocese of <b>Saltsburgh</b> on the one hand, or <b>Savoy</b> on the other.</p>"
     },
     {
       "id": "15",
+      "paragraph": "34",
       "content": "<p><em>Proem.</em></p>"
     }
   ]

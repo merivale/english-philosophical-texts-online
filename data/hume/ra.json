@@ -3,7 +3,7 @@
   "parent": "Hume.Ess2",
   "title": "Of Refinement in the Arts",
   "breadcrumb": "Of Refinement in the Arts",
-  "fulltitle": "<h1>Of Refinement in the Arts</h1>",
+  "fulltitle": "<h1>Of <b>Refinement</b> in the <b>Arts</b>.</h1>",
   "published": "1752",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ra.json",
@@ -39,7 +39,7 @@
     },
     {
       "id": "8",
-      "content": "<p>The bounds of all the <b>European</b> kingdoms are, at present, nearly the same they were two hundred years ago: But what a difference is there in the power and grandeur of those kingdoms? Which can be ascribed to nothing but the encrease of art and industry. When <b>Charles</b> VIII. of <b>France</b> invaded <b>Italy</b>, he carried with him about 20,000 men: Yet this armament so exhausted the nation, as we learn from <b>Guicciardin</b>, that for some years it was not able to make so great an effort. The late king of <b>France</b>, in time of war, kept in pay above 400,000 men<sup><a href='#n1'>[1]</a></sup>; though from <b>Mazarine</b>'s death to his own, he was engaged in a course of wars that lasted near thirty years.</p>"
+      "content": "<p>The bounds of all the <b>European</b> kingdoms are, at present, nearly the same they were two hundred years ago: But what a difference is there in the power and grandeur of those kingdoms? Which can be ascribed to nothing but the encrease of art and industry. When <b>Charles</b> VIII. of <b>France</b> invaded <b>Italy</b>, he carried with him about 20,000 men: Yet this armament so exhausted the nation, as we learn from <b>Guicciardin</b>, that for some years it was not able to make so great an effort. The late king of <b>France</b>, in time of war, kept in pay above 400,000 men<a href=\"#n1\"><sup>[1]</sup></a>; though from <b>Mazarine</b>'s death to his own, he was engaged in a course of wars that lasted near thirty years.</p>"
     },
     {
       "id": "9",
@@ -91,7 +91,7 @@
     },
     {
       "id": "21",
-      "content": "<p>Suppose the same number of men, that are at present in <b>Great Britain</b>, with the same soil and climate; I ask, is it not possible for them to be happier, by the most perfect way of life that can be imagined, and by the greatest reformation that Omnipotence itself could work in their temper and disposition? To assert, that they cannot, appears evidently ridiculous. As the land is able to maintain more than all its present inhabitants, they could never, in such a <b>Utopian</b> state, feel any other ills than those which arise from bodily sickness; and these are not the half of human miseries. All other ills spring from some vice, either in ourselves or others; and even many of our diseases proceed from the same origin. Remove the vices, and the ills follow. You must only take care to remove all the vices. If you remove part, you may render the matter worse. By banishing <em>vicious</em> luxury, without curing sloth and an indifference to others, you only diminish industry in the state, and add nothing to men's charity or their generosity. Let us, therefore, rest contented with asserting, that two opposite vices in a state may be more advantageous than either of them alone; but let us never pronounce vice in itself advantageous. Is it not very inconsistent for an author to assert in one page, that moral distinctions are inventions of politicians for public interest; and in the next page maintain, that vice is advantageous to the public<sup><a href='#n2'>[2]</a></sup>? And indeed it seems upon any system of morality, little less than a contradiction in terms, to talk of a vice, which is in general beneficial to society.</p>"
+      "content": "<p>Suppose the same number of men, that are at present in <b>Great Britain</b>, with the same soil and climate; I ask, is it not possible for them to be happier, by the most perfect way of life that can be imagined, and by the greatest reformation that Omnipotence itself could work in their temper and disposition? To assert, that they cannot, appears evidently ridiculous. As the land is able to maintain more than all its present inhabitants, they could never, in such a <b>Utopian</b> state, feel any other ills than those which arise from bodily sickness; and these are not the half of human miseries. All other ills spring from some vice, either in ourselves or others; and even many of our diseases proceed from the same origin. Remove the vices, and the ills follow. You must only take care to remove all the vices. If you remove part, you may render the matter worse. By banishing <em>vicious</em> luxury, without curing sloth and an indifference to others, you only diminish industry in the state, and add nothing to men's charity or their generosity. Let us, therefore, rest contented with asserting, that two opposite vices in a state may be more advantageous than either of them alone; but let us never pronounce vice in itself advantageous. Is it not very inconsistent for an author to assert in one page, that moral distinctions are inventions of politicians for public interest; and in the next page maintain, that vice is advantageous to the public<a href=\"#n2\"><sup>[2]</sup></a>? And indeed it seems upon any system of morality, little less than a contradiction in terms, to talk of a vice, which is in general beneficial to society.</p>"
     },
     {
       "id": "22",
@@ -101,10 +101,12 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "8",
       "content": "<p>The inscription on the <b>Place-de-Vendome</b> says 440,000.</p>"
     },
     {
       "id": "2",
+      "paragraph": "21",
       "content": "<p>Fable of the Bees.</p>"
     }
   ]

@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.3",
   "title": "Section 1. Of knowledge",
   "breadcrumb": "Section 1",
-  "fulltitle": "<h1>Section 1. Of knowledge</h1>",
+  "fulltitle": "<h3>SECT. I.</h3> <h4><em>Of knowledge.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/3/1.json",
@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": "1",
-      "content": "<p>THERE are<sup><a href='#n15'>[15]</a></sup> seven different kinds of philosophical relation, <em>viz. resemblance, identity, relations of time and place, proportion in quantity or number, degrees in any quality, contrariety, and causation</em>. These relations may be divided into two classes; into such as depend entirely on the ideas, which we compare together, and such as may be chang'd without any change in the ideas. 'Tis from the idea of a triangle, that we discover the relation of equality, which its three angles bear to two right ones; and this relation is invariable, as long as our idea remains the same. On the contrary, the relations of <em>contiguity</em> and <em>distance</em> betwixt two objects may be chang'd merely by an alteration of their place, without any change on the objects themselves or on their ideas; and the place  depends on a hundred different accidents, which cannot be foreseen by the mind. 'Tis the same case with <em>identity</em> and <em>causation</em>. Two objects, tho' perfectly resembling each other, and even appearing in the same place at different times, may be numerically different: And as the power, by which one object produces another, is never discoverable merely from their idea, 'tis evident <em>cause</em> and <em>effect</em> are relations, of which we receive information from experience, and not from any abstract reasoning or reflection. There is no single phænomenon, even the most simple, which can be accounted for from the qualities of the objects, as they appear to us; or which we cou'd foresee without the help of our memory and experience.</p>"
+      "content": "<p>THERE are<a href=\"#n15\"><sup>[15]</sup></a> seven different kinds of philosophical relation, <em>viz. resemblance, identity, relations of time and place, proportion in quantity or number, degrees in any quality, contrariety, and causation</em>. These relations may be divided into two classes; into such as depend entirely on the ideas, which we compare together, and such as may be chang'd without any change in the ideas. 'Tis from the idea of a triangle, that we discover the relation of equality, which its three angles bear to two right ones; and this relation is invariable, as long as our idea remains the same. On the contrary, the relations of <em>contiguity</em> and <em>distance</em> betwixt two objects may be chang'd merely by an alteration of their place, without any change on the objects themselves or on their ideas; and the place  depends on a hundred different accidents, which cannot be foreseen by the mind. 'Tis the same case with <em>identity</em> and <em>causation</em>. Two objects, tho' perfectly resembling each other, and even appearing in the same place at different times, may be numerically different: And as the power, by which one object produces another, is never discoverable merely from their idea, 'tis evident <em>cause</em> and <em>effect</em> are relations, of which we receive information from experience, and not from any abstract reasoning or reflection. There is no single phænomenon, even the most simple, which can be accounted for from the qualities of the objects, as they appear to us; or which we cou'd foresee without the help of our memory and experience.</p>"
     },
     {
       "id": "2",
@@ -41,6 +41,7 @@
   "notes": [
     {
       "id": "15",
+      "paragraph": "1",
       "content": "<p>Part I. Sect. 5.</p>"
     }
   ]

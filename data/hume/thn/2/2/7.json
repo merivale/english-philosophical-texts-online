@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.2",
   "title": "Section 7. Of compassion",
   "breadcrumb": "Section 7",
-  "fulltitle": "<h1>Section 7. Of compassion</h1>",
+  "fulltitle": "<h3>SECT. VII.</h3> <h4><em>Of compassion.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/2/7.json",
@@ -31,12 +31,13 @@
     },
     {
       "id": "6",
-      "content": "<p><b>We</b> have also instances, wherein an indifference and insensibility under misfortune encreases our concern for the misfortunate, even tho' the indifference proceed not from any virtue and magnanimity. 'Tis an aggravation of a murder, that it was committed upon persons asleep and in perfect security; as historians readily observe of any infant prince, who is captive in the hands of his enemies, that he is more worthy of compassion the less sensible he is of his miserable condition. As we ourselves are here acquainted with the wretched situation of the person, it gives us a lively idea and sensation of sorrow, which is the passion that <em>generally</em> attends it; and this idea becomes still more lively, and the sensation more violent by a contrast with that security and indifference, which we observe in the person himself. A contrast of any kind never fails to affect the imagination, especially when presented by the subject; and 'tis on the imagination that pity entirely depends<sup><a href='#n*'>[*]</a></sup>.</p>"
+      "content": "<p><b>We</b> have also instances, wherein an indifference and insensibility under misfortune encreases our concern for the misfortunate, even tho' the indifference proceed not from any virtue and magnanimity. 'Tis an aggravation of a murder, that it was committed upon persons asleep and in perfect security; as historians readily observe of any infant prince, who is captive in the hands of his enemies, that he is more worthy of compassion the less sensible he is of his miserable condition. As we ourselves are here acquainted with the wretched situation of the person, it gives us a lively idea and sensation of sorrow, which is the passion that <em>generally</em> attends it; and this idea becomes still more lively, and the sensation more violent by a contrast with that security and indifference, which we observe in the person himself. A contrast of any kind never fails to affect the imagination, especially when presented by the subject; and 'tis on the imagination that pity entirely depends<a href=\"#n*\"><sup>[*]</sup></a>.</p>"
     }
   ],
   "notes": [
     {
       "id": "*",
+      "paragraph": "6",
       "content": "<p>To prevent all ambiguity, I must observe, that where I oppose the imagination to the memory, I mean in general the faculty that presents our fainter ideas. In all other places, and particularly when it is oppos'd to the understanding, I understand the same faculty, excluding only our demonstrative and probable reasonings.</p>"
     }
   ]

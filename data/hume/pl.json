@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "The Platonist",
   "breadcrumb": "The Platonist",
-  "fulltitle": "<h1>The Platonist</h1>",
+  "fulltitle": "<h1>The <b>Platonist</b><sup><a href='#n1'>[1]</a></sup>.</h1>",
   "published": "1742",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/pl.json",
@@ -41,6 +41,7 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "",
       "content": "<p>Or, the man of contemplation, and <em>philosophical</em> devotion.</p>"
     }
   ]

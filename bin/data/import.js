@@ -1,9 +1,9 @@
 // dependencies
 const fs = require('fs')
-const tcp = require('./converters/tcp')
 const hto = require('./converters/hto')
-const oll = require('./converters/oll')
-const converters = { tcp, hto, oll }
+// const oll = require('./converters/oll')
+// const tcp = require('./converters/tcp')
+const converters = { hto }
 
 // command line arguments
 const path = process.argv[2]

@@ -3,7 +3,7 @@
   "parent": "Hume.DNR",
   "title": "Part 5",
   "breadcrumb": "Part 5",
-  "fulltitle": "<h1>Part 5</h1>",
+  "fulltitle": "<h1>PART V.</h1>",
   "published": "1779",
   "copytext": "1779",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/d/5.json",
@@ -15,7 +15,7 @@
     },
     {
       "id": "2",
-      "content": "<p>All the new discoveries in astronomy, which prove the immense grandeur and magnificence of the works of Nature, are so many additional arguments for a Deity, according to the true system of Theism: but according to your hypothesis of experimental Theism, they become so many objections, by removing the effect still farther from all resemblance to the effects of human art and contrivance. For if <b>Lucretius</b><sup><a href='#n5'>[5]</a></sup>, even following the old system of the world, could exclaim,</p> <blockquote>Quis regere immensi summam, quis habere profundi <br>Indu manu validas potis est moderanter habenas? <br>Quis pariter cœlos omnes convertere? et omnes <br>Ignibus ætheriis terras suffire feraces? <br>Omnibus inque locis esse omni tempore præsto?</blockquote> <p>If <em>Tully</em><sup><a href='#n6'>[6]</a></sup> esteemed this reasoning so natural as to put it into the mouth of his <b>Epicurean</b>. <em>Quibus enim oculis animi intueri potuit vester Plato fabricam illam tanti operis, qua construi a Deo atque ædificari mundum facit? quæ molitio? quæ ferramenta? qui vectes? quæ machinæ? qui ministri tanti muneris fuerunt? quemadmodum autem obedire et parere voluntati architecti aer, ignis, aqua, terra potuerunt?</em> If this argument, I say, had any force in former ages; how much greater must it have at present; when the bounds of Nature are so infinitely enlarged, and such a magnificent scene is opened to us? It is still more unreasonable to form our idea of so unlimited a cause from our experience of the narrow productions of human design and invention.</p>"
+      "content": "<p>All the new discoveries in astronomy, which prove the immense grandeur and magnificence of the works of Nature, are so many additional arguments for a Deity, according to the true system of Theism: but according to your hypothesis of experimental Theism, they become so many objections, by removing the effect still farther from all resemblance to the effects of human art and contrivance. For if <b>Lucretius</b><a href=\"#n5\"><sup>[5]</sup></a>, even following the old system of the world, could exclaim,</p> <blockquote>Quis regere immensi summam, quis habere profundi <br>Indu manu validas potis est moderanter habenas? <br>Quis pariter cœlos omnes convertere? et omnes <br>Ignibus ætheriis terras suffire feraces? <br>Omnibus inque locis esse omni tempore præsto?</blockquote> <p>If <em>Tully</em><a href=\"#n6\"><sup>[6]</sup></a> esteemed this reasoning so natural as to put it into the mouth of his <b>Epicurean</b>. <em>Quibus enim oculis animi intueri potuit vester Plato fabricam illam tanti operis, qua construi a Deo atque ædificari mundum facit? quæ molitio? quæ ferramenta? qui vectes? quæ machinæ? qui ministri tanti muneris fuerunt? quemadmodum autem obedire et parere voluntati architecti aer, ignis, aqua, terra potuerunt?</em> If this argument, I say, had any force in former ages; how much greater must it have at present; when the bounds of Nature are so infinitely enlarged, and such a magnificent scene is opened to us? It is still more unreasonable to form our idea of so unlimited a cause from our experience of the narrow productions of human design and invention.</p>"
     },
     {
       "id": "3",
@@ -31,7 +31,7 @@
     },
     {
       "id": "6",
-      "content": "<p><em>Secondly</em>, You have no reason, on your theory, for ascribing perfection to the Deity, even in his finite capacity; or for supposing him free from every error, mistake, or incoherence in his undertakings. There are many inexplicable difficulties in the works of Nature, which, if we allow a perfect author to be proved <em>apriori</em>, are easily solved, and become only seeming difficulties, from the narrow capacity of man, who cannot trace infinite relations. But according to your method of reasoning, these difficulties become all real; and perhaps will be insisted on, as new instances of likeness to human art and contrivance. At least, you must acknowledge, that it is impossible for us to tell, from our limited views, whether this system contains any great faults, or deserves any considerable praise, if compared to other possible, and even real systems. Could a peasant, if the <b>Aeneid</b> were read to him, pronounce that poem to be absolutely faultless, or even assign to it its proper rank among the productions of human wit; he, who had never seen any other production?</p>"
+      "content": "<p><em>Secondly</em>, You have no reason, on your theory, for ascribing perfection to the Deity, even in his finite capacity; or for supposing him free from every error, mistake, or incoherence in his undertakings. There are many inexplicable difficulties in the works of Nature, which, if we allow a perfect author to be proved <em>a priori</em>, are easily solved, and become only seeming difficulties, from the narrow capacity of man, who cannot trace infinite relations. But according to your method of reasoning, these difficulties become all real; and perhaps will be insisted on, as new instances of likeness to human art and contrivance. At least, you must acknowledge, that it is impossible for us to tell, from our limited views, whether this system contains any great faults, or deserves any considerable praise, if compared to other possible, and even real systems. Could a peasant, if the <b>Aeneid</b> were read to him, pronounce that poem to be absolutely faultless, or even assign to it its proper rank among the productions of human wit; he, who had never seen any other production?</p>"
     },
     {
       "id": "7",
@@ -65,11 +65,13 @@
   "notes": [
     {
       "id": "5",
-      "content": "<p><cite>Lib. <b>ii</b>. 1094.</cite></p>"
+      "paragraph": "2",
+      "content": "<p>Lib. <b>ii</b>. 1094.</p>"
     },
     {
       "id": "6",
-      "content": "<p><cite>De nat. Deor. lib. <b>i</b>.</cite></p>"
+      "paragraph": "2",
+      "content": "<p>De nat. Deor. lib. <b>i</b>.</p>"
     }
   ]
 }

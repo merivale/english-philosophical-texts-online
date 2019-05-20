@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.3",
   "title": "Section 8. Of the causes of belief",
   "breadcrumb": "Section 8",
-  "fulltitle": "<h1>Section 8. Of the causes of belief</h1>",
+  "fulltitle": "<h3>SECT. VIII.</h3> <h4><em>Of the causes of belief.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/3/8.json",
@@ -27,7 +27,7 @@
     },
     {
       "id": "5",
-      "content": "<p><b>We</b> may add force to these experiments by others of a different kind, in considering the effects of <em>contiguity</em>, as well as of <em>resemblance</em>. 'Tis certain, that distance diminishes the force of every idea, and that upon our approach to any object; tho' it does not discover itself to our senses; it operates upon the mind with an influence that imitates an immediate impression<sup><a href='#n21'>[21]</a></sup>. The thinking on any object readily transports the mind to what is contiguous; but 'tis only the actual presence of an object, that transports it with a superior vivacity. When I am a few miles from home, whatever relates to it touches me more nearly than when I am two hundred leagues distant; tho' even at that distance the reflecting on any thing in the neighbourhood of my friends and family naturally produces an idea of them. But as in this latter case, both the objects of the mind are ideas; not-withstanding there is an easy transition betwixt them; that transition alone is not able to give a superior vivacity to any of the ideas, for want of some immediate impression.</p>"
+      "content": "<p><b>We</b> may add force to these experiments by others of a different kind, in considering the effects of <em>contiguity</em>, as well as of <em>resemblance</em>. 'Tis certain, that distance diminishes the force of every idea, and that upon our approach to any object; tho' it does not discover itself to our senses; it operates upon the mind with an influence that imitates an immediate impression<a href=\"#n21\"><sup>[21]</sup></a>. The thinking on any object readily transports the mind to what is contiguous; but 'tis only the actual presence of an object, that transports it with a superior vivacity. When I am a few miles from home, whatever relates to it touches me more nearly than when I am two hundred leagues distant; tho' even at that distance the reflecting on any thing in the neighbourhood of my friends and family naturally produces an idea of them. But as in this latter case, both the objects of the mind are ideas; not-withstanding there is an easy transition betwixt them; that transition alone is not able to give a superior vivacity to any of the ideas, for want of some immediate impression.</p>"
     },
     {
       "id": "6",
@@ -81,6 +81,7 @@
   "notes": [
     {
       "id": "21",
+      "paragraph": "5",
       "content": "<p><em>Naturane nobis, inquit, datum dicam, an errore quodam, ut, cum ea loca videamus, in quibus memoria dignos viros acceperimus multum esse versatos, magis moveamur, quam siquando eorum ipsorum aut facta audiamus, aut scriptum aliquod legamus? velut ego nunc moveor. Venit enim mihi Platonis in mentem: quem accipimus primum hic disputare solitum: Cujus etiam illi hortuli propinqui non memoriam solum mihi afferunt, sed ipsum videntur in conspectu meo hic ponere. Hic Speusippus, hic Xenocrates, his ejus auditor Polemo; cujus ipsa illa sessio fuit, quam videamus. Equidem etiam curiam nostram, hostiliam dico, non hanc novam, quae mihi minor esse videtur postquam est major, solebam intuens Scipionem, Catonem, Laelium, nostrum vero in primis avum cogitare. Tanta vis admonitionis inest in locis; ut non sine causa ex his memoriae ducta sit disciplina.</em> Cicero de Finibus, lib. 5.</p>"
     }
   ]

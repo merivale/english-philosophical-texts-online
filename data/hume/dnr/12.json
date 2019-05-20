@@ -3,7 +3,7 @@
   "parent": "Hume.DNR",
   "title": "Part 12",
   "breadcrumb": "Part 12",
-  "fulltitle": "<h1>Part 12</h1>",
+  "fulltitle": "<h1>PART XII.</h1>",
   "published": "1779",
   "copytext": "1779",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/d/12.json",
@@ -19,7 +19,7 @@
     },
     {
       "id": "3",
-      "content": "<p>It is with pleasure I hear <b>Galen</b> reason concerning the structure of the human body. The anatomy of a man, says he<sup><a href='#n10'>[10]</a></sup>, discovers above 600 different muscles; and whoever duly considers these, will find, that in each of them Nature must have adjusted at least ten different circumstances, in order to attain the end which she proposed; proper figure, just magnitude, right disposition of the several ends, upper and lower position of the whole, the due insertion of the several nerves, veins, and arteries: So that in the muscles alone, above 6000 several views and intentions must have been formed and executed. The bones he calculates to be 284: The distinct purposes, aimed at in the structure of each, above forty. What a prodigious display of artifice, even in these simple and homogeneous parts? But if we consider the skin, ligaments, vessels, glandules, humours, the several limbs and members of the body; how must our astonishment rise upon us, in proportion to the number and intricacy of the parts so artificially adjusted? The farther we advance in these researches, we discover new scenes of art and wisdom: But descry still, at a distance, farther scenes beyond our reach; in the fine internal structure of the parts, in the œconomy of the brain, in the fabric of the seminal vessels. All these artifices are repeated in every different species of animal, with wonderful variety, and with exact propriety, suited to the different intentions of Nature, in framing each species. And if the infidelity of <b>Galen</b>, even when these natural sciences were still imperfect, could not withstand such striking appearances; to what pitch of pertinacious obstinacy must a philosopher in this age have attained, who can now doubt of a Supreme Intelligence?</p>"
+      "content": "<p>It is with pleasure I hear <b>Galen</b> reason concerning the structure of the human body. The anatomy of a man, says he<a href=\"#n10\"><sup>[10]</sup></a>, discovers above 600 different muscles; and whoever duly considers these, will find, that in each of them Nature must have adjusted at least ten different circumstances, in order to attain the end which she proposed; proper figure, just magnitude, right disposition of the several ends, upper and lower position of the whole, the due insertion of the several nerves, veins, and arteries: So that in the muscles alone, above 6000 several views and intentions must have been formed and executed. The bones he calculates to be 284: The distinct purposes, aimed at in the structure of each, above forty. What a prodigious display of artifice, even in these simple and homogeneous parts? But if we consider the skin, ligaments, vessels, glandules, humours, the several limbs and members of the body; how must our astonishment rise upon us, in proportion to the number and intricacy of the parts so artificially adjusted? The farther we advance in these researches, we discover new scenes of art and wisdom: But descry still, at a distance, farther scenes beyond our reach; in the fine internal structure of the parts, in the œconomy of the brain, in the fabric of the seminal vessels. All these artifices are repeated in every different species of animal, with wonderful variety, and with exact propriety, suited to the different intentions of Nature, in framing each species. And if the infidelity of <b>Galen</b>, even when these natural sciences were still imperfect, could not withstand such striking appearances; to what pitch of pertinacious obstinacy must a philosopher in this age have attained, who can now doubt of a Supreme Intelligence?</p>"
     },
     {
       "id": "4",
@@ -39,7 +39,7 @@
     },
     {
       "id": "8",
-      "content": "<p>And here I must also acknowledge, <b>Cleanthes</b>, that, as the works of Nature have a much greater analogy to the effects of <em>our</em> art and contrivance, than to those of <em>our</em> benevolence and justice; we have reason to infer that the natural attributes of the Deity have a greater resemblance to those of man, than his moral have to human virtues. But what is the consequence? Nothing but this, that the moral qualities of man are more defective in their kind than his natural abilities. For as the Supreme Being is allowed to be absolutely and entirely perfect, whatever differs most from him departs the farthest from the supreme standard of rectitude and perfection<sup><a href='#n11'>[11]</a></sup>.</p>"
+      "content": "<p>And here I must also acknowledge, <b>Cleanthes</b>, that, as the works of Nature have a much greater analogy to the effects of <em>our</em> art and contrivance, than to those of <em>our</em> benevolence and justice; we have reason to infer that the natural attributes of the Deity have a greater resemblance to those of man, than his moral have to human virtues. But what is the consequence? Nothing but this, that the moral qualities of man are more defective in their kind than his natural abilities. For as the Supreme Being is allowed to be absolutely and entirely perfect, whatever differs most from him departs the farthest from the supreme standard of rectitude and perfection<a href=\"#n11\"><sup>[11]</sup></a>.</p>"
     },
     {
       "id": "9",
@@ -99,7 +99,7 @@
     },
     {
       "id": "23",
-      "content": "<p>Oaths are requisite in all courts of judicature; but it is a question whether their authority arises from any popular religion. 'Tis the solemnity and importance of the occasion, the regard to reputation, and the reflecting on the general interests of society, which are the chief restraints upon mankind. Custom-house oaths and political oaths are but little regarded even by some who pretend to principles of honesty and religion: and a Quaker's asseveration is with us justly put upon the same footing with the oath of any other person. I know, that <b>Polybius</b><sup><a href='#n12'>[12]</a></sup> ascribes the infamy of <b>Greek</b> faith to the prevalency of the EPICUREAN philosophy; but I know also, that <b>Punic</b> faith had as bad a reputation in ancient times, as <b>Irish</b> evidence has in modern; though we cannot account for these vulgar observations by the same reason. Not to mention, that <b>Greek</b> faith was infamous before the rise of the <b>Epicurean</b> philosophy; and <b>Euripides</b><sup><a href='#n13'>[13]</a></sup>, in a passage which I shall point out to you, has glanced a remarkable stroke of satire against his nation, with regard to this circumstance.</p>"
+      "content": "<p>Oaths are requisite in all courts of judicature; but it is a question whether their authority arises from any popular religion. 'Tis the solemnity and importance of the occasion, the regard to reputation, and the reflecting on the general interests of society, which are the chief restraints upon mankind. Custom-house oaths and political oaths are but little regarded even by some who pretend to principles of honesty and religion: and a Quaker's asseveration is with us justly put upon the same footing with the oath of any other person. I know, that <b>Polybius</b><a href=\"#n12\"><sup>[12]</sup></a> ascribes the infamy of <b>Greek</b> faith to the prevalency of the EPICUREAN philosophy; but I know also, that <b>Punic</b> faith had as bad a reputation in ancient times, as <b>Irish</b> evidence has in modern; though we cannot account for these vulgar observations by the same reason. Not to mention, that <b>Greek</b> faith was infamous before the rise of the <b>Epicurean</b> philosophy; and <b>Euripides</b><a href=\"#n13\"><sup>[13]</sup></a>, in a passage which I shall point out to you, has glanced a remarkable stroke of satire against his nation, with regard to this circumstance.</p>"
     },
     {
       "id": "24",
@@ -149,18 +149,22 @@
   "notes": [
     {
       "id": "10",
+      "paragraph": "3",
       "content": "<p>De formatione fœtus.</p>"
     },
     {
       "id": "11",
+      "paragraph": "8",
       "content": "<p>It seems evident, that the dispute between the Sceptics and Dogmatists is entirely verbal, or at least regards only the degrees of doubt and assurance, which we ought to indulge with regard to all reasoning: And such disputes are commonly, at the bottom, verbal, and admit not of any precise determination. No philosophical Dogmatist denies, that there are difficulties both with regard to the senses and to all science; and that these difficulties are in a regular, logical method, absolutely insolvable. No Sceptic denies, that we lie under an absolute necessity, notwithstanding these difficulties, of thinking, and believing, and reasoning with regard to all kind of subjects, and even of frequently assenting with confidence and security. The only difference, then, between these sects, if they merit that name, is, that the Sceptic, from habit, caprice, or inclination, insists most on the difficulties; the Dogmatist, for like reasons, on the necessity.</p>"
     },
     {
       "id": "12",
+      "paragraph": "23",
       "content": "<p>Lib. 6. cap. 54.</p>"
     },
     {
       "id": "13",
+      "paragraph": "23",
       "content": "<p>Iphigenia in Tauride.</p>"
     }
   ]

@@ -3,7 +3,7 @@
   "parent": "Hume.DP",
   "title": "Section 2",
   "breadcrumb": "Section 2",
-  "fulltitle": "<h1>Section 2</h1>",
+  "fulltitle": "<h1>SECT II.</h1>",
   "published": "1757",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/p/2.json",
@@ -34,7 +34,7 @@
     {
       "id": "6",
       "before": "3.",
-      "content": "<p>In order to explain the causes of these passions, we must reflect on certain principles, which, though they have a mighty influence on every operation, both of the understanding and passions, are not commonly much insisted on by philosophers. The first of these is the <em>association</em> of ideas, or that principle, by which we make an easy transition from one idea to another. However uncertain and changeable our thoughts may be, they are not entirely without rule and method in their changes. They usually pass with regularity, from one object, to what resembles it, is contiguous to it, or produced by it<sup><a href='#n1'>[1]</a></sup>. When one idea is present to the imagination, any other, united by these relations, naturally follows it, and enters with more facility, by means of that introduction.</p>"
+      "content": "<p>In order to explain the causes of these passions, we must reflect on certain principles, which, though they have a mighty influence on every operation, both of the understanding and passions, are not commonly much insisted on by philosophers. The first of these is the <em>association</em> of ideas, or that principle, by which we make an easy transition from one idea to another. However uncertain and changeable our thoughts may be, they are not entirely without rule and method in their changes. They usually pass with regularity, from one object, to what resembles it, is contiguous to it, or produced by it<a href=\"#n1\"><sup>[1]</sup></a>. When one idea is present to the imagination, any other, united by these relations, naturally follows it, and enters with more facility, by means of that introduction.</p>"
     },
     {
       "id": "7",
@@ -46,7 +46,7 @@
     },
     {
       "id": "9",
-      "content": "<p>Upon this occasion I may cite a passage from an elegant writer, who expresses himself in the following manner<sup><a href='#n2'>[2]</a></sup>: <q>As the fancy delights in every thing, that is great, strange, or beautiful, and is still the more pleased the more it finds of these perfections in the <em>same</em> object, so it is capable of receiving new satisfaction by the assistance of another sense. Thus, any continual sound, as the music of birds, or a fall of waters, awakens every moment the mind of the beholder, and makes him more attentive to the several beauties of the place, that lie before him. Thus, if there arises a fragrancy of smells or perfumes, they heighten the pleasure of the imagination, and make even the colours and verdure of the landscape appear more agreeable; for the ideas of both senses recommend each other, and are pleasanter together than where they enter the mind separately: As the different colours of a picture, when they are well disposed, set off one another, and receive an additional beauty from the advantage of the situation.</q> In these phænomena, we may remark the association both of impressions and ideas; as well as the mutual assistance these associations lend to each other.</p>"
+      "content": "<p>Upon this occasion I may cite a passage from an elegant writer, who expresses himself in the following manner<a href=\"#n2\"><sup>[2]</sup></a>: <q>As the fancy delights in every thing, that is great, strange, or beautiful, and is still the more pleased the more it finds of these perfections in the <em>same</em> object, so it is capable of receiving new satisfaction by the assistance of another sense. Thus, any continual sound, as the music of birds, or a fall of waters, awakens every moment the mind of the beholder, and makes him more attentive to the several beauties of the place, that lie before him. Thus, if there arises a fragrancy of smells or perfumes, they heighten the pleasure of the imagination, and make even the colours and verdure of the landscape appear more agreeable; for the ideas of both senses recommend each other, and are pleasanter together than where they enter the mind separately: As the different colours of a picture, when they are well disposed, set off one another, and receive an additional beauty from the advantage of the situation.</q> In these phænomena, we may remark the association both of impressions and ideas; as well as the mutual assistance these associations lend to each other.</p>"
     },
     {
       "id": "10",
@@ -136,7 +136,7 @@
     {
       "id": "30",
       "before": "9.",
-      "content": "<p>But <em>property</em>, as it gives us the fullest power and authority over any object, is the relation, which has the greatest influence on these passions<sup><a href='#n3'>[3]</a></sup>.</p>"
+      "content": "<p>But <em>property</em>, as it gives us the fullest power and authority over any object, is the relation, which has the greatest influence on these passions<a href=\"#n3\"><sup>[3]</sup></a>.</p>"
     },
     {
       "id": "31",
@@ -212,18 +212,22 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "6",
       "content": "<p>See Enquiry concerning Human Understanding, Sect. III.</p>"
     },
     {
       "id": "2",
+      "paragraph": "9",
       "content": "<p><b>Addison</b>, Spectator, No. 412.</p>"
     },
     {
       "id": "3",
+      "paragraph": "30",
       "content": "<p>See NOTE [R].</p>"
     },
     {
       "id": "3.1",
+      "paragraph": "30",
       "content": "<p>THAT property is a species of <em>relation</em>, which produces a connexion between the person and the object is evident: The imagination passes naturally and easily from the consideration of a field to that of the person to whom it belongs. It may only be asked, how this relation is resolvable into any of those three, <em>viz.</em> <em>causation</em>, <em>contiguity</em>, and <em>resemblance</em>, which we have affirmed to be the only connecting principles among ideas. To be the proprietor of any thing is to be the sole person, who, by the laws of society, has a right to dispose of it, and to enjoy the benefit of it. This right has at least a tendency to procure the person the exercise of it; and in fact does commonly procure him that advantage. For rights which had no influence, and never took place, would be no rights at all. Now a person who disposes of an object, and reaps benefit from it, both produces, or may produce, effects on it, and is affected by it. Property therefore is a species of <em>causation</em>. It enables the person to produce alterations on the object, and it supposes that his condition is improved and altered by it. It is indeed the relation the most interesting of any, and occurs the most frequently to the mind.</p>"
     }
   ]

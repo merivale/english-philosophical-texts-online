@@ -3,7 +3,7 @@
   "parent": "Hume.THN.2.1",
   "title": "Section 10. Of property and riches",
   "breadcrumb": "Section 10",
-  "fulltitle": "<h1>Section 10. Of property and riches</h1>",
+  "fulltitle": "<h3>SECT. X.</h3> <h4><em>Of property and riches.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/1/10.json",
@@ -43,7 +43,7 @@
     },
     {
       "id": "9",
-      "content": "<p><b>But</b> this accounts not sufficiently for the satisfaction, which attends riches. A miser receives delight from his money; that is, from the <em>power</em> it affords him of procuring all the pleasures and conveniences of life, tho' he knows he has enjoy'd his riches for forty years without ever employing them; and consequently cannot conclude by any species of reasoning, that the real existence of these pleasures is nearer, than if he were entirely depriv'd of all his possessions. But tho' he cannot form any such conclusion in a way of reasoning concerning the nearer approach of the pleasure, 'tis certain he <em>imagines</em> it to approach nearer, whenever all external obstacles are remov'd, along with the more powerful motives of interest and danger, which oppose it. For farther satisfaction on this head I must refer to my account of the will, where I shall<sup><a href='#n57'>[57]</a></sup> explain that false sensation of liberty, which makes us imagine we can perform any thing, that is not very dangerous or destructive. Whenever any other person is under no strong obligations of interest to forbear any pleasure, we judge from <em>experience</em>, that the pleasure will exist, and that he will probably obtain it. But when ourselves are in that situation, we judge from an <em>illusion of the fancy</em>, that the pleasure is still closer and more immediate. The will seems to move easily every way, and casts a shadow or image of itself, even to that side, on which it did not settle. By means of this image the enjoyment seems to approach nearer to us, and gives us the same lively satisfaction, as if it were perfectly certain and unavoidable.</p>"
+      "content": "<p><b>But</b> this accounts not sufficiently for the satisfaction, which attends riches. A miser receives delight from his money; that is, from the <em>power</em> it affords him of procuring all the pleasures and conveniences of life, tho' he knows he has enjoy'd his riches for forty years without ever employing them; and consequently cannot conclude by any species of reasoning, that the real existence of these pleasures is nearer, than if he were entirely depriv'd of all his possessions. But tho' he cannot form any such conclusion in a way of reasoning concerning the nearer approach of the pleasure, 'tis certain he <em>imagines</em> it to approach nearer, whenever all external obstacles are remov'd, along with the more powerful motives of interest and danger, which oppose it. For farther satisfaction on this head I must refer to my account of the will, where I shall<a href=\"#n57\"><sup>[57]</sup></a> explain that false sensation of liberty, which makes us imagine we can perform any thing, that is not very dangerous or destructive. Whenever any other person is under no strong obligations of interest to forbear any pleasure, we judge from <em>experience</em>, that the pleasure will exist, and that he will probably obtain it. But when ourselves are in that situation, we judge from an <em>illusion of the fancy</em>, that the pleasure is still closer and more immediate. The will seems to move easily every way, and casts a shadow or image of itself, even to that side, on which it did not settle. By means of this image the enjoyment seems to approach nearer to us, and gives us the same lively satisfaction, as if it were perfectly certain and unavoidable.</p>"
     },
     {
       "id": "10",
@@ -61,6 +61,7 @@
   "notes": [
     {
       "id": "57",
+      "paragraph": "9",
       "content": "<p>Part III. Sect. 2.</p>"
     }
   ]

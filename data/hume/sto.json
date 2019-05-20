@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "The Stoic",
   "breadcrumb": "The Stoic",
-  "fulltitle": "<h1>The Stoic</h1>",
+  "fulltitle": "<h1>The <b>Stoic</b><sup><a href='#n1'>[1]</a></sup>.</h1>",
   "published": "1742",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/sto.json",
@@ -93,6 +93,7 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "",
       "content": "<p>Or the man of action and virtue.</p>"
     }
   ]

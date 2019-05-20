@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.3",
   "title": "Section 12. Of the probability of causes",
   "breadcrumb": "Section 12",
-  "fulltitle": "<h1>Section 12. Of the probability of causes</h1>",
+  "fulltitle": "<h3>SECT. XII.</h3> <h4><em>Of the probability of causes.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/3/12.json",
@@ -99,7 +99,7 @@
     },
     {
       "id": "23",
-      "content": "<p><b>I shall</b> conclude this subject with two reflections, which may deserve our attention. The <em>first</em> may be explain'd after this manner. When the mind forms a reasoning concerning any matter of fact, which is only probable, it casts its eye backward upon past experience, and transferring it to the future, is presented with so many contrary views of its object, of which those that are of the same kind uniting together, and running into one act of the mind, serve to fortify and inliven it. But suppose that this multitude of views or glimpses of an object proceeds not from experience, but from a voluntary act of the imagination; this effect does not follow, or at least, follows not in the same degree. For tho' custom and education produce belief by such a repetition, as is not deriv'd from experience, yet this requires a long tract of time, along with a very frequent and <em>undesign'd</em> repetition. In general we may pronounce, that a person, who wou'd<sup><a href='#n23'>[23]</a></sup> <em>voluntarily</em> repeat any idea in his mind, tho' supported by one past experience, wou'd be no more inclin'd to believe the existence of its object, than if he had contented himself with one survey of it. Beside the effect of design; each act of the mind, being separate and independent, has a separate influence, and joins not its force with that of its fellows. Not being united by any common object, producing them, they have no relation to each other; and consequently make no transition or union of forces. This phænomenon we shall understand better afterwards.</p>"
+      "content": "<p><b>I shall</b> conclude this subject with two reflections, which may deserve our attention. The <em>first</em> may be explain'd after this manner. When the mind forms a reasoning concerning any matter of fact, which is only probable, it casts its eye backward upon past experience, and transferring it to the future, is presented with so many contrary views of its object, of which those that are of the same kind uniting together, and running into one act of the mind, serve to fortify and inliven it. But suppose that this multitude of views or glimpses of an object proceeds not from experience, but from a voluntary act of the imagination; this effect does not follow, or at least, follows not in the same degree. For tho' custom and education produce belief by such a repetition, as is not deriv'd from experience, yet this requires a long tract of time, along with a very frequent and <em>undesign'd</em> repetition. In general we may pronounce, that a person, who wou'd<a href=\"#n23\"><sup>[23]</sup></a> <em>voluntarily</em> repeat any idea in his mind, tho' supported by one past experience, wou'd be no more inclin'd to believe the existence of its object, than if he had contented himself with one survey of it. Beside the effect of design; each act of the mind, being separate and independent, has a separate influence, and joins not its force with that of its fellows. Not being united by any common object, producing them, they have no relation to each other; and consequently make no transition or union of forces. This phænomenon we shall understand better afterwards.</p>"
     },
     {
       "id": "24",
@@ -113,6 +113,7 @@
   "notes": [
     {
       "id": "23",
+      "paragraph": "23",
       "content": "<p>Page 9, 10. [T 0.10, SBN xviii-ix]</p>"
     }
   ]

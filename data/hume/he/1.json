@@ -3,7 +3,7 @@
   "parent": "Hume.HE.Vol1",
   "title": "Chapter 1. The Britons, Romans, Saxons",
   "breadcrumb": "Chapter 1",
-  "fulltitle": "<h1>Chapter 1. The Britons, Romans, Saxons</h1>",
+  "fulltitle": "<h2>CHAP. I.</h2> <h1>The BRITONS, ROMANS, SAXONS.</h1> <p><em>The Britons——Romans——Saxons——the Heptarchy——The Kingdom of Kent——of Northumberland——of East–Anglia——of Mercia——of Essex——of Sussex——of Wessex</em></p>",
   "published": "1762",
   "copytext": "1778",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/h/1.json",
@@ -33,15 +33,15 @@
     {
       "id": "6",
       "title": "<h2>The ROMANS.</h2>",
-      "content": "<p>THE Britons had long remained in this rude but independent state, when Caesar, having over-run all Gaul by his victories, first cast his eye on their island. He was not allured either by its riches or its renown; but being ambitious of carrying the Roman arms into a new world, then mostly unknown, he took advantage of a short interval in his Gaulic wars, and made an invasion on Britain. The natives, informed of his intention, were sensible of the unequal contest, and endeavoured to appease him by submissions, which, however, retarded not the execution of his design. After some resistance, he landed, as is supposed, at Deal; and having obtained several advantages over the Britons and obliged them to promise hostages for their future obedience, <label>Anno ante C. 55.</label> he was constrained, by the necessity of his affairs, and the approach of winter, to withdraw his forces into Gaul. The Britons, relieved from the terror of his arms, neglected the performance of their stipulations; and that haughty conqueror resolved next summer to chastise them for this breach of treaty. He landed with a greater force; and though he found a more regular resistance from the Britons, who had united under Cassivelaunus, one of their petty princes; he discomfited them in every action. He advanced into the country; passed the Thames in the face of the enemy; took and burned the capital of Cassivelaunus; established his ally, Mandubratius, in the sovereignty of the Trinobantes; and having obliged the inhabitants to make him new submissions, he again returned with his army into Gaul, and left the authority of the Romans more nominal than real in this island.</p>"
+      "content": "<p>THE Britons had long remained in this rude but independent state, when Caesar, having over-run all Gaul by his victories, first cast his eye on their island. He was not allured either by its riches or its renown; but being ambitious of carrying the Roman arms into a new world, then mostly unknown, he took advantage of a short interval in his Gaulic wars, and made an invasion on Britain. The natives, informed of his intention, were sensible of the unequal contest, and endeavoured to appease him by submissions, which, however, retarded not the execution of his design. After some resistance, he landed, as is supposed, at Deal; and having obtained several advantages over the Britons and obliged them to promise hostages for their future obedience, <label><small>Anno ante C. 55.</small></label> he was constrained, by the necessity of his affairs, and the approach of winter, to withdraw his forces into Gaul. The Britons, relieved from the terror of his arms, neglected the performance of their stipulations; and that haughty conqueror resolved next summer to chastise them for this breach of treaty. He landed with a greater force; and though he found a more regular resistance from the Britons, who had united under Cassivelaunus, one of their petty princes; he discomfited them in every action. He advanced into the country; passed the Thames in the face of the enemy; took and burned the capital of Cassivelaunus; established his ally, Mandubratius, in the sovereignty of the Trinobantes; and having obliged the inhabitants to make him new submissions, he again returned with his army into Gaul, and left the authority of the Romans more nominal than real in this island.</p>"
     },
     {
       "id": "7",
-      "content": "<p><b>The</b> civil wars, which ensued, and which prepared the way for the establishment of monarchy in Rome, saved the Britons from that yoke, which was ready to be imposed upon them. Augustus, the successor of Caesar, content with the victory obtained over the liberties of his own country, was little ambitious of acquiring fame by foreign wars; and being apprehensive lest the same unlimited extent of dominion, which had subverted the republic, might also overwhelm the empire, he recommended it to his successors never to enlarge the territories of the Romans. Tiberius, jealous of the fame, which might be acquired by his generals, made this advice of Augustus a pretence for his inactivity<a href=\"#n10\"><sup>[10]</sup></a>. The mad sallies of Caligula, in which he menaced Britain with an invasion, served only to expose himself and the empire to ridicule: And the Britons had now, during almost a century, enjoyed their liberty unmolested; when the Romans, in the reign of Claudius, began to think seriously of reducing them under their dominion. Without seeking any more justifiable reasons of hostility than were employed by the late Europeans in subjecting the Africans and Americans, <label>A.D. 43.</label> they sent over an army under the command of Plautius, an able general, who gained some victories, and made a considerable progress in subduing the inhabitants. Claudius himself, finding matters sufficiently prepared for his reception, made a journey into Britain; and received the submission of several British states, the Cantii, Atrebates, Regni, and Trinobantes, who inhabited the southeast parts of the island, and whom their possessions and more cultivated manner of life rendered willing to purchase peace at the expence of their liberty. The other Britons, under the command of Caractacus, still maintained an obstinate resistance, and the Romans made little progress against them; till Ostorius Scapula was sent over to command their armies. <label>A.D. 50.</label> This general advanced the Roman conquests over the Britons; pierced into the country of the Silures, a warlike nation, who inhabited the banks of the Severne; defeated Caractacus in a great battle; took him prisoner, and sent him to Rome, where his magnanimous behaviour procured him better treatment than those conquerors usually bestowed on captive princes<a href=\"#n11\"><sup>[11]</sup></a>.</p>"
+      "content": "<p><b>The</b> civil wars, which ensued, and which prepared the way for the establishment of monarchy in Rome, saved the Britons from that yoke, which was ready to be imposed upon them. Augustus, the successor of Caesar, content with the victory obtained over the liberties of his own country, was little ambitious of acquiring fame by foreign wars; and being apprehensive lest the same unlimited extent of dominion, which had subverted the republic, might also overwhelm the empire, he recommended it to his successors never to enlarge the territories of the Romans. Tiberius, jealous of the fame, which might be acquired by his generals, made this advice of Augustus a pretence for his inactivity<a href=\"#n10\"><sup>[10]</sup></a>. The mad sallies of Caligula, in which he menaced Britain with an invasion, served only to expose himself and the empire to ridicule: And the Britons had now, during almost a century, enjoyed their liberty unmolested; when the Romans, in the reign of Claudius, began to think seriously of reducing them under their dominion. Without seeking any more justifiable reasons of hostility than were employed by the late Europeans in subjecting the Africans and Americans, <label><small>A.D. 43.</small></label> they sent over an army under the command of Plautius, an able general, who gained some victories, and made a considerable progress in subduing the inhabitants. Claudius himself, finding matters sufficiently prepared for his reception, made a journey into Britain; and received the submission of several British states, the Cantii, Atrebates, Regni, and Trinobantes, who inhabited the southeast parts of the island, and whom their possessions and more cultivated manner of life rendered willing to purchase peace at the expence of their liberty. The other Britons, under the command of Caractacus, still maintained an obstinate resistance, and the Romans made little progress against them; till Ostorius Scapula was sent over to command their armies. <label><small>A.D. 50.</small></label> This general advanced the Roman conquests over the Britons; pierced into the country of the Silures, a warlike nation, who inhabited the banks of the Severne; defeated Caractacus in a great battle; took him prisoner, and sent him to Rome, where his magnanimous behaviour procured him better treatment than those conquerors usually bestowed on captive princes<a href=\"#n11\"><sup>[11]</sup></a>.</p>"
     },
     {
       "id": "8",
-      "content": "<p><b>Notwithstanding</b> these misfortunes, the Britons were not subdued; and this island was regarded by the ambitious Romans as a field in which military honour might still be acquired. Under the reign of Nero, <label>A.D. 59.</label> Suetonius Paulinus was invested with the command, and prepared to signalize his name by victories over those barbarians. Finding that the island of Mona, now Anglesey, was the chief seat of the Druids, he resolved to attack it, and to subject a place, which was the center of their superstition, and which afforded protection to all their baffled forces. The Britons endeavoured to obstruct his landing on this sacred island, both by the force of their arms and the terrors of their religion. The women and priests were intermingled with the soldiers upon the shore; and running about with flaming torches in their hands, and tossing their dishevelled hair, they struck greater terror into the astonished Romans by their howlings, cries, and execrations, than the real danger from the armed forces was able to inspire. But Suetonius, exhorting his troops to despise the menaces of a superstition, which they despised, impelled them to the attack, drove the Britons off the field, burned the Druids in the same fires which those priests had prepared for their captive enemies, destroyed all the consecrated groves and altars; and, having thus triumphed over the religion of the Britons, he thought his future progress would be easy, in reducing the people to subjection. But he was disappointed in his expectations. The Britons, taking advantage of his absence, were all in arms; and headed by Boadicea, queen of the Iceni, who had been treated in the most ignominious manner by the Roman tribunes, had already attacked with success several settlements of their insulting conquerors. Suetonius hastened to the protection of London, which was already a flourishing Roman colony; but he found on his arrival, that it would be requisite for the general safety to abandon that place to the merciless fury of the enemy. London was reduced to ashes; such of the inhabitants as remained in it, were cruelly massacred; the Romans and all strangers, to the number of 70,000, were every where put to the sword without distinction; and the Britons, by rendering the war thus bloody, seemed determined to cut off all hopes of peace or composition with the enemy. But this cruelty was revenged by Suetonius in a great and decisive battle, where 80,000 of the Britons are said to have perished; and Boadicea herself, rather than fall into the hands of the enraged victor, put an end to her own life by poison<a href=\"#n12\"><sup>[12]</sup></a>. Nero soon after recalled Suetonius from a government, where, by suffering and inflicting so many severities, he was judged improper for composing the angry and alarmed minds of the inhabitants. After some interval, Cerealis received the command from Vespasian, and by his bravery propagated the terror of the Roman arms. Julius Frontinus succeeded Cerealis both in authority and in reputation: But the general, who finally established the dominion of the Romans in this island, was Julius Agricola, who governed it in the reigns of Vespasian, Titus, and Domitian, and distinguished himself in that scene of action.</p>"
+      "content": "<p><b>Notwithstanding</b> these misfortunes, the Britons were not subdued; and this island was regarded by the ambitious Romans as a field in which military honour might still be acquired. Under the reign of Nero, <label><small>A.D. 59.</small></label> Suetonius Paulinus was invested with the command, and prepared to signalize his name by victories over those barbarians. Finding that the island of Mona, now Anglesey, was the chief seat of the Druids, he resolved to attack it, and to subject a place, which was the center of their superstition, and which afforded protection to all their baffled forces. The Britons endeavoured to obstruct his landing on this sacred island, both by the force of their arms and the terrors of their religion. The women and priests were intermingled with the soldiers upon the shore; and running about with flaming torches in their hands, and tossing their dishevelled hair, they struck greater terror into the astonished Romans by their howlings, cries, and execrations, than the real danger from the armed forces was able to inspire. But Suetonius, exhorting his troops to despise the menaces of a superstition, which they despised, impelled them to the attack, drove the Britons off the field, burned the Druids in the same fires which those priests had prepared for their captive enemies, destroyed all the consecrated groves and altars; and, having thus triumphed over the religion of the Britons, he thought his future progress would be easy, in reducing the people to subjection. But he was disappointed in his expectations. The Britons, taking advantage of his absence, were all in arms; and headed by Boadicea, queen of the Iceni, who had been treated in the most ignominious manner by the Roman tribunes, had already attacked with success several settlements of their insulting conquerors. Suetonius hastened to the protection of London, which was already a flourishing Roman colony; but he found on his arrival, that it would be requisite for the general safety to abandon that place to the merciless fury of the enemy. London was reduced to ashes; such of the inhabitants as remained in it, were cruelly massacred; the Romans and all strangers, to the number of 70,000, were every where put to the sword without distinction; and the Britons, by rendering the war thus bloody, seemed determined to cut off all hopes of peace or composition with the enemy. But this cruelty was revenged by Suetonius in a great and decisive battle, where 80,000 of the Britons are said to have perished; and Boadicea herself, rather than fall into the hands of the enraged victor, put an end to her own life by poison<a href=\"#n12\"><sup>[12]</sup></a>. Nero soon after recalled Suetonius from a government, where, by suffering and inflicting so many severities, he was judged improper for composing the angry and alarmed minds of the inhabitants. After some interval, Cerealis received the command from Vespasian, and by his bravery propagated the terror of the Roman arms. Julius Frontinus succeeded Cerealis both in authority and in reputation: But the general, who finally established the dominion of the Romans in this island, was Julius Agricola, who governed it in the reigns of Vespasian, Titus, and Domitian, and distinguished himself in that scene of action.</p>"
     },
     {
       "id": "9",
@@ -119,7 +119,7 @@
     },
     {
       "id": "27",
-      "content": "<p><b>The</b> first Saxon state, after that of Kent, which was established in Britain, was the kingdom of South-Saxony. In the year 477<a href=\"#n41\"><sup>[41]</sup></a>, Aella, a Saxon chief, brought over an army from Germany; and landing on the southern coast, proceeded to take possession of the neighbouring territory. The Britons, now armed, did not tamely abandon their possessions; nor were they expelled, till defeated in many battles by their warlike invaders. The most memorable action, mentioned by historians, is that of Mearcredes-Burn<a href=\"#n42\"><sup>[42]</sup></a>; where, though the Saxons seem to have obtained the victory, they suffered so considerable a loss, as somewhat retarded the progress of their conquests. But Aella, reinforced by fresh numbers of his countrymen, again took the field against the Britons; and laid siege to Andred-Ceaster, which was defended by the garrison and inhabitants with desperate valour<a href=\"#n43\"><sup>[43]</sup></a>. The Saxons, enraged by this resistance, and by the fatigues and dangers which they had sustained, redoubled their efforts against the place, and when masters of it, put all their enemies to the sword without distinction. This decisive advantage secured the conquests of Aella, who assumed the name of King, and extended his dominion over Sussex and a great part of Surrey. He was stopped in his progress to the east by the kingdom of Kent: In that to the west by another tribe of Saxons, who had taken possession of that territory.</p>"
+      "content": "<p><b>The</b> first Saxon state, after that of Kent, which was established in Britain, was the kingdom of South-Saxony. In the year 477<a href=\"#n41\"><sup>[41]</sup></a>, Ælla, a Saxon chief, brought over an army from Germany; and landing on the southern coast, proceeded to take possession of the neighbouring territory. The Britons, now armed, did not tamely abandon their possessions; nor were they expelled, till defeated in many battles by their warlike invaders. The most memorable action, mentioned by historians, is that of Mearcredes-Burn<a href=\"#n42\"><sup>[42]</sup></a>; where, though the Saxons seem to have obtained the victory, they suffered so considerable a loss, as somewhat retarded the progress of their conquests. But Ælla, reinforced by fresh numbers of his countrymen, again took the field against the Britons; and laid siege to Andred-Ceaster, which was defended by the garrison and inhabitants with desperate valour<a href=\"#n43\"><sup>[43]</sup></a>. The Saxons, enraged by this resistance, and by the fatigues and dangers which they had sustained, redoubled their efforts against the place, and when masters of it, put all their enemies to the sword without distinction. This decisive advantage secured the conquests of Ælla, who assumed the name of King, and extended his dominion over Sussex and a great part of Surrey. He was stopped in his progress to the east by the kingdom of Kent: In that to the west by another tribe of Saxons, who had taken possession of that territory.</p>"
     },
     {
       "id": "28",
@@ -131,7 +131,7 @@
     },
     {
       "id": "30",
-      "content": "<p><b>The</b> Saxons, soon after the landing of Hengist, had been planted in Northumberland; but as they met with an obstinate resistance, and made but small progress in subduing the inhabitants, their affairs were in so unsettled a condition, that none of their princes for a long time assumed the appellation of king. At last in 547<a href=\"#n50\"><sup>[50]</sup></a>, Ida, a Saxon prince of great valour<a href=\"#n51\"><sup>[51]</sup></a>, who claimed a descent, as did all the other princes of that nation, from Woden, brought over a reinforcement from Germany, and enabled the Northumbrians to carry on their conquests over the Britons. He entirely subdued the county now called Northumberland, the bishopric of Durham, as well as some of the south-east counties of Scotland; and he assumed the crown under the title of king of Bernicia. Nearly about the same time, Aella, another Saxon prince, having conquered Lancashire, and the greater part of Yorkshire, received the appellation of king of Deiri<a href=\"#n52\"><sup>[52]</sup></a>. These two kingdoms were united in the person of Ethelfrid, grandson of Ida, who married Acca, the daughter of Aella; and expelling her brother, Edwin, established one of the most powerful of the Saxon kingdoms, by the title of Northumberland. How far his dominions extended into the country now called Scotland is uncertain; but it cannot be doubted, that all the lowlands, especially the east-coast of that country, were peopled in a great measure from Germany; though the expeditions, made by the several Saxon adventurers, have escaped the records of history. The language, spoken in those countries, which is purely Saxon, is a stronger proof of this event, than can be opposed by the imperfect, or rather fabulous annals, which are obtruded on us by the Scottish historians.</p>"
+      "content": "<p><b>The</b> Saxons, soon after the landing of Hengist, had been planted in Northumberland; but as they met with an obstinate resistance, and made but small progress in subduing the inhabitants, their affairs were in so unsettled a condition, that none of their princes for a long time assumed the appellation of king. At last in 547<a href=\"#n50\"><sup>[50]</sup></a>, Ida, a Saxon prince of great valour<a href=\"#n51\"><sup>[51]</sup></a>, who claimed a descent, as did all the other princes of that nation, from Woden, brought over a reinforcement from Germany, and enabled the Northumbrians to carry on their conquests over the Britons. He entirely subdued the county now called Northumberland, the bishopric of Durham, as well as some of the south-east counties of Scotland; and he assumed the crown under the title of king of Bernicia. Nearly about the same time, Ælla, another Saxon prince, having conquered Lancashire, and the greater part of Yorkshire, received the appellation of king of Deiri<a href=\"#n52\"><sup>[52]</sup></a>. These two kingdoms were united in the person of Ethelfrid, grandson of Ida, who married Acca, the daughter of Ælla; and expelling her brother, Edwin, established one of the most powerful of the Saxon kingdoms, by the title of Northumberland. How far his dominions extended into the country now called Scotland is uncertain; but it cannot be doubted, that all the lowlands, especially the east-coast of that country, were peopled in a great measure from Germany; though the expeditions, made by the several Saxon adventurers, have escaped the records of history. The language, spoken in those countries, which is purely Saxon, is a stronger proof of this event, than can be opposed by the imperfect, or rather fabulous annals, which are obtruded on us by the Scottish historians.</p>"
     },
     {
       "id": "31",
@@ -140,12 +140,12 @@
     },
     {
       "id": "32",
-      "content": "<p><b>So</b> long as the contest was maintained with the natives, the several Saxon princes preserved a union of counsels and interests; but after the Britons were shut up in the barren countries of Cornwal and Wales, and gave no farther disturbance to the conquerors, the band of alliance was in a great measure dissolved among the princes of the Heptarchy. Though one prince seems still to have been allowed, or to have assumed, an ascendant over the whole, his authority, if it ought ever to be deemed regular or legal, was extremely limited; and each state acted as if it had been independant, and wholly separate from the rest. Wars, therefore, and revolutions and dissensions were unavoidable among a turbulent and military people; and these events, however intricate or confused, ought now to become the objects of our attention. But, added to the difficulty of carrying on at once the history of seven independant kingdoms, there is great discouragement to a writer, arising from the uncertainty, at least barrenness, of the accounts transmitted to us. The Monks, who were the only annalists during those ages, lived remote from public affairs, considered the civil transactions as entirely subordinate to the ecclesiastical, and besides partaking of the ignorance and barbarity, which were then universal, were strongly infected with credulity, with the love of wonder, and with a propensity to imposture; vices almost inseparable from their profession, and manner of life. The history of that period abounds in names, but is extremely barren of events; or the events are related so much without circumstances and causes, that the most profound or most eloquent writer must despair of rendering them either instructive or entertaining to the reader. Even the great learning and vigorous imagination of Milton sunk under the weight; and this author scruples not to declare, that the skirmishes of kites or crows as much merited a particular narrative, as the confused transactions and battles of the Saxon Heptarchy<a href=\"#n54\"><sup>[54]</sup></a>. In order, however, to connect the events in some tolerable measure, we shall give a succinct account of the successions of kings, and of the more remarkable revolutions in each particular kingdom; beginning with that of Kent, which was the fiat established.</p>"
+      "content": "<p><b>So</b> long as the contest was maintained with the natives, the several Saxon princes preserved a union of counsels and interests; but after the Britons were shut up in the barren countries of Cornwal and Wales, and gave no farther disturbance to the conquerors, the band of alliance was in a great measure dissolved among the princes of the Heptarchy. Though one prince seems still to have been allowed, or to have assumed, an ascendant over the whole, his authority, if it ought ever to be deemed regular or legal, was extremely limited; and each state acted as if it had been independant, and wholly separate from the rest. Wars, therefore, and revolutions and dissensions were unavoidable among a turbulent and military people; and these events, however intricate or confused, ought now to become the objects of our attention. But, added to the difficulty of carrying on at once the history of seven independant kingdoms, there is great discouragement to a writer, arising from the uncertainty, at least barrenness, of the accounts transmitted to us. The Monks, who were the only annalists during those ages, lived remote from public affairs, considered the civil transactions as entirely subordinate to the ecclesiastical, and besides partaking of the ignorance and barbarity, which were then universal, were strongly infected with credulity, with the love of wonder, and with a propensity to imposture; vices almost inseparable from their profession, and manner of life. The history of that period abounds in names, but is extremely barren of events; or the events are related so much without circumstances and causes, that the most profound or most eloquent writer must despair of rendering them either instructive or entertaining to the reader. Even the great learning and vigorous imagination of Milton sunk under the weight; and this author scruples not to declare, that the skirmishes of kites or crows as much merited a particular narrative, as the confused transactions and battles of the Saxon Heptarchy<a href=\"#n54\"><sup>[54]</sup></a>. In order, however, to connect the events in some tolerable measure, we shall give a succinct account of the successions of kings, and of the more remarkable revolutions in each particular kingdom; beginning with that of Kent, which was the first established.</p>"
     },
     {
       "id": "33",
       "title": "<h2>The Kingdom of KENT.</h2>",
-      "content": "<p>ECUS succeeded his father, Hengist, in the kingdom of Kent; but seems not to have possessed the military genius of that conqueror, who first made way for the entrance of the Saxon arms into Britain. All the Saxons, who sought either the fame of valour, or new establishments by arms, flocked to the standard of Aella, king of Sussex, who was carrying on successful war against the Britons, and laying the foundations of a new kingdom. Escus was content to possess in tranquillity the kingdom of Kent, which he left in 512 to his son Octa, in whose time the East-Saxons established their monarchy, and dismembered the provinces of Essex and Middlesex from that of Kent. His death, after a reign of twenty-two years, made room for his son Hermenric in 534, who performed nothing memorable during a reign of thirty-two years; except associating with him his son, Ethelbert, in the government, that he might secure the succession in his family, and prevent such revolutions as are incident to a turbulent and barbarous monarchy.</p>"
+      "content": "<p>ESCUS succeeded his father, Hengist, in the kingdom of Kent; but seems not to have possessed the military genius of that conqueror, who first made way for the entrance of the Saxon arms into Britain. All the Saxons, who sought either the fame of valour, or new establishments by arms, flocked to the standard of Ælla, king of Sussex, who was carrying on successful war against the Britons, and laying the foundations of a new kingdom. Escus was content to possess in tranquillity the kingdom of Kent, which he left in 512 to his son Octa, in whose time the East-Saxons established their monarchy, and dismembered the provinces of Essex and Middlesex from that of Kent. His death, after a reign of twenty-two years, made room for his son Hermenric in 534, who performed nothing memorable during a reign of thirty-two years; except associating with him his son, Ethelbert, in the government, that he might secure the succession in his family, and prevent such revolutions as are incident to a turbulent and barbarous monarchy.</p>"
     },
     {
       "id": "34",
@@ -165,7 +165,7 @@
     },
     {
       "id": "38",
-      "content": "<p><b>It</b> happened, that this prelate, at that time in a private station, had observed in the market-place of Rome some Saxon youth exposed to sale, whom the Roman merchants, in their trading voyages to Britain, had bought of their mercenary parents. Struck with the beauty of their fair complexions and blooming countenances, Gregory asked to what country they belonged; and being told they were <em>Angles,</em> he replied, that they ought more properly to be denominated <em>angels:</em> It were a pity that the Prince of Darkness should enjoy so fair a prey, and that so beautiful a frontispiece should cover a mind destitute of internal grace and righteousness. Enquiring farther concerning the name of their province, he was informed, that it was Deïri, a district of Northumberland: <em>Deïri!</em> replied he, <em>that is good! They are called to the mercy of God from his anger,</em> De ira. <em>But what is the name of the king of that province?</em> He was told it was <em>Aella</em> or <em>Alla Alleluiah,</em> cried he:<em> We must endeavour, that the praises of God be sung in their country.</em> Moved by these allusions, which appeared to him so happy, he determined to undertake, himself, a mission into Britain; and having obtained the Pope's approbation, he prepared for that perilous journey: But his popularity at home was so great, that the Romans, unwilling to expose him to such dangers, opposed his design; and he was obliged for the present to lay aside all farther thoughts of executing that pious purpose<a href=\"#n59\"><sup>[59]</sup></a>.</p>"
+      "content": "<p><b>It</b> happened, that this prelate, at that time in a private station, had observed in the market-place of Rome some Saxon youth exposed to sale, whom the Roman merchants, in their trading voyages to Britain, had bought of their mercenary parents. Struck with the beauty of their fair complexions and blooming countenances, Gregory asked to what country they belonged; and being told they were <em>Angles,</em> he replied, that they ought more properly to be denominated <em>angels:</em> It were a pity that the Prince of Darkness should enjoy so fair a prey, and that so beautiful a frontispiece should cover a mind destitute of internal grace and righteousness. Enquiring farther concerning the name of their province, he was informed, that it was Deïri, a district of Northumberland: <em>Deïri!</em> replied he, <em>that is good! They are called to the mercy of God from his anger,</em> De ira. <em>But what is the name of the king of that province?</em> He was told it was <em>Ælla</em> or <em>Alla Alleluiah,</em> cried he: <em>We must endeavour, that the praises of God be sung in their country.</em> Moved by these allusions, which appeared to him so happy, he determined to undertake, himself, a mission into Britain; and having obtained the Pope's approbation, he prepared for that perilous journey: But his popularity at home was so great, that the Romans, unwilling to expose him to such dangers, opposed his design; and he was obliged for the present to lay aside all farther thoughts of executing that pious purpose<a href=\"#n59\"><sup>[59]</sup></a>.</p>"
     },
     {
       "id": "39",
@@ -206,7 +206,7 @@
     {
       "id": "48",
       "title": "<h2>The Kingdom of NORTHUMBERLAND.</h2>",
-      "content": "<p>AD<b>elfrid</b>, king of Bernicia, having married Acca, the daughter of Aella, king of Deïri, and expelled her infant brother, Edwin, had united all the counties north of Humber into one monarchy, and acquired a great ascendant in the Heptarchy. He also spread the terror of the Saxon arms to the neighbouring people; and by his victories over the Scots and Picts, as well as Welsh, extended on all sides the bounds of his dominions. Having laid siege to Chester, the Britons marched out with all their forces to engage him; and they were attended by a body of 1250 monks from the monastery of Bangor, who stood at a small distance from the field of battle, in order to encourage the combatants by their presence and exhortations. Adelfrid enquiring the purpose of this unusual appearance, was told, that these priests had come to pray against him: <em>Then are they as such our enemies,</em> said he, <em>as those who intend to fight against us<a href=\"#n86\"><sup>[86]</sup></a>:</em> And he immediately sent a detachment, who fell upon them, and did such execution, that only fifty escaped with their lives<a href=\"#n84\"><sup>[84]</sup></a>. The Britons, astonished at this event, received a total defeat: Chester was obliged to surrender: and Adelfrid, pursuing his victory, made himself master of Bangor, and entirely demolished the monastery; a building so extensive, that there was a mile's distance from one gate of it to another; and it contained two thousand one hundred monks, who are said to have been there maintained by their own labour<a href=\"#n85\"><sup>[85]</sup></a>.</p>"
+      "content": "<p>AD<b>elfrid</b>, king of Bernicia, having married Acca, the daughter of Ælla, king of Deïri, and expelled her infant brother, Edwin, had united all the counties north of Humber into one monarchy, and acquired a great ascendant in the Heptarchy. He also spread the terror of the Saxon arms to the neighbouring people; and by his victories over the Scots and Picts, as well as Welsh, extended on all sides the bounds of his dominions. Having laid siege to Chester, the Britons marched out with all their forces to engage him; and they were attended by a body of 1250 monks from the monastery of Bangor, who stood at a small distance from the field of battle, in order to encourage the combatants by their presence and exhortations. Adelfrid enquiring the purpose of this unusual appearance, was told, that these priests had come to pray against him: <em>Then are they as such our enemies,</em> said he, <em>as those who intend to fight against us<a href=\"#n86\"><sup>[86]</sup></a>:</em> And he immediately sent a detachment, who fell upon them, and did such execution, that only fifty escaped with their lives<a href=\"#n84\"><sup>[84]</sup></a>. The Britons, astonished at this event, received a total defeat: Chester was obliged to surrender: and Adelfrid, pursuing his victory, made himself master of Bangor, and entirely demolished the monastery; a building so extensive, that there was a mile's distance from one gate of it to another; and it contained two thousand one hundred monks, who are said to have been there maintained by their own labour<a href=\"#n85\"><sup>[85]</sup></a>.</p>"
     },
     {
       "id": "49",
@@ -266,7 +266,7 @@
     {
       "id": "62",
       "title": "<h2>The Kingdom of SUSSEX.</h2>",
-      "content": "<p>THE history of this kingdom, the smallest in the Heptarchy, is still more imperfect than that of Essex. Aella, the founder of the monarchy, left the crown to his son, Cissa, who is chiefly remarkable for his long reign of seventy-six years. During his time, the South Saxons fell almost into a total dependance on the kingdom of Wessex; and we scarcely know the names of the princes, who were possessed of this titular sovereignty. Adelwalch, the last of them, was subdued in battle by Ceadwalla, king of Wessex, and was slain in the action; leaving two infant sons, who, falling into the hand of the conqueror, were murdered by him. The abbot of Redford opposed the order for this execution, but could only prevail on Ceadwalla to suspend it, till they should be baptized. Bercthun and Audhun, two noblemen of character, resisted some time the violence of the West-Saxons; but their opposition served only to prolong the miseries of their country; and the subduing of this kingdom was the first step, which the West-Saxons made towards acquiring the sole monarchy of England<a href=\"#n119\"><sup>[119]</sup></a>.</p>"
+      "content": "<p>THE history of this kingdom, the smallest in the Heptarchy, is still more imperfect than that of Essex. Ælla, the founder of the monarchy, left the crown to his son, Cissa, who is chiefly remarkable for his long reign of seventy-six years. During his time, the South Saxons fell almost into a total dependance on the kingdom of Wessex; and we scarcely know the names of the princes, who were possessed of this titular sovereignty. Adelwalch, the last of them, was subdued in battle by Ceadwalla, king of Wessex, and was slain in the action; leaving two infant sons, who, falling into the hand of the conqueror, were murdered by him. The abbot of Redford opposed the order for this execution, but could only prevail on Ceadwalla to suspend it, till they should be baptized. Bercthun and Audhun, two noblemen of character, resisted some time the violence of the West-Saxons; but their opposition served only to prolong the miseries of their country; and the subduing of this kingdom was the first step, which the West-Saxons made towards acquiring the sole monarchy of England<a href=\"#n119\"><sup>[119]</sup></a>.</p>"
     },
     {
       "id": "63",
@@ -334,72 +334,72 @@
     {
       "id": "1",
       "paragraph": "2",
-      "content": "<p><cite>Caesar, lib. 4.</cite></p>"
+      "content": "<p>Caesar, lib. 4.</p>"
     },
     {
       "id": "2",
       "paragraph": "3",
-      "content": "<p><cite>Diod. Sic. lib. 4.</cite> <cite>Mela, lib. 3. cap. 6.</cite> <cite>Strabo, lib. 4.</cite></p>"
+      "content": "<p>Diod. Sic. lib. 4. Mela, lib. 3. cap. 6. Strabo, lib. 4.</p>"
     },
     {
       "id": "3",
       "paragraph": "3",
-      "content": "<p><cite>Dion Cassius, lib. 75.</cite></p>"
+      "content": "<p>Dion Cassius, lib. 75.</p>"
     },
     {
       "id": "4",
       "paragraph": "3",
-      "content": "<p><cite>Caesar, lib. 6.</cite></p>"
+      "content": "<p>Caesar, lib. 6.</p>"
     },
     {
       "id": "5",
       "paragraph": "3",
-      "content": "<p><cite>Tacit. Agr.</cite></p>"
+      "content": "<p>Tacit. Agr.</p>"
     },
     {
       "id": "6",
       "paragraph": "4",
-      "content": "<p><cite>Caesar, lib. 6.</cite> <cite>Strabo, lib. 4.</cite></p>"
+      "content": "<p>Caesar, lib. 6. Strabo, lib. 4.</p>"
     },
     {
       "id": "7",
       "paragraph": "5",
-      "content": "<p><cite>Plin. lib. 12. cap. 1.</cite></p>"
+      "content": "<p>Plin. lib. 12. cap. 1.</p>"
     },
     {
       "id": "8",
       "paragraph": "5",
-      "content": "<p><cite>Caesar, lib. 6.</cite></p>"
+      "content": "<p>Caesar, lib. 6.</p>"
     },
     {
       "id": "9",
       "paragraph": "5",
-      "content": "<p><cite>Sueton. in Vita Claudii.</cite></p>"
+      "content": "<p>Sueton. in Vita Claudii.</p>"
     },
     {
       "id": "10",
       "paragraph": "7",
-      "content": "<p><cite>Tacit. Agr.</cite></p>"
+      "content": "<p>Tacit. Agr.</p>"
     },
     {
       "id": "11",
       "paragraph": "7",
-      "content": "<p><cite>Tacit. Ann. lib. 12.</cite></p>"
+      "content": "<p>Tacit. Ann. lib. 12.</p>"
     },
     {
       "id": "12",
       "paragraph": "8",
-      "content": "<p><cite>Tacit. Ann. lib. 14.</cite></p>"
+      "content": "<p>Tacit. Ann. lib. 14.</p>"
     },
     {
       "id": "13",
       "paragraph": "9",
-      "content": "<p><cite>Tacit. Agr.</cite></p>"
+      "content": "<p>Tacit. Agr.</p>"
     },
     {
       "id": "14",
       "paragraph": "10",
-      "content": "<p><cite>Tacit. Agr.</cite></p>"
+      "content": "<p>Tacit. Agr.</p>"
     },
     {
       "id": "15",
@@ -409,602 +409,602 @@
     {
       "id": "16",
       "paragraph": "13",
-      "content": "<p><cite>Gildas, Bede, lib. 1. cap. 12.</cite> <cite>Paull. Diacon.</cite></p>"
+      "content": "<p>Gildas, Bede, lib. 1. cap. 12. Paull. Diacon.</p>"
     },
     {
       "id": "17",
       "paragraph": "13",
-      "content": "<p><cite>Bede, lib. 1. cap. 12.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 12.</p>"
     },
     {
       "id": "18",
       "paragraph": "13",
-      "content": "<p><cite>Ibid.</cite></p>"
+      "content": "<p>Ibid.</p>"
     },
     {
       "id": "19",
       "paragraph": "14",
-      "content": "<p><cite>Gildas, Bede, lib. 1.</cite> <cite>Ann Beverl. p. 45.</cite></p>"
+      "content": "<p>Gildas, Bede, lib. 1. Ann Beverl. p. 45.</p>"
     },
     {
       "id": "20",
       "paragraph": "14",
-      "content": "<p><cite>Gildas, Bede, lib. 1. cap. 13.</cite> <cite>Malmesbury, lib. 1. cap. 1.</cite> <cite>Ann. Beverl. p. 45.</cite></p>"
+      "content": "<p>Gildas, Bede, lib. 1. cap. 13. Malmesbury, lib. 1. cap. 1. Ann. Beverl. p. 45.</p>"
     },
     {
       "id": "21",
       "paragraph": "14",
-      "content": "<p><cite>Chron. Sax. p. 11. Edit. 1692.</cite></p>"
+      "content": "<p>Chron. Sax. p. 11. Edit. 1692.</p>"
     },
     {
       "id": "22",
       "paragraph": "14",
-      "content": "<p><cite>Ann. Beverl. p. 45.</cite></p>"
+      "content": "<p>Ann. Beverl. p. 45.</p>"
     },
     {
       "id": "23",
       "paragraph": "15",
-      "content": "<p><cite>Gildas, Bede, lib.1. cap. 14.</cite></p>"
+      "content": "<p>Gildas, Bede, lib.1. cap. 14.</p>"
     },
     {
       "id": "24",
       "paragraph": "16",
-      "content": "<p><cite>Gildas, Usher Ant. Brit. p. 248, 347.</cite></p>"
+      "content": "<p>Gildas, Usher Ant. Brit. p. 248, 347.</p>"
     },
     {
       "id": "25",
       "paragraph": "16",
-      "content": "<p><cite>Gildas, Bede, lib. 1. cap. 17.</cite> <cite>Constant. in vita Germ.</cite></p>"
+      "content": "<p>Gildas, Bede, lib. 1. cap. 17. Constant. in vita Germ.</p>"
     },
     {
       "id": "26",
       "paragraph": "16",
-      "content": "<p><cite>Gildas, Gul. Malm. p. 8.</cite></p>"
+      "content": "<p>Gildas, Gul. Malm. p. 8.</p>"
     },
     {
       "id": "27",
       "paragraph": "17",
-      "content": "<p><cite>Caesar, lib. 6.</cite> <cite>Tacit. de Mor. Germ.</cite></p>"
+      "content": "<p>Caesar, lib. 6. Tacit. de Mor. Germ.</p>"
     },
     {
       "id": "28",
       "paragraph": "18",
-      "content": "<p><cite>Caesar, lib. 6.</cite> <cite>Tacit. ibid.</cite></p>"
+      "content": "<p>Caesar, lib. 6. Tacit. ibid.</p>"
     },
     {
       "id": "29",
       "paragraph": "19",
-      "content": "<p><cite>Amm. Marcell. lib. 28.</cite> <cite>Orosius.</cite></p>"
+      "content": "<p>Amm. Marcell. lib. 28. Orosius.</p>"
     },
     {
       "id": "30",
       "paragraph": "19",
-      "content": "<p><cite>Amm. Marcell. lib. 27. cap. 7. lib. 28. cap. 7.</cite></p>"
+      "content": "<p>Amm. Marcell. lib. 27. cap. 7. lib. 28. cap. 7.</p>"
     },
     {
       "id": "31",
       "paragraph": "19",
-      "content": "<p><cite>Will. Malm. p. 8.</cite></p>"
+      "content": "<p>Will. Malm. p. 8.</p>"
     },
     {
       "id": "32",
       "paragraph": "20",
-      "content": "<p><cite>Bede, lib. 1. cap. 15.</cite> <cite>Saxon Chron. p. 13.</cite> <cite>Nennius, cap. 28.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 15. Saxon Chron. p. 13. Nennius, cap. 28.</p>"
     },
     {
       "id": "33",
       "paragraph": "21",
-      "content": "<p><cite>Saxon Chronicle, p. 12.</cite> <cite>Gul. Malm. p. 11.</cite> <cite>Huntington, lib. 2. p. 309.</cite> <cite>Ethelwerd. Brompton, p. 728.</cite></p>"
+      "content": "<p>Saxon Chronicle, p. 12. Gul. Malm. p. 11. Huntington, lib. 2. p. 309. Ethelwerd. Brompton, p. 728.</p>"
     },
     {
       "id": "34",
       "paragraph": "22",
-      "content": "<p><cite>Chron. Sax. p. 12.</cite> <cite>Ann. Beverl. p. 49.</cite></p>"
+      "content": "<p>Chron. Sax. p. 12. Ann. Beverl. p. 49.</p>"
     },
     {
       "id": "35",
       "paragraph": "22",
-      "content": "<p><cite>Bede, lib. 1. cap. 15.</cite> <cite>Nennius, cap. 35.</cite> <cite>Gildas, § 23.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 15. Nennius, cap. 35. Gildas, § 23.</p>"
     },
     {
       "id": "36",
       "paragraph": "23",
-      "content": "<p><cite>Bede, lib. 1. cap. 15.</cite> <cite>Usher, p. 226.</cite> <cite>Gildas, § 24.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 15. Usher, p. 226. Gildas, § 24.</p>"
     },
     {
       "id": "37",
       "paragraph": "24",
-      "content": "<p><cite>Nennius.</cite> <cite>Galfr. lib. 6. cap. 12.</cite></p>"
+      "content": "<p>Nennius. Galfr. lib. 6. cap. 12.</p>"
     },
     {
       "id": "38",
       "paragraph": "24",
-      "content": "<p><cite>Nennius, cap. 47.</cite> <cite>Galfr.</cite></p>"
+      "content": "<p>Nennius, cap. 47. Galfr.</p>"
     },
     {
       "id": "39",
       "paragraph": "24",
-      "content": "<p><cite>Stillingfleet's Orig. Britt. p. 324, 325.</cite></p>"
+      "content": "<p>Stillingfleet's Orig. Britt. p. 324, 325.</p>"
     },
     {
       "id": "40",
       "paragraph": "26",
-      "content": "<p><cite>Bede, lib. 1. cap. 15.</cite> <cite>Ethelwerd, p. 833. edit. Camdeni.</cite> <cite>Chron. Sax. p. 12.</cite> <cite>Ann. Beverl. p. 78.</cite> The inhabitants of Kent and the Isle of Wight were Jutes. Essex, Middlesex, Surrey, Sussex, and all the southern counties to Cornwal, were peopled by Saxons: Mercia and other parts of the kingdom were inhabited by Angles.</p>"
+      "content": "<p>Bede, lib. 1. cap. 15. Ethelwerd, p. 833. edit. Camdeni. Chron. Sax. p. 12. Ann. Beverl. p. 78. The inhabitants of Kent and the Isle of Wight were Jutes. Essex, Middlesex, Surrey, Sussex, and all the southern counties to Cornwal, were peopled by Saxons: Mercia and other parts of the kingdom were inhabited by Angles.</p>"
     },
     {
       "id": "41",
       "paragraph": "27",
-      "content": "<p><cite>Chron. Sax. p. 14.</cite> <cite>Ann. Beverl. p. 81.</cite></p>"
+      "content": "<p>Chron. Sax. p. 14. Ann. Beverl. p. 81.</p>"
     },
     {
       "id": "42",
       "paragraph": "27",
-      "content": "<p><cite>Saxon. Chron. A. D. 485.</cite> <cite>Flor. Wigorn.</cite></p>"
+      "content": "<p>Saxon. Chron. A. D. 485. Flor. Wigorn.</p>"
     },
     {
       "id": "43",
       "paragraph": "27",
-      "content": "<p><cite>Hen. Huntin. lib. 2.</cite></p>"
+      "content": "<p>Hen. Huntin. lib. 2.</p>"
     },
     {
       "id": "44",
       "paragraph": "28",
-      "content": "<p><cite>Will. Malm. lib. 1. cap. 1. p. 12.</cite> <cite>Chron. Sax. p. 15.</cite></p>"
+      "content": "<p>Will. Malm. lib. 1. cap. 1. p. 12. Chron. Sax. p. 15.</p>"
     },
     {
       "id": "45",
       "paragraph": "28",
-      "content": "<p><cite>Chron. Sax. p. 17.</cite></p>"
+      "content": "<p>Chron. Sax. p. 17.</p>"
     },
     {
       "id": "46",
       "paragraph": "28",
-      "content": "<p><cite>H. Hunting. lib. 2.</cite> <cite>Ethelwerd, lib. 1.</cite> <cite>Chron. Sax. p. 17.</cite></p>"
+      "content": "<p>H. Hunting. lib. 2. Ethelwerd, lib. 1. Chron. Sax. p. 17.</p>"
     },
     {
       "id": "47",
       "paragraph": "28",
-      "content": "<p><cite>Hunting. lib. 2.</cite></p>"
+      "content": "<p>Hunting. lib. 2.</p>"
     },
     {
       "id": "48",
       "paragraph": "28",
-      "content": "<p><cite>Gildas.</cite> <cite>Saxon Chron.</cite> <cite>H. Hunting. lib. 2.</cite></p>"
+      "content": "<p>Gildas, Saxon Chron. H. Hunting. lib. 2.</p>"
     },
     {
       "id": "49",
       "paragraph": "29",
-      "content": "<p><cite>Math. West.</cite> <cite>Huntingdon. lib. 2.</cite></p>"
+      "content": "<p>Math. West. Huntingdon. lib. 2.</p>"
     },
     {
       "id": "50",
       "paragraph": "30",
-      "content": "<p><cite>Chron. Sax. p. 19.</cite></p>"
+      "content": "<p>Chron. Sax. p. 19.</p>"
     },
     {
       "id": "51",
       "paragraph": "30",
-      "content": "<p><cite>Will. Malms p. 19.</cite></p>"
+      "content": "<p>Will. Malms p. 19.</p>"
     },
     {
       "id": "52",
       "paragraph": "30",
-      "content": "<p><cite>Ann. Bever. p. 78.</cite></p>"
+      "content": "<p>Ann. Bever. p. 78.</p>"
     },
     {
       "id": "53",
       "paragraph": "31",
-      "content": "<p><cite>Gildas.</cite> <cite>Bede, lib. 1.</cite></p>"
+      "content": "<p>Gildas. Bede, lib. 1.</p>"
     },
     {
       "id": "54",
       "paragraph": "32",
-      "content": "<p><cite>Milton in Kennet, p. 50.</cite></p>"
+      "content": "<p>Milton in Kennet, p. 50.</p>"
     },
     {
       "id": "55",
       "paragraph": "34",
-      "content": "<p><cite>Chron. Sax. p. 21.</cite></p>"
+      "content": "<p>Chron. Sax. p. 21.</p>"
     },
     {
       "id": "56",
       "paragraph": "34",
-      "content": "<p><cite>H. Hunting. lib. 2.</cite></p>"
+      "content": "<p>H. Hunting. lib. 2.</p>"
     },
     {
       "id": "57",
       "paragraph": "37",
-      "content": "<p><cite>Greg. of Tours, lib. 9. cap. 26.</cite> <cite>H. Hunting. lib. 2.</cite></p>"
+      "content": "<p>Greg. of Tours, lib. 9. cap. 26. H. Hunting. lib. 2.</p>"
     },
     {
       "id": "58",
       "paragraph": "37",
-      "content": "<p><cite>Bede, lib. 1. cap. 25.</cite> <cite>Brompton, p. 729.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 25. Brompton, p. 729.</p>"
     },
     {
       "id": "59",
       "paragraph": "38",
-      "content": "<p><cite>Bede, lib. 2. cap. 1.</cite> <cite>Spell. Conc. p. 91.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 1. Spell. Conc. p. 91.</p>"
     },
     {
       "id": "60",
       "paragraph": "39",
-      "content": "<p><cite>Bede, lib. 1. cap. 23.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 23.</p>"
     },
     {
       "id": "61",
       "paragraph": "39",
-      "content": "<p><cite>Greg. Epist. lib. 9 epist. 56.</cite> <cite>Spell. Conc. p. 82.</cite></p>"
+      "content": "<p>Greg. Epist. lib. 9 epist. 56. Spell. Conc. p. 82.</p>"
     },
     {
       "id": "62",
       "paragraph": "40",
-      "content": "<p><cite>Higden, Polychron. lib. 5.</cite> <cite>Chron. Sax. p. 23.</cite></p>"
+      "content": "<p>Higden, Polychron. lib. 5. Chron. Sax. p. 23.</p>"
     },
     {
       "id": "63",
       "paragraph": "40",
-      "content": "<p><cite>Bede, lib. 1. cap. 25.</cite> <cite>H. Hunting. lib. 3.</cite> <cite>Brompton, p. 719.</cite> <cite>Parker Antiq. Brit. Eccl. p. 61.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 25. H. Hunting. lib. 3. Brompton, p. 719. Parker Antiq. Brit. Eccl. p. 61.</p>"
     },
     {
       "id": "64",
       "paragraph": "40",
-      "content": "<p><cite>Bede, lib. 1. cap. 25.</cite> <cite>Chron. W. Thorn. p. 1759.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 25. Chron. W. Thorn. p. 1759.</p>"
     },
     {
       "id": "65",
       "paragraph": "40",
-      "content": "<p><cite>Bede, lib. 1. cap. 25.</cite> <cite>H. Hunting. lib. 3.</cite> <cite>Brompton, p. 729.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 25. H. Hunting. lib. 3. Brompton, p. 729.</p>"
     },
     {
       "id": "66",
       "paragraph": "41",
-      "content": "<p><cite>Bede, lib. 1. cap. 26.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 26.</p>"
     },
     {
       "id": "67",
       "paragraph": "41",
-      "content": "<p><cite>Ibid. cap. 26.</cite> <cite>H. Hunting. lib. 3.</cite></p>"
+      "content": "<p>Ibid. cap. 26. H. Hunting. lib. 3.</p>"
     },
     {
       "id": "68",
       "paragraph": "42",
-      "content": "<p><cite>Bede, lib. 1. cap. 32.</cite> <cite>Brompton, p. 732.</cite> <cite>Spell. Conc. p. 86.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 32. Brompton, p. 732. Spell. Conc. p. 86.</p>"
     },
     {
       "id": "69",
       "paragraph": "42",
-      "content": "<p><cite>Bede, lib. 1 cap. 27.</cite> <cite>Spell. Conc. p. 97, 98, 99, &amp;c.</cite></p>"
+      "content": "<p>Bede, lib. 1 cap. 27. Spell. Conc. p. 97, 98, 99, &amp;c.</p>"
     },
     {
       "id": "70",
       "paragraph": "42",
-      "content": "<p>Augustine asks, <q><i>Si mulier menstrua consuetudine tenetur, an ecclesiam intrare ei licet, aut sacrae communionis sacramenta percipere?</i></q> Gregory answers, <q><i>Santae communionis mysterium in eisdem diebus percipere non debet prohiberi. Si autem ex veneratione magna percipere non praesumitur, laudanda est.</i></q> Augustine asks, <q><i>Si post illusionem, quae per somnum solet accidere, vel corpus Domini quilibet accipere valeat; vel, si sacerdos sit, sacra mysteria celebrare?</i></q> Gregory answers this learned question by many learned distinctions.</p>"
+      "content": "<p>Augustine asks, <q>Si mulier menstrua consuetudine tenetur, an ecclesiam intrare ei licet, aut sacrae communionis sacramenta percipere?</q> Gregory answers, <q>Santae communionis mysterium in eisdem diebus percipere non debet prohiberi. Si autem ex veneratione magna percipere non praesumitur, laudanda est.</q> Augustine asks, <q>Si post illusionem, quae per somnum solet accidere, vel corpus Domini quilibet accipere valeat; vel, si sacerdos sit, sacra mysteria celebrare?</q> Gregory answers this learned question by many learned distinctions.</p>"
     },
     {
       "id": "71",
       "paragraph": "43",
-      "content": "<p><cite>Bede, lib. 1. cap. 30.</cite> <cite>Spell. Conc. p. 89.</cite> <cite>Greg. Epist. lib. 9. epist. 71.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 30. Spell. Conc. p. 89. Greg. Epist. lib. 9. epist. 71.</p>"
     },
     {
       "id": "72",
       "paragraph": "43",
-      "content": "<p><cite>Chron. Sax. p. 23, 24.</cite></p>"
+      "content": "<p>Chron. Sax. p. 23, 24.</p>"
     },
     {
       "id": "73",
       "paragraph": "43",
-      "content": "<p><cite>H. Hunting. lib. 3.</cite> <cite>Spell. Conc. p. 83.</cite> <cite>Bede, lib. 1.</cite> <cite>Greg. Epist. lib. 9. epist. 6.</cite></p>"
+      "content": "<p>H. Hunting. lib. 3. Spell. Conc. p. 83. Bede, lib. 1. Greg. Epist. lib. 9. epist. 6.</p>"
     },
     {
       "id": "74",
       "paragraph": "43",
-      "content": "<p><cite>Bede, lib. 1. cap. 27.</cite></p>"
+      "content": "<p>Bede, lib. 1. cap. 27.</p>"
     },
     {
       "id": "75",
       "paragraph": "44",
-      "content": "<p><cite>Will. Malm. p. 10.</cite></p>"
+      "content": "<p>Will. Malm. p. 10.</p>"
     },
     {
       "id": "76",
       "paragraph": "44",
-      "content": "<p><cite>Wilkins Leges Sax. p. 13.</cite></p>"
+      "content": "<p>Wilkins Leges Sax. p. 13.</p>"
     },
     {
       "id": "77",
       "paragraph": "44",
-      "content": "<p><cite>Bede, lib. 2. cap. 5.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 5.</p>"
     },
     {
       "id": "78",
       "paragraph": "44",
-      "content": "<p><cite>Ibid. cap. 6.</cite> <cite>Chron. Sax. p. 26.</cite> <cite>Higden, lib. 5.</cite></p>"
+      "content": "<p>Ibid. cap. 6. Chron. Sax. p. 26. Higden, lib. 5.</p>"
     },
     {
       "id": "79",
       "paragraph": "44",
-      "content": "<p><cite>Brompton, p. 739.</cite></p>"
+      "content": "<p>Brompton, p. 739.</p>"
     },
     {
       "id": "80",
       "paragraph": "46",
-      "content": "<p><cite>Will. Malm. p. 11.</cite></p>"
+      "content": "<p>Will. Malm. p. 11.</p>"
     },
     {
       "id": "81",
       "paragraph": "47",
-      "content": "<p><cite>Higden, lib. 5.</cite></p>"
+      "content": "<p>Higden, lib. 5.</p>"
     },
     {
       "id": "82",
       "paragraph": "47",
-      "content": "<p><cite>Chron. Sax. p. 52.</cite></p>"
+      "content": "<p>Chron. Sax. p. 52.</p>"
     },
     {
       "id": "83",
       "paragraph": "47",
-      "content": "<p><cite>Will. Malmes. lib. 1. cap. 1. p. 11.</cite></p>"
+      "content": "<p>Will. Malmes. lib. 1. cap. 1. p. 11.</p>"
     },
     {
       "id": "84",
       "paragraph": "48",
-      "content": "<p><cite>Trivet. apud Spell. Conc. p. 111.</cite></p>"
+      "content": "<p>Trivet. apud Spell. Conc. p. 111.</p>"
     },
     {
       "id": "85",
       "paragraph": "48",
-      "content": "<p><cite>Bede, lib. 2. cap. 2.</cite> <cite>W. Malmes, lib. 1. cap. 3.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 2. W. Malmes, lib. 1. cap. 3.</p>"
     },
     {
       "id": "86",
       "paragraph": "48",
-      "content": "<p><cite>Brompton, p. 779.</cite></p>"
+      "content": "<p>Brompton, p. 779.</p>"
     },
     {
       "id": "87",
       "paragraph": "49",
-      "content": "<p><cite>W. Malmes. lib. 1. cap. 3.</cite> <cite>H. Hunting. lib. 3. Bede.</cite></p>"
+      "content": "<p>W. Malmes. lib. 1. cap. 3. H. Hunting. lib. 3. Bede.</p>"
     },
     {
       "id": "88",
       "paragraph": "49",
-      "content": "<p><cite>Bede, lib. 2. cap. 12.</cite> <cite>Brompton, p. 781.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 12. Brompton, p. 781.</p>"
     },
     {
       "id": "89",
       "paragraph": "50",
-      "content": "<p><cite>Chron. Sax. p. 27.</cite></p>"
+      "content": "<p>Chron. Sax. p. 27.</p>"
     },
     {
       "id": "90",
       "paragraph": "51",
-      "content": "<p><cite>Gul. Malmes. lib. 1. cap. 3.</cite></p>"
+      "content": "<p>Gul. Malmes. lib. 1. cap. 3.</p>"
     },
     {
       "id": "91",
       "paragraph": "52",
-      "content": "<p><cite>H. Hunting. lib. 3.</cite></p>"
+      "content": "<p>H. Hunting. lib. 3.</p>"
     },
     {
       "id": "92",
       "paragraph": "52",
-      "content": "<p><cite>Bede, lib. 2. cap. 9.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 9.</p>"
     },
     {
       "id": "93",
       "paragraph": "52",
-      "content": "<p><cite>Bede, lib. 2. cap. 9.</cite> <cite>Malmes. lib. 1. cap. 3.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 9. Malmes. lib. 1. cap. 3.</p>"
     },
     {
       "id": "94",
       "paragraph": "52",
-      "content": "<p><cite>Bede, lib. 2. cap. 13.</cite> <cite>Brompton</cite>, <cite>Higden, lib. 5.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 13. Brompton, Higden, lib. 5.</p>"
     },
     {
       "id": "95",
       "paragraph": "53",
-      "content": "<p><cite>Matth. West. p. 114.</cite> <cite>Chron. Sax. p. 29.</cite></p>"
+      "content": "<p>Matth. West. p. 114. Chron. Sax. p. 29.</p>"
     },
     {
       "id": "96",
       "paragraph": "53",
-      "content": "<p><cite>W. Malmes. lib. 1. cap. 3.</cite></p>"
+      "content": "<p>W. Malmes. lib. 1. cap. 3.</p>"
     },
     {
       "id": "97",
       "paragraph": "53",
-      "content": "<p><cite>Bede, lib. 2. cap. 20.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 20.</p>"
     },
     {
       "id": "98",
       "paragraph": "54",
-      "content": "<p><cite>Bede, lib. 3. cap. 9.</cite></p>"
+      "content": "<p>Bede, lib. 3. cap. 9.</p>"
     },
     {
       "id": "99",
       "paragraph": "57",
-      "content": "<p><cite>Hugo Candidus, p. 4.</cite> says that he was treacherously murdered by his queen, by whose persuasion he had embraced Christianity; but this account of the matter is found in that historian alone.</p>"
+      "content": "<p>Hugo Candidus, p. 4. says that he was treacherously murdered by his queen, by whose persuasion he had embraced Christianity; but this account of the matter is found in that historian alone.</p>"
     },
     {
       "id": "100",
       "paragraph": "57",
-      "content": "<p><cite>Bede, lib. 5.</cite></p>"
+      "content": "<p>Bede, lib. 5.</p>"
     },
     {
       "id": "101",
       "paragraph": "58",
-      "content": "<p><cite>Chron. Sax. p. 59.</cite></p>"
+      "content": "<p>Chron. Sax. p. 59.</p>"
     },
     {
       "id": "102",
       "paragraph": "58",
-      "content": "<p><cite>Brompton, p. 750, 751, 752.</cite></p>"
+      "content": "<p>Brompton, p. 750, 751, 752.</p>"
     },
     {
       "id": "103",
       "paragraph": "58",
-      "content": "<p><cite>Spell. Conc. p. 308.</cite> <cite>Brompton, p. 776.</cite></p>"
+      "content": "<p>Spell. Conc. p. 308. Brompton, p. 776.</p>"
     },
     {
       "id": "104",
       "paragraph": "58",
-      "content": "<p><cite>Spell. Conc. p. 230, 310, 312.</cite></p>"
+      "content": "<p>Spell. Conc. p. 230, 310, 312.</p>"
     },
     {
       "id": "105",
       "paragraph": "58",
-      "content": "<p><cite>Higden, lib. 5.</cite></p>"
+      "content": "<p>Higden, lib. 5.</p>"
     },
     {
       "id": "106",
       "paragraph": "58",
-      "content": "<p><cite>Ingulph. p. 5.</cite> <cite>W. Malmes. lib. 1. cap. 4.</cite></p>"
+      "content": "<p>Ingulph. p. 5. W. Malmes. lib. 1. cap. 4.</p>"
     },
     {
       "id": "107",
       "paragraph": "58",
-      "content": "<p><cite>Lib. 1. cap. 4.</cite></p>"
+      "content": "<p>Lib. 1. cap. 4.</p>"
     },
     {
       "id": "108",
       "paragraph": "58",
-      "content": "<p><cite>Chron. Sax. p. 65.</cite></p>"
+      "content": "<p>Chron. Sax. p. 65.</p>"
     },
     {
       "id": "109",
       "paragraph": "59",
-      "content": "<p><cite>Dupin, cent. 8. chap. 4.</cite></p>"
+      "content": "<p>Dupin, cent. 8. chap. 4.</p>"
     },
     {
       "id": "110",
       "paragraph": "59",
-      "content": "<p>Offa, in order to protect his country from Wales, drew a rampart or ditch of a hundred miles in length from Basinwerke in Flintshire to the South-sea near Bristol. See <cite><em>Speed's Description of Wales</em></cite>.</p>"
+      "content": "<p>Offa, in order to protect his country from Wales, drew a rampart or ditch of a hundred miles in length from Basinwerke in Flintshire to the South-sea near Bristol. See <em>Speed's Description of Wales.</em></p>"
     },
     {
       "id": "111",
       "paragraph": "60",
-      "content": "<p><cite>Ingulph. p. 6.</cite></p>"
+      "content": "<p>Ingulph. p. 6.</p>"
     },
     {
       "id": "112",
       "paragraph": "60",
-      "content": "<p><cite>Ingulph. p. 7.</cite> <cite>Brompton, p. 776.</cite></p>"
+      "content": "<p>Ingulph. p. 7. Brompton, p. 776.</p>"
     },
     {
       "id": "113",
       "paragraph": "60",
-      "content": "<p><cite>Ingulph. p. 7.</cite></p>"
+      "content": "<p>Ingulph. p. 7.</p>"
     },
     {
       "id": "114",
       "paragraph": "60",
-      "content": "<p><cite>Ann. Beverl. p. 87.</cite></p>"
+      "content": "<p>Ann. Beverl. p. 87.</p>"
     },
     {
       "id": "115",
       "paragraph": "61",
-      "content": "<p><cite>Chron. Sax. p. 24.</cite></p>"
+      "content": "<p>Chron. Sax. p. 24.</p>"
     },
     {
       "id": "116",
       "paragraph": "61",
-      "content": "<p><cite>Lib. 2. cap. 5.</cite></p>"
+      "content": "<p>Lib. 2. cap. 5.</p>"
     },
     {
       "id": "117",
       "paragraph": "61",
-      "content": "<p><cite>H. Hunting. lib. 3.</cite> <cite>Brompton, p. 738, 743.</cite> <cite>Bede.</cite></p>"
+      "content": "<p>H. Hunting. lib. 3. Brompton, p. 738, 743. Bede.</p>"
     },
     {
       "id": "118",
       "paragraph": "61",
-      "content": "<p><cite>Malmes, lib. 1. cap. 6.</cite></p>"
+      "content": "<p>Malmes, lib. 1. cap. 6.</p>"
     },
     {
       "id": "119",
       "paragraph": "62",
-      "content": "<p><cite>Brompton, p. 800.</cite></p>"
+      "content": "<p>Brompton, p. 800.</p>"
     },
     {
       "id": "120",
       "paragraph": "63",
-      "content": "<p><cite>Chron. Sax. p. 22.</cite></p>"
+      "content": "<p>Chron. Sax. p. 22.</p>"
     },
     {
       "id": "121",
       "paragraph": "63",
-      "content": "<p><cite>Higden, lib. 5.</cite> <cite>Chron. Sax. p. 15.</cite> <cite>Ann. Beverl. p. 94.</cite></p>"
+      "content": "<p>Higden, lib. 5. Chron. Sax. p. 15. Ann. Beverl. p. 94.</p>"
     },
     {
       "id": "122",
       "paragraph": "63",
-      "content": "<p><cite>Bede, lib. 4. cap. 12.</cite> <cite>Chron. Sax. p. 41.</cite></p>"
+      "content": "<p>Bede, lib. 4. cap. 12. Chron. Sax. p. 41.</p>"
     },
     {
       "id": "123",
       "paragraph": "64",
-      "content": "<p><cite>Higden, lib. 5.</cite> <cite>W. Malmes. lib. 1. cap. 2.</cite></p>"
+      "content": "<p>Higden, lib. 5. W. Malmes. lib. 1. cap. 2.</p>"
     },
     {
       "id": "124",
       "paragraph": "65",
-      "content": "<p><cite>W. Malmes. lib. 1. cap. 2.</cite></p>"
+      "content": "<p>W. Malmes. lib. 1. cap. 2.</p>"
     },
     {
       "id": "125",
       "paragraph": "66",
-      "content": "<p><cite>Chron. Sax. p. 16.</cite></p>"
+      "content": "<p>Chron. Sax. p. 16.</p>"
     },
     {
       "id": "126",
       "paragraph": "66",
-      "content": "<p><cite>H. Hunting. lib. 4.</cite></p>"
+      "content": "<p>H. Hunting. lib. 4.</p>"
     },
     {
       "id": "127",
       "paragraph": "66",
-      "content": "<p><cite>Lib. 2. cap. 11.</cite></p>"
+      "content": "<p>Lib. 2. cap. 11.</p>"
     },
     {
       "id": "128",
       "paragraph": "67",
-      "content": "<p><cite>Higden, lib. 5.</cite> <cite>M. West. p. 152.</cite> <cite>Asser. in vita Alfredi, p. 3. ex edit. Camdeni.</cite></p>"
+      "content": "<p>Higden, lib. 5. M. West. p. 152. Asser. in vita Alfredi, p. 3. ex edit. Camdeni.</p>"
     },
     {
       "id": "129",
       "paragraph": "67",
-      "content": "<p><cite>Chron. Sax. A. D. 800.</cite> <cite>Brompton, p. 801.</cite></p>"
+      "content": "<p>Chron. Sax. A. D. 800. Brompton, p. 801.</p>"
     },
     {
       "id": "130",
       "paragraph": "68",
-      "content": "<p><cite>Chron. Sax. p. 69.</cite></p>"
+      "content": "<p>Chron. Sax. p. 69.</p>"
     },
     {
       "id": "131",
       "paragraph": "69",
-      "content": "<p><cite>Ethelwerd, lib. 3. cap. 2.</cite></p>"
+      "content": "<p>Ethelwerd, lib. 3. cap. 2.</p>"
     },
     {
       "id": "132",
       "paragraph": "69",
-      "content": "<p><cite>Ibid. lib. 3. cap. 3.</cite></p>"
+      "content": "<p>Ibid. lib. 3. cap. 3.</p>"
     },
     {
       "id": "133",
       "paragraph": "69",
-      "content": "<p><cite>Ingulph. p. 7, 8, 10.</cite></p>"
+      "content": "<p>Ingulph. p. 7, 8, 10.</p>"
     },
     {
       "id": "134",
       "paragraph": "70",
-      "content": "<p><cite>Chron. Sax. p. 71.</cite></p>"
+      "content": "<p>Chron. Sax. p. 71.</p>"
     },
     {
       "id": "135",
       "paragraph": "70",
-      "content": "<p><cite>Chron. Sax. p. 71.</cite></p>"
+      "content": "<p>Chron. Sax. p. 71.</p>"
     },
     {
       "id": "136",
@@ -1014,77 +1014,77 @@
     {
       "id": "137",
       "paragraph": "71",
-      "content": "<p><cite>Bede, lib. 3. cap. 26.</cite></p>"
+      "content": "<p>Bede, lib. 3. cap. 26.</p>"
     },
     {
       "id": "138",
       "paragraph": "71",
-      "content": "<p><cite>Ibid. lib. 5. cap. 23.</cite> <cite>Epistola Bedae ad Egbert.</cite></p>"
+      "content": "<p>Ibid. lib. 5. cap. 23. Epistola Bedae ad Egbert.</p>"
     },
     {
       "id": "139",
       "paragraph": "71",
-      "content": "<p><cite>Bedae Epist. ad Egbert.</cite></p>"
+      "content": "<p>Bedae Epist. ad Egbert.</p>"
     },
     {
       "id": "140",
       "paragraph": "72",
-      "content": "<p><cite>Append. to Bede, numb. 10. ex. edit. 1722.</cite> <cite>Spelm. Conc. p. 108, 109.</cite></p>"
+      "content": "<p>Append. to Bede, numb. 10. ex. edit. 1722. Spelm. Conc. p. 108, 109.</p>"
     },
     {
       "id": "141",
       "paragraph": "72",
-      "content": "<p><cite>Bede, lib. 5. cap. 7.</cite></p>"
+      "content": "<p>Bede, lib. 5. cap. 7.</p>"
     },
     {
       "id": "142",
       "paragraph": "73",
-      "content": "<p>See <cite>Appendix to Bede, numb. 19.</cite> <cite>Higden, lib. 5.</cite></p>"
+      "content": "<p>See Appendix to Bede, numb. 19. Higden, lib. 5.</p>"
     },
     {
       "id": "143",
       "paragraph": "73",
-      "content": "<p><cite>Eddius vita Vilfr. § 24, 60.</cite></p>"
+      "content": "<p>Eddius vita Vilfr. § 24, 60.</p>"
     },
     {
       "id": "144",
       "paragraph": "75",
-      "content": "<p><cite>Bede, lib. 2. cap. 19.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 19.</p>"
     },
     {
       "id": "145",
       "paragraph": "75",
-      "content": "<p><cite>Bede, lib. 5. cap. 21.</cite> <cite>Eddius, § 24.</cite></p>"
+      "content": "<p>Bede, lib. 5. cap. 21. Eddius, § 24.</p>"
     },
     {
       "id": "146",
       "paragraph": "75",
-      "content": "<p><cite>Bede, lib. 2. cap. 2, 4, 20.</cite> <cite>Eddius, § 12.</cite></p>"
+      "content": "<p>Bede, lib. 2. cap. 2, 4, 20. Eddius, § 12.</p>"
     },
     {
       "id": "147",
       "paragraph": "75",
-      "content": "<p><cite>Bede, lib. 5. cap. 16, 22.</cite></p>"
+      "content": "<p>Bede, lib. 5. cap. 16, 22.</p>"
     },
     {
       "id": "148",
       "paragraph": "75",
-      "content": "<p><cite>Bede, lib. 3. cap. 25.</cite> <cite>Eddius, § 12.</cite></p>"
+      "content": "<p>Bede, lib. 3. cap. 25. Eddius, § 12.</p>"
     },
     {
       "id": "149",
       "paragraph": "76",
-      "content": "<p><cite>Spell. Conc. vol. 1. p. 168.</cite></p>"
+      "content": "<p>Spell. Conc. vol. 1. p. 168.</p>"
     },
     {
       "id": "150",
       "paragraph": "76",
-      "content": "<p><cite>Ibid. p.171.</cite></p>"
+      "content": "<p>Ibid. p.171.</p>"
     },
     {
       "id": "151",
       "paragraph": "76",
-      "content": "<p><cite>Spell. Conc. vol. 1. p. 172, 173, 174.</cite></p>"
+      "content": "<p>Spell. Conc. vol. 1. p. 172, 173, 174.</p>"
     }
   ]
 }

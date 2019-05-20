@@ -3,7 +3,7 @@
   "parent": "Hume.THN",
   "title": "Introduction",
   "breadcrumb": "Introduction",
-  "fulltitle": "<h1>Introduction</h1>",
+  "fulltitle": "<h1><em>INTRODUCTION.</em></h1>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/0.json",
@@ -35,7 +35,7 @@
     },
     {
       "id": "7",
-      "content": "<p><b>And</b> as the science of man is the only solid foundation for the other sciences, so the only solid foundation we can give to this science itself must be laid on experience and observation. 'Tis no astonishing reflection to consider, that the application of experimental philosophy to moral subjects should come after that to natural at the distance of above a whole century; since we find in fact, that there was about the same interval betwixt the origins of these sciences; and that reckoning from <b>Thales</b> to <b>Socrates</b>, the space of time is nearly equal to that betwixt my Lord <b>Bacon</b><sup><a href='#n1'>[1]</a></sup> and some late philosophers in <em>England</em>, who have begun to put the science of man on a new footing, and have engaged the attention, and excited the curiosity of the public. So true it is, that however other nations may rival us in poetry, and excel us in some other agreeable arts, the improvements in reason and philosophy can only be owing to a land of toleration and of liberty.</p>"
+      "content": "<p><b>And</b> as the science of man is the only solid foundation for the other sciences, so the only solid foundation we can give to this science itself must be laid on experience and observation. 'Tis no astonishing reflection to consider, that the application of experimental philosophy to moral subjects should come after that to natural at the distance of above a whole century; since we find in fact, that there was about the same interval betwixt the origins of these sciences; and that reckoning from <b>Thales</b> to <b>Socrates</b>, the space of time is nearly equal to that betwixt my Lord <b>Bacon</b><a href=\"#n1\"><sup>[1]</sup></a> and some late philosophers in <em>England</em>, who have begun to put the science of man on a new footing, and have engaged the attention, and excited the curiosity of the public. So true it is, that however other nations may rival us in poetry, and excel us in some other agreeable arts, the improvements in reason and philosophy can only be owing to a land of toleration and of liberty.</p>"
     },
     {
       "id": "8",
@@ -53,6 +53,7 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "7",
       "content": "<p>Mr. <em>Locke</em>, my Lord <em>Shaftsbury</em>, Dr. <em>Mandeville</em>, Mr. <em>Hutchinson</em>, Dr. <em>Butler</em>, &amp;c.</p>"
     }
   ]

@@ -1,0 +1,27 @@
+{
+  "id": "Hume.DNR",
+  "title": "Dialogues concerning Natural Religion",
+  "breadcrumb": "Dialogues concerning Natural Religion",
+  "fulltitle": "<h2>DIALOGUES</h2> <h4>CONCERNING</h4> <h1>NATURAL RELIGION.</h1>",
+  "published": "1779",
+  "copytext": "1779",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/d/index.json",
+  "imported": true,
+  "comments": "This text has been imported from <a href=\"https://davidhume.org\">Hume Texts Online</a>. Refer to the editorial notes on that site for details.",
+  "copyright": "The copyright for this text is held by Amyas Merivale and Peter Millican. The text may be used freely for educational and academic purposes. It may not be used in any way for profit.",
+  "texts": [
+    "Hume.DNR.Intro",
+    "Hume.DNR.1",
+    "Hume.DNR.2",
+    "Hume.DNR.3",
+    "Hume.DNR.4",
+    "Hume.DNR.5",
+    "Hume.DNR.6",
+    "Hume.DNR.7",
+    "Hume.DNR.8",
+    "Hume.DNR.9",
+    "Hume.DNR.10",
+    "Hume.DNR.11",
+    "Hume.DNR.12"
+  ]
+}

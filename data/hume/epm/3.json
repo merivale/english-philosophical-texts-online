@@ -3,7 +3,7 @@
   "parent": "Hume.EPM",
   "title": "Section 3. Of Justice",
   "breadcrumb": "Section 3",
-  "fulltitle": "<h1>Section 3. Of Justice</h1>",
+  "fulltitle": "<h1>SECTION III.</h1> <h2>Of <b>Justice</b>.</h2>",
   "published": "1751",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/3.json",
@@ -28,7 +28,7 @@
     },
     {
       "id": "5",
-      "content": "<p>It may happen, in some countries, at some periods, that there be established a property in water, none in land<sup><a href='#n10'>[10]</a></sup>; if the latter be in greater abundance than can be used by the inhabitants, and the former be found, with difficulty, and in very small quantities.</p>"
+      "content": "<p>It may happen, in some countries, at some periods, that there be established a property in water, none in land<a href=\"#n10\"><sup>[10]</sup></a>; if the latter be in greater abundance than can be used by the inhabitants, and the former be found, with difficulty, and in very small quantities.</p>"
     },
     {
       "id": "6",
@@ -68,7 +68,7 @@
     },
     {
       "id": "15",
-      "content": "<p>This <em>poetical</em> fiction of the <em>golden age</em> is, in some respects, of a piece with the <em>philosophical</em> fiction of the <em>state of nature</em>; only that the former is represented as the most charming and most peaceable condition, which can possibly be imagined; whereas the latter is painted out as a state of mutual war and violence, attended with the most extreme necessity. On the first origin of mankind, we are told, their ignorance and savage nature were so prevalent, that they could give no mutual trust, but must each depend upon himself, and his own force or cunning for protection and security. No law was heard of: No rule of justice known: No distinction of property regarded: Power was the only measure of right; and a perpetual war of all against all was the result of men's untamed selfishness and barbarity<sup><a href='#n11'>[11]</a></sup>.</p>"
+      "content": "<p>This <em>poetical</em> fiction of the <em>golden age</em> is, in some respects, of a piece with the <em>philosophical</em> fiction of the <em>state of nature</em>; only that the former is represented as the most charming and most peaceable condition, which can possibly be imagined; whereas the latter is painted out as a state of mutual war and violence, attended with the most extreme necessity. On the first origin of mankind, we are told, their ignorance and savage nature were so prevalent, that they could give no mutual trust, but must each depend upon himself, and his own force or cunning for protection and security. No law was heard of: No rule of justice known: No distinction of property regarded: Power was the only measure of right; and a perpetual war of all against all was the result of men's untamed selfishness and barbarity<a href=\"#n11\"><sup>[11]</sup></a>.</p>"
     },
     {
       "id": "16",
@@ -145,7 +145,7 @@
     },
     {
       "id": "34",
-      "content": "<p>In general, we may observe, that all questions of property are subordinate to the authority of civil laws, which extend, restrain, modify, and alter the rules of natural justice, according to the particular <em>convenience</em> of each community. The laws have, or ought to have, a constant reference to the constitution of government, the manners, the climate, the religion, the commerce, the situation of each society. A late author of genius, as well as learning, has prosecuted this subject at large, and has established, from these principles, a system of political knowledge, which abounds in ingenious and brilliant thoughts, and is not wanting in solidity<sup><a href='#n12'>[12]</a></sup>.</p>"
+      "content": "<p>In general, we may observe, that all questions of property are subordinate to the authority of civil laws, which extend, restrain, modify, and alter the rules of natural justice, according to the particular <em>convenience</em> of each community. The laws have, or ought to have, a constant reference to the constitution of government, the manners, the climate, the religion, the commerce, the situation of each society. A late author of genius, as well as learning, has prosecuted this subject at large, and has established, from these principles, a system of political knowledge, which abounds in ingenious and brilliant thoughts, and is not wanting in solidity<a href=\"#n12\"><sup>[12]</sup></a>.</p>"
     },
     {
       "id": "35",
@@ -161,7 +161,7 @@
     },
     {
       "id": "38",
-      "content": "<p>But there is this material difference between <em>superstition</em> and <em>justice</em>, that the former is frivolous, useless, and burdensome; the latter is absolutely requisite to the well-being of mankind and existence of society. When we abstract from this circumstance (for it is too apparent ever to be overlooked) it must be confessed, that all regards to right and property, seem entirely without foundation, as much as the grossest and most vulgar superstition. Were the interests of society nowise concerned, it is as unintelligible, why another's articulating certain sounds implying consent, should change the nature of my actions with regard to a particular object, as why the reciting of a liturgy by a priest, in a certain habit and posture, should dedicate a heap of brick and timber, and render it, thenceforth and for ever, sacred<sup><a href='#n13'>[13]</a></sup>.</p>"
+      "content": "<p>But there is this material difference between <em>superstition</em> and <em>justice</em>, that the former is frivolous, useless, and burdensome; the latter is absolutely requisite to the well-being of mankind and existence of society. When we abstract from this circumstance (for it is too apparent ever to be overlooked) it must be confessed, that all regards to right and property, seem entirely without foundation, as much as the grossest and most vulgar superstition. Were the interests of society nowise concerned, it is as unintelligible, why another's articulating certain sounds implying consent, should change the nature of my actions with regard to a particular object, as why the reciting of a liturgy by a priest, in a certain habit and posture, should dedicate a heap of brick and timber, and render it, thenceforth and for ever, sacred<a href=\"#n13\"><sup>[13]</sup></a>.</p>"
     },
     {
       "id": "39",
@@ -201,52 +201,63 @@
     },
     {
       "id": "48",
-      "content": "<p>Thus we seem, upon the whole, to have attained a knowledge of the force of that principle here insisted on, and can determine what degree of esteem or moral approbation may result from reflections on public interest and utility. The necessity of justice to the support of society is the SOLE foundation of that virtue; and since no moral excellence is more highly esteemed, we may conclude, that this circumstance of usefulness has, in general, the strongest energy, and most entire command over our sentiments. It must, therefore, be the source of a considerable part of the merit ascribed to humanity, benevolence, friendship, public spirit, and other social virtues of that stamp; as it is the SOLE source of the moral approbation paid to fidelity, justice, veracity, integrity, and those other estimable and useful qualities and principles. It is entirely agreeable to the rules of philosophy, and even of common reason; where any principle has been found to have a great force and energy in one instance, to ascribe to it a like energy in all similar instances. This indeed is <b>Newton</b>'s chief rule of philosophizing<sup><a href='#n14'>[14]</a></sup>.</p>"
+      "content": "<p>Thus we seem, upon the whole, to have attained a knowledge of the force of that principle here insisted on, and can determine what degree of esteem or moral approbation may result from reflections on public interest and utility. The necessity of justice to the support of society is the SOLE foundation of that virtue; and since no moral excellence is more highly esteemed, we may conclude, that this circumstance of usefulness has, in general, the strongest energy, and most entire command over our sentiments. It must, therefore, be the source of a considerable part of the merit ascribed to humanity, benevolence, friendship, public spirit, and other social virtues of that stamp; as it is the SOLE source of the moral approbation paid to fidelity, justice, veracity, integrity, and those other estimable and useful qualities and principles. It is entirely agreeable to the rules of philosophy, and even of common reason; where any principle has been found to have a great force and energy in one instance, to ascribe to it a like energy in all similar instances. This indeed is <b>Newton</b>'s chief rule of philosophizing<a href=\"#n14\"><sup>[14]</sup></a>.</p>"
     }
   ],
   "notes": [
     {
       "id": "10",
+      "paragraph": "5",
       "content": "<p><b>Genesis</b>, chap. xiii. and xxi.</p>"
     },
     {
       "id": "11",
+      "paragraph": "15",
       "content": "<p>See NOTE [S].</p>"
     },
     {
       "id": "11.1",
+      "paragraph": "15",
       "content": "<p>THIS fiction of a state of nature, as a state of war, was not first started by Mr. <b>Hobbes</b>, as is commonly imagined. <b>Plato</b> endeavours to refute an hypothesis very like it in the 2d, 3d, and 4th books de republica. <b>Cicero</b>, on the contrary, supposes it certain and universally acknowledged in the following passage. <q>Quis enim vestrûm, judices, ignorat, ita naturam rerum tulisse, ut quodam tempore homines, nondum neque naturali, neque civili jure descripto, fusi per agros, ac dispersi vagarentur tantumque haberent quantum manu ac viribus, per cædem ac vulnera, aut eripere, aut retinere potuissent? Qui igitur primi virtute &amp; consilio præstanti extiterunt, ii perspecto genere humanæ docilitatis atque ingenii, dissipatos unum in locum congregarunt, eosque ex feritate illa ad justitiam ac mansuetudinem transduxerunt. Tum res ad communem utilitatem, quas publicas appellamus, tum conventicula hominum, quæ postea civitates nominatæ sunt, tum domicilia conjuncta, quas urbes dicamus, invento &amp; divino &amp; humano jure, mœnibus sepserunt. Atque inter hanc vitam, perpolitam humanitate, &amp; illam immanem, nihil tam interest quam JUS atque VIS. Horum utro uti nolimus, altero est utendum. Vim volumus extingui? Jus valeat necesse est, idi est, judicia, quibus omne jus continetur. Judicia displicent, ant nulla, sunt? Vis dominetur necesse est? Hæc vident omnes.</q> <em>Pro Sext</em>. l. 42.</p>"
     },
     {
       "id": "12",
+      "paragraph": "34",
       "content": "<p>See NOTE [T].</p>"
     },
     {
       "id": "12.1",
+      "paragraph": "34",
       "content": "<p>THE author of <em>L'Esprit des Loix</em>. This illustrious writer, however, sets out with a different theory, and supposes all right to be founded on certain <em>rapports</em> or relations; which is a system, that, in my opinion, never will be reconciled with true philosophy. Father <b>Malebranche</b>, as far as I can learn, was the first that started this abstract theory of morals, which was afterwards adopted by <b>Cudworth</b>, <b>Clarke</b>, and others; and as it excludes all sentiment, and pretends to found every thing on reason, it has not wanted followers in this philosophic age. See Section I. Appendix I. With regard to justice, the virtue here treated of, the inference against this theory seems short and conclusive. Property is allowed to be dependent on civil laws; civil laws are allowed to have no other object, but the interest of society: This therefore must be allowed to be the sole foundation of property and justice. Not to mention, that our obligation itself to obey the magistrate and his laws is founded on nothing but the interests of society.</p>"
     },
     {
       "id": "12.2",
+      "paragraph": "34",
       "content": "<p>If the ideas of justice, sometimes, do not follow the dispositions of civil law; we shall find, that these cases, instead of objections, are confirmations of the theory delivered above. Where a civil law is so perverse as to cross all the interests of society, it loses all its authority, and men judge by the ideas of natural justice, which are conformable to those interests. Sometimes also civil laws, for useful purposes, require a ceremony or form to any deed; and where that is wanting, their decrees run contrary to the usual tenour of justice; but one who takes advantage of such chicanes, is not commonly regarded as an honest man. Thus, the interests of society require, that contracts be fulfilled; and there is not a more material article either of natural or civil justice: But the omission of a trifling circumstance will often, by law, invalidate a contract, <em>in foro humano</em>, but not <em>in foro conscientiæ</em>, as divines express themselves. In these cases, the magistrate is supposed only to withdraw his power of enforcing the right, not to have altered the right. Where his intention extends to the right, and is conformable to the interests of society; it never fails to alter the right; a clear proof of the origin of justice and of property, as assigned above.</p>"
     },
     {
       "id": "13",
+      "paragraph": "38",
       "content": "<p>See NOTE [U].</p>"
     },
     {
       "id": "13.1",
+      "paragraph": "38",
       "content": "<p>IT is evident, that the will or consent alone never transfers property, nor causes the obligation of a promise (for the same reasoning extends to both) but the will must be expressed by words or signs, in order to impose a tye upon any man. The expression being once brought in as subservient to the will, soon becomes the principal part of the promise; nor will a man be less bound by his word, though he secretly give a different direction to his intention, and with-hold the assent of his mind. But though the expression makes, on most occasions, the whole of the promise, yet it does not always so; and one who should make use of any expression, of which he knows not the meaning, and which he uses without any sense of the consequences, would not certainly be bound by it. Nay, though he know its meaning, yet if he use it in jest only, and with such signs as evidently show, that he has no serious intention of binding himself, he would not lie under any obligation of performance; but it is necessary, that the words be a perfect expression of the will, without any contrary signs. Nay, even this we must not carry so far as to imagine, that one, whom, by our quickness of understanding, we conjecture, from certain signs, to have an intention of deceiving us, is not bound by his expression or verbal promise, if we accept of it; but must limit this conclusion to those cases where the signs are of a different nature from those of deceit. All these contradictions are easily accounted for, if justice arise entirely from its usefulness to society; but will never be explained on any other hypothesis.</p>"
     },
     {
       "id": "13.2",
+      "paragraph": "38",
       "content": "<p>It is remarkable that the moral decisions of the <em>Jesuits</em> and other relaxed casuists, were commonly formed in prosecution of some such subtilties of reasoning as are here pointed out, and proceed as much from the habit of scholastic refinement as from any corruption of the heart, if we may follow the authority of Mons. <b>Bayle</b>. See his Dictionary, article <b>Loyola</b>. And why has the indignation of mankind risen so high against these casuists; but because every one perceived, that human society could not subsist were such practices authorized, and that morals must always be handled with a view to public interest, more than philosophical regularity? If the secret direction of the intention, said every man of sense, could invalidate a contract; where is our security? And yet a metaphysical schoolman might think, that, where an intenintention was supposed to be requisite, if that intention really had not place, no consequence ought to follow, and no obligation be imposed. The casuistical subtilties may not be greater than the subtilties of lawyers, hinted at above; but as the former are <em>pernicious</em>, and the latter <em>innocent</em> and even <em>necessary</em>, this is the reason of the very different reception they meet with from the world.</p>"
     },
     {
       "id": "13.3",
+      "paragraph": "38",
       "content": "<p>It is a doctrine of the Church of <b>Rome</b>, that the priest, by a secret direction of his intention, can invalidate any sacrament. This position is derived from a strict and regular prosecution of the obvious truth, that empty words alone, without any meaning or intention in the speaker, can never be attended with any effect. If the same conclusion be not admitted in reasonings concerning civil contracts, where the affair is allowed to be of so much less consequence than the eternal salvation of thousands, it proceeds entirely from men's sense of the danger and inconvenience of the doctrine in the former case: And we may thence observe, that however positive, arrogant, and dogmatical any superstition may appear, it never can convey any thorough persuasion of the reality of its objects, or put them, in any degree, on a balance with the common incidents of life, which we learn from daily observation and experimental reasoning.</p>"
     },
     {
       "id": "14",
+      "paragraph": "48",
       "content": "<p>Principia, lib. iii.</p>"
     }
   ]

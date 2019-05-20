@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.3",
   "title": "Section 13. Of unphilosophical probability",
   "breadcrumb": "Section 13",
-  "fulltitle": "<h1>Section 13. Of unphilosophical probability</h1>",
+  "fulltitle": "<h3>SECT. XIII.</h3> <h4><em>Of unphilosophical probability.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/3/13.json",
@@ -27,7 +27,7 @@
     },
     {
       "id": "5",
-      "content": "<p><b>Before</b> I answer this objection I shall observe, that from this topic there has been borrow'd a very celebrated argument against the <em>Christian Religion</em>; but with this difference, that the connexion betwixt each link of the chain in human testimony has been there suppos'd not to go beyond probability, and to be liable to a degree of doubt and uncertainty. And indeed it must be confest, that in this manner of considering the subject, (which however is not a true one) there is no history or tradition, but what must in the end lose all its force and evidence. Every new probability diminishes the original conviction; and however great that conviction may be suppos'd, 'tis impossible it can subsist under such re-iterated diminutions. This is true in general; tho' we shall find<sup><a href='#n24'>[24]</a></sup> afterwards, that there is one very memorable exception, which is of vast consequence in the present subject of the understanding.</p>"
+      "content": "<p><b>Before</b> I answer this objection I shall observe, that from this topic there has been borrow'd a very celebrated argument against the <em>Christian Religion</em>; but with this difference, that the connexion betwixt each link of the chain in human testimony has been there suppos'd not to go beyond probability, and to be liable to a degree of doubt and uncertainty. And indeed it must be confest, that in this manner of considering the subject, (which however is not a true one) there is no history or tradition, but what must in the end lose all its force and evidence. Every new probability diminishes the original conviction; and however great that conviction may be suppos'd, 'tis impossible it can subsist under such re-iterated diminutions. This is true in general; tho' we shall find<a href=\"#n24\"><sup>[24]</sup></a> afterwards, that there is one very memorable exception, which is of vast consequence in the present subject of the understanding.</p>"
     },
     {
       "id": "6",
@@ -51,7 +51,7 @@
     },
     {
       "id": "11",
-      "content": "<p><b>But</b> why need we seek for other instances, while the present subject of unphilosophical probabilities offers us so obvious an one, in the opposition betwixt the judgment and imagination arising from these effects of custom? According to my system, all reasonings are nothing but the effects of custom; and custom has no influence, but by inlivening the imagination, and giving us a strong conception of any object. It may, therefore, be concluded, that our judgment and imagination can never be contrary, and that custom cannot operate on the latter faculty after such a manner, as to render it opposite to the former. This difficulty we can remove after no other manner, than by supposing the influence of general rules. We shall afterwards<sup><a href='#n25'>[25]</a></sup> take notice of some general rules, by which we ought to regulate our judgment concerning causes and effects; and these rules are form'd on the nature of our understanding, and on our experience of its operations in the judgments we form concerning objects. By them we learn to distinguish the accidental circumstances from the efficacious causes; and when we find that an effect can be produc'd without the concurrence of any particular circumstance, we conclude that that circumstance makes not a part of the efficacious cause, however frequently conjoin'd with it. But as this frequent conjunction necessarily makes it have some effect on the imagination, in spite of the opposite conclusion from general rules, the opposition of these two principles produces a contrariety in our thoughts, and causes us to ascribe the one inference to our judgment, and the other to our imagination. The general rule is attributed to our judgment; as being more extensive and constant. The exception to the imagination; as being more capricious and uncertain.</p>"
+      "content": "<p><b>But</b> why need we seek for other instances, while the present subject of unphilosophical probabilities offers us so obvious an one, in the opposition betwixt the judgment and imagination arising from these effects of custom? According to my system, all reasonings are nothing but the effects of custom; and custom has no influence, but by inlivening the imagination, and giving us a strong conception of any object. It may, therefore, be concluded, that our judgment and imagination can never be contrary, and that custom cannot operate on the latter faculty after such a manner, as to render it opposite to the former. This difficulty we can remove after no other manner, than by supposing the influence of general rules. We shall afterwards<a href=\"#n25\"><sup>[25]</sup></a> take notice of some general rules, by which we ought to regulate our judgment concerning causes and effects; and these rules are form'd on the nature of our understanding, and on our experience of its operations in the judgments we form concerning objects. By them we learn to distinguish the accidental circumstances from the efficacious causes; and when we find that an effect can be produc'd without the concurrence of any particular circumstance, we conclude that that circumstance makes not a part of the efficacious cause, however frequently conjoin'd with it. But as this frequent conjunction necessarily makes it have some effect on the imagination, in spite of the opposite conclusion from general rules, the opposition of these two principles produces a contrariety in our thoughts, and causes us to ascribe the one inference to our judgment, and the other to our imagination. The general rule is attributed to our judgment; as being more extensive and constant. The exception to the imagination; as being more capricious and uncertain.</p>"
     },
     {
       "id": "12",
@@ -75,7 +75,7 @@
     },
     {
       "id": "17",
-      "content": "<p><b>Now</b> if we compare these two cases, of the <em>open</em> and <em>conceal'd</em> violations of the laws of honour, we shall find, that the difference betwixt them consists in this, that in the first case the sign, from which we infer the blameable action, is single, and suffices alone to be the foundation of our reasoning and judgment; whereas in the latter the signs are numerous, and decide little or nothing when alone and unaccompany'd with many minute circumstances, which are almost imperceptible. But 'tis certainly true, that any reasoning is always the more convincing, the more single and united it is to the eye, and the less exercise it gives to the imagination to collect all its parts, and run from them to the correlative idea, which forms the conclusion. The labour of the thought disturbs the regular progress of the sentiments, as we shall observe presently.<sup><a href='#n26'>[26]</a></sup> The idea strikes not on us with such vivacity; and consequently has no such influence on the passion and imagination.</p>"
+      "content": "<p><b>Now</b> if we compare these two cases, of the <em>open</em> and <em>conceal'd</em> violations of the laws of honour, we shall find, that the difference betwixt them consists in this, that in the first case the sign, from which we infer the blameable action, is single, and suffices alone to be the foundation of our reasoning and judgment; whereas in the latter the signs are numerous, and decide little or nothing when alone and unaccompany'd with many minute circumstances, which are almost imperceptible. But 'tis certainly true, that any reasoning is always the more convincing, the more single and united it is to the eye, and the less exercise it gives to the imagination to collect all its parts, and run from them to the correlative idea, which forms the conclusion. The labour of the thought disturbs the regular progress of the sentiments, as we shall observe presently.<a href=\"#n26\"><sup>[26]</sup></a> The idea strikes not on us with such vivacity; and consequently has no such influence on the passion and imagination.</p>"
     },
     {
       "id": "18",
@@ -93,14 +93,17 @@
   "notes": [
     {
       "id": "24",
+      "paragraph": "5",
       "content": "<p>Part IV. Sect. I.</p>"
     },
     {
       "id": "25",
+      "paragraph": "11",
       "content": "<p>Sect. 15.</p>"
     },
     {
       "id": "26",
+      "paragraph": "17",
       "content": "<p>Part IV. Sect. I.</p>"
     }
   ]

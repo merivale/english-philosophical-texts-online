@@ -1,0 +1,16 @@
+{
+  "id": "Hume.THN.2",
+  "parent": "Hume.THN",
+  "title": "Book II. Of the Passions",
+  "breadcrumb": "Book 2",
+  "fulltitle": "<h1>BOOK II.</h1> <h2><em>Of the <b>Passions</b>.</em></h2>",
+  "published": "1739",
+  "copytext": "1739",
+  "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/index.json",
+  "imported": true,
+  "texts": [
+    "Hume.THN.2.1",
+    "Hume.THN.2.2",
+    "Hume.THN.2.3"
+  ]
+}

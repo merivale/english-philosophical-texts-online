@@ -3,7 +3,7 @@
   "parent": "Hume.EPM",
   "title": "Section 4. Of Political Society",
   "breadcrumb": "Section 4",
-  "fulltitle": "<h1>Section 4. Of Political Society</h1>",
+  "fulltitle": "<h1>SECTION IV.</h1> <h2>Of <b>Political Society</b>.</h2>",
   "published": "1751",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/4.json",
@@ -27,7 +27,7 @@
     },
     {
       "id": "5",
-      "content": "<p>The long and helpless infancy of man requires the combination of parents for the subsistence of their young; and that combination requires the virtue of CHASTITY or fidelity to the marriage bed. Without such a <em>utility</em>, it will readily be owned, that such a virtue would never have been thought of<sup><a href='#n15'>[15]</a></sup>.</p>"
+      "content": "<p>The long and helpless infancy of man requires the combination of parents for the subsistence of their young; and that combination requires the virtue of CHASTITY or fidelity to the marriage bed. Without such a <em>utility</em>, it will readily be owned, that such a virtue would never have been thought of<a href=\"#n15\"><sup>[15]</sup></a>.</p>"
     },
     {
       "id": "6",
@@ -83,7 +83,7 @@
     },
     {
       "id": "19",
-      "content": "<p>They cannot even pass each other on the road without rules. Waggoners, coachmen, and postilions have principles, by which they give the way; and these are chiefly founded on mutual ease and convenience. Sometimes also they are arbitrary, at least dependent on a kind of capricious analogy, like many of the reasonings of lawyers<sup><a href='#n16'>[16]</a></sup>.</p>"
+      "content": "<p>They cannot even pass each other on the road without rules. Waggoners, coachmen, and postilions have principles, by which they give the way; and these are chiefly founded on mutual ease and convenience. Sometimes also they are arbitrary, at least dependent on a kind of capricious analogy, like many of the reasonings of lawyers<a href=\"#n16\"><sup>[16]</sup></a>.</p>"
     },
     {
       "id": "20",
@@ -93,18 +93,22 @@
   "notes": [
     {
       "id": "15",
+      "paragraph": "5",
       "content": "<p>See NOTE [X].</p>"
     },
     {
       "id": "15.1",
+      "paragraph": "5",
       "content": "<p>THE only solution, which <b>Plato</b> gives to all the objections that might be raised against the community of women, established in his imaginary commonwealth, is, <i>Καλλιςτα γαρ δη τουτο και λεγεται και λελεξεται, οτι το μεν ωφελιμον καλον. Το δε βλαβερον αισχρον.</i> <em>Scite enim istud &amp; dicitur &amp; dicetur, Id quod utile sit honestum esse, quod autem inutile sit turpe esse</em>. De Rep. lib. v. p. 457. ex edit. Ser. And this maxim will admit of no doubt, where public utility is concerned; which is <b>Plato</b>'s meaning. And indeed to what other purpose do all the ideas of chastity and modesty serve? <em>Nisi utile est quod facimus, frustra est gloria</em>, says <b>Phædrus</b>. <i>Καλον των βλαβερων ουδεν</i>, says <b>Plutarch</b> <em>de vitioso pudore</em>. Nihil eorum quæ damnosa sunt, pulchrum est. The same was the opinion of the Stoics. <i>Φασιν ουν οι Στωικοι αγαθον ειναι ωφελειαν η ουκ ετεραν ωφελειας, ωφελειαν μεν λεγοντες την αρετην και την σπουδαιαν πραξιν.</i> <b>Sept. Emp.</b> lib. iii. cap. 20.</p>"
     },
     {
       "id": "16",
+      "paragraph": "19",
       "content": "<p>See NOTE [Y].</p>"
     },
     {
       "id": "16.1",
+      "paragraph": "19",
       "content": "<p>THAT the lighter machine yield to the heavier, and, in machines of the same kind, that the empty yield to the loaded; this rule is founded on convenience. That those who are going to the capital take place of those who are coming from it; this seems to be founded on some idea of dignity of the great city, and of the preference of the future to the past. From like reasons, among foot-walkers, the right-hand intitles a man to the wall, and prevents jostling, which peaceable people find very disagreeable and inconvenient.</p>"
     }
   ]

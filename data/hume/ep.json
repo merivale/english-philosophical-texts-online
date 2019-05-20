@@ -3,7 +3,7 @@
   "parent": "Hume.Ess1",
   "title": "The Epicurean",
   "breadcrumb": "The Epicurean",
-  "fulltitle": "<h1>The Epicurean</h1>",
+  "fulltitle": "<h1>The <b>Epicurean</b><a href=\"#n1\"><sup>[1]</sup></a>.</h1>",
   "published": "1742",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ep.json",
@@ -39,7 +39,7 @@
     },
     {
       "id": "8",
-      "content": "<p>But see, propitious to my wishes, the divine, the amiable <b>Pleasure</b><sup><a href='#n2'>[2]</a></sup>, the supreme love of GODS and men, advances towards me. At her approach, my heart beats with genial heat, and every sense and every faculty is dissolved in joy; while she pours around me all the embellishments of the spring, and all the treasures of the autumn. The melody of her voice charms my ears with the softest music, as she invites me to partake of those delicious fruits, which, with a smile that diffuses a glory on the heavens and the earth, she presents to me. The sportive <b>Cupids</b>, who attend her, or fan me with their odoriferous wings, or pour on my head the most fragrant oils, or offer me their sparkling nectar in golden goblets. O! for ever let me spread my limbs on this bed of roses, and thus, thus feel the delicious moments, with soft and downy steps, glide along. But cruel chance! Whither do you fly so fast? Why do my ardent wishes, and that load of pleasures, under which you labour, rather hasten than retard your unrelenting pace? Suffer me to enjoy this soft repose, after all my fatigues in search of happiness. Suffer me to satiate myself with these delicacies, after the pains of so long and so foolish an abstinence.</p>"
+      "content": "<p>But see, propitious to my wishes, the divine, the amiable <b>Pleasure</b><a href=\"#n2\"><sup>[2]</sup></a>, the supreme love of GODS and men, advances towards me. At her approach, my heart beats with genial heat, and every sense and every faculty is dissolved in joy; while she pours around me all the embellishments of the spring, and all the treasures of the autumn. The melody of her voice charms my ears with the softest music, as she invites me to partake of those delicious fruits, which, with a smile that diffuses a glory on the heavens and the earth, she presents to me. The sportive <b>Cupids</b>, who attend her, or fan me with their odoriferous wings, or pour on my head the most fragrant oils, or offer me their sparkling nectar in golden goblets. O! for ever let me spread my limbs on this bed of roses, and thus, thus feel the delicious moments, with soft and downy steps, glide along. But cruel chance! Whither do you fly so fast? Why do my ardent wishes, and that load of pleasures, under which you labour, rather hasten than retard your unrelenting pace? Suffer me to enjoy this soft repose, after all my fatigues in search of happiness. Suffer me to satiate myself with these delicacies, after the pains of so long and so foolish an abstinence.</p>"
     },
     {
       "id": "9",
@@ -55,7 +55,7 @@
     },
     {
       "id": "12",
-      "content": "<p>But hark! the favourite of the muses, the gentle <b>Damon</b>, strikes the lyre; and while he accompanies its harmonious notes with his more harmonious song, he inspires us with the same happy debauch of fancy, by which he is himself transported. <q>Ye happy youth,</q> he sings, <q>Ye favoured of heaven<sup><a href='#n3'>[3]</a></sup>, while the wanton spring pours upon you all her blooming honours, let not <em>glory</em> seduce you, with her delusive blaze, to pass in perils and dangers this delicious season, this prime of life. Wisdom points out to you the road to pleasure: Nature too beckons you to follow her in that smooth and flowery path. Will you shut your ears to their commanding voice? Will you harden your heart to their soft allurements? Oh, deluded mortals, thus to lose your youth, thus to throw away so invaluable a present, to trifle with so perishing a blessing. Contemplate well your recompence. Consider that glory, which so allures your proud hearts, and seduces you with your own praises. It is an echo, a dream, nay the shadow of a dream, dissipated by every wind, and lost by every contrary breath of the ignorant and ill-judging multitude. You fear not that even death itself shall ravish it from you. But behold! while you are yet alive, calumny bereaves you of it; ignorance neglects it; nature enjoys it not; fancy alone, renouncing every pleasure receives this airy recompence, empty and unstable as herself.</q></p>"
+      "content": "<p>But hark! the favourite of the muses, the gentle <b>Damon</b>, strikes the lyre; and while he accompanies its harmonious notes with his more harmonious song, he inspires us with the same happy debauch of fancy, by which he is himself transported. <q>Ye happy youth,</q> he sings, <q>Ye favoured of heaven<a href=\"#n3\"><sup>[3]</sup></a>, while the wanton spring pours upon you all her blooming honours, let not <em>glory</em> seduce you, with her delusive blaze, to pass in perils and dangers this delicious season, this prime of life. Wisdom points out to you the road to pleasure: Nature too beckons you to follow her in that smooth and flowery path. Will you shut your ears to their commanding voice? Will you harden your heart to their soft allurements? Oh, deluded mortals, thus to lose your youth, thus to throw away so invaluable a present, to trifle with so perishing a blessing. Contemplate well your recompence. Consider that glory, which so allures your proud hearts, and seduces you with your own praises. It is an echo, a dream, nay the shadow of a dream, dissipated by every wind, and lost by every contrary breath of the ignorant and ill-judging multitude. You fear not that even death itself shall ravish it from you. But behold! while you are yet alive, calumny bereaves you of it; ignorance neglects it; nature enjoys it not; fancy alone, renouncing every pleasure receives this airy recompence, empty and unstable as herself.</q></p>"
     },
     {
       "id": "13",
@@ -77,15 +77,18 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "",
       "content": "<p><b>Or</b>, <em>The man of elegance and pleasure</em>. The intention of this and the three following essays is not so much to explain accurately the sentiments of the ancient sects of philosophy, as to deliver the sentiments of sects, that naturally form themselves in the world, and entertain different ideas of human life and of happiness. I have given each of them the name of the philosophical sect, to which it bears the greatest affinity.</p>"
     },
     {
       "id": "2",
+      "paragraph": "8",
       "content": "<p><em>Dia Voluptas</em>. <b>Lucret.</b></p>"
     },
     {
       "id": "3",
-      "content": "<p>An imitation of the <b>Syrens</b> song in <b>Tasso</b>. <br><q>O Giovinetti, mentre <b>Aprile</b> &amp; <b>Maggio</b> <br>V' ammantan di fiorité &amp; verde spoglie,</q> &amp;c. <br>Giuresalemme liberata, <em>Canto</em> 14.</p>"
+      "paragraph": "12",
+      "content": "<p>An imitation of the <b>Syrens</b> song in <b>Tasso</b>. <br><q>O Giovinetti, mentre <b>Aprile</b> &amp; <b>Maggio</b> <br>V' ammantan di fiorité &amp; verde spoglie,</q> &amp;c. <br>&emsp;&emsp;&emsp;&emsp;Giuresalemme liberata, <em>Canto</em> 14.</p>"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "parent": "Hume.NHR",
   "title": "Section 6. Origin of Theism from Polytheism",
   "breadcrumb": "Section 6",
-  "fulltitle": "<h1>Section 6. Origin of Theism from Polytheism</h1>",
+  "fulltitle": "<h1><b>Sect. VI.</b> <em>Origin of Theism from Polytheism.</em></h1>",
   "published": "1757",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/n/6.json",
@@ -43,7 +43,7 @@
     },
     {
       "id": "9",
-      "content": "<p>The <b>Jacobins</b>, who denied the immaculate conception, have ever been very unhappy in their doctrine, even though political reasons have kept the <b>Romish</b> church from condemning it. The <b>Cordeliers</b> have run away with all the popularity. But in the fifteenth century, as we learn from <b>Boulainvilliers</b><sup><a href='#n38'>[38]</a></sup>, an <b>Italian</b> <em>Cordelier</em> maintained, that, during the three days, when <b>Christ</b> was interred, the hypostatic union was dissolved, and that his human nature was not a proper object of adoration, during that period. Without the art of divination, one might foretel, that so gross and impious a blasphemy would not fail to be anathematized by the people. It was the occasion of great insults on the part of the <b>Jacobins</b>; who now got some recompence for their misfortunes in the war about the immaculate conception.</p>"
+      "content": "<p>The <b>Jacobins</b>, who denied the immaculate conception, have ever been very unhappy in their doctrine, even though political reasons have kept the <b>Romish</b> church from condemning it. The <b>Cordeliers</b> have run away with all the popularity. But in the fifteenth century, as we learn from <b>Boulainvilliers</b><a href=\"#n38\"><sup>[38]</sup></a>, an <b>Italian</b> <em>Cordelier</em> maintained, that, during the three days, when <b>Christ</b> was interred, the hypostatic union was dissolved, and that his human nature was not a proper object of adoration, during that period. Without the art of divination, one might foretel, that so gross and impious a blasphemy would not fail to be anathematized by the people. It was the occasion of great insults on the part of the <b>Jacobins</b>; who now got some recompence for their misfortunes in the war about the immaculate conception.</p>"
     },
     {
       "id": "10",
@@ -61,6 +61,7 @@
   "notes": [
     {
       "id": "38",
+      "paragraph": "9",
       "content": "<p>Histoire abregée, p. 499.</p>"
     }
   ]

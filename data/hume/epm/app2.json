@@ -3,7 +3,7 @@
   "parent": "Hume.EPM",
   "title": "Appendix 2. Of Self-love",
   "breadcrumb": "Appendix 2",
-  "fulltitle": "<h1>Appendix 2. Of Self-love</h1>",
+  "fulltitle": "<h1>APPENDIX II.</h1> <h2>Of <b>Self-love</b>.</h2>",
   "published": "1751",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/app2.json",
@@ -27,7 +27,7 @@
     },
     {
       "id": "5",
-      "content": "<p>But though the question, concerning the universal or partial selfishness of man be not so material, as is usually imagined, to morality and practice, it is certainly of consequence in the speculative science of human nature, and is a proper object of curiosity and enquiry. It may not, therefore, be unsuitable, in this place, to bestow a few reflections upon it<sup><a href='#n60'>[60]</a></sup>.</p>"
+      "content": "<p>But though the question, concerning the universal or partial selfishness of man be not so material, as is usually imagined, to morality and practice, it is certainly of consequence in the speculative science of human nature, and is a proper object of curiosity and enquiry. It may not, therefore, be unsuitable, in this place, to bestow a few reflections upon it<a href=\"#n60\"><sup>[60]</sup></a>.</p>"
     },
     {
       "id": "6",
@@ -35,7 +35,7 @@
     },
     {
       "id": "7",
-      "content": "<p>But the nature of the subject furnishes the strongest presumption, that no better system will ever, for the future, be invented, in order to account for the origin of the benevolent from the selfish affections, and reduce all the various emotions of the human mind to a perfect simplicity. The case is not the same in this species of philosophy as in physics. Many an hypothesis in nature, contrary to first appearances, has been found, on more accurate scrutiny, solid and satisfactory. Instances of this kind are so frequent that a judicious, as well as witty philosopher<sup><a href='#n61'>[61]</a></sup>, has ventured to affirm, if there be more than one way in which any phænomenon may be produced, that there is general presumption for its arising from the causes, which are the least obvious and familiar. But the presumption always lies on the other side, in all enquiries concerning the origin of our passions, and of the internal operations of the human mind. The simplest and most obvious cause, which can there be assigned for any phænomenon, is probably the true one. When a philosopher, in the explication of his system, is obliged to have recourse to some very intricate and refined reflections, and to suppose them essential to the production of any passion or emotion, we have reason to be extremely on our guard against so fallacious an hypothesis. The affections are not susceptible of any impression from the refinements of reason or imagination; and it is always found that a vigorous exertion of the latter faculties, necessarily, from the narrow capacity of the human mind, destroys all activity in the former. Our predominant motive or intention is, indeed, frequently concealed from ourselves, when it is mingled and confounded with other motives, which the mind, from vanity or self-conceit, is desirous of supposing more prevalent: But there is no instance, that a concealment of this nature has ever arisen from the abstruseness and intricacy of the motive. A man, that has lost a friend and patron, may flatter himself, that all his grief arises from generous sentiments, without any mixture of narrow or interested considerations: But a man, that grieves for a valuable friend, who needed his patronage and protection; how can we suppose, that his passionate tenderness arises from some metaphysical regards to a self-interest, which has no foundation or reality? We may as well imagine, that minute wheels and springs, like those of a watch, give motion to a loaded waggon, as account for the origin of passion from such abstruse reflections.</p>"
+      "content": "<p>But the nature of the subject furnishes the strongest presumption, that no better system will ever, for the future, be invented, in order to account for the origin of the benevolent from the selfish affections, and reduce all the various emotions of the human mind to a perfect simplicity. The case is not the same in this species of philosophy as in physics. Many an hypothesis in nature, contrary to first appearances, has been found, on more accurate scrutiny, solid and satisfactory. Instances of this kind are so frequent that a judicious, as well as witty philosopher<a href=\"#n61\"><sup>[61]</sup></a>, has ventured to affirm, if there be more than one way in which any phænomenon may be produced, that there is general presumption for its arising from the causes, which are the least obvious and familiar. But the presumption always lies on the other side, in all enquiries concerning the origin of our passions, and of the internal operations of the human mind. The simplest and most obvious cause, which can there be assigned for any phænomenon, is probably the true one. When a philosopher, in the explication of his system, is obliged to have recourse to some very intricate and refined reflections, and to suppose them essential to the production of any passion or emotion, we have reason to be extremely on our guard against so fallacious an hypothesis. The affections are not susceptible of any impression from the refinements of reason or imagination; and it is always found that a vigorous exertion of the latter faculties, necessarily, from the narrow capacity of the human mind, destroys all activity in the former. Our predominant motive or intention is, indeed, frequently concealed from ourselves, when it is mingled and confounded with other motives, which the mind, from vanity or self-conceit, is desirous of supposing more prevalent: But there is no instance, that a concealment of this nature has ever arisen from the abstruseness and intricacy of the motive. A man, that has lost a friend and patron, may flatter himself, that all his grief arises from generous sentiments, without any mixture of narrow or interested considerations: But a man, that grieves for a valuable friend, who needed his patronage and protection; how can we suppose, that his passionate tenderness arises from some metaphysical regards to a self-interest, which has no foundation or reality? We may as well imagine, that minute wheels and springs, like those of a watch, give motion to a loaded waggon, as account for the origin of passion from such abstruse reflections.</p>"
     },
     {
       "id": "8",
@@ -59,25 +59,29 @@
     },
     {
       "id": "13",
-      "content": "<p>Now where is the difficulty in conceiving, that this may likewise be the case with benevolence and friendship, and that, from the original frame of our temper, we may feel a desire of another's happiness or good, which, by means of that affection, becomes our own good, and is afterwards pursued, from the combined motives of benevolence and self-enjoyment? Who sees not that vengeance, from the force alone of passion, may be so eagerly pursued, as to make us knowingly neglect every consideration of ease, interest, or safety; and, like some vindictive animals, infuse our very souls into the wounds we give an enemy<sup><a href='#n62'>[62]</a></sup>? And what a malignant philosophy must it be, that will not allow, to humanity and friendship, the same privileges, which are undisputably granted to the darker passions of enmity and resentment? Such a philosophy is more like a satyr than a true delineation or description of human nature; and may be a good foundation for paradoxical wit and raillery, but is a very bad one for any serious argument or reasoning.</p>"
+      "content": "<p>Now where is the difficulty in conceiving, that this may likewise be the case with benevolence and friendship, and that, from the original frame of our temper, we may feel a desire of another's happiness or good, which, by means of that affection, becomes our own good, and is afterwards pursued, from the combined motives of benevolence and self-enjoyment? Who sees not that vengeance, from the force alone of passion, may be so eagerly pursued, as to make us knowingly neglect every consideration of ease, interest, or safety; and, like some vindictive animals, infuse our very souls into the wounds we give an enemy<a href=\"#n62\"><sup>[62]</sup></a>? And what a malignant philosophy must it be, that will not allow, to humanity and friendship, the same privileges, which are undisputably granted to the darker passions of enmity and resentment? Such a philosophy is more like a satyr than a true delineation or description of human nature; and may be a good foundation for paradoxical wit and raillery, but is a very bad one for any serious argument or reasoning.</p>"
     }
   ],
   "notes": [
     {
       "id": "60",
+      "paragraph": "5",
       "content": "<p>See NOTE [OO].</p>"
     },
     {
       "id": "60.1",
+      "paragraph": "5",
       "content": "<p>BE<b>nevolence</b> naturally divides into two kinds, the <em>general</em> and the <em>particular</em>. The first is, where we have no friendship or connexion or esteem for the person, but feel only a general sympathy with him or a compassion for his pains, and a congratulation with his pleasures. The other species of benevolence is founded on an opinion of virtue, on services done us, or on some particular connexions. Both these sentiments must be allowed real in human nature; but whether they will resolve into some nice considerations of self-love, is a question more curious than important. The former sentiment, to wit, that of general benevolence, or humanity, or sympathy, we shall have occasion frequently to treat of in the course of this enquiry; and I assume it as real, from general experience, without any other proof.</p>"
     },
     {
       "id": "61",
+      "paragraph": "7",
       "content": "<p>Mons. <b>Fontenelle</b>.</p>"
     },
     {
       "id": "62",
-      "content": "<p>Animasque in vulnere ponunt. <b>Virg.</b> <br>Dum alteri noceat, sui negligens, says <b>Seneca</b> of Anger. De Ira, I. i.</p>"
+      "paragraph": "13",
+      "content": "<p>Animasque in vulnere ponunt. &emsp;<b>Virg.</b> <br>Dum alteri noceat, sui negligens, says <b>Seneca</b> of Anger. De Ira, I. i.</p>"
     }
   ]
 }

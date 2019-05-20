@@ -3,7 +3,7 @@
   "parent": "Hume.EPM",
   "title": "Section 2. Of Benevolence",
   "breadcrumb": "Section 2",
-  "fulltitle": "<h1>Section 2. Of Benevolence</h1>",
+  "fulltitle": "<h1>SECTION II.</h1> <h2>Of <b>Benevolence</b>.</h2>",
   "published": "1751",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/2.json",
@@ -16,15 +16,15 @@
     },
     {
       "id": "2",
-      "content": "<p>When <b>Pericles</b>, the great <b>Athenian</b> statesman and general, was on his death-bed, his surrounding friends, deeming him now insensible, began to indulge their sorrow for their expiring patron, by enumerating his great qualities and successes, his conquests and victories, the unusual length of his administration, and his nine trophies erected over the enemies of the republic. <em>You forget</em>, cries the dying hero, who had heard all, <em>you forget the most eminent of my praises, while you dwell so much on those vulgar advantages, in which fortune had a principal share. You have not observed, that no citizen has ever yet worne mourning on my account</em><sup><a href='#n2'>[2]</a></sup>.</p>"
+      "content": "<p>When <b>Pericles</b>, the great <b>Athenian</b> statesman and general, was on his death-bed, his surrounding friends, deeming him now insensible, began to indulge their sorrow for their expiring patron, by enumerating his great qualities and successes, his conquests and victories, the unusual length of his administration, and his nine trophies erected over the enemies of the republic. <em>You forget</em>, cries the dying hero, who had heard all, <em>you forget the most eminent of my praises, while you dwell so much on those vulgar advantages, in which fortune had a principal share. You have not observed, that no citizen has ever yet worne mourning on my account</em><a href=\"#n2\"><sup>[2]</sup></a>.</p>"
     },
     {
       "id": "3",
-      "content": "<p>In men of more ordinary talents and capacity, the social virtues become, if possible, still more essentially requisite; there being nothing eminent, in that case, to compensate for the want of them, or preserve the person from our severest hatred, as well as contempt. A high ambition, an elevated courage, is apt, says <b>Cicero</b>, in less perfect characters, to degenerate into a turbulent ferocity. The more social and softer virtues are there chiefly to be regarded. These are always good and amiable<sup><a href='#n3'>[3]</a></sup>.</p>"
+      "content": "<p>In men of more ordinary talents and capacity, the social virtues become, if possible, still more essentially requisite; there being nothing eminent, in that case, to compensate for the want of them, or preserve the person from our severest hatred, as well as contempt. A high ambition, an elevated courage, is apt, says <b>Cicero</b>, in less perfect characters, to degenerate into a turbulent ferocity. The more social and softer virtues are there chiefly to be regarded. These are always good and amiable<a href=\"#n3\"><sup>[3]</sup></a>.</p>"
     },
     {
       "id": "4",
-      "content": "<p>The principal advantage, which <b>Juvenal</b> discovers in the extensive capacity of the human species is, that it renders our benevolence also more extensive, and gives us larger opportunities of spreading our kindly influence than what are indulged to the inferior creation<sup><a href='#n4'>[4]</a></sup>. It must, indeed, be confessed, that by doing good only, can a man truly enjoy the advantages of being eminent. His exalted station, of itself, but the more exposes him to danger and tempest. His sole prerogative is to afford shelter to inferiors, who repose themselves under his cover and protection.</p>"
+      "content": "<p>The principal advantage, which <b>Juvenal</b> discovers in the extensive capacity of the human species is, that it renders our benevolence also more extensive, and gives us larger opportunities of spreading our kindly influence than what are indulged to the inferior creation<a href=\"#n4\"><sup>[4]</sup></a>. It must, indeed, be confessed, that by doing good only, can a man truly enjoy the advantages of being eminent. His exalted station, of itself, but the more exposes him to danger and tempest. His sole prerogative is to afford shelter to inferiors, who repose themselves under his cover and protection.</p>"
     },
     {
       "id": "5",
@@ -65,11 +65,11 @@
     },
     {
       "id": "14",
-      "content": "<p>Your Gods, says <b>Cicero</b><sup><a href='#n5'>[5]</a></sup>, in opposition to the <b>Epicureans</b>, cannot justly claim any worship or adoration, with whatever imaginary perfections you may suppose them endowed. They are totally useless and unactive. Even the EGYPTIANS, whom you so much ridicule, never consecrated any animal but on account of its utility.</p>"
+      "content": "<p>Your Gods, says <b>Cicero</b><a href=\"#n5\"><sup>[5]</sup></a>, in opposition to the <b>Epicureans</b>, cannot justly claim any worship or adoration, with whatever imaginary perfections you may suppose them endowed. They are totally useless and unactive. Even the EGYPTIANS, whom you so much ridicule, never consecrated any animal but on account of its utility.</p>"
     },
     {
       "id": "15",
-      "content": "<p>The sceptics assert<sup><a href='#n6'>[6]</a></sup>, though absurdly, that the origin of all religious worship was derived from the utility of inanimate objects, as the sun and moon, to the support and well-being of mankind. This is also the common reason assigned by historians, for the deification of eminent heroes and legislators<sup><a href='#n7'>[7]</a></sup>.</p>"
+      "content": "<p>The sceptics assert<a href=\"#n6\"><sup>[6]</sup></a>, though absurdly, that the origin of all religious worship was derived from the utility of inanimate objects, as the sun and moon, to the support and well-being of mankind. This is also the common reason assigned by historians, for the deification of eminent heroes and legislators<a href=\"#n7\"><sup>[7]</sup></a>.</p>"
     },
     {
       "id": "16",
@@ -101,40 +101,48 @@
     },
     {
       "id": "23",
-      "content": "<p>How considerable a <em>part</em> of their merit we ought to ascribe to their utility, will better appear from future disquisitions<sup><a href='#n8'>[8]</a></sup>; as well as the reason, why this circumstance has such a command over our esteem and approbation<sup><a href='#n9'>[9]</a></sup>.</p>"
+      "content": "<p>How considerable a <em>part</em> of their merit we ought to ascribe to their utility, will better appear from future disquisitions<a href=\"#n8\"><sup>[8]</sup></a>; as well as the reason, why this circumstance has such a command over our esteem and approbation<a href=\"#n9\"><sup>[9]</sup></a>.</p>"
     }
   ],
   "notes": [
     {
       "id": "2",
+      "paragraph": "2",
       "content": "<p><b>Plut.</b> in <b>Pericle</b>.</p>"
     },
     {
       "id": "3",
+      "paragraph": "3",
       "content": "<p><b>Cic.</b> de Officiis, lib. I.</p>"
     },
     {
       "id": "4",
+      "paragraph": "4",
       "content": "<p>Sat. xv. 139 &amp; seq.</p>"
     },
     {
       "id": "5",
+      "paragraph": "14",
       "content": "<p>De Nat. Deor. lib. i.</p>"
     },
     {
       "id": "6",
+      "paragraph": "15",
       "content": "<p><b>Sext. Emp.</b> adversus <b>Math.</b> lib. viii.</p>"
     },
     {
       "id": "7",
+      "paragraph": "15",
       "content": "<p><b>Diod. Sic.</b> passim.</p>"
     },
     {
       "id": "8",
+      "paragraph": "23",
       "content": "<p>Sect 3d and 4th.</p>"
     },
     {
       "id": "9",
+      "paragraph": "23",
       "content": "<p>Sect. 5th.</p>"
     }
   ]

@@ -3,7 +3,7 @@
   "parent": "Hume.THN.3.1",
   "title": "Section 2. Moral distinctions deriv'd from a moral sense",
   "breadcrumb": "Section 2",
-  "fulltitle": "<h1>Section II.</h1> <h2><em>Moral distinctions deriv'd from a moral sense.</em></h2>",
+  "fulltitle": "<h3>SECT. II.</h3> <h4><em>Moral distinctions deriv'd from a moral sense.</em></h4>",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/3/1/2.json",
   "imported": true,
   "paragraphs": [
@@ -41,7 +41,7 @@
     },
     {
       "id": "9",
-      "content": "<p><b>But</b> <em>nature</em> may also be opposed to artifice, as well as to what is rare and unusual; and in this sense it may be disputed, whether the notions of virtue be natural or not. We readily forget, that the designs, and projects, and views of men are principles as necessary in their operation as heat and cold, moist and dry: But taking them to be free and entirely our own, 'tis usual for us to set them in opposition to the other principles of nature. Shou'd it, therefore, be demanded, whether the sense of virtue be natural or artificial, I am of opinion, that 'tis impossible for me at present to give any precise answer to this question. Perhaps it will appear afterwards, that our sense of some virtues is artificial, and that of others natural. The discussion of this question will be more proper, when we enter upon an exact detail of each particular vice and virtue<sup><a href='#n70'>[70]</a></sup>.</p>"
+      "content": "<p><b>But</b> <em>nature</em> may also be opposed to artifice, as well as to what is rare and unusual; and in this sense it may be disputed, whether the notions of virtue be natural or not. We readily forget, that the designs, and projects, and views of men are principles as necessary in their operation as heat and cold, moist and dry: But taking them to be free and entirely our own, 'tis usual for us to set them in opposition to the other principles of nature. Shou'd it, therefore, be demanded, whether the sense of virtue be natural or artificial, I am of opinion, that 'tis impossible for me at present to give any precise answer to this question. Perhaps it will appear afterwards, that our sense of some virtues is artificial, and that of others natural. The discussion of this question will be more proper, when we enter upon an exact detail of each particular vice and virtue<a href=\"#n70\"><sup>[70]</sup></a>.</p>"
     },
     {
       "id": "10",
@@ -55,6 +55,7 @@
   "notes": [
     {
       "id": "70",
+      "paragraph": "9",
       "content": "<p>In the following discourse <em>natural</em> is also opposed sometimes to <em>civil</em>, sometimes to <em>moral</em>. The opposition will always discover the sense, in which it is taken.</p>"
     }
   ]

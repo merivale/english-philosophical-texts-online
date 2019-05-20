@@ -31,6 +31,7 @@ const tokenize = content =>
     .replace(/<small>(.*?)<\/small>/g, '') // remove anything marked as <small>
     .replace(/<([^>]+)>/g, '') // remove all remaining HTML tags
     .replace(/—/g, ' ') // replace long dashes with spaces
+    .replace(/-+/g, ' ') // replace sequences of two or more short dashes with spaces
     .split(' ') // split into an array of words
     .map((x) => { // get rid of punctuation
       if (x === 'i.e.' || x === 'e.g.' || x === '&amp;' || x === '&amp;c.') return x

@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.1",
   "title": "Section 1. Of the Origin of our Ideas",
   "breadcrumb": "Section 1",
-  "fulltitle": "<h1>SECT. I.</h1> <h2><em>Of the Origin of our Ideas.</em></h2>",
+  "fulltitle": "<h3>SECT. I.</h3> <h4><em>Of the Origin of our Ideas.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/1/1.json",
@@ -11,7 +11,7 @@
   "paragraphs": [
     {
       "id": "1",
-      "content": "<p>ALL the perceptions of the human mind resolve themselves into two distinct kinds, which I shall call <b>Impressions</b> and <b>Ideas</b>. The difference betwixt these consists in the degrees of force and liveliness, with which they strike upon the mind, and make their way into our thought or consciousness. Those perceptions, which enter with most force and violence, we may name <em>impressions</em>; and under this name I comprehend all our sensations, passions and emotions, as they make their first appearance in the soul. By <em>ideas</em> I mean the faint images of these in thinking and reasoning; such as, for instance, are all the perceptions excited by the present discourse, excepting only, those which arise from the sight and touch, and excepting the immediate pleasure or uneasiness it may occasion. I believe it will not be very necessary to employ many words in explaining this distinction. Every one of himself will readily perceive the difference betwixt feeling and thinking. The common degrees of these are easily distinguished; tho' it is not impossible but in particular instances they may very nearly approach to each other. Thus in sleep, in a fever, in madness, or in any very violent emotions of soul, our ideas may approach to our impressions: As on the other hand it sometimes happens, that our impressions are so faint and low, that we cannot distinguish them from our ideas. But notwithstanding this near resemblance in a few instances, they are in general so very different, that no-one can make a scruple to rank them under distinct heads, and assign to each a peculiar name to mark the difference<sup><a href='#n2'>[2]</a></sup>.</p>"
+      "content": "<p>ALL the perceptions of the human mind resolve themselves into two distinct kinds, which I shall call <b>Impressions</b> and <b>Ideas</b>. The difference betwixt these consists in the degrees of force and liveliness, with which they strike upon the mind, and make their way into our thought or consciousness. Those perceptions, which enter with most force and violence, we may name <em>impressions</em>; and under this name I comprehend all our sensations, passions and emotions, as they make their first appearance in the soul. By <em>ideas</em> I mean the faint images of these in thinking and reasoning; such as, for instance, are all the perceptions excited by the present discourse, excepting only, those which arise from the sight and touch, and excepting the immediate pleasure or uneasiness it may occasion. I believe it will not be very necessary to employ many words in explaining this distinction. Every one of himself will readily perceive the difference betwixt feeling and thinking. The common degrees of these are easily distinguished; tho' it is not impossible but in particular instances they may very nearly approach to each other. Thus in sleep, in a fever, in madness, or in any very violent emotions of soul, our ideas may approach to our impressions: As on the other hand it sometimes happens, that our impressions are so faint and low, that we cannot distinguish them from our ideas. But notwithstanding this near resemblance in a few instances, they are in general so very different, that no-one can make a scruple to rank them under distinct heads, and assign to each a peculiar name to mark the difference<a href=\"#n2\"><sup>[2]</sup></a>.</p>"
     },
     {
       "id": "2",
@@ -61,6 +61,7 @@
   "notes": [
     {
       "id": "2",
+      "paragraph": "1",
       "content": "<p>I here make use of these terms, <em>impression and idea</em>, in a sense different from what is usual, and I hope this liberty will be allowed me. Perhaps I rather restore the word, idea, to its original sense, from which Mr. <em>Locke</em> had perverted it, in making it stand for all our perceptions. By the term of impression I would not be understood to express the manner, in which our lively perceptions are produced in the soul, but merely the perceptions themselves; for which there is no particular name either in the <em>English</em> or any other language, that I know of.</p>"
     }
   ]

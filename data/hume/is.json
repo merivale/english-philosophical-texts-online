@@ -2,7 +2,7 @@
   "id": "Hume.IS",
   "title": "Of the Immortality of the Soul",
   "breadcrumb": "Of the Immortality of the Soul",
-  "fulltitle": "<h1>Of the Immortality of the Soul</h1>",
+  "fulltitle": "<h1>Of the <b>Immortality</b> of the <b>Soul</b></h1>",
   "published": "1755",
   "copytext": "1755",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/is.json",
@@ -24,7 +24,7 @@
     },
     {
       "id": "4",
-      "content": "<p><b>They</b> likewise teach us, that nothing can be decided <em>apriori</em> concerning any cause or effect; and that experience being the only source of our judgments of this nature, we cannot know from any other principle, whether matter, by its structure or arrangement, may not be the cause of thought. Abstract reasonings cannot decide any question of fact or existence.</p>"
+      "content": "<p><b>They</b> likewise teach us, that nothing can be decided <em>a priori</em> concerning any cause or effect; and that experience being the only source of our judgments of this nature, we cannot know from any other principle, whether matter, by its structure or arrangement, may not be the cause of thought. Abstract reasonings cannot decide any question of fact or existence.</p>"
     },
     {
       "id": "5",
@@ -96,7 +96,7 @@
     },
     {
       "id": "22",
-      "content": "<p><b>Punishment</b>, according to <em>our</em> conceptions, should bear some proportion to the offence. Why then eternal punishment for the temporary offences of so frail a creature as man? Can any one approve of <em>Alexander's</em> rage, who intended to exterminate a whole nation, because they had seized his favourite horse, <em>Bucephalus</em><sup><a href='#n1'>[1]</a></sup><em>?</em></p>"
+      "content": "<p><b>Punishment</b>, according to <em>our</em> conceptions, should bear some proportion to the offence. Why then eternal punishment for the temporary offences of so frail a creature as man? Can any one approve of <em>Alexander's</em> rage, who intended to exterminate a whole nation, because they had seized his favourite horse, <em>Bucephalus</em><a href=\"#n1\"><sup>[1]</sup></a><em>?</em></p>"
     },
     {
       "id": "23",
@@ -116,7 +116,7 @@
     },
     {
       "id": "27",
-      "content": "<p><b>By</b> the Roman law, those who had been guilty of parricide and confessed their crime, were put into a sack, along with an ape, a dog, and a serpent; and thrown into the river: Death alone was the punishment of those, who denied their guilt, however fully proved. A criminal was tryed before <em>Augustus</em>, and condemned after full conviction: But the humane emperor, when he put the last interrogatory, gave it such a turn as to lead the wretch into a denial of his guilt. <em>You surely</em>, said the prince, <em>did not kill your father</em><sup><a href='#n2'>[2]</a></sup>. This lenity suits our natural ideas of <b>right</b>, even towards the greatest of all criminals, and even tho' it prevents so inconsiderable a sufferance. Nay, even the most bigotted priest would naturally, without reflection, approve of it; provided the crime was not heresy or infidelity. For as these crimes hurt himself in his <em>temporal</em> interests and advantages; perhaps he may not be altogether so indulgent to them.</p>"
+      "content": "<p><b>By</b> the Roman law, those who had been guilty of parricide and confessed their crime, were put into a sack, along with an ape, a dog, and a serpent; and thrown into the river: Death alone was the punishment of those, who denied their guilt, however fully proved. A criminal was tryed before <em>Augustus</em>, and condemned after full conviction: But the humane emperor, when he put the last interrogatory, gave it such a turn as to lead the wretch into a denial of his guilt. <em>You surely</em>, said the prince, <em>did not kill your father</em><a href=\"#n2\"><sup>[2]</sup></a>. This lenity suits our natural ideas of <b>right</b>, even towards the greatest of all criminals, and even tho' it prevents so inconsiderable a sufferance. Nay, even the most bigotted priest would naturally, without reflection, approve of it; provided the crime was not heresy or infidelity. For as these crimes hurt himself in his <em>temporal</em> interests and advantages; perhaps he may not be altogether so indulgent to them.</p>"
     },
     {
       "id": "28",
@@ -172,7 +172,7 @@
     },
     {
       "id": "41",
-      "content": "<p><em>Quanto facilius</em>, says <em>Pliny</em><sup><a href='#n3'>[3]</a></sup>, <em>certiusque sibi quemque credere, ac specimen securitatis antigenitali sumere experimento</em>. Our insensibility, before the composition of the body, seems to natural reason a proof of a like state after its dissolution.</p>"
+      "content": "<p><em>Quanto facilius</em>, says <em>Pliny</em><a href=\"#n3\"><sup>[3]</sup></a>, <em>certiusque sibi quemque credere, ac specimen securitatis antigenitali sumere experimento</em>. Our insensibility, before the composition of the body, seems to natural reason a proof of a like state after its dissolution.</p>"
     },
     {
       "id": "42",
@@ -194,14 +194,17 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "22",
       "content": "<p>Quint. Curtius, lib. vi. cap. 5.</p>"
     },
     {
       "id": "2",
+      "paragraph": "27",
       "content": "<p>Sueton. August. cap. 3.</p>"
     },
     {
       "id": "3",
+      "paragraph": "41",
       "content": "<p>Lib. vii. cap. 55.</p>"
     }
   ]

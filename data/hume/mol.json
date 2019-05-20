@@ -2,7 +2,7 @@
   "id": "Hume.MOL",
   "title": "My Own Life",
   "breadcrumb": "My Own Life",
-  "fulltitle": "<h1>My Own Life</h1>",
+  "fulltitle": "<h2>MY OWN</h2><h1>LIFE.</h1>",
   "published": "1777",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/mol.json",
@@ -92,7 +92,7 @@
     },
     {
       "id": "21",
-      "content": "<p>To conclude historically with my own character. I am, or rather was (for that is the style I must now use in speaking of myself, which emboldens me the more to speak my sentiments); I was, I say, a man of mild disposition, of command of temper, of an open, social, and cheerful humour, capable of attachment, but little susceptible of enmity, and of great moderation in all my passions. Even my love of literary fame, my ruling passion, never soured my temper, notwithstanding my frequent disappointments. My company was not unacceptable to the young and careless, as well as to the studious and literary; and as I took a particular pleasure in the company of modest women, I had no reason to be displeased with the reception I met with from them. In a word, though most men any wise eminent, have found reason to complain of calumny, I never was touched, or even attacked by her baleful tooth: and though I wantonly exposed myself to the rage of both civil and religious factions, they seemed to be disarmed in my behalf of their wonted fury. My friends never had occasion to vindicate any one circumstance of my character and conduct: not but that the zealots, we may well suppose, would have been glad to invent and propagate any story to my disadvantage, but they could never find any which they thought would wear the face of probability. I cannot say there is no vanity in making this funeral oration of myself, but I hope it is not a misplaced one; and this is a matter of fact which is easily cleared and ascertained.<br><em>April 18, 1776.</em></p>"
+      "content": "<p>To conclude historically with my own character. I am, or rather was (for that is the style I must now use in speaking of myself, which emboldens me the more to speak my sentiments); I was, I say, a man of mild disposition, of command of temper, of an open, social, and cheerful humour, capable of attachment, but little susceptible of enmity, and of great moderation in all my passions. Even my love of literary fame, my ruling passion, never soured my temper, notwithstanding my frequent disappointments. My company was not unacceptable to the young and careless, as well as to the studious and literary; and as I took a particular pleasure in the company of modest women, I had no reason to be displeased with the reception I met with from them. In a word, though most men any wise eminent, have found reason to complain of calumny, I never was touched, or even attacked by her baleful tooth: and though I wantonly exposed myself to the rage of both civil and religious factions, they seemed to be disarmed in my behalf of their wonted fury. My friends never had occasion to vindicate any one circumstance of my character and conduct: not but that the zealots, we may well suppose, would have been glad to invent and propagate any story to my disadvantage, but they could never find any which they thought would wear the face of probability. I cannot say there is no vanity in making this funeral oration of myself, but I hope it is not a misplaced one; and this is a matter of fact which is easily cleared and ascertained.</p> <p><small>April 18, 1776.</small></p>"
     }
   ],
   "notes": []

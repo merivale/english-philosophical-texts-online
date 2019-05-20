@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.2",
   "title": "Section 3. Of the other qualities of our ideas of space and time",
   "breadcrumb": "Section 3",
-  "fulltitle": "<h1>Section 3. Of the other qualities of our ideas of space and time</h1>",
+  "fulltitle": "<h3>SECT. III.</h3> <h4><em>Of the other qualities of our ideas of space and time.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/2/3.json",
@@ -35,7 +35,7 @@
     },
     {
       "id": "7",
-      "content": "<p><b>As</b> 'tis from the disposition of visible and tangible objects we receive the idea of space, so from the succession of ideas and impressions we form the idea of time, nor is it possible for time alone ever to make its appearance, or be taken notice of by the mind. A man in a sound sleep, or strongly occupy'd with one thought, is insensible of time; and according as his perceptions succeed each other with greater or less rapidity, the same duration appears longer or shorter to his imagination. It has been remark'd by a<sup><a href='#n8'>[8]</a></sup> great philosopher, that our perceptions have certain bounds in this particular, which are fix'd by the original nature and constitution of the mind, and beyond which no influence of external objects on the senses is ever able to hasten or retard our thought. If you wheel about a burning coal with rapidity, it will present to the senses an image of a circle of fire; nor will there seem to be any interval of time betwixt its revolutions; meerly because 'tis impossible for our perceptions to succeed each other with the same rapidity, that motion may be communicated to external objects. Wherever we have no successive perceptions, we have no notion of time, even tho' there be a real succession in the objects. From these phænomena, as well as from many others, we may conclude, that time cannot make its appearance to the mind, either alone, or attended with a steady unchangeable object, but is always discover'd by some <em>perceivable</em> succession of changeable objects.</p>"
+      "content": "<p><b>As</b> 'tis from the disposition of visible and tangible objects we receive the idea of space, so from the succession of ideas and impressions we form the idea of time, nor is it possible for time alone ever to make its appearance, or be taken notice of by the mind. A man in a sound sleep, or strongly occupy'd with one thought, is insensible of time; and according as his perceptions succeed each other with greater or less rapidity, the same duration appears longer or shorter to his imagination. It has been remark'd by a<a href=\"#n8\"><sup>[8]</sup></a> great philosopher, that our perceptions have certain bounds in this particular, which are fix'd by the original nature and constitution of the mind, and beyond which no influence of external objects on the senses is ever able to hasten or retard our thought. If you wheel about a burning coal with rapidity, it will present to the senses an image of a circle of fire; nor will there seem to be any interval of time betwixt its revolutions; meerly because 'tis impossible for our perceptions to succeed each other with the same rapidity, that motion may be communicated to external objects. Wherever we have no successive perceptions, we have no notion of time, even tho' there be a real succession in the objects. From these phænomena, as well as from many others, we may conclude, that time cannot make its appearance to the mind, either alone, or attended with a steady unchangeable object, but is always discover'd by some <em>perceivable</em> succession of changeable objects.</p>"
     },
     {
       "id": "8",
@@ -51,7 +51,7 @@
     },
     {
       "id": "11",
-      "content": "<p><b>I know</b> there are some who pretend, that the idea of duration is applicable in a proper sense to objects, which are perfectly unchangeable; and this I take to be the common opinion of philosophers as well as of the vulgar. But to be convinc'd of its falshood we need but reflect on the foregoing conclusion, that the idea of duration is always deriv'd from a succession of changeable objects, and can never be convey'd to the mind by any thing stedfast and unchangeable. For it inevitably follows from thence, that since the idea of duration cannot be deriv'd from such an object, it can never in any propriety or exactness be apply'd to it, nor can any thing unchangeable be ever said to have duration. Ideas always represent the objects or impressions, from which they are deriv'd, and can never without a fiction represent or be apply'd to any other. By what fiction we apply the idea of time, even to what is unchangeable, and suppose, as is common, that duration is a measure of rest as well as of motion, we shall consider<sup><a href='#n9'>[9]</a></sup> afterwards.</p>"
+      "content": "<p><b>I know</b> there are some who pretend, that the idea of duration is applicable in a proper sense to objects, which are perfectly unchangeable; and this I take to be the common opinion of philosophers as well as of the vulgar. But to be convinc'd of its falshood we need but reflect on the foregoing conclusion, that the idea of duration is always deriv'd from a succession of changeable objects, and can never be convey'd to the mind by any thing stedfast and unchangeable. For it inevitably follows from thence, that since the idea of duration cannot be deriv'd from such an object, it can never in any propriety or exactness be apply'd to it, nor can any thing unchangeable be ever said to have duration. Ideas always represent the objects or impressions, from which they are deriv'd, and can never without a fiction represent or be apply'd to any other. By what fiction we apply the idea of time, even to what is unchangeable, and suppose, as is common, that duration is a measure of rest as well as of motion, we shall consider<a href=\"#n9\"><sup>[9]</sup></a> afterwards.</p>"
     },
     {
       "id": "12",
@@ -81,10 +81,12 @@
   "notes": [
     {
       "id": "8",
+      "paragraph": "7",
       "content": "<p>Mr. <em>Locke</em>.</p>"
     },
     {
       "id": "9",
+      "paragraph": "11",
       "content": "<p>Sect. 5.</p>"
     }
   ]

@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.2",
   "title": "Section 6. Of the idea of existence, and of external existence",
   "breadcrumb": "Section 6",
-  "fulltitle": "<h1>Section 6. Of the idea of existence, and of external existence</h1>",
+  "fulltitle": "<h3>SECT. VI.</h3> <h4><em>Of the idea of existence, and of external existence.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/2/6.json",
@@ -31,7 +31,7 @@
     },
     {
       "id": "6",
-      "content": "<p><b>Our</b> foregoing<sup><a href='#n13'>[13]</a></sup> reasoning concerning the <em>distinction</em> of ideas without any real <em>difference</em> will not here serve us in any stead. That kind of distinction is founded on the different resemblances, which the same simple idea may have to several different ideas. But no object can be presented resembling some object with respect to its existence, and different from others in the same particular; since every object, that is presented, must necessarily be existent.</p>"
+      "content": "<p><b>Our</b> foregoing<a href=\"#n13\"><sup>[13]</sup></a> reasoning concerning the <em>distinction</em> of ideas without any real <em>difference</em> will not here serve us in any stead. That kind of distinction is founded on the different resemblances, which the same simple idea may have to several different ideas. But no object can be presented resembling some object with respect to its existence, and different from others in the same particular; since every object, that is presented, must necessarily be existent.</p>"
     },
     {
       "id": "7",
@@ -43,16 +43,18 @@
     },
     {
       "id": "9",
-      "content": "<p><b>The</b> farthest we can go towards a conception of external objects, when suppos'd <em>specifically</em> different from our perceptions, is to form a relative idea of them, without pretending to comprehend the related objects. Generally speaking we do not suppose them specifically different; but only attribute to them different relations, connections and durations. But of this more fully hereafter<sup><a href='#n14'>[14]</a></sup>.</p>"
+      "content": "<p><b>The</b> farthest we can go towards a conception of external objects, when suppos'd <em>specifically</em> different from our perceptions, is to form a relative idea of them, without pretending to comprehend the related objects. Generally speaking we do not suppose them specifically different; but only attribute to them different relations, connections and durations. But of this more fully hereafter<a href=\"#n14\"><sup>[14]</sup></a>.</p>"
     }
   ],
   "notes": [
     {
       "id": "13",
+      "paragraph": "6",
       "content": "<p>Part I. Sect. 7.</p>"
     },
     {
       "id": "14",
+      "paragraph": "9",
       "content": "<p>Part IV. Sect. 2.</p>"
     }
   ]

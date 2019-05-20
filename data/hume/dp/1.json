@@ -3,7 +3,7 @@
   "parent": "Hume.DP",
   "title": "Section 1",
   "breadcrumb": "Section 1",
-  "fulltitle": "<h1>Section 1</h1>",
+  "fulltitle": "<h1>SECT I.</h1>",
   "published": "1757",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/p/1.json",
@@ -91,7 +91,7 @@
     {
       "id": "19",
       "before": "8.",
-      "content": "<p>Thus all kinds of uncertainty have a strong connexion with fear, even though they do not cause any opposition of passions, by the opposite views, which they present to us. Should I leave a friend in any malady, I should feel more anxiety upon his account, than if he were present; though perhaps I am not only incapable of giving him assistance, but likewise of judging concerning the event of his sickness. There are a thousand little circumstances of his situation and condition, which I desire to know; and the knowledge of them would prevent that fluctuation and uncertainty, so nearly allied to fear. <b>Horace</b> has remarked this phænomenon.</p> <blockquote><em>Ut assidens implumibus pullus avis <br>Serpentûm allapsus timet, <br>Magis relictis; non, ut adsit, auxili <br>Latura plus præsentibus.</em></blockquote>"
+      "content": "<p>Thus all kinds of uncertainty have a strong connexion with fear, even though they do not cause any opposition of passions, by the opposite views, which they present to us. Should I leave a friend in any malady, I should feel more anxiety upon his account, than if he were present; though perhaps I am not only incapable of giving him assistance, but likewise of judging concerning the event of his sickness. There are a thousand little circumstances of his situation and condition, which I desire to know; and the knowledge of them would prevent that fluctuation and uncertainty, so nearly allied to fear. <b>Horace</b> has remarked this phænomenon.</p> <blockquote><em>Ut assidens implumibus pullus avis <br>&emsp;Serpentûm allapsus timet, <br>Magis relictis; non, ut adsit, auxili <br>&emsp;Latura plus præsentibus.</em></blockquote>"
     },
     {
       "id": "20",

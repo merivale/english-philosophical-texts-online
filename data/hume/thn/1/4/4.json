@@ -3,7 +3,7 @@
   "parent": "Hume.THN.1.4",
   "title": "Section 4. Of the modern philosophy",
   "breadcrumb": "Section 4",
-  "fulltitle": "<h1>Section 4. Of the modern philosophy</h1>",
+  "fulltitle": "<h3>SECT. IV.</h3> <h4><em>Of the modern philosophy.</em></h4>",
   "published": "1739",
   "copytext": "1739",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/4/4.json",
@@ -51,7 +51,7 @@
     },
     {
       "id": "11",
-      "content": "<p><b>Add</b> to this, that, properly speaking, solidity or impenetrability is nothing, but an impossibility of annihilation, as<sup><a href='#n42'>[42]</a></sup> has been already observ'd: For which reason 'tis the more necessary for us to form some distinct idea of that object, whose annihilation we suppose impossible. An impossibility of being annihilated cannot exist, and can never be conceived to exist, by itself; but necessarily requires some object or real existence, to which it may belong. Now the difficulty still remains, how to form an idea of this object or existence, without having recourse to the secondary and sensible qualities.</p>"
+      "content": "<p><b>Add</b> to this, that, properly speaking, solidity or impenetrability is nothing, but an impossibility of annihilation, as<a href=\"#n42\"><sup>[42]</sup></a> has been already observ'd: For which reason 'tis the more necessary for us to form some distinct idea of that object, whose annihilation we suppose impossible. An impossibility of being annihilated cannot exist, and can never be conceived to exist, by itself; but necessarily requires some object or real existence, to which it may belong. Now the difficulty still remains, how to form an idea of this object or existence, without having recourse to the secondary and sensible qualities.</p>"
     },
     {
       "id": "12",
@@ -73,6 +73,7 @@
   "notes": [
     {
       "id": "42",
+      "paragraph": "11",
       "content": "<p>Part II. Sect. 4.</p>"
     }
   ]

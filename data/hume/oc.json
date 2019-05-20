@@ -3,7 +3,7 @@
   "parent": "Hume.Ess2",
   "title": "Of the Original Contract",
   "breadcrumb": "Of the Original Contract",
-  "fulltitle": "<h1>Of the Original Contract</h1>",
+  "fulltitle": "<h1>Of the <b>Original Contract</b>.</h1>",
   "published": "1748",
   "copytext": "1777",
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/oc.json",
@@ -75,7 +75,7 @@
     },
     {
       "id": "17",
-      "content": "<p>The <b>Achæans</b> enjoyed the freest and most perfect democracy of all antiquity; yet they employed force to oblige some cities to enter into their league, as we learn from <b>Polybius</b><sup><a href='#n1'>[1]</a></sup>.</p>"
+      "content": "<p>The <b>Achæans</b> enjoyed the freest and most perfect democracy of all antiquity; yet they employed force to oblige some cities to enter into their league, as we learn from <b>Polybius</b><a href=\"#n1\"><sup>[1]</sup></a>.</p>"
     },
     {
       "id": "18",
@@ -107,7 +107,7 @@
     },
     {
       "id": "25",
-      "content": "<p>What if the prince forbid his subjects to quit his dominions; as in <b>Tiberius</b>'s time, it was regarded as a crime in a <b>Roman</b> knight that he had attempted to fly to the <b>Parthians</b>, in order to escape the tyranny of that emperor<sup><a href='#n2'>[2]</a></sup>? Or as the ancient <b>Muscovites</b> prohibited all travelling under pain of death? And did a prince observe, that many of his subjects were seized with the frenzy of migrating to foreign countries, he would doubtless, with great reason and justice, restrain them, in order to prevent the depopulation of his own kingdom. Would he forfeit the allegiance of all his subjects, by so wise and reasonable a law? Yet the freedom of their choice is surely, in that case, ravished from them.</p>"
+      "content": "<p>What if the prince forbid his subjects to quit his dominions; as in <b>Tiberius</b>'s time, it was regarded as a crime in a <b>Roman</b> knight that he had attempted to fly to the <b>Parthians</b>, in order to escape the tyranny of that emperor<a href=\"#n2\"><sup>[2]</sup></a>? Or as the ancient <b>Muscovites</b> prohibited all travelling under pain of death? And did a prince observe, that many of his subjects were seized with the frenzy of migrating to foreign countries, he would doubtless, with great reason and justice, restrain them, in order to prevent the depopulation of his own kingdom. Would he forfeit the allegiance of all his subjects, by so wise and reasonable a law? Yet the freedom of their choice is surely, in that case, ravished from them.</p>"
     },
     {
       "id": "26",
@@ -175,7 +175,7 @@
     },
     {
       "id": "42",
-      "content": "<p>The discontent of the <em>Prætorian</em> bands broke out in a sudden sedition, which occasioned the murder of that excellent prince: And the world being now without a master and without government, the guards thought proper to set the empire formally to sale. <b>Julian</b>, the purchaser, was proclaimed by the soldiers, recognized by the senate, and submitted to by the people; and must also have been submitted to by the provinces, had not the envy of the legions begotten opposition and resistance. <b>Pescennius Niger</b> in <b>Syria</b> elected himself emperor, gained the tumultuary consent of his army, and was attended with the secret good-will of the senate and people of <b>Rome</b>. <b>Albinus</b> in <b>Britain</b> found an equal right to set up his claim; but <b>Severus</b>, who governed <b>Pannonia</b>, prevailed in the end above both of them. That able politician and warrior, finding his own birth and dignity too much inferior to the imperial crown, professed, at first, an intention only of revenging the death of <b>Pertinax</b>. He marched as general into <b>Italy</b>; defeated <b>Julian</b>; and without our being able to fix any precise commencement even of the soldiers' consent, he was from necessity acknowledged emperor by the senate and people; and fully established in his violent authority by subduing <b>Niger</b> and <b>Albinus</b><sup><a href='#n3'>[3]</a></sup>.</p>"
+      "content": "<p>The discontent of the <em>Prætorian</em> bands broke out in a sudden sedition, which occasioned the murder of that excellent prince: And the world being now without a master and without government, the guards thought proper to set the empire formally to sale. <b>Julian</b>, the purchaser, was proclaimed by the soldiers, recognized by the senate, and submitted to by the people; and must also have been submitted to by the provinces, had not the envy of the legions begotten opposition and resistance. <b>Pescennius Niger</b> in <b>Syria</b> elected himself emperor, gained the tumultuary consent of his army, and was attended with the secret good-will of the senate and people of <b>Rome</b>. <b>Albinus</b> in <b>Britain</b> found an equal right to set up his claim; but <b>Severus</b>, who governed <b>Pannonia</b>, prevailed in the end above both of them. That able politician and warrior, finding his own birth and dignity too much inferior to the imperial crown, professed, at first, an intention only of revenging the death of <b>Pertinax</b>. He marched as general into <b>Italy</b>; defeated <b>Julian</b>; and without our being able to fix any precise commencement even of the soldiers' consent, he was from necessity acknowledged emperor by the senate and people; and fully established in his violent authority by subduing <b>Niger</b> and <b>Albinus</b><a href=\"#n3\"><sup>[3]</sup></a>.</p>"
     },
     {
       "id": "43",
@@ -187,11 +187,11 @@
     },
     {
       "id": "45",
-      "content": "<p>In an absolute government, when there is no legal prince, who has a title to the throne, it may safely be determined to belong to the first occupant. Instances of this kind are but too frequent, especially in the eastern monarchies. When any race of princes expires, the will or destination of the last sovereign will be regarded as a title. Thus the edict of <b>Lewis</b> the XIVth, who called the bastard princes to the succession in case of the failure of all the legitimate princes, would, in such an event, have some authority<sup><a href='#n4'>[4]</a></sup>. Thus the will of <b>Charles</b> the Second disposed of the whole <b>Spanish</b> monarchy. The cession of the ancient proprietor, especially when joined to conquest, is likewise deemed a good title. The general obligation, which binds us to government, is the interest and necessities of society; and this obligation is very strong. The determination of it to this or that particular prince or form of government is frequently more uncertain and dubious. Present possession has considerable authority in these cases, and greater than in private property; because of the disorders which attend all revolutions and changes of government.</p>"
+      "content": "<p>In an absolute government, when there is no legal prince, who has a title to the throne, it may safely be determined to belong to the first occupant. Instances of this kind are but too frequent, especially in the eastern monarchies. When any race of princes expires, the will or destination of the last sovereign will be regarded as a title. Thus the edict of <b>Lewis</b> the XIVth, who called the bastard princes to the succession in case of the failure of all the legitimate princes, would, in such an event, have some authority<a href=\"#n4\"><sup>[4]</sup></a>. Thus the will of <b>Charles</b> the Second disposed of the whole <b>Spanish</b> monarchy. The cession of the ancient proprietor, especially when joined to conquest, is likewise deemed a good title. The general obligation, which binds us to government, is the interest and necessities of society; and this obligation is very strong. The determination of it to this or that particular prince or form of government is frequently more uncertain and dubious. Present possession has considerable authority in these cases, and greater than in private property; because of the disorders which attend all revolutions and changes of government.</p>"
     },
     {
       "id": "46",
-      "content": "<p>We shall only observe, before we conclude, that, though an appeal to general opinion may justly, in the speculative sciences of metaphysics, natural philosophy, or astronomy, be deemed unfair and inconclusive, yet in all questions with regard to morals, as well as criticism, there is really no other standard, by which any controversy can ever be decided. And nothing is a clearer proof, that a theory of this kind is erroneous, than to find, that it leads to paradoxes, repugnant to the common sentiments of mankind, and to the practice and opinion of all nations and all ages. The doctrine, which founds all lawful government on an <em>original contract</em>, or consent of the people, is plainly of this kind; nor has the most noted of its partizans, in prosecution of it, scrupled to affirm, <em>that absolute monarchy is inconsistent with civil society, and so can be no form of civil government at all</em><sup><a href='#n5'>[5]</a></sup>; and <em>that the supreme power in a state cannot take from any man, by taxes and impositions, any part of his property, without his own consent or that of his representatives</em><sup><a href='#n6'>[6]</a></sup>. What authority any moral reasoning can have, which leads into opinions so wide of the general practice of mankind, in every place but this single kingdom, it is easy to determine.</p>"
+      "content": "<p>We shall only observe, before we conclude, that, though an appeal to general opinion may justly, in the speculative sciences of metaphysics, natural philosophy, or astronomy, be deemed unfair and inconclusive, yet in all questions with regard to morals, as well as criticism, there is really no other standard, by which any controversy can ever be decided. And nothing is a clearer proof, that a theory of this kind is erroneous, than to find, that it leads to paradoxes, repugnant to the common sentiments of mankind, and to the practice and opinion of all nations and all ages. The doctrine, which founds all lawful government on an <em>original contract</em>, or consent of the people, is plainly of this kind; nor has the most noted of its partizans, in prosecution of it, scrupled to affirm, <em>that absolute monarchy is inconsistent with civil society, and so can be no form of civil government at all</em><a href=\"#n5\"><sup>[5]</sup></a>; and <em>that the supreme power in a state cannot take from any man, by taxes and impositions, any part of his property, without his own consent or that of his representatives</em><a href=\"#n6\"><sup>[6]</sup></a>. What authority any moral reasoning can have, which leads into opinions so wide of the general practice of mankind, in every place but this single kingdom, it is easy to determine.</p>"
     },
     {
       "id": "47",
@@ -209,30 +209,37 @@
   "notes": [
     {
       "id": "1",
+      "paragraph": "17",
       "content": "<p>Lib. ii. cap. 38.</p>"
     },
     {
       "id": "2",
+      "paragraph": "25",
       "content": "<p><b>Tacit.</b> Ann. vi. cap. 14.</p>"
     },
     {
       "id": "3",
+      "paragraph": "42",
       "content": "<p><b>Herodian</b>, lib. ii.</p>"
     },
     {
       "id": "4",
+      "paragraph": "45",
       "content": "<p>See NOTE [TT].</p>"
     },
     {
       "id": "4.1",
+      "paragraph": "45",
       "content": "<p>IT is remarkable, that, in the remonstrance of the duke of <b>Bourbon</b> and the legitimate princes, against this destination of <b>Louis</b> the XIVth, the doctrine of the <em>original contract</em> is insisted on, even in that absolute government. The <b>French</b> nation, say they, chusing <b>Hugh Capet</b> and his posterity to rule over them and their posterity, where the former line fails, there is a tacit right reserved to choose a new royal family; and this right is invaded by calling the bastard princes to the throne, without the consent of the nation. But the Comte de <b>Boulainvilliers</b>, who wrote in defence of the bastard princes, ridicules this notion of an original contract, especially when applied to <b>Hugh Capet</b>; who mounted the throne, says he, by the same arts, which have ever been employed by all conquerors and usurpers. He got his title, indeed, recognized by the states after he had put himself in possession: But is this a choice or contract? The Comte de <b>Boulainvilliers</b>, we may observe, was a noted republican; but being a man of learning, and very conversant in history, he knew that the people were never almost consulted in these revolutions and new establishments, and that time alone bestowed right and authority on what was commonly at first founded on force and violence. See <em>Etat de la France</em>, Vol. III.</p>"
     },
     {
       "id": "5",
+      "paragraph": "46",
       "content": "<p>See <b>Locke</b> on Government, chap. vii. §90.</p>"
     },
     {
       "id": "6",
+      "paragraph": "46",
       "content": "<p>Id. chap. xi. §138, 139, 140.</p>"
     }
   ]
