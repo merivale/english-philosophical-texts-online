@@ -325,7 +325,7 @@ table {
   .text .paragraph .content .placeholder, .text .note .content .placeholder {
     padding: .5em 1em;
     background: #f5f5f5;
-    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem; }
 
 @media (min-width: 912px) {

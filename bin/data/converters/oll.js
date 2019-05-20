@@ -1,7 +1,7 @@
 // dependencies
 const request = require('sync-request')
 const { JSDOM } = require('jsdom')
-const save = require('../../../data/save')
+const file = require('../../../data/file')
 
 // cache HTTP page requests
 const docs = {}
@@ -16,12 +16,11 @@ const convert = (data) => {
   const div = doc.getElementById(divId)
   const includeNotes = !data.id.match(/Mandeville/)
   const noteIds = []
-  const paragraphs = Array.from(div.querySelectorAll('p, ul.poem'))
+  data.paragraphs = Array.from(div.querySelectorAll('p, ul.poem'))
     .map(convertParagraph.bind(null, includeNotes, noteIds))
-  const notes = noteIds.map(convertFootnote.bind(null, doc))
-  const section = { id: data.id, paragraphs, notes }
-  save.section(section)
-  console.log(`Imported ${section.id}`)
+  data.notes = noteIds.map(convertFootnote.bind(null, doc))
+  file.save(data)
+  console.log(`Imported ${data.id}`)
 }
 
 // map note ID to JSON object

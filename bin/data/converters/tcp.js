@@ -1,7 +1,7 @@
 // dependencies
 const request = require('sync-request')
 const { JSDOM } = require('jsdom')
-const save = require('../../../data/save')
+const file = require('../../../data/file')
 
 // cache HTTP page requests
 const docs = {}
@@ -12,10 +12,9 @@ const convert = (data) => {
   const doc = docs[data.source] || new JSDOM(request('GET', data.source).getBody()).window.document
   if (!docs[data.source]) docs[data.source] = doc // save for subsequent conversions
   const notesData = []
-  const paragraphs = getParagraphs(doc, data.id).map(convertParagraph.bind(null, notesData))
-  const notes = notesData.map(convertFootnote)
-  const section = { id: data.id, paragraphs, notes }
-  save.section(section)
+  data.paragraphs = getParagraphs(doc, data.id).map(convertParagraph.bind(null, notesData))
+  data.notes = notesData.map(convertFootnote)
+  file.save(data)
   console.log(`Imported ${data.id}`)
 }
 
