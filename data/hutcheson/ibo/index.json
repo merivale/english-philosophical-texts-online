@@ -1,11 +1,11 @@
 {
   "id": "Hutcheson.IBO",
   "parent": "Hutcheson.IBV",
-  "title": "An Inquiry concerning Beauty, Order, Harmony, Design",
-  "breadcrumb": "Inquiry concerning Beauty, Order, Harmony, Design",
+  "title": "An Inquiry Concerning Beauty, Order, Harmony, Design",
+  "breadcrumb": "Inquiry Concerning Beauty",
   "fulltitle": "<h4>AN</h4> <h1>INQUIRY</h1> <h4>CONCERNING</h4> <h3><b>Beauty</b>, <b>Order</b>, <b>Harmony</b>, <b>Design</b>.</h3>",
   "source": "https://oll.libertyfund.org/titles/hutcheson-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004/simple#lf1458_div_024",
-  "imported": false,
+  "imported": true,
   "texts": [
     "Hutcheson.IBO.1",
     "Hutcheson.IBO.2",

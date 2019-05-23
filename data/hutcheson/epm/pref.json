@@ -1,8 +1,143 @@
 {
   "id": "Hutcheson.EPM.Pref",
+  "parent": "Hutcheson.EPM",
   "title": "Preface",
   "breadcrumb": "Preface",
   "fulltitle": "<h4>THE</h4> <h1>PREFACE.</h1>",
   "source": "https://oll.libertyfund.org/titles/hutcheson-an-essay-on-the-nature-and-conduct-of-the-passions-and-affections-1742-2002/simple#lf0150_div_015",
-  "imported": false
+  "imported": true,
+  "paragraphs": [
+    {
+      "id": "1",
+      "content": "<p>[<em>iii</em>] Altho the main <em>practical Principles,</em> which are inculcated in this Treatise, have this Prejudice in their Favour, that they have been taught and propagated by the best of Men in all Ages, yet there is reason to fear that renewed Treatises upon Subjects so often well manag'd, may be look'd upon as <em>superfluous;</em> especially since little is offer'd upon them which has not often been well said before. But [<em>iv</em>] beside that general Consideration, that old Arguments may sometimes be set in such a Light by one, as will convince those who were not [iv] moved by them, even when better express'd by another; since, for every Class of <em>Writers,</em> there are Classes of <em>Readers</em> adapted, who cannot relish any thing higher: Besides this, I say, the very <em>Novelty</em> of a Book may procure a little Attention, from those who over‐look the Writings which the World has long enjoy'd. And if by <em>Curiosity,</em> or any other means, some few can be engag'd to turn their Thoughts to these important Subjects, about which a little <em>Reflection</em> will discover the Truth, and a thorow <em>Consideration</em> of it may occasion a great Increase of real Happiness; no Person need be asham'd of his Labours as useless, which do such Service to any of his Fellow‐Creatures.</p>"
+    },
+    {
+      "id": "2",
+      "content": "<p>[<em>v</em>] If any should look upon some Things in this <em>Inquiry into the Passions,</em> as too subtile for common Apprehension, and consequently not [v] necessary for the Instruction of Men in <em>Morals,</em> which are the common business of Mankind: Let them consider, that the Difficulty on these Subjects arises chiefly from some <em>previous Notions,</em> equally difficult at least, which have been already receiv'd, to the great Detriment of many a <em>Natural Temper;</em> since many have been discourag'd from all Attempts of cultivating <em>kind generous Affections</em> in themselves, by a previous Notion that there are no such Affections in Nature, and that all Pretence to them was only <em>Dissimulation, Affectation,</em> or at best some <em>unnatural Enthusiasm.</em> And farther, that to discover Truth on these Subjects, nothing more is necessary than a little <em>Attention to what passes in our own Hearts,</em> [<em>vi</em>] and consequently every Man may come to Certainty in these Points, without much Art or Knowledge of other Matters.</p>"
+    },
+    {
+      "id": "3",
+      "content": "<p>[vi] Whatever Confusion the <em>Schoolmen</em> introduced into Philosophy, some of their keenest <em>Adversaries</em><a href=\"#n1\"><sup>[1]</sup></a> seem to threaten it with a worse kind of Confusion, by attempting to take away some of the most <em>immediate simple Perceptions,</em> and to explain all <em>Approbation, Condemnation, Pleasure</em> and <em>Pain,</em> by some intricate Relations to the Perceptions of the <em>External Senses.</em> In like manner they have treated our <em>Desires</em> or <em>Affections,</em> making the most generous, kind and disinterested of them, to proceed from <em>Self‐Love,</em> by some subtle Trains of Reasoning, to which honest Hearts are often wholly Strangers.</p>"
+    },
+    {
+      "id": "4",
+      "content": "<p>[<em>vii</em>] Let this also still be remembred that the <em>natural Dispositions</em> of Mankind will operate regularly in those who never reflected upon them, nor form'd just Notions about them. [vii] Many are really <em>virtuous</em> who cannot explain what <em>Virtue</em> is. Some act a most generous disinterested Part in Life, who have been taught to account for all their Actions by <em>Self‐Love,</em> as their sole Spring. There have been very different and opposite Opinions in <em>Opticks,</em> contrary Accounts have been given of <em>Hearing, voluntary Motion, Digestion,</em> and other <em>natural Actions.</em> But the Powers themselves in reality perform their several Operations with sufficient Constancy and Uniformity, in Persons of good Health, whatever their Opinions be about them. In the same manner our <em>moral Actions</em> and <em>Affections</em> may be in good order, when our Opinions [<em>viii</em>] are quite wrong about them. <em>True Opinions</em> however, about both, may enable us to <em>improve</em> our natural Powers, and to <em>rectify</em> accidental Disorders incident unto them. And true Speculations on these Subjects must certainly [viii] be attended with as much <em>Pleasure</em> as any other Parts of Human Knowledge.</p>"
+    },
+    {
+      "id": "5",
+      "content": "<p>It may perhaps seem strange, that when in this <em>Treatise</em> Virtue is suppos'd <em>disinterested;</em> yet so much Pains is taken, by a <em>Comparison</em> of our several <em>Pleasures,</em> to prove the <em>Pleasures</em> of <em>Virtue</em> to be the greatest we are capable of, and that consequently it is our truest <em>Interest</em> to be <em>virtuous.</em> But let it be remember'd here, that tho there can be no <em>Motives</em> or <em>Arguments</em> suggested which can directly raise any <em>ultimate Desire,</em> such as that of our <em>own Happiness,</em> or <em>publick Affections</em> (as we attempt to prove in <em>Treatise</em> IV;) [<em>ix</em>] yet if both are <em>natural Dispositions</em> of our Minds, and nothing can stop the Operation of <em>publick Affections</em> but some <em>selfish Interest,</em> the only way to give publick Affections their full Force, and to make them prevalent [ix] in our Lives, must be to remove these <em>Opinions of opposite Interests,</em> and to shew a superior Interest on their side. If these Considerations be just and sufficiently attended to, a <em>natural Disposition</em> can scarce fail to exert it self to the full.</p>"
+    },
+    {
+      "id": "6",
+      "content": "<p>In this <em>Essay on the Passions,</em> the Proofs and Illustrations of a <em>moral Sense,</em> and <em>Sense of Honour</em> are not mention'd; because they are so, in the <em>Inquiry into Moral Good and Evil,</em> in the first and fifth <em>Sections.</em> Would Men reflect upon what they feel in themselves, all <em>Proofs</em> in such Matters would be needless.</p>"
+    },
+    {
+      "id": "7",
+      "content": "<p>[<em>x</em>] Some strange Love of <em>Simplicity</em> in the Structure of human Nature, [x] or Attachment to some favourite <em>Hypothesis,</em> has engag'd many <em>Writers</em> to pass over a great many <em>Simple Perceptions,</em> which we may find in our selves. We have got the Number <em>Five</em> fixed for our <em>external Senses,</em> tho <em>Seven</em> or <em>Ten</em> might as easily be defended. We have Multitudes of Perceptions which have no relation to any <em>external Sensation;</em> if by it we mean <em>Perceptions, occasion'd by Motions or Impressions made on our Bodies,</em> such as the Ideas of <em>Number, Duration, Proportion, Virtue, Vice, Pleasures of Honour, of Congratulation; the Pains of Remorse, Shame, Sympathy,</em> and many others. It were to be wish'd, that those who are at such Pains to prove a beloved Maxim, that <q>all Ideas arise from <em>Sensation</em> and <em>Reflection,</em></q> had so explain'd [<em>xi</em>] themselves, that none should take their Meaning to be, that all our Ideas are either <em>external Sensations,</em> [xi] or <em>reflex Acts</em> upon <em>external Sensations:</em> Or if by <em>Reflection</em> they mean an <em>inward Power of Perception,</em> as I fancy they do, they had as carefully examin'd into the several kinds of <em>internal Perceptions,</em> as they have done into the <em>external Sensations:</em> that we might have seen whether the former be not as <em>natural</em> and <em>necessary</em> as the latter. Had they in like manner consider'd our <em>Affections</em> without a previous Notion, that they were all from <em>Self‐Love,</em> they might have felt an <em>ultimate Desire</em> of the Happiness of others as easily conceivable, and as certainly implanted in the human Breast, tho perhaps not so strong as <em>Self‐Love.</em></p>"
+    },
+    {
+      "id": "8",
+      "content": "<p>The Author hopes this imperfect <em>Essay</em> will be favourably re[<em>xii</em>] ceiv'd, till some Person of greater Abilities [xii] and Leisure apply himself to a more strict Philosophical Inquiry into the various <em>natural Principles</em> or <em>natural Dispositions</em> of Mankind; from which perhaps a more exact Theory of Morals may be formed, than any which has yet appear'd: and hopes that this Attempt, to shew the fair side of the human Temper, may be of some little use towards this great End.</p>"
+    },
+    {
+      "id": "9",
+      "content": "<p>The principal Objections offer'd by Mr. <em>Clarke</em> of <em>Hull,</em> against the second Section of the second <em>Treatise,</em> occurr'd to the Author in Conversation, and had appriz'd him of the necessity of a farther illustration of <em>disinterested Affections,</em> in answer to his Scheme of deducing them from <em>Self‐Love,</em> which seem'd more ingenious than any which the Author of the <em>Inquiry</em> ever yet saw in print. He takes better from Mr. <em>Clarke,</em> all [<em>xiii</em>] other Parts of his Treatment, than the raising such an Outcry against him as <em>injurious to Christianity,</em><a href=\"#n2\"><sup>[2]</sup></a> for Principles which some of the most <em>zealous Christians</em> have publickly maintain'd: He hopes Mr. <em>Clarke</em> will be satisfy'd upon this Point, as well as about the Scheme of <em>disinterested Affections,</em> by what is offer'd in the Treatise on the <em>Passions,</em> Sect. I. and designedly placed here, rather than in any distinct <em>Reply,</em> both to avoid the disagreeable Work of <em>Answering</em> or <em>Remarking</em> upon Books, wherein it is hard to keep off too keen and offensive Expressions; and also, that those who have had any of the former Editions of the Inquiry, might not be at a loss about any <em>Illustrations</em> or additional <em>Proofs</em> necessary to complete the Scheme.</p>"
+    },
+    {
+      "id": "10",
+      "content": "<p>The last Treatise had never seen the Light, had not some worthy [<em>xiv</em>] <em>Gentlemen</em> mistaken some things about the moral Sense alledg'd to be in Mankind:<a href=\"#n3\"><sup>[3]</sup></a> Their Objections gave Opportunity of farther Inquiry into the several <em>Schemes</em> of accounting for our <em>moral Ideas,</em> which some apprehend to be wholly different from, and independent on, that <em>Sense</em> which the Author attempts to establish. The following Papers attempt to shew, that all these <em>Schemes</em> must necessarily presuppose this <em>moral Sense,</em> and be resolv'd into it: Nor does the Author endeavour to over-turn them, or represent them as unnecessary Superstructures upon the Foundation of a moral Sense; tho what he has suggested will probably shew a considerable Confusion in some of the Terms [xiv] much used on these Subjects. One may easily see from the great <em>variety of Terms,</em> and diversity of <em>Schemes</em> invented, that all Men <em>feel</em> something in their own Hearts recommending Virtue, which [<em>xv</em>] yet it is difficult to explain. This Difficulty probably arises from our previous Notions of a small Number of <em>Senses,</em> so that we are unwilling to have recourse in our Theories to any more; and rather strain out some Explication of moral Ideas, with relation to some other natural Powers of Perception universally acknowledg'd. The like difficulty attends several other <em>Perceptions,</em> to the Reception of which Philosophers have not generally assigned their <em>distinct Senses</em>; such as <em>natural Beauty, Harmony,</em> the Perfection of <em>Poetry, Architecture, Designing,</em> and such like Affairs of Genius, Taste, or Fancy: The Explications or Theories on these Subjects [xv] are in like manner full of Confusion and Metaphor.</p>"
+    },
+    {
+      "id": "11",
+      "content": "<p>To define <em>Virtue</em> by <em>agreeableness to this moral Sense,</em> or describing it to be <em>kind Affection,</em> may [<em>xvi</em>] appear perhaps too uncertain; considering that the Sense of particular Persons is often depraved by <em>Custom, Habits,</em> false Opinions, Company: and that some <em>particular kind Passions</em> toward some Persons are really pernicious, and attended with very unkind Affections toward others, or at least with a Neglect of their Interests. We must therefore only assert in general, that <q>every one calls that Temper, or those Actions <em>virtuous,</em> which are approv'd by his <em>own Sense;</em></q> and withal, that <q>abstracting from particular Habits or Prejudices, every one is so constituted as to approve every <em>particular kind Affection</em> toward any one, which argues no <em>want of Affection</em> toward others. And constantly to approve that Temper which desires, and those Actions which tend to procure the greatest Moment of Good in the Power of the Agent toward [<em>xvii</em>] the [xvi] most extensive System to which it can reach;</q> and consequently, that the Perfection of Virtue consists in <q>having the <em>universal calm Benevolence,</em> the prevalent Affection of the Mind, so as to limit and counteract not only the <em>selfish Passions,</em> but even the <em>particular kind Affections.</em></q></p>"
+    },
+    {
+      "id": "12",
+      "content": "<p>Our <em>moral Sense</em> shews this to be the highest Perfection of our Nature; what we may see to be the <em>End</em> or <em>Design</em> of such a Structure, and consequently what is requir'd of us by the Author of our Nature: and therefore if any one like these Descriptions better, he [xvii] may call Virtue, with many of the Antients, <q><em>Vita secundum naturam;</em></q><a href=\"#n4\"><sup>[4]</sup></a> or <q>acting according to what we may see from the Constitution of our Nature, we were intended for by our Creator.</q></p>"
+    },
+    {
+      "id": "13",
+      "content": "<p>[<em>xviii</em>] If this <em>Moral Sense</em> were once set in a convincing Light, those vain Shadows of Objections against a virtuous Life, in which some are wonderfully delighted, would soon vanish: alledging, that whatever we admire or honour in a <em>moral Species,</em> is the effect of <em>Art, Education, Custom, Policy,</em> or subtle Views of Interest; we should then acknowledge</p>"
+    },
+    {
+      "id": "14",
+      "content": "<ul><li class=\"ital\" id=\"Hutcheson_0150_1225\">Quid sumus, &amp; quidnam victuri gignimur.<a href=\"#n5\"><sup>[5]</sup></a></li>\n<div class=\"closer\"><div class=\"bibl\">—Pers.</div></div> <br></ul>"
+    },
+    {
+      "id": "15",
+      "content": "<p>'Tis true, a <em>Power of Reasoning</em> is natural to us; and we must own, that all Arts and Sciences which are well founded, and tend to direct our [xviii] Actions, are, if not to be called <em>Natural,</em> an <em>Improvement upon our Nature:</em> yet if Virtue be look'd upon as wholly Artificial, there are I know not what Suspicions against it; as if indeed [<em>xix</em>] it might tend to the greater Interest of <em>large Bodies</em> or <em>Societies</em> of Men, or to that of their <em>Governors;</em> whereas a private Person may better find his <em>Interest,</em> or enjoy greater Pleasures in the Practices counted <em>vicious,</em> especially if he has any Probability of <em>Secrecy</em> in them. These Suspicions must be entirely remov'd, if we have a <em>moral Sense</em> and <em>publick Affections,</em> whose Gratifications are constituted by Nature, our most intense and durable <em>Pleasures.</em></p>"
+    },
+    {
+      "id": "16",
+      "content": "<p>I hope it is a good Omen of something still better on this Subject to be expected in the learned World, that Mr. <em>Butler,</em> in his Sermons at the <em>Rolls Chapel,</em> has done so much Justice to the wise and good Order of our Nature; that the Gentlemen, who have oppos'd some other Sentiments of the Author of the <em>Inquiry,</em> seem convinc'd of a <em>moral</em> [<em>xx</em>] <em>Sense.</em><a href=\"#n6\"><sup>[6]</sup></a> Some of them have by a Mistake made a Compliment to the Author, which does not [xix] belong to him; as if the World were any way indebted to him for this Discovery. He has too often met with the <em>Sensus Decori &amp; Honesti,</em><a href=\"#n7\"><sup>[7]</sup></a> and with the Δύναμις αγαθοειδὴς, to assume any such thing to himself.</p>"
+    },
+    {
+      "id": "17",
+      "content": "<p>Some Letters in the <em>London</em> Journals, subscribed <em>Philaretus,</em><a href=\"#n8\"><sup>[8]</sup></a> gave the first Occasion to the <em>Fourth Treatise;</em> the Answers given to them bore too visible Marks of the Hurry in which they were wrote, and therefore the <em>Author</em> declined to continue the Debate that way; chusing to send a private Letter to <em>Philaretus,</em> to desire a more private Correspondence on the Subject of our Debate. I have been since informed, that his Death disappointed my great Expectations from [<em>xxi</em>] so ingenious a Correspondent. The <em>Objections</em> proposed in the first <em>Section</em> of <em>Treatise</em> [xx] IV, are not always those of <em>Philaretus,</em> tho I have endeavour'd to leave no Objections of his unanswer'd; but I also interspersed whatever Objections occurr'd to me in Conversation on these Subjects. I hope I have not used any Expressions inconsistent with the high Regard I have for the Memory of so ingenious a Gentleman, and of such Distinction in the World.</p>"
+    },
+    {
+      "id": "18",
+      "content": "<p>The last <em>Section</em> of the <em>Fourth Treatise,</em> was occasion'd by a private Letter from a Person of the most real Merit, in <em>Glasgow;</em> representing to me some Sentiments not uncommon among good Men, which might prejudice them against any Scheme of <em>Morals,</em> not wholly founded upon <em>Piety.</em><a href=\"#n9\"><sup>[9]</sup></a> This Point is, I hope, so treated, as to remove the Difficulty.</p>"
+    },
+    {
+      "id": "19",
+      "content": "<p>[<em>xxii</em>] The Deference due to a Person, who has appear'd so much in the learned World, as M. <em>Le Clerc,</em> would seem to require, that I should make some Defense against, or Submission to, the Remarks he makes in his <em>Bibliotheque Ancienne &amp; Moderne.</em> But I cannot but conclude from his Abstract, especially from that of the <em>last Section</em> of the <em>Inquiry,</em> either that I don't understand his <em>French,</em> or he my <em>English,</em> or that he has never read more than the Titles of some of the <em>Sections:</em> and if any one of the three be the Case, we are not fit for a Controversy.<a href=\"#n10\"><sup>[10]</sup></a></p>"
+    },
+    {
+      "id": "20",
+      "content": "<p>In the References, at bottom of Pages, the Inquiry into <em>Beauty</em> is called <em>Treatise</em> I. That into the Ideas of moral Good and Evil, is <em>Treatise</em> II. The Essay on the Passions, <em>Treatise</em> III. And the Illustrations on the moral Sense, <em>Treatise</em> IV.</p>"
+    }
+  ],
+  "notes": [
+    {
+      "paragraph": "3",
+      "id": "1",
+      "content": "<p>Hutcheson likely had in mind modern Epicureans: Mandeville, Hobbes, La Rochefoucault, and others.</p>"
+    },
+    {
+      "paragraph": "9",
+      "id": "2",
+      "content": "<p>John Clarke repeatedly criticized Hutcheson for impiety. <em>The Foundation of Morality</em> closes: <q>I have naturally a peculiar Benevolence and Veneration for Persons of Good Parts and Learning, untainted with Pride, Pedantry, or ill Nature, such as our Author from his manner of Writing appears to me to be, and therefore I am heartily grieved upon his account, to find his Doctrine bear so hard upon the Christian Religion. Had it not clash'd so visibly with that, notwithstanding it being false, his Character would have appeared much fairer in the Eye of the World than it now does, or at least will do, when his Notion comes to be more generally and thoroughly scanned.</q> (p. 112).</p>"
+    },
+    {
+      "paragraph": "10",
+      "id": "3",
+      "content": "<p>This is a reference to Hutcheson's correspondence with Burnet (who equated the moral sense with Reason). See the Introduction.</p>"
+    },
+    {
+      "paragraph": "12",
+      "id": "4",
+      "content": "<p><q>Vita secundum naturam</q>—<q>a life according to nature</q>—is a central Stoical ethical doctrine as well as the name of a lost treatise by Zeno of Citium (see Diogenes Laertius, <em>Vitae Philosophorum,</em> VII.4), with whom Cicero identifies the phrase in <em>De Finibus Bonorum et Malorum,</em> IV.vi [14].</p>"
+    },
+    {
+      "paragraph": "14",
+      "id": "5",
+      "content": "<p>Persius, <em>Satire,</em> III.66. <q>[Learn] what we are, and for what we have come to be.</q> It is quoted by Shaftesbury and discussed in the <q>Miscellaneous Reflections,</q> III.1 (Shaftesbury, <em>Characteristicks,</em> III:97-8).</p>"
+    },
+    {
+      "paragraph": "16",
+      "id": "6",
+      "content": "<p>This refers to John Clarke's remark, <q>The Doctrine of a Moral Sense, and a Natural Benevolence founded thereon, is a very pretty ingenious Speculation, which the World is obliged to our Author for; and has, in my Opinion, a good deal of Truth in it, tho' perhaps it may not be of that Universal Extent he pleads for,</q> (<em>Foundation of Morality,</em> 97).</p>"
+    },
+    {
+      "paragraph": "16",
+      "id": "7",
+      "content": "<p>Hutcheson likely has <em>De Officiis</em> I [94] in mind, but the identification of what is appropriate and what is honorable is a common Ciceronian sentiment. Shaftesbury clearly had this passage in mind when he further identified it with the <em>venusta</em> (the lovely or beautiful)—<q>The <em>Venustum,</em> the <em>Honestum,</em> the <em>Decorum</em> of Things, will force its way. They who refuse to give it scope in the nobler Subjects of a rational and moral kind, will find its Prevelancy elsewhere, in an inferior Order of Things,</q> Shaftesbury, <q>Sensus Communis,</q> IV.2 (<em>Characteristicks,</em> I.92) further elucidated in <q>Miscellaneous Reflections</q> III.2 (<em>Characteristicks,</em> III.109–114). The phrase recurs in Hutcheson's <em>Reflection on Laughter</em> in the <em>Dublin Journal</em> (Saturday, June, 5, 1725), no. 10, 38) collected in <em>A Collection of Letters and Essays on Several Subjects Lately Publish'd in the Dublin Journal</em> (London: J. Darby and T. Longman, 1729), 2 v. The Greek phrase, meaning the sense of the good or right, is replaced in the third edition with <q>loving mankind and having the form of the good.</q></p>"
+    },
+    {
+      "paragraph": "17",
+      "id": "8",
+      "content": "<p>This refers to the exchange with Gilbert Burnet in 1725, and Hutcheson has either confused the date of the exchange with the publication date of the first edition of the <em>Essay with Illustrations,</em> or with four letters in the <em>London Journal</em> (nos. 447, 450, 463, 468) written in response to and in defense of the <em>Essay with Illustrations.</em> See Bernard Fabian, <q>Bibliographical Note,</q> in Bernard Fabian (ed.), <em>Collected Works of Francis Hutcheson</em> (Hildesheim: Georg Olms Verlag, 1990), v. II vii–viii.</p>"
+    },
+    {
+      "paragraph": "18",
+      "id": "9",
+      "content": "<p>It is not clear to whom this remark refers, but a possible candidate is Gershom Carmichael, whom Hutcheson replaced as Professor of Moral Philosophy at Glasgow University and who did not approve of Hutcheson's <q>new light</q> philosophy.</p>"
+    },
+    {
+      "paragraph": "19",
+      "id": "10",
+      "content": "<p>Hutcheson received two unpleasant reviews of the <em>Inquiry</em> in Francophone journals, first an anonymous notice in the <em>Bibliothètheque angloise</em> accusing him of having plagiarized Crousaz's <em>Traité du beau,</em> and then a review by Jean Le Clerc in the <em>Bibliothèque ancienne et moderne</em> that repeated the charge. The <em>Traité du beau</em> bears only a surface similarity (at best) to Treatise 1, so these reviews quite justly irked Hutcheson, who wrote a letter to the editor responding to the comments in the <em>Bibliothètheque angloise.</em></p>"
+    }
+  ]
 }

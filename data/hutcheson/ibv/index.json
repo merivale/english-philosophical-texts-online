@@ -4,8 +4,11 @@
   "breadcrumb": "Inquiry into Beauty and Virtue",
   "fulltitle": "<h4>AN</h4> <h1>INQUIRY</h1> <h4>INTO THE</h4> <h3><b>Original</b> of our <b>Ideas</b></h3> <h4>OF</h4> <h2>BEAUTY <em>and</em> VIRTUE;</h2> <h4>In Two <b>Treatises</b></h4> <p>I. Concerning BEAUTY, ORDER, HARMONY, DESIGN.</p> <p>II. Concerning MORAL GOOD and EVIL.</p>",
   "published": "1725",
+  "copytext": "1738",
   "source": "https://oll.libertyfund.org/titles/hutcheson-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004/simple",
-  "imported": false,
+  "comments": "Hutcheson's <i>Inquiry into the Original of Our Ideas of Beauty and Virtue</i> was first published in 1725, with a second edition &ldquo;Corrected and Enlarg&rsquo;d$rdquo; in 1726, and a third &ldquo;Corrected&rdquo; in 1729. Our copytext is the fourth edition of 1738, likewise &ldquo;Corrected&rdquo;, which contains Hutcheson's final modifications and additions. The text was derived from Wolfgang Leidhold's edition (Indianapolis: Liverty Fund, 2004), which follows the second 1726 edition (noting significant variants from other editions), and removes most of the original italics and small capitals. This source text has been substantially altered, reinstating the original formatting and bringing the text in line with the 1738 edition.",
+  "copyright": "The copyright to the edition from which this text was derived is held by Liberty Fund, Inc. The text may be used freely for educational and academic purposes. It may not be used in any way for profit.",
+  "imported": true,
   "texts": [
     "Hutcheson.IBV.Pref",
     "Hutcheson.IBO",

@@ -27,6 +27,7 @@
   cite {
     border-bottom: 1px dotted $black;
     margin-right: .25em;
+    font-style: normal;
   }
   label { // margin comments
     float: right;
@@ -41,6 +42,9 @@
   }
   i { // foreign text
     font-style: italic;
+  }
+  em i {
+    font-style: normal;
   }
   .title {
     h1 {

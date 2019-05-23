@@ -290,7 +290,8 @@ table {
     padding: 0 0 0 2em; }
   .text cite {
     border-bottom: 1px dotted #363636;
-    margin-right: .25em; }
+    margin-right: .25em;
+    font-style: normal; }
   .text label {
     float: right;
     font-size: .875em;
@@ -302,6 +303,8 @@ table {
     font-size: 1em; }
   .text i {
     font-style: italic; }
+  .text em i {
+    font-style: normal; }
   .text .title h1 {
     font-size: 2em; }
   .text .title h2 {

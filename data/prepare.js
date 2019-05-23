@@ -78,7 +78,7 @@ const stub = (id) => {
       id: text.id,
       imported: text.imported,
       title: text.title,
-      published: text.published,
+      published: inherit(text, 'published'),
       breadcrumb: text.breadcrumb,
       url: `/browse/${text.id.toLowerCase().replace(/\./g, '/')}`
     }

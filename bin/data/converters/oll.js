@@ -19,6 +19,7 @@ const convert = (data) => {
   data.paragraphs = Array.from(div.querySelectorAll('p, ul.poem'))
     .map(convertParagraph.bind(null, includeNotes, noteIds))
   data.notes = noteIds.map(convertFootnote.bind(null, doc))
+  data.imported = true
   file.save(data)
   console.log(`Imported ${data.id}`)
 }
@@ -87,6 +88,8 @@ const defaultContent = (element, includeNotes, noteIds, paragraphId) => {
   element.removeAttribute('id')
   // remove hyphens before page breaks
   element.innerHTML = element.innerHTML.replace(/-<span class="pb"/g, '<span class="pb"')
+  // chuck away editorial notes
+  element.innerHTML = element.innerHTML.replace(/∥<a.*?<\/a>(.*?)∥/g, '$1')
   // chuck away page breaks and handle footnote links
   breaksAndNotes(includeNotes, noteIds, paragraphId, element)
   Array.from(element.children).forEach(breaksAndNotes.bind(null, includeNotes, noteIds, paragraphId))
