@@ -4,8 +4,8 @@
   "title": "Of Avarice",
   "breadcrumb": "Of Avarice",
   "fulltitle": "<h1>Of <b>Avarice</b>.</h1>",
-  "published": "1741",
-  "copytext": "1768",
+  "published": [1741],
+  "copytext": [1768],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/av.json",
   "imported": true,
   "paragraphs": [

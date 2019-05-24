@@ -4,8 +4,7 @@
   "title": "The Stoic",
   "breadcrumb": "The Stoic",
   "fulltitle": "<h1>The <b>Stoic</b><sup><a href='#n1'>[1]</a></sup>.</h1>",
-  "published": "1742",
-  "copytext": "1777",
+  "published": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/sto.json",
   "imported": true,
   "paragraphs": [

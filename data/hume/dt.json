@@ -4,8 +4,7 @@
   "title": "Of the Delicacy of Taste and Passion",
   "breadcrumb": "Of the Delicacy of Taste and Passion",
   "fulltitle": "<h1>Of the <b>Delicacy</b> of <b>Taste</b> and <b>Passion</b>.</h1>",
-  "published": "1741",
-  "copytext": "1777",
+  "published": [1741],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/dt.json",
   "imported": true,
   "paragraphs": [

@@ -4,8 +4,7 @@
   "title": "Of Taxes",
   "breadcrumb": "Of Taxes",
   "fulltitle": "<h1>Of <b>Taxes</b>.</h1>",
-  "published": "1752",
-  "copytext": "1777",
+  "published": [1752],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ta.json",
   "imported": true,
   "paragraphs": [

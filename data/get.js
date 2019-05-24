@@ -10,6 +10,13 @@ const authors = () =>
     .map(x => x.name)
     .map(author)
 
+// get stubs for all texts
+const texts = () =>
+  authors()
+    .map(a => a.texts.map(t => Object.assign(t, { author: a.fullname })))
+    .reduce((x, y) => x.concat(y), [])
+    .sort((x, y) => x.published[0] - y.published[0])
+
 // get author from id
 const author = (id) => {
   const author = file.open(id)
@@ -29,6 +36,7 @@ const text = (id) => {
 // exports
 module.exports = {
   authors,
+  texts,
   author,
   text
 }

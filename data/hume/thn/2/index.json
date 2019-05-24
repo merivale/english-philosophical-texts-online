@@ -4,8 +4,8 @@
   "title": "Book II. Of the Passions",
   "breadcrumb": "Book 2",
   "fulltitle": "<h1>Book II. Of the Passions</h1>",
-  "published": "1739",
-  "copytext": "1739",
+  "published": [1739],
+  "copytext": [1739],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/2/index.json",
   "imported": true,
   "texts": [

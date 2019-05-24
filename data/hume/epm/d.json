@@ -4,8 +4,7 @@
   "title": "A Dialogue",
   "breadcrumb": "A Dialogue",
   "fulltitle": "<h2>A</h2> <h1>DIALOGUE.</h1>",
-  "published": "1751",
-  "copytext": "1777",
+  "published": [1751],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/m/d.json",
   "imported": true,
   "paragraphs": [

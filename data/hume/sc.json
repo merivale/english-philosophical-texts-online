@@ -4,8 +4,7 @@
   "title": "The Sceptic",
   "breadcrumb": "The Sceptic",
   "fulltitle": "<h1>The <b>Sceptic</b>.</h1>",
-  "published": "1742",
-  "copytext": "1777",
+  "published": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/sc.json",
   "imported": true,
   "paragraphs": [

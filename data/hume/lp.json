@@ -4,8 +4,7 @@
   "title": "Of the Liberty of the Press",
   "breadcrumb": "Of the Liberty of the Press",
   "fulltitle": "<h1>Of the <b>Liberty</b> of the <b>Press</b>.</h1>",
-  "published": "1741",
-  "copytext": "1777",
+  "published": [1741],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/lp.json",
   "imported": true,
   "paragraphs": [

@@ -4,8 +4,7 @@
   "title": "Of National Characters",
   "breadcrumb": "Of National Characters",
   "fulltitle": "<h1>Of <b>National Characters</b>.</h1>",
-  "published": "1748",
-  "copytext": "1777",
+  "published": [1748],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/nc.json",
   "imported": true,
   "paragraphs": [

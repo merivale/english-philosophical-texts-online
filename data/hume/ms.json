@@ -4,8 +4,8 @@
   "title": "Of the Middle Station of Life",
   "breadcrumb": "Of the Middle Station of Life",
   "fulltitle": "<h1>Of the <b>Middle Station</b> of <b>Life</b>.</h1>",
-  "published": "1742",
-  "copytext": "1742",
+  "published": [1742],
+  "copytext": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ms.json",
   "imported": true,
   "paragraphs": [

@@ -4,8 +4,7 @@
   "title": "Of the Rise and Progress of the Arts and Sciences",
   "breadcrumb": "Of the Rise and Progress of the Arts and Sciences",
   "fulltitle": "<h1>Of the <b>Rise</b> and <b>Progress</b> of the <b>Arts</b> and <b>Sciences</b>.</h1>",
-  "published": "1742",
-  "copytext": "1777",
+  "published": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/rp.json",
   "imported": true,
   "paragraphs": [

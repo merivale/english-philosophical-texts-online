@@ -4,8 +4,8 @@
   "title": "A Character of Sir Robert Walpole",
   "breadcrumb": "A Character of Sir Robert Walpole",
   "fulltitle": "<h1>A Character of Sir <b>Robert Walpole</b>.</h1>",
-  "published": "1742",
-  "copytext": "1768",
+  "published": [1742],
+  "copytext": [1768],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/cr.json",
   "imported": true,
   "paragraphs": [

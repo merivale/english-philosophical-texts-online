@@ -4,8 +4,8 @@
   "title": "Appendix",
   "breadcrumb": "Appendix",
   "fulltitle": "<h1>APPENDIX.</h1>",
-  "published": "1740",
-  "copytext": "1740",
+  "published": [1740],
+  "copytext": [1740],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/app.json",
   "imported": true,
   "paragraphs": [

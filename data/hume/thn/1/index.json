@@ -4,8 +4,8 @@
   "title": "Book I. Of the Understanding",
   "fulltitle": "<h1>BOOK I.</h1> <h2><em>Of the <b>Understanding</b>.</em></h2>",
   "breadcrumb": "Book 1",
-  "published": "1739",
-  "copytext": "1739",
+  "published": [1739],
+  "copytext": [1739],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/t/1/index.json",
   "imported": true,
   "texts": [

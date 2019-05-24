@@ -11,7 +11,7 @@
     <h2>Available Works</h2>
     <ul>
       {% for text in available %}
-        <li><a href="{{ text.url }}">{{ text.title }} ({{ text.published }})</a></li>
+        <li><a href="{{ text.url }}">{{ text.title }} ({{ text.published | join(', ') }})</a></li>
       {% endfor %}
     </ul>
   {% endif %}
@@ -19,7 +19,7 @@
     <h2>Desired Works</h2>
     <ul>
       {% for text in desired %}
-        <li><a href="{{ text.url }}">{{ text.title }} ({{ text.published }})</a></li>
+        <li><a href="{{ text.url }}">{{ text.title }} ({{ text.published | join(', ') }})</a></li>
       {% endfor %}
     </ul>
   {% endif %}

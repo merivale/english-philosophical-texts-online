@@ -11,7 +11,7 @@
     </div>
     <ul class="toc">
       {% for stub in parent.texts %}
-        <li><a href="{{ stub.url }}">{{ stub.title }} ({{ stub.published }})</a></li>
+        <li><a href="{{ stub.url }}">{{ stub.title }} ({{ stub.published | join(', ') }})</a></li>
       {% endfor %}
     </ul>
   </div>

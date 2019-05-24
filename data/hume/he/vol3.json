@@ -4,8 +4,7 @@
   "title": "Volume 3. The History of the House of Tudor, Part 1",
   "breadcrumb": "Volume 3",
   "fulltitle": "<h4>THE</h4> <h2>HISTORY</h2> <h4>OF</h4> <h1>ENGLAND,</h1> <h2>VOL. III.</h2> <h4><b>under the</b> <h3>HOUSE of TUDOR.</h3>",
-  "published": "1759",
-  "copytext": "1778",
+  "published": [1759],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/h/vol3.json",
   "imported": true,
   "texts": [

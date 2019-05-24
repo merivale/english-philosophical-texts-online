@@ -4,8 +4,8 @@
   "title": "Of the Study of History",
   "breadcrumb": "Of the Study of History",
   "fulltitle": "<h1>Of <b>Superstition</b> and <b>Enthusiasm</b>.</h1>",
-  "published": "1741",
-  "copytext": "1760",
+  "published": [1741],
+  "copytext": [1760],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/se.json",
   "imported": true,
   "paragraphs": [

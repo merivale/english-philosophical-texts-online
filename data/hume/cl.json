@@ -4,8 +4,7 @@
   "title": "Of Civil Liberty",
   "breadcrumb": "Of Civil Liberty",
   "fulltitle": "<h1>Of <b>Civil Liberty</b>.</h1>",
-  "published": "1741",
-  "copytext": "1777",
+  "published": [1741],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/cl.json",
   "imported": true,
   "paragraphs": [

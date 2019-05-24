@@ -4,8 +4,7 @@
   "title": "Of the Balance of Power",
   "breadcrumb": "Of the Balance of Power",
   "fulltitle": "<h1>Of the <b>Balance</b> of <b>Power</b>.</h1>",
-  "published": "1752",
-  "copytext": "1777",
+  "published": [1752],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/bp.json",
   "imported": true,
   "paragraphs": [

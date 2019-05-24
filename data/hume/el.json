@@ -4,8 +4,7 @@
   "title": "Of Eloquence",
   "breadcrumb": "Of Eloquence",
   "fulltitle": "<h1>Of <b>Eloquence</b>.</h1>",
-  "published": "1742",
-  "copytext": "1777",
+  "published": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/el.json",
   "imported": true,
   "paragraphs": [

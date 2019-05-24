@@ -4,8 +4,7 @@
   "title": "Of the Parties of Great Britain",
   "breadcrumb": "Of the Parties of Great Britain",
   "fulltitle": "<h1>Of the <b>Parties</b> of <b>Great Britain</b>.</h1>",
-  "published": "1741",
-  "copytext": "1777",
+  "published": [1741],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/pgb.json",
   "imported": true,
   "paragraphs": [

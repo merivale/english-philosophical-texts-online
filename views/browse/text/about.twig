@@ -6,13 +6,13 @@
 
 {% block content %}
   <h3>First published</h3>
-  <p>{{ text.published }}</p>
+  <p>{{ text.published | join(', ') }}</p>
   <h3>Copytext</h3>
   <p>
     {% if text.copytext %}
-      {{ text.copytext }}
+      {{ text.copytext | join(', ') }}
     {% else %}
-      {{ text.published }}
+      {{ text.published | join(', ') }}
     {% endif %}
   </p>
   <h3>Source</h3>

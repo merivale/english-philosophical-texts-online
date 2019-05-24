@@ -4,8 +4,7 @@
   "title": "The Epicurean",
   "breadcrumb": "The Epicurean",
   "fulltitle": "<h1>The <b>Epicurean</b><a href=\"#n1\"><sup>[1]</sup></a>.</h1>",
-  "published": "1742",
-  "copytext": "1777",
+  "published": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ep.json",
   "imported": true,
   "paragraphs": [

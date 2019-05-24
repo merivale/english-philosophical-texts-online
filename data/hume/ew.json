@@ -4,8 +4,8 @@
   "title": "Of Essay-Writing",
   "breadcrumb": "Of Essay-Writing",
   "fulltitle": "<h1>Of <b>Essay-Writing</b>.</h1>",
-  "published": "1742",
-  "copytext": "1742",
+  "published": [1742],
+  "copytext": [1742],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/ew.json",
   "imported": true,
   "paragraphs": [

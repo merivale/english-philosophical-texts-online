@@ -1,0 +1,10 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+  <h1>Index of Texts</h1>
+  <ul>
+  {% for text in texts %}
+    <li>{{ text.author }}, <i>{{ text.title }}</i> ({{ text.published | join(', ') }})</li>
+  {% endfor %}
+  </ul>
+{% endblock %}

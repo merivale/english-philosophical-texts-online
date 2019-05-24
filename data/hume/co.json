@@ -4,8 +4,7 @@
   "title": "Of Commerce",
   "breadcrumb": "Of Commerce",
   "fulltitle": "<h1>Of <b>Commerce</b>.</h1>",
-  "published": "1752",
-  "copytext": "1777",
+  "published": [1752],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/co.json",
   "imported": true,
   "paragraphs": [

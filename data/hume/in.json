@@ -4,8 +4,7 @@
   "title": "Of Interest",
   "breadcrumb": "Of Interest",
   "fulltitle": "<h1>Of <b>Interest</b>.</h1>",
-  "published": "1752",
-  "copytext": "1777",
+  "published": [1752],
   "source": "https://raw.githubusercontent.com/merivale/hume-texts-online/master/_data/in.json",
   "imported": true,
   "paragraphs": [
