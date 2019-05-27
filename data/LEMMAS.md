@@ -8,6 +8,7 @@ N.B. No attempts are made to disambiguate words more generally. For example, the
 
 - "art": archaic form of "be" ("thou art") / singular noun
 - "flatter": comparative of adjective "flat" / base of verb "flatter"
+- "leaves": plural of noun "leaf" / present of verb "leave"
 - "left": adjective / past of verb "leave"
 - "lent": singular noun of "lent" / past of verb "lend"
 - "lives": plural of noun "life" / present of verb "live"

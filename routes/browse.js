@@ -23,6 +23,17 @@ router.get('/all', (req, res) => {
   res.render('browse/all', { texts })
 })
 
+// lits of all texts to be typed up
+router.get('/totype', (req, res) => {
+  const texts = get.texts().map(t => {
+    const text = get.text(t.id)
+    return Object.assign(t, { source: text.source, pages: text.pages })
+  }).filter(t => !t.source)
+  const checked = texts.filter(t => t.pages !== undefined)
+  const pages = checked.reduce((sofar, current) => sofar + current.pages, 0)
+  res.render('browse/totype', { texts, checked, pages })
+})
+
 // author page
 router.get('/:id', (req, res, next) => {
   const author = get.author(req.params.id)
