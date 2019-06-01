@@ -20,7 +20,7 @@ router.get('/', (req, res) => {
 // lits of all texts
 router.get('/all', (req, res) => {
   const texts = get.texts()
-  res.render('browse/all', { texts })
+  res.render('browse/all', { area, texts })
 })
 
 // lits of all texts to be typed up
@@ -31,7 +31,7 @@ router.get('/totype', (req, res) => {
   }).filter(t => !t.source)
   const checked = texts.filter(t => t.pages !== undefined)
   const pages = checked.reduce((sofar, current) => sofar + current.pages, 0)
-  res.render('browse/totype', { texts, checked, pages })
+  res.render('browse/totype', { area, texts, checked, pages })
 })
 
 // author page
