@@ -9,12 +9,12 @@
   "paragraphs": [
     {
       "id": "1",
-      "title": "<h2>SECTION VII: <span class=\"ital\">A Deduction of some Complex moral Ideas, viz. of Obligation, and Right, Perfect, Imperfect, and External, Alienable, and Unalienable, from this moral Sense.</span></h2>",
-      "content": "<p><span id=\"lf1458_label_325\">I.</span> To conclude this Subject, we may, from what has been said, see the true Original of moral Ideas, viz. This moral Sense of Excellence in every Appearance, or Evidence of Benevolence. It remains to be explain'd, how we acquire more particular Ideas of Virtue and Vice, abstracting from any Law, Human, or Divine.</p>"
+      "before": "I.",
+      "content": "<p>TO conclude this Subject, we may, from what has been said, see the <em>true Original of moral Ideas</em>, <em>viz.</em> <em>This moral Sense of Excellence in every Appearance, or Evidence of Benevolence</em>. It remains to be explain'd, how we acquire more particular Ideas of <em>Virtue</em> and <em>Vice</em>, abstracting from any <em>Law</em>, <em>Human</em>, or <em>Divine</em>.</p>"
     },
     {
       "id": "2",
-      "content": "<p><label>Obligation.</label>If any one ask, Can we have any Sense of Obligation, abstracting from the Laws of a Superior? We must answer according to the various Senses of the word Obligation. If by Obligation we understand a Determination, without regard to our own Interest, to approve Actions, and to perform them; which Determination shall also make us displeas'd with our selves, and uneasy upon having acted contrary to it; in this meaning of the word Obligation, there is naturally an Obligation upon all Men to Benevolence; and they are still under its Influence, even when by false, or partial Opinions of the natural Tendency of their Actions, this moral Sense leads them to Evil; unless by long inveterate Habits it be exceedingly weaken'd. For it scarce seems possible wholly to extinguish it. Or, which is to the same purpose, this internal Sense, and Instinct toward Benevolence, will either influence our Actions, or else make us very uneasy and dissatisfy'd; and we shall be conscious that we are in a base unhappy State, even without considering any Law whatsoever, or any external Advantages lost, or Disadvantages impending from its Sanctions. And further, there are still such Indications given us of what is in the whole benevolent, and what not; as may probably discover to us the true Tendency of every Action, and let us see, some time or other, the evil Tendency of what upon a partial View appear'd benevolent: or if we have no Friends so faithful as to admonish us, the Persons injur'd will not fail to upbraid us. So that no Mortal can secure to himself a perpetual Serenity, Satisfaction, and Self-approbation, but by a serious Inquiry into the Tendency of his Actions, and a perpetual Study of universal Good, according to the justest Notions of it.</p>"
+      "content": "<p><label>Obligation.</label> <b>If</b> any one ask, Can we have any Sense of <b>Obligation</b>, abstracting from the <em>Laws</em> of a <em>Superior</em>? We must answer according to the various Senses of the word <em>Obligation</em>. If by Obligation we understand a Determination, without regard to our own Interest, to approve Actions, and to perform them; which Determination shall also make us displeas'd with our selves, and uneasy upon having acted contrary to it; in this meaning of the word Obligation, there is naturally an Obligation upon all Men to Benevolence; and they are still under its Influence, even when by false, or partial Opinions of the natural Tendency of their Actions, this moral Sense leads them to Evil; unless by long inveterate Habits it be exceedingly weaken'd. For it scarce seems possible wholly to extinguish it. Or, which is to the same purpose, this internal Sense, and Instinct toward Benevolence, will either influence our Actions, or else make us very uneasy and dissatisfy'd; and we shall be conscious that we are in a base unhappy State, even without considering any Law whatsoever, or any external Advantages lost, or Disadvantages impending from its Sanctions. And further, there are still such Indications given us of what is in the whole benevolent, and what not; as may probably discover to us the true Tendency of every Action, and let us see, some time or other, the evil Tendency of what upon a partial View appear'd benevolent: or if we have no Friends so faithful as to admonish us, the Persons injur'd will not fail to upbraid us. So that no Mortal can secure to himself a perpetual Serenity, Satisfaction, and Self-approbation, but by a serious Inquiry into the Tendency of his Actions, and a perpetual Study of universal Good, according to the justest Notions of it.</p>"
     },
     {
       "id": "3",
@@ -255,144 +255,34 @@
   ],
   "notes": [
     {
-      "paragraph": "3",
       "id": "1",
-      "content": "<p>See above, Sect. vi. Art. 1, 2.</p>"
+      "paragraph": "3",
+      "content": "<p>See above, <cite><em>Sect.</em> vi. <em>Art.</em> 1, 2.</cite></p>"
     },
     {
-      "paragraph": "6",
       "id": "2",
-      "content": "<p>In A (p. 253) articles III and IV appear instead at the end of Section 6, numbered VIII and IX (pp. 244–48).</p>"
+      "paragraph": "34",
+      "content": "<p>See <cite><em>Sect.</em> iii. <em>Art.</em> 11, 12.</cite></p>"
     },
     {
-      "paragraph": "11",
       "id": "3",
-      "content": "<p>A (p. 253): wrongly numbered II (instead of III).</p>"
+      "paragraph": "34",
+      "content": "<p>See <cite><em>Sect.</em> iii. <em>Art.</em> 15. <em>Par.</em> 3.</cite></p>"
     },
     {
-      "paragraph": "11",
       "id": "4",
-      "content": "<p>D2, D3 [Corrigenda, p. 311]: Or that his Will is conformable to his Will.</p>"
-    },
+      "paragraph": "",
+      "content": "<p>See <cite><em>Sect.</em> 3. <em>Art.</em> ix.</cite> <em>The Author all along supposes, that no Man acts without some <em>Desire</em>, or <em>Instinct</em>, or <em>Affection</em>, or <em>Appetite</em>; that of these <em>Attachments</em> of the Will, some are calm and unpassionate, others are passionate; some are extensive, and others confined to one, or to a few. The former Sort in each of these Divisions, manifestly appears more amiable; and consequently, <i>caeteris paribus</i>, the Virtue is less, in any given Quanity of Good done from the violent, passionate, and narrow Attachment. A certain <em>Remarker</em> thence argues, <q>That then the Virtue is highest, when there is no Desire, Affection, or Attachment at all; or when we act solely from Reason, without any <em>Affection</em> to any Thing.</q> One may retort this Reasoning in a like Case. In any given <em>Momentum</em> of Bodies, there the <em>Velocity</em> is greater, where there is least <em>Matter</em>; consequently, it is there greatest, where there is no <em>Matter</em> at all.</em></p>"
+    }
     {
-      "paragraph": "12",
       "id": "5",
-      "content": "<p>No new paragraph in A (p. 254).</p>"
+      "paragraph": "58",
+      "content": "<p>See <cite><em>Art.</em> 10. <em>Par.</em> 6. <em>of this Section</em>.</cite></p>"
     },
     {
-      "paragraph": "13",
       "id": "6",
-      "content": "<p>See Samuel Clarke, <em>Discourse Concerning the Unchangeable Obligations of Natural Religion</em> (1706), chap. 1, sects. 3, 4, 6, in D. D. Raphael, <em>British Moralists 1650–1800</em> (Oxford: Clarendon Press, 1969), 199–214.</p>"
-    },
-    {
-      "paragraph": "15",
-      "id": "7",
-      "content": "<p>A (p. 256): numbered IV.</p>"
-    },
-    {
-      "paragraph": "17",
-      "id": "8",
-      "content": "<p>No new paragraph in A (p. 257).</p>"
-    },
-    {
-      "paragraph": "17",
-      "id": "9",
-      "content": "<p>D2, D3 [Corrigenda, p. 311]: Natural Liberty</p>"
-    },
-    {
-      "paragraph": "19",
-      "id": "10",
-      "content": "<p>No new paragraph in A (p. 258).</p>"
-    },
-    {
-      "paragraph": "24",
-      "id": "11",
-      "content": "<p>A (p. 261): numbered V.</p>"
-    },
-    {
-      "paragraph": "28",
-      "id": "12",
-      "content": "<p>A (p. 262): numbered VI.</p>"
-    },
-    {
-      "paragraph": "33",
-      "id": "13",
-      "content": "<p><em>Alterations and Additions</em> (p. 22): according to their Prudence</p>"
-    },
-    {
-      "paragraph": "34",
-      "id": "14",
-      "content": "<p>A (p. 265): numbered VII.</p>"
-    },
-    {
-      "paragraph": "34",
-      "id": "15",
-      "content": "<p>See Sect. iii. Art. 11, 12.</p>"
-    },
-    {
-      "paragraph": "34",
-      "id": "16",
-      "content": "<p>See Sect. iii. Art. 15. Par. 3.</p>"
-    },
-    {
-      "paragraph": "50",
-      "id": "17",
-      "content": "<p><em>Alterations and Additions</em> (p. 23): ought</p>"
-    },
-    {
-      "paragraph": "51",
-      "id": "18",
-      "content": "<p><em>Alterations and Additions</em> (p. 24) adds footnote: *See Art. v. of the first Edition.</p>"
-    },
-    {
-      "paragraph": "51",
-      "id": "19",
-      "content": "<p><em>Alterations and Additions</em> (p. 25): unawares, or in</p>"
-    },
-    {
-      "paragraph": "58",
-      "id": "20",
-      "content": "<p>A (p. 273): numbered IX.</p>"
-    },
-    {
-      "paragraph": "58",
-      "id": "21",
-      "content": "<p>Compare John Locke's criticism of Robert Filmer in <em>Two Treatises of Government,</em> Treatise 1, vol. 5, chap. 3, pp. 222ff., from <em>The Works of John Locke,</em> 10 vols. (London, 1823).</p>"
-    },
-    {
-      "paragraph": "58",
-      "id": "22",
-      "content": "<p>See Art. 10. Par. 6. of this Section.</p>"
-    },
-    {
-      "paragraph": "58",
-      "id": "23",
-      "content": "<p>D2, D3 [Corrigenda, p. 311]: as some ancient Hereticks did,</p>"
-    },
-    {
       "paragraph": "59",
-      "id": "24",
-      "content": "<p>A (p. 274): numbered X.</p>"
-    },
-    {
-      "paragraph": "59",
-      "id": "25",
-      "content": "<p>Sect. viii. Art. 2. Prop. 5.</p>"
-    },
-    {
-      "paragraph": "59",
-      "id": "26",
-      "content": "<p>Hobbes, <em>Leviathan,</em> pt. 1, chaps. 13, 14, 15; pt. 2, chap. 17; in <em>The English Works of Thomas Hobbes of Malmesbury; now first collected and edited by Sir William Molesworth,</em> vol. 3 (London, 1839; Scientia Verlag Aalen, 1966).</p>"
-    },
-    {
-      "paragraph": "60",
-      "id": "27",
-      "content": "<p>A (p. 275): numbered XI.</p>"
-    },
-    {
-      "paragraph": "61",
-      "id": "28",
-      "content": "<p>No new paragraph in A (p. 275).</p>"
+      "content": "<p><cite><em>Sect.</em> viii. <em>Art.</em> 2. <em>Prop.</em> 5.</cite></p>"
     }
   ]
 }
