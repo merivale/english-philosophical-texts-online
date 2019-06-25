@@ -13,7 +13,7 @@ const authors = () =>
 // get stubs for all texts
 const texts = () =>
   authors()
-    .map(a => a.texts.map(t => Object.assign(t, { author: a.fullname })))
+    .map(a => a.texts.map(t => Object.assign(t, { author: a })))
     .reduce((x, y) => x.concat(y), [])
     .sort((x, y) => x.published[0] - y.published[0])
 
