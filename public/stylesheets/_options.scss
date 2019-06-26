@@ -1,9 +1,18 @@
 .options {
-  display: flex;
-  padding-bottom: 1em;
   border-bottom: 1px solid $gray;
-  input[type="text"] {
-    flex: 1;
-    margin-right: 1em;
+  input, select {
+    display: block;
+    width: 100%;
+    margin-bottom: 1em;
+  }
+  @media (min-width: 45rem) {
+    display: flex;
+    input, select {
+      width: initial;
+    }
+    input {
+      flex: 1;
+      margin-right: 1em;
+    }
   }
 }

@@ -1,19 +1,21 @@
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  .title {
-    h1 {
-      font-family: $old;
-      font-size: 1.75em;
-      text-align: center;
-      width: 19rem;
-      margin: 0;
-    }
+  h1 {
+    font-family: $old;
+    font-size: 1.75em;
+    text-align: center;
+    margin: 0;
   }
   .logos {
     display: none;
-    @media (min-width: $break) {
+  }
+  @media (min-width: 38rem) {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    h1 {
+      width: 19rem;
+    }
+    .logos {
       display: block;
       margin-bottom: -1.75em;
       img {

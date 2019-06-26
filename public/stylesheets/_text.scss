@@ -88,10 +88,7 @@
       }
     }
   }
-}
-
-@media(min-width: $break) {
-  .text {
+  @media(min-width: 57rem) {
     max-width: none;
     .title, .toc {
       margin-left: 16rem;

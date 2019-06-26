@@ -43,7 +43,7 @@ html {
   overflow-y: scroll; }
 
 body {
-  max-width: 896px;
+  max-width: 56rem;
   margin: 0 auto;
   padding: .5rem; }
 
@@ -162,25 +162,28 @@ table {
   table th {
     font-weight: bold; }
 
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center; }
-  .header .title h1 {
-    font-family: "IM Fell English", "GFS Didot";
-    font-size: 1.75em;
-    text-align: center;
-    width: 19rem;
-    margin: 0; }
-  .header .logos {
-    display: none; }
-    @media (min-width: 912px) {
-      .header .logos {
-        display: block;
-        margin-bottom: -1.75em; }
-        .header .logos img {
-          display: inline-block;
-          margin-left: .5em; } }
+.header h1 {
+  font-family: "IM Fell English", "GFS Didot";
+  font-size: 1.75em;
+  text-align: center;
+  margin: 0; }
+
+.header .logos {
+  display: none; }
+
+@media (min-width: 38rem) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    .header h1 {
+      width: 19rem; }
+    .header .logos {
+      display: block;
+      margin-bottom: -1.75em; }
+      .header .logos img {
+        display: inline-block;
+        margin-left: .5em; } }
 
 .tabs {
   display: flex;
@@ -240,32 +243,38 @@ table {
   margin-top: 1em; }
 
 .options {
-  display: flex;
-  padding-bottom: 1em;
   border-bottom: 1px solid #ddd; }
-  .options input[type="text"] {
-    flex: 1;
-    margin-right: 1em; }
-
-.authors .author {
-  border-bottom: 1px solid #ddd; }
-  .authors .author:hover {
-    background: #f5f5f5; }
+  .options input, .options select {
+    display: block;
+    width: 100%;
+    margin-bottom: 1em; }
+  @media (min-width: 45rem) {
+    .options {
+      display: flex; }
+      .options input, .options select {
+        width: initial; }
+      .options input {
+        flex: 1;
+        margin-right: 1em; } }
 
 .author {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   color: inherit;
-  padding: .5em; }
+  padding: .5em;
+  border-bottom: 1px solid #ddd; }
+  .author:hover {
+    background: #f5f5f5; }
   .author.hidden {
     display: none; }
   .author h3 {
     margin-bottom: .5rem; }
-  .author .details {
-    flex-basis: 13em; }
-    .author .details p {
-      margin-bottom: 0; }
+  .author .details p {
+    margin-bottom: 0; }
+  @media (min-width: 43rem) {
+    .author {
+      display: flex;
+      justify-content: space-between; }
+      .author .details {
+        flex-basis: 13em; } }
 
 .text {
   max-width: 39rem;
@@ -330,19 +339,18 @@ table {
     background: #f5f5f5;
     font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1rem; }
-
-@media (min-width: 912px) {
-  .text {
-    max-width: none; }
-    .text .title, .text .toc {
-      margin-left: 16rem; }
-    .text .paragraph, .text .note {
-      display: flex; }
-      .text .paragraph .id, .text .note .id {
-        flex-basis: 15rem;
-        margin-right: 1rem;
-        text-align: left; }
-      .text .paragraph .content, .text .note .content {
-        flex: 1; } }
+  @media (min-width: 57rem) {
+    .text {
+      max-width: none; }
+      .text .title, .text .toc {
+        margin-left: 16rem; }
+      .text .paragraph, .text .note {
+        display: flex; }
+        .text .paragraph .id, .text .note .id {
+          flex-basis: 15rem;
+          margin-right: 1rem;
+          text-align: left; }
+        .text .paragraph .content, .text .note .content {
+          flex: 1; } }
 
 /*# sourceMappingURL=epto.css.map */

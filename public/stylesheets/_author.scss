@@ -1,16 +1,10 @@
-.authors .author {
+.author {
+  color: inherit;
+  padding: .5em;
   border-bottom: 1px solid $gray;
   &:hover {
     background: $lightgray;
   }
-}
-
-.author {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  color: inherit;
-  padding: .5em;
   &.hidden {
     display: none;
   }
@@ -18,9 +12,15 @@
     margin-bottom: .5rem;
   }
   .details {
-    flex-basis: 13em;
     p {
       margin-bottom: 0;
+    }
+  }
+  @media(min-width: 43rem) {
+    display: flex;
+    justify-content: space-between;
+    .details {
+      flex-basis: 13em;
     }
   }
 }
