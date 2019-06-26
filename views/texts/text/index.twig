@@ -3,7 +3,7 @@
 {% block tabs %}
   {% include 'texts/text/nav.twig' with { 'page': 'text' } %}
   {% if text.previous or text.next %}
-    {% include 'browse/text/context.twig' %}
+    {% include 'texts/text/context.twig' %}
   {% endif %}
 {% endblock %}
 
@@ -52,6 +52,6 @@
     {% endif %}
   </div>
   {% if text.previous or text.next %}
-    {% include 'browse/text/context.twig' %}
+    {% include 'texts/text/context.twig' %}
   {% endif %}
 {% endblock %}
