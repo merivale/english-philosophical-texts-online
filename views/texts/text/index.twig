@@ -1,0 +1,57 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/text/nav.twig' with { 'page': 'text' } %}
+  {% if text.previous or text.next %}
+    {% include 'browse/text/context.twig' %}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  <div class="text {{ text.id }}">
+    <div class="title">{{ text.fulltitle }}</div>
+    {% if text.imported %}
+      {% if text.paragraphs %}
+        {% for p in text.paragraphs %}
+          {% if p.title %}
+            <div class="paragraph">
+              <div class="id"></div>
+              <div class="content heading">{{ p.title }}</div>
+            </div>
+          {% endif %}
+          <div class="paragraph" id="{{ p.id }}">
+            <div class="id">{{ text.id }}.{{ p.id }}</div>
+            {% if p.before %}
+              <div class="content with-before">
+                <span class="before">{{ p.before }}</span> {{ p.content }}
+              </div>
+            {% else %}
+              <div class="content">
+                {{ p.content }}
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      {% endif %}
+      {% if text.notes %}
+        <hr>
+        {% for n in text.notes %}
+          <div class="note" id="n{{ n.id }}">
+            <div class="id">{{ text.id }}.{{ n.paragraph }}n{{ n.id }}</div>
+            <div class="content">{{ n.content }}</div>
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% else %}
+      <div class="paragraph">
+        <div class="id"></div>
+        <div class="content">
+          <p>This text has not yet been imported into our database.</p>
+        </div>
+      </div>
+    {% endif %}
+  </div>
+  {% if text.previous or text.next %}
+    {% include 'browse/text/context.twig' %}
+  {% endif %}
+{% endblock %}

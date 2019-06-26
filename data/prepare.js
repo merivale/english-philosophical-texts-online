@@ -6,7 +6,7 @@ const author = (author) => {
   author.fullname = author.title
     ? `${author.title} [${author.forename} ${author.surname}]`
     : `${author.forename} ${author.surname}`
-  author.url = `/browse/${author.id.toLowerCase()}`
+  author.url = `/texts/${author.id.toLowerCase()}`
   author.texts = author.texts.map(stub)
   author.imported = author.texts.filter(t => t.imported)
   return author
@@ -17,7 +17,7 @@ const text = (text) => {
   text.breadcrumb = breadcrumb(text)
   text.next = next(text)
   text.previous = previous(text)
-  text.url = `/browse/${text.id.toLowerCase().replace(/\./g, '/')}`
+  text.url = `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
   if (text.parent) {
     text.published = inherit(text, 'published')
     text.copytext = inherit(text, 'copytext')
@@ -80,7 +80,7 @@ const stub = (id) => {
       title: text.title,
       published: inherit(text, 'published'),
       breadcrumb: text.breadcrumb,
-      url: `/browse/${text.id.toLowerCase().replace(/\./g, '/')}`
+      url: `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
     }
   }
 }

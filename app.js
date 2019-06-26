@@ -8,7 +8,8 @@ const sassMiddleware = require('node-sass-middleware')
 
 // routers
 const homeRouter = require('./routes/home')
-const browseRouter = require('./routes/browse')
+const textsRouter = require('./routes/texts')
+const aboutRouter = require('./routes/about')
 const compareRouter = require('./routes/compare')
 const searchRouter = require('./routes/search')
 const dataRouter = require('./routes/data')
@@ -33,7 +34,8 @@ app.use(express.static(path.join(__dirname, 'public')))
 
 // main areas of the site
 app.use('/', homeRouter)
-app.use('/browse', browseRouter)
+app.use('/texts', textsRouter)
+app.use('/about', aboutRouter)
 app.use('/compare', compareRouter)
 app.use('/search', searchRouter)
 app.use('/data', dataRouter)

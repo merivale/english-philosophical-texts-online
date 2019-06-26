@@ -1,0 +1,18 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/text/nav.twig' with { 'page': 'toc' } %}
+{% endblock %}
+
+{% block content %}
+  <div class="text {{ text.id }}">
+    <div class="title">
+      <h3>{{ parent.title }}</h3>
+    </div>
+    <ul class="toc">
+      {% for stub in parent.texts %}
+        <li><a href="{{ stub.url }}">{{ stub.title }} ({{ stub.published | join(', ') }})</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endblock %}

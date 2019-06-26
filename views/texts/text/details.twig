@@ -1,0 +1,68 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/text/nav.twig' with { 'page': 'details' } %}
+{% endblock %}
+
+{% block content %}
+  <h2>Summary</h2>
+  <p>This article contains:</p>
+  <ul>
+    <li>{{ details.count }} word{% if details.count != 1 %}s{% endif %} and {{ details.lexemes.length + details.unidentified.length }} lexeme{% if details.lexemes.length + details.unidentified.length != 1 %}s{% endif %}</li>
+    <li>{{ details.citations.length }} citation{% if details.citations.length != 1 %}s{% endif %}</li>
+    <li>{{ details.people.length }} name{% if details.people.length != 1 %}s{% endif %}</li>
+    <li>{{ details.foreign.length }} piece{% if details.foreign.length != 1 %}s{% endif %} of foreign text</li>
+  </ul>
+  <p><strong>Note:</strong> These data are provisional. Their accuracy depends on text that needs to be checked and marked up manually, and on software that is still being developed.</p>
+  {% if details.citations %}
+    <h2>Citations</h2>
+    <ul>
+      {% for citation in details.citations %}
+        <li>{{ citation }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% if details.people %}
+    <h2>Names</h2>
+    <ul>
+      {% for person in details.people %}
+        <li>{{ person.name }} ({{ person.frequency }})</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% if details.foreign %}
+    <h2>Foreign Text</h2>
+    <ul>
+      {% for foreign in details.foreign %}
+        <li>{{ foreign }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% if details.lexemes %}
+    <h2>Identified Lexemes</h2>
+    <table>
+      <thead>
+        <tr><th>lemma</th><th>frequency</th></tr>
+      </thead>
+      <tbody>
+        {% for lexeme in details.lexemes %}
+          <tr><td>{{ lexeme.lemma }}</td><td>{{ lexeme.frequency }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+  {% if details.unidentified %}
+    <h2>Unidentified Words</h2>
+    <p>In due course, every word in our textual database will be identified. In the meantime, this list represents work still to be done.</p>
+    <table>
+      <thead>
+        <tr><th>word</th><th>frequency</th></tr>
+      </thead>
+      <tbody>
+        {% for word in details.unidentified %}
+          <tr><td>{{ word.word }}</td><td>{{ word.frequency }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endif %}
+{% endblock %}

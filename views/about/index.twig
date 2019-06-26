@@ -1,0 +1,12 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'about/nav.twig' with { 'page': 'about' } %}
+{% endblock %}
+
+{% block content %}
+  <h1>General Information</h1>
+  <p><i>English Philosophical Texts Online</i> is the result of a project at the <a href="https://www.ox.ac.uk">University of Oxford</a>, the aim of which is to collect together the best digital editions of a broad canon of English language philosopical works published in Britain between 1650 and 1830, to make them freely available in one place, and to provide intuitive software for performing sophisticated searches and stylometric analyses of these texts.</p>
+  <p>This is not, in the first instance, a digitization project (though digitization will be considered as necessary to fill in any gaps), since many of our target works have already been digitized, for example through the <a href="http://www.textcreationpartnership.org/">Text Creation Partnership</a>, the <a href="http://oll.libertyfund.org/">Online Library of Liberty</a>, and <a href="https://www.gutenberg.org/">Project Gutenberg</a>. However, these works can be difficult to locate unless you already know where to look, and the fact that they are spread out over multiple sites prohibits systematic searching and comparative analysis. Furthermore, the editions on these sites do not include universal paragraph references, making them of limited use to scholars of philosophy and the history of ideas.</p>
+  <p>Thanks to the <a href="https://innovation.ox.ac.uk/award-details/john-fell-fund/">John Fell Fund</a>, we are conducting a pilot project this year (2018-19), the principal aim of which is to locate the best publicly available digital editions of our target works, and to estimate the cost and feasibility of converting these texts into a consistent format and of digitizing those that remain. Throughout the year we will be actively seeking input from scholars, teachers, and other interested parties, so please <a href="/contact">contact us</a> with any suggestions, queries, or expressions of interest.</p>
+{% endblock %}

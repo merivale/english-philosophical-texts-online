@@ -1,0 +1,42 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/text/nav.twig' with { 'page': 'about' } %}
+{% endblock %}
+
+{% block content %}
+  <h3>First published</h3>
+  <p>{{ text.published | join(', ') }}</p>
+  <h3>Copytext</h3>
+  <p>
+    {% if text.copytext %}
+      {{ text.copytext | join(', ') }}
+    {% else %}
+      {{ text.published | join(', ') }}
+    {% endif %}
+  </p>
+  <h3>Source</h3>
+  <p>
+    {% if text.source %}
+      <a href="{{ text.source }}">{{ text.source }}</a>
+    {% else %}
+      A source for this text has not yet been identified.
+    {% endif %}
+  </p>
+  <h3>Comments</h3>
+  <p>
+    {% if text.comments %}
+      {{ text.comments }}
+    {% else %}
+      Comments are not yet available.
+    {% endif %}
+  </p>
+  <h3>Copyright</h3>
+  <p>
+    {% if text.copyright %}
+      {{ text.copyright }}
+    {% else %}
+      Copyright information is not yet available.
+    {% endif %}
+  </p>
+{% endblock %}
