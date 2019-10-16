@@ -71,10 +71,7 @@ blockquote {
       margin-bottom: 0; }
 
 ol, ul {
-  margin-left: 2em;
-  margin-bottom: 1.5em; }
-  ol:last-child, ul:last-child {
-    margin-bottom: 0; }
+  margin-left: 2em; }
 
 ol {
   list-style: decimal outside; }
@@ -301,6 +298,8 @@ table {
     border-bottom: 1px dotted #363636;
     margin-right: .25em;
     font-style: normal; }
+  .text ul {
+    list-style: none; }
   .text label {
     float: right;
     font-size: .875em;

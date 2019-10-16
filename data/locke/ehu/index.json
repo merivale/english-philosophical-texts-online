@@ -1,0 +1,20 @@
+{
+  "id": "Locke.EHU",
+  "title": "An Essay Concerning Humane Understanding",
+  "breadcrumb": "Essay Concerning Humane Understanding",
+  "fulltitle": "<h3>AN</h3><h1>ESSAY</h1><h4>CONCERNING</h4><h2>Humane Understanding.</h2>",
+  "published": [1689],
+  "copytext": [1700],
+  "source": "https://quod.lib.umich.edu/e/eebo/A48874.0001.001?view=toc",
+  "imported": true,
+  "comments": "Locke’s <i>Essay</i> was first published in December 1689, but with a publication year of 1690 on the title page. The copytext for this version is the 4th edition of 1700, the last edition to be printed in Locke’s lifetime, and which contains several changes and additions. The text is derived from a transcription of the first edition from EEBO-TCP. Several changes are being made to this source, to bring the text in line with the 1700 edition.",
+  "copyright": "This text is in the public domain.",
+  "texts": [
+    "Locke.EHU.Ded",
+    "Locke.EHU.Ep",
+    "Locke.EHU.1",
+    "Locke.EHU.2",
+    "Locke.EHU.3",
+    "Locke.EHU.4"
+  ]
+}
