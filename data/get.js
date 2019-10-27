@@ -8,7 +8,7 @@ const authors = () =>
   fs.readdirSync(file.dir(), { withFileTypes: true })
     .filter(x => x.isDirectory())
     .map(x => x.name)
-    .map(author)
+    .map(id => author(id))
 
 // get stubs for all texts
 const texts = () =>
@@ -18,18 +18,18 @@ const texts = () =>
     .sort((x, y) => x.published[0] - y.published[0])
 
 // get author from id
-const author = (id) => {
+const author = (id, enrich = true) => {
   const author = file.open(id)
   if (author) {
-    return prepare.author(author)
+    return prepare.author(author, enrich)
   }
 }
 
 // get text from id
-const text = (id) => {
+const text = (id, enrich = true) => {
   const text = file.open(id)
   if (text) {
-    return prepare.text(text)
+    return prepare.text(text, enrich)
   }
 }
 

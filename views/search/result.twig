@@ -1,0 +1,38 @@
+<div class="result">
+  <div class="heading" data-action="show-details" data-details="{{ result.id }}">
+    <div class="title">{{ result.title }}</div>
+    <div class="summary">{{ result.count }} result{% if result.count != 1 %}s{% endif %}</div>
+  </div>
+  <div class="details" id="{{ result.id }}">
+    {% if result.texts %}
+      <div class="results">
+        {% for text in result.texts %}
+          {% include 'search/result.twig' with { result: text } %}
+        {% endfor %}
+      </div>
+    {% else %}
+      {% if result.matchedTitle %}
+        <div class="paragraph">
+          <div class="id">[title]</div>
+          <div class="content">{{ result.matchedTitle }}</div>
+        </div>
+      {% endif %}
+      {% if result.matchedParagraphs|length > 0 %}
+        {% for paragraph in result.matchedParagraphs %}
+          <div class="paragraph">
+            <div class="id">{{ paragraph.id }}</div>
+            <div class="content">{{ paragraph.content }}</div>
+          </div>
+        {% endfor %}
+      {% endif %}
+      {% if result.matchedNotes|length > 0 %}
+        {% for note in result.matchedNotes %}
+          <div class="paragraph">
+            <div class="id">{{ note.paragraph }}n{{ note.id }}</div>
+            <div class="content">{{ note.content }}</div>
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+  </div>
+</div>

@@ -2,33 +2,39 @@
 const file = require('./file')
 
 // prepare author data
-const author = (author) => {
+const author = (author, enrich = true) => {
   author.fullname = author.title
     ? `${author.title} [${author.forename} ${author.surname}]`
     : `${author.forename} ${author.surname}`
   author.url = `/texts/${author.id.toLowerCase()}`
-  author.texts = author.texts.map(stub)
-  author.imported = author.texts.filter(t => t.imported)
+  if (enrich) {
+    author.texts = author.texts.map(stub)
+    author.imported = author.texts.filter(t => t.imported)
+  }
   return author
 }
 
 // prepare text data
-const text = (text) => {
-  text.breadcrumb = breadcrumb(text)
-  text.next = next(text)
-  text.previous = previous(text)
-  text.url = `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
-  if (text.parent) {
-    text.published = inherit(text, 'published')
-    text.copytext = inherit(text, 'copytext')
-    text.source = inherit(text, 'source')
-    text.comments = inherit(text, 'comments')
-    text.copyright = inherit(text, 'copyright')
-    text.parent = stub(text.parent)
-  }
-  if (text.texts) text.texts = text.texts.map(stub)
+const text = (text, enrich = true) => {
+  // format text content
   if (text.paragraphs) text.paragraphs.forEach((b) => { b.content = formatContent(b.content) })
   if (text.notes) text.notes.forEach((b) => { b.content = formatContent(b.content) })
+  // enrich metadata (not used when getting texts for searching)
+  if (enrich) {
+    text.breadcrumb = breadcrumb(text)
+    text.next = next(text)
+    text.previous = previous(text)
+    text.url = `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
+    if (text.parent) {
+      text.published = inherit(text, 'published')
+      text.copytext = inherit(text, 'copytext')
+      text.source = inherit(text, 'source')
+      text.comments = inherit(text, 'comments')
+      text.copyright = inherit(text, 'copyright')
+      text.parent = stub(text.parent)
+    }
+    if (text.texts) text.texts = text.texts.map(stub)
+  }
   return text
 }
 

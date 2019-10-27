@@ -2,7 +2,7 @@
 const fs = require('fs')
 
 // texts directory
-const dir = (path = 'data') =>
+const dir = (path = 'texts') =>
   fs.existsSync(path) ? path : dir(`../${path}`)
 
 // path to json file

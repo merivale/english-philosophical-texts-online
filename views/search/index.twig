@@ -1,6 +1,47 @@
 {% extends 'layout.twig' %}
 
+{% block javascripts %}
+  <script defer src="/javascripts/toggle-results.js"></script>
+{% endblock %}
+
 {% block content %}
   <h1>Search Texts</h1>
-  <p>In due course, this area of the site will provide facilities for performing sophisticated searches on the texts here available. Please <a href="/contact">contact us</a> if you have any requests for functionality that you would like to see included.</p>
+  <form class="form" method="post">
+    <div class="input">
+      <label for="ids">Author:</label>
+      <select name="author" class="stretch">
+        {% for a in authors %}
+          <option value="{{ a.id }}"{% if post and post.author == a.id %} selected{% endif %}>{{ a.fullname }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="input">
+      <label for="query11">Contains:</label>
+      <input type="text" name="query11" id="query11" required value="{{ post.query11 }}">
+      <select name="query1op">
+        <option value="and"{% if post and post.query1op == 'and' %} selected{% endif %}>AND</option>
+        <option value="or"{% if post and post.query1op == 'or' %} selected{% endif %}>OR</option>
+      <select>
+      <input type="text" name="query12" id="query12" value="{{ post.query12 }}">
+    </div>
+    <div class="input">
+      <label for="query21">But not:</label>
+      <input type="text" name="query21" id="query21" value="{{ post.query21 }}">
+      <select name="query2op">
+        <option value="and"{% if post and post.query2op == 'and' %} selected{% endif %}>AND</option>
+        <option value="or"{% if post and post.query2op == 'or' %} selected{% endif %}>OR</option>
+      <select>
+      <input type="text" name="query22" id="query22" value="{{ post.query22 }}">
+    </div>
+    <div class="buttons">
+      <button type="submit">Search</button>
+    </div>
+  </form>
+  {% if results %}
+    <div class="results active">
+      {% for result in results %}
+        {% include 'search/result.twig' %}
+      {% endfor %}
+    </div>
+  {% endif %}
 {% endblock %}

@@ -1,0 +1,43 @@
+.results {
+  .result {
+    .heading {
+      display: flex;
+      border-bottom: 1px solid $gray;
+      cursor: pointer;
+      &:hover {
+        background: lighten($primary, 25%);
+      }
+      .title, .summary {
+        padding: .25em .5em
+      }
+      .title {
+        flex-grow: 1;
+        font-style: italic;
+      }
+      .summary {
+        white-space: nowrap;
+      }
+    }
+    .details {
+      display: none;
+      margin-bottom: 1em;
+      &.active {
+        display: block;
+      }
+      .results {
+        margin-left: 1em;
+      }
+      .paragraph {
+        display: flex;
+        margin: .5em 0 1em;
+        .id {
+          flex-basis: 6em;
+          text-align: right;
+        }
+        .content {
+          margin-left: 1em;
+        }
+      }
+    }
+  }
+}

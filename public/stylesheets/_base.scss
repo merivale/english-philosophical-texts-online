@@ -136,6 +136,12 @@ mark {
   background: yellow;
 }
 
+label {
+  padding: .25em .5em;
+  display: inline-block;
+  height: 2.25em;
+}
+
 input[type="text"], input[type="number"], select {
   padding: .25em .5em;
   border: 1px solid $gray;
@@ -146,6 +152,17 @@ input[type="text"], input[type="number"], select {
   }
   &:active {
     border-color: $primary;
+  }
+}
+
+button {
+  padding: .25em .75em;
+  height: 2.25em;
+  background: $primary;
+  color: #fff;
+  cursor: pointer;
+  &:hover {
+    background: darken($primary, 10%);
   }
 }
 

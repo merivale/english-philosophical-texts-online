@@ -134,6 +134,11 @@ sup {
 mark {
   background: yellow; }
 
+label {
+  padding: .25em .5em;
+  display: inline-block;
+  height: 2.25em; }
+
 input[type="text"], input[type="number"], select {
   padding: .25em .5em;
   border: 1px solid #ddd;
@@ -143,6 +148,15 @@ input[type="text"], input[type="number"], select {
     border-color: #8e8e8e; }
   input[type="text"]:active, input[type="number"]:active, select:active {
     border-color: #3277ae; }
+
+button {
+  padding: .25em .75em;
+  height: 2.25em;
+  background: #3277ae;
+  color: #fff;
+  cursor: pointer; }
+  button:hover {
+    background: #275c86; }
 
 table {
   border-collapse: collapse;
@@ -237,7 +251,8 @@ table {
     text-align: right; }
 
 .main {
-  margin-top: 1em; }
+  margin-top: 1em;
+  margin-bottom: 2em; }
 
 .options {
   border-bottom: 1px solid #ddd; }
@@ -351,5 +366,53 @@ table {
           text-align: left; }
         .text .paragraph .content, .text .note .content {
           flex: 1; } }
+
+.results .result .heading {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  cursor: pointer; }
+  .results .result .heading:hover {
+    background: #84b5dc; }
+  .results .result .heading .title, .results .result .heading .summary {
+    padding: .25em .5em; }
+  .results .result .heading .title {
+    flex-grow: 1;
+    font-style: italic; }
+  .results .result .heading .summary {
+    white-space: nowrap; }
+
+.results .result .details {
+  display: none;
+  margin-bottom: 1em; }
+  .results .result .details.active {
+    display: block; }
+  .results .result .details .results {
+    margin-left: 1em; }
+  .results .result .details .paragraph {
+    display: flex;
+    margin: .5em 0 1em; }
+    .results .result .details .paragraph .id {
+      flex-basis: 6em;
+      text-align: right; }
+    .results .result .details .paragraph .content {
+      margin-left: 1em; }
+
+.form {
+  margin-bottom: 1em; }
+  .form .input {
+    display: flex;
+    margin-bottom: .5em; }
+    .form .input label {
+      cursor: pointer;
+      flex-basis: 6em; }
+    .form .input input, .form .input select {
+      margin-left: .5em; }
+    .form .input input, .form .input .stretch {
+      flex-grow: 1; }
+  .form .buttons {
+    display: flex;
+    justify-content: flex-end; }
+    .form .buttons button {
+      margin-left: .5em; }
 
 /*# sourceMappingURL=epto.css.map */
