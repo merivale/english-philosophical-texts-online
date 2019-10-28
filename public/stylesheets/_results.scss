@@ -18,7 +18,7 @@
         white-space: nowrap;
       }
     }
-    .details {
+    .matches {
       display: none;
       margin-bottom: 1em;
       &.active {
@@ -27,15 +27,15 @@
       .results {
         margin-left: 1em;
       }
-      .paragraph {
+      .match {
         display: flex;
         margin: .5em 0 1em;
         .id {
-          flex-basis: 6em;
-          text-align: right;
+          flex-basis: 12em;
+          margin-right: 1em;
         }
         .content {
-          margin-left: 1em;
+          flex: 1;
         }
       }
     }

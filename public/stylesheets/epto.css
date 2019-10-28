@@ -149,6 +149,9 @@ input[type="text"], input[type="number"], select {
   input[type="text"]:active, input[type="number"]:active, select:active {
     border-color: #3277ae; }
 
+label {
+  cursor: pointer; }
+
 button {
   padding: .25em .75em;
   height: 2.25em;
@@ -381,38 +384,46 @@ table {
   .results .result .heading .summary {
     white-space: nowrap; }
 
-.results .result .details {
+.results .result .matches {
   display: none;
   margin-bottom: 1em; }
-  .results .result .details.active {
+  .results .result .matches.active {
     display: block; }
-  .results .result .details .results {
+  .results .result .matches .results {
     margin-left: 1em; }
-  .results .result .details .paragraph {
+  .results .result .matches .match {
     display: flex;
     margin: .5em 0 1em; }
-    .results .result .details .paragraph .id {
-      flex-basis: 6em;
-      text-align: right; }
-    .results .result .details .paragraph .content {
-      margin-left: 1em; }
+    .results .result .matches .match .id {
+      flex-basis: 12em;
+      margin-right: 1em; }
+    .results .result .matches .match .content {
+      flex: 1; }
 
 .form {
   margin-bottom: 1em; }
-  .form .input {
-    display: flex;
-    margin-bottom: .5em; }
-    .form .input label {
-      cursor: pointer;
-      flex-basis: 6em; }
-    .form .input input, .form .input select {
-      margin-left: .5em; }
-    .form .input input, .form .input .stretch {
-      flex-grow: 1; }
+  .form .group {
+    display: flex; }
+    .form .group .label {
+      flex-basis: 6em;
+      cursor: pointer; }
+    .form .group .inputs {
+      flex: 1;
+      display: flex;
+      margin-bottom: .5em; }
+      .form .group .inputs label:not(.narrow), .form .group .inputs input:not(.narrow), .form .group .inputs select:not(.narrow) {
+        flex: 1; }
+      .form .group .inputs label:not(:last-child), .form .group .inputs input:not(:last-child), .form .group .inputs select:not(:last-child) {
+        margin-right: .5em; }
+      .form .group .inputs.checkboxes {
+        border: 1px solid #ddd; }
+        .form .group .inputs.checkboxes label {
+          flex: 1;
+          white-space: nowrap; }
   .form .buttons {
     display: flex;
     justify-content: flex-end; }
-    .form .buttons button {
-      margin-left: .5em; }
+    .form .buttons button:not(:last-child) {
+      margin-right: .5em; }
 
 /*# sourceMappingURL=epto.css.map */

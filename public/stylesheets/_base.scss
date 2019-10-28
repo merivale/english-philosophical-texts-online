@@ -155,6 +155,10 @@ input[type="text"], input[type="number"], select {
   }
 }
 
+label {
+  cursor: pointer;
+}
+
 button {
   padding: .25em .75em;
   height: 2.25em;
