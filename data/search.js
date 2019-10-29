@@ -1,5 +1,11 @@
 // dependencies
 const get = require('./get')
+const lexicon = require('./lexicon')
+
+// get a reduced lexicon (remove words with only one form)
+const reducedLexicon = Object.keys(lexicon)
+  .map((lemma) => lexicon[lemma].concat(lemma))
+  .filter(words => words.length > 1)
 
 // strip content so that it can be searched
 const strip = content =>
@@ -14,18 +20,24 @@ const strip = content =>
 const regexString = (query, options) => {
   if (typeof query === 'string') {
     if (options.variantSpellings) {
-      // TODO
+      query = query.split(' ').map((word) => {
+        const group = reducedLexicon.find(group => group.includes(word))
+        return group ? `(${group.join('|')})` : word
+      }).join(' ')
     }
+
     if (options.wholeWords) {
       // add word break before and after every word
       query = query.split(' ').map(word => `\\b${word}\\b`).join(' ')
     }
+
     if (options.ignorePunctuation) {
       // remove all punctuation from query string
       query = query.replace(/[.,;?!()]/g, '')
       // add optional punctuation before and after every word
       query = query.split(' ').map(word => `\\(?${word}[.,;?!)]?`).join(' ')
     }
+
     return query
   }
 
