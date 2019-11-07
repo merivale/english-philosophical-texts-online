@@ -19,26 +19,28 @@ const strip = content =>
 // create the string for a regular expression from the search query
 const regexString = (query, options) => {
   if (typeof query === 'string') {
+    if (options.ignorePunctuation) {
+      query = query.replace(/[.,;?!()]/g, '')
+    }
+
+    let words = query.split(' ')
+
     if (options.variantSpellings) {
-      query = query.split(' ').map((word) => {
+      words = words.map((word) => {
         const group = reducedLexicon.find(group => group.includes(word))
         return group ? `(${group.join('|')})` : word
-      }).join(' ')
+      })
     }
 
     if (options.wholeWords) {
-      // add word break before and after every word
-      query = query.split(' ').map(word => `\\b${word}\\b`).join(' ')
+      words = words.map(word => `\\b${word}\\b`)
     }
 
     if (options.ignorePunctuation) {
-      // remove all punctuation from query string
-      query = query.replace(/[.,;?!()]/g, '')
-      // add optional punctuation before and after every word
-      query = query.split(' ').map(word => `\\(?${word}[.,;?!)]?`).join(' ')
+      words = words.map(word => `\\(?${word}[.,;?!)]?`)
     }
 
-    return query
+    return words.join(' ')
   }
 
   switch (query.operator) {

@@ -257,6 +257,14 @@ table {
   margin-top: 1em;
   margin-bottom: 2em; }
 
+.notice {
+  border: 1px solid #ddd;
+  padding: .75em 1em;
+  background: #ffff99;
+  margin-bottom: 1em; }
+  .notice p {
+    margin-bottom: 0; }
+
 .options {
   border-bottom: 1px solid #ddd; }
   .options input, .options select {
