@@ -1,14 +1,10 @@
 // dependencies
-const fs = require('fs')
 const file = require('./file')
 const prepare = require('./prepare')
 
-// get all authors from data directory
-const authors = () =>
-  fs.readdirSync(file.dir(), { withFileTypes: true })
-    .filter(x => x.isDirectory())
-    .map(x => x.name)
-    .map(id => author(id))
+// get all authors from data/texts directory
+const authors = (enrich = true) =>
+  file.read('texts').map(id => author(id, enrich))
 
 // get stubs for all texts
 const texts = () =>
@@ -19,7 +15,7 @@ const texts = () =>
 
 // get author from id
 const author = (id, enrich = true) => {
-  const author = file.open(id)
+  const author = file.open('texts', id)
   if (author) {
     return prepare.author(author, enrich)
   }
@@ -27,16 +23,21 @@ const author = (id, enrich = true) => {
 
 // get text from id
 const text = (id, enrich = true) => {
-  const text = file.open(id)
+  const text = file.open('texts', id)
   if (text) {
     return prepare.text(text, enrich)
   }
 }
+
+// get usage date from id
+const usage = id =>
+  file.open('cache/usage', id)
 
 // exports
 module.exports = {
   authors,
   texts,
   author,
-  text
+  text,
+  usage
 }

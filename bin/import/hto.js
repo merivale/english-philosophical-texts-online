@@ -1,6 +1,6 @@
 // dependencies
 const request = require('sync-request')
-const file = require('../../../data/file')
+const file = require('../../data/file')
 
 // the main conversion function
 const convert = (data) => {

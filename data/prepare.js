@@ -47,13 +47,13 @@ const formatContent = content =>
 
 // get a text's breadcrumb trail
 const breadcrumb = (text) =>
-  text.parent ? breadcrumb(file.open(text.parent)).concat([stub(text.id)]) : [stub(text.id)]
+  text.parent ? breadcrumb(file.open('texts', text.parent)).concat([stub(text.id)]) : [stub(text.id)]
 
 // get a text's next text
 const next = (text, down = true) => {
   if (text.texts && text.texts.length && down) return stub(text.texts[0])
   if (text.parent) {
-    const parent = file.open(text.parent)
+    const parent = file.open('texts', text.parent)
     const index = parent.texts.indexOf(text.id)
     if (index < parent.texts.length - 1) return stub(parent.texts[index + 1])
     if (parent.parent) return next(parent, false)
@@ -63,22 +63,22 @@ const next = (text, down = true) => {
 // get a text's previous text
 const previous = (text) => {
   if (text.parent) {
-    const parent = file.open(text.parent)
+    const parent = file.open('texts', text.parent)
     const index = parent.texts.indexOf(text.id)
     if (index === 0) return stub(text.parent)
-    return lastDescendant(file.open(parent.texts[index - 1]))
+    return lastDescendant(file.open('texts', parent.texts[index - 1]))
   }
 }
 
 // get a text's last descendant
 const lastDescendant = (text) =>
   (text.texts && text.texts.length)
-    ? lastDescendant(file.open(text.texts[text.texts.length - 1]))
+    ? lastDescendant(file.open('texts', text.texts[text.texts.length - 1]))
     : stub(text.id)
 
 // get stub text data (for links, breadcrumb trails, etc.)
 const stub = (id) => {
-  const text = file.open(id)
+  const text = file.open('texts', id)
   if (text) {
     return {
       id: text.id,
@@ -94,7 +94,7 @@ const stub = (id) => {
 // get inherited property from a text's ancestor
 const inherit = (text, property) => {
   if (text[property]) return text[property]
-  if (text.parent) return inherit(file.open(text.parent), property)
+  if (text.parent) return inherit(file.open('texts', text.parent), property)
 }
 
 module.exports = {

@@ -49,6 +49,11 @@ const dictionary = (data) => {
   })
 }
 
+// save details
+const details = (id, data) => {
+  save('cache/details', data, id)
+}
+
 // word sort function
 const sortWords = (x, y) => {
   if (x.count === y.count) return x.word.localeCompare(y.word, 'en')
@@ -117,4 +122,4 @@ const Concordance = (data) => ({
 })
 
 // export the save functions
-module.exports = { author, text, toc, concordance, vocabulary, dictionary }
+module.exports = { author, text, toc, concordance, vocabulary, dictionary, details }

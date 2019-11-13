@@ -2,8 +2,6 @@ const createError = require('http-errors')
 const express = require('express')
 const router = express.Router()
 const area = 'texts'
-const analyse = require('../data/analyse')
-const file = require('../data/file')
 const get = require('../data/get')
 
 // lits of all texts
@@ -35,15 +33,15 @@ router.get('/:id', (req, res, next) => {
   }
 })
 
-// author details page (TODO)
-router.get('/:id/details', (req, res, next) => {
-  next(createError(404))
-  // const author = get.author(req.params.id)
-  // if (author) {
-  //   res.render('browse/author/details', { area, author })
-  // } else {
-  //  next(createError(404))
-  // }
+// author usage page (TODO)
+router.get('/:id/usage', (req, res, next) => {
+  const author = get.author(req.params.id)
+  if (author) {
+    const usage = get.usage(author.id)
+    res.render('texts/author/usage', { area, author, usage })
+  } else {
+    next(createError(404))
+  }
 })
 
 // text table of contents page
@@ -69,14 +67,13 @@ router.get('/:id*/about', (req, res, next) => {
   }
 })
 
-// text details page
-router.get('/:id*/details', (req, res, next) => {
+// text usage page
+router.get('/:id*/usage', (req, res, next) => {
   const author = get.author(req.params.id)
   const text = get.text(req.params.id + req.params['0'])
   if (author && text) {
-    const raw = file.open(req.params.id + req.params['0'])
-    const details = analyse(raw)
-    res.render('texts/text/details', { area, author, text, details })
+    const usage = get.usage(req.params.id + req.params['0'])
+    res.render('texts/text/usage', { area, author, text, usage })
   } else {
     next(createError(404))
   }

@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const dataDir = (path = 'data') =>
+const dataDir = (path = 'texts') =>
   fs.existsSync(path) ? path : dataDir(`../${path}`)
 
 const filename = id =>

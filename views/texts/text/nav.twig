@@ -10,7 +10,5 @@
   {% endif %}
   <a href="{{ text.url }}" class="{% if page == 'text' %}active{% endif %}">Text</a>
   <a href="{{ text.url }}/about" class="{% if page == 'about' %}active{% endif %}">About</a>
-  {% if text.paragraphs %}
-    <a href="{{ text.url }}/details" class="{% if page == 'details' %}active{% endif %}">Details</a>
-  {% endif %}
+  <a href="{{ text.url }}/usage" class="{% if page == 'usage' %}active{% endif %}">Usage</a>
 </nav>

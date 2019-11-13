@@ -2,9 +2,7 @@
 const createError = require('http-errors')
 const express = require('express')
 const router = express.Router()
-const analyse = require('../data/analyse')
 const get = require('../data/get')
-const file = require('../data/file')
 
 // return authors array
 router.get('/authors.json', (req, res, next) => {
@@ -32,22 +30,11 @@ router.get('/text/:id*.json', (req, res, next) => {
   }
 })
 
-// return analysis of text
-router.get('/analysis/:id*.json', (req, res, next) => {
-  const text = get.text(req.params.id + req.params['0'])
-  if (text) {
-    const details = analyse(text)
-    res.json(details)
-  } else {
-    next(createError(404))
-  }
-})
-
-// return raw json
-router.get('/:id*.json', (req, res, next) => {
-  const data = file.open(req.params.id + req.params['0'])
-  if (data) {
-    res.json(data)
+// return usage data for a text
+router.get('/usage/:id*.json', (req, res, next) => {
+  const usage = get.usage(req.params.id + req.params['0'])
+  if (usage) {
+    res.json(usage)
   } else {
     next(createError(404))
   }

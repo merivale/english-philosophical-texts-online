@@ -8,25 +8,51 @@
     "abandoning",
     "abandons"
   ],
+  "abandonedly":[
+
+  ],
   "abate":[
     "abated",
     "abates",
     "abating"
   ],
+  "abbreviation":[
+    "abbreviations"
+  ],
   "abhor":[
     "abhor'd",
-    "abhored",
-    "abhoring",
+    "abhorr'd",
+    "abhorred",
+    "abhorring",
     "abhors"
+  ],
+  "abhorrence":[
+
+  ],
+  "abhorrent":[
+
   ],
   "ability":[
     "abilities"
   ],
+  "abject":[
+
+  ],
   "able":[
+    "abler",
+    "ablest"
+  ],
+  "aboard":[
 
   ],
   "abode":[
     "abodes"
+  ],
+  "abolish":[
+    "abolish'd",
+    "abolished",
+    "abolishes",
+    "abolishing"
   ],
   "abominable":[
 
@@ -38,6 +64,9 @@
     "abominated",
     "abominates",
     "abominating"
+  ],
+  "abomination":[
+    "abominations"
   ],
   "abound":[
     "abounded",
@@ -58,11 +87,22 @@
     "abridges",
     "abridging"
   ],
+  "abridgement":[
+    "abridgements"
+  ],
   "abroad":[
 
   ],
+  "abrupt":[
+    "abrupted",
+    "abrupting",
+    "abrupts"
+  ],
   "absence":[
     "absences"
+  ],
+  "absent":[
+
   ],
   "absolute":[
     "absolutes"
@@ -82,6 +122,9 @@
     "abstained",
     "abstaining",
     "abstains"
+  ],
+  "abstinence":[
+
   ],
   "abstract":[
     "abstracted",
@@ -109,6 +152,9 @@
   "absurdity":[
     "absurdities"
   ],
+  "abundance":[
+
+  ],
   "abundantly":[
 
   ],
@@ -121,6 +167,9 @@
   "abusive":[
 
   ],
+  "abyss":[
+    "abysses"
+  ],
   "academic":[
     "academick",
     "academicks",
@@ -128,6 +177,9 @@
   ],
   "academical":[
 
+  ],
+  "academy":[
+    "academies"
   ],
   "accept":[
     "accepted",
@@ -143,17 +195,29 @@
   "acceptance":[
 
   ],
+  "acceptation":[
+    "acceptations"
+  ],
   "access":[
     "access'd",
     "accessed",
     "accesses",
     "accessing"
   ],
+  "accessible":[
+
+  ],
+  "accessory":[
+    "accessories"
+  ],
   "accident":[
     "accidents"
   ],
   "accidental":[
 
+  ],
+  "acclamation":[
+    "acclamations"
   ],
   "accommodate":[
     "accommodated",
@@ -166,6 +230,9 @@
     "accompany'd",
     "accompanying",
     "accompanys"
+  ],
+  "accomplice":[
+    "accomplices"
   ],
   "accomplish":[
     "accomplish'd",
@@ -184,15 +251,26 @@
   "accordingly":[
 
   ],
+  "accost":[
+    "accosted",
+    "accosting",
+    "accosts"
+  ],
   "account":[
     "accounted",
     "accounting",
     "accounts"
   ],
+  "accountable":[
+
+  ],
   "accoutre":[
     "accoutred",
     "accoutres",
     "accoutring"
+  ],
+  "accoutrement":[
+    "accoutrements"
   ],
   "accrue":[
     "accrew",
@@ -200,11 +278,27 @@
     "accrues",
     "accruing"
   ],
+  "accumulate":[
+    "accumulated",
+    "accumulates",
+    "accumulating"
+  ],
   "accuracy":[
 
   ],
   "accurate":[
 
+  ],
+  "accusation":[
+    "accusations"
+  ],
+  "accuse":[
+    "accused",
+    "accuses",
+    "accusing"
+  ],
+  "accuser":[
+    "accusers"
   ],
   "accustom":[
     "accustom'd",
@@ -212,11 +306,17 @@
     "accustoming",
     "accustoms"
   ],
+  "accute":[
+
+  ],
   "ache":[
     "ach'd",
     "ached",
     "aches",
     "aching"
+  ],
+  "acid":[
+    "acids"
   ],
   "acknowledge":[
     "acknowledg",
@@ -225,11 +325,17 @@
     "acknowledges",
     "acknowledging"
   ],
+  "acknowledgement":[
+    "acknowledgements"
+  ],
   "acknowledgment":[
     "acknowledgments"
   ],
   "acme":[
     "acmes"
+  ],
+  "acorn":[
+    "acorns"
   ],
   "acquaint":[
     "acquainted",
@@ -259,6 +365,12 @@
     "acquitted",
     "acquitting"
   ],
+  "acre":[
+    "acres"
+  ],
+  "across":[
+
+  ],
   "act":[
     "acted",
     "acting",
@@ -270,8 +382,14 @@
   "active":[
 
   ],
+  "activity":[
+    "activities"
+  ],
   "actor":[
     "actors"
+  ],
+  "actress":[
+    "actresses"
   ],
   "actual":[
 
@@ -286,6 +404,11 @@
   ],
   "acuteness":[
 
+  ],
+  "adapt":[
+    "adapted",
+    "adapting",
+    "adapts"
   ],
   "adays":[
 
@@ -336,10 +459,16 @@
   "adinfinitum":[
 
   ],
+  "adjective":[
+    "adjectives"
+  ],
   "adjust":[
     "adjusted",
     "adjusting",
     "adjusts"
+  ],
+  "administration":[
+    "administrations"
   ],
   "admirable":[
 
@@ -510,6 +639,9 @@
     "affronting",
     "affronts"
   ],
+  "aforesaid":[
+
+  ],
   "afraid":[
 
   ],
@@ -620,8 +752,8 @@
     "allays"
   ],
   "alledge":[
-    "alledged",
     "alledg'd",
+    "alledged",
     "alledges",
     "alledging"
   ],
@@ -690,6 +822,14 @@
   ],
   "alteration":[
     "alterations"
+  ],
+  "alternate":[
+    "alternated",
+    "alternates",
+    "alternating"
+  ],
+  "alternately":[
+
   ],
   "although":[
     "altho",
@@ -998,6 +1138,11 @@
   "apprehensive":[
 
   ],
+  "apprentice":[
+    "'prentice",
+    "'prentices",
+    "apprentices"
+  ],
   "approach":[
     "approach'd",
     "approached",
@@ -1093,6 +1238,9 @@
     "armies",
     "armys"
   ],
+  "around":[
+
+  ],
   "arraign":[
     "arraign'd",
     "arraigned",
@@ -1113,6 +1261,9 @@
   ],
   "art":[
     "arts"
+  ],
+  "artful":[
+
   ],
   "artifice":[
     "artifices"
@@ -1225,6 +1376,9 @@
   ],
   "assuredly":[
 
+  ],
+  "astronomer":[
+    "astronomers"
   ],
   "asunder":[
 
@@ -1917,6 +2071,9 @@
   "bosom":[
     "bosoms"
   ],
+  "botanist":[
+    "botanists"
+  ],
   "both":[
 
   ],
@@ -1945,6 +2102,12 @@
   ],
   "brain":[
     "brains"
+  ],
+  "branch":[
+    "branch'd",
+    "branched",
+    "branches",
+    "branching"
   ],
   "brand":[
     "branded",
@@ -2147,6 +2310,9 @@
     "calculated",
     "calculates",
     "calculating"
+  ],
+  "calculation":[
+    "calculations"
   ],
   "call":[
     "call'd",
@@ -2356,6 +2522,9 @@
     "censures",
     "censuring"
   ],
+  "central":[
+
+  ],
   "centre":[
     "center",
     "centered",
@@ -2543,6 +2712,9 @@
   "circle":[
     "circles"
   ],
+  "circumference":[
+    "circumferences"
+  ],
   "circumscribe":[
     "circumscrib'd",
     "circumscribed",
@@ -2599,6 +2771,9 @@
     "clashed",
     "clashes",
     "clashing"
+  ],
+  "class":[
+    "classes"
   ],
   "clause":[
     "clauses"
@@ -2697,6 +2872,11 @@
   ],
   "coin":[
     "coins"
+  ],
+  "coincide":[
+    "coincides",
+    "coinciding",
+    "conincided"
   ],
   "cold":[
     "colder",
@@ -3029,6 +3209,9 @@
   "concomitant":[
     "concomitants"
   ],
+  "concord":[
+    "concords"
+  ],
   "concupiscence":[
     "concupiscences"
   ],
@@ -3142,6 +3325,9 @@
   ],
   "congruity":[
     "congruities"
+  ],
+  "conic":[
+    "conick"
   ],
   "conjecture":[
     "conjectures"
@@ -3368,10 +3554,13 @@
     "continuations"
   ],
   "continue":[
-    "continued",
     "continu'd",
+    "continued",
     "continues",
     "continuing"
+  ],
+  "contortion":[
+    "contortions"
   ],
   "contract":[
     "contracted",
@@ -3702,6 +3891,9 @@
     "cry'd",
     "crying"
   ],
+  "cube":[
+    "cubes"
+  ],
   "cultivate":[
     "cultivated",
     "cultivates",
@@ -3749,12 +3941,18 @@
   "cursory":[
 
   ],
+  "curve":[
+    "curves"
+  ],
   "custom":[
     "customs"
   ],
   "cut":[
     "cuts",
     "cutting"
+  ],
+  "cylinder":[
+    "cylinders"
   ],
   "cyon":[
     "cyons"
@@ -3801,6 +3999,12 @@
   "dark":[
     "darker",
     "darkest"
+  ],
+  "darken":[
+    "darken'd",
+    "darkened",
+    "darkening",
+    "darkens"
   ],
   "darkly":[
 
@@ -4623,7 +4827,9 @@
     "disconveniences"
   ],
   "discord":[
-
+    "discorded",
+    "discording",
+    "discords"
   ],
   "discordant":[
 
@@ -4987,6 +5193,11 @@
   "doctrine":[
     "doctrines"
   ],
+  "dodecahedron":[
+    "dodecaedra",
+    "dodecaedron",
+    "dodecahedra"
+  ],
   "dog":[
     "dogs"
   ],
@@ -5131,6 +5342,11 @@
   "duty":[
     "duties"
   ],
+  "dwarf":[
+    "dwarfed",
+    "dwarfing",
+    "dwarfs"
+  ],
   "dwell":[
     "dwelleth",
     "dwelling",
@@ -5187,6 +5403,9 @@
   ],
   "eccentric":[
     "eccentrick"
+  ],
+  "eccentricity":[
+    "eccentricities"
   ],
   "echo":[
     "echoe",
@@ -5267,6 +5486,16 @@
   "egyptian":[
     "ægyptian"
   ],
+  "eicosidodecahedron":[
+    "eicosidodecaedra",
+    "eicosidodecaedron",
+    "eicosidodecahedra"
+  ],
+  "eicosihedron":[
+    "eicosiedra",
+    "eicosiedron",
+    "eicosihedra"
+  ],
   "either":[
 
   ],
@@ -5299,6 +5528,12 @@
   ],
   "elixir":[
     "elixirs"
+  ],
+  "ellipse":[
+    "ellipses"
+  ],
+  "elliptic":[
+    "elliptick"
   ],
   "eloquence":[
 
@@ -5542,6 +5777,9 @@
     "ingages",
     "ingaging"
   ],
+  "engine":[
+    "engines"
+  ],
   "england":[
 
   ],
@@ -5611,6 +5849,12 @@
     "inlightening",
     "inlightens",
     "inlightning"
+  ],
+  "enliven":[
+    "enliven'd",
+    "enlivened",
+    "enlivening",
+    "enlivens"
   ],
   "ennoble":[
     "ennobled",
@@ -5774,6 +6018,9 @@
   "equally":[
 
   ],
+  "equilateral":[
+
+  ],
   "equipage":[
 
   ],
@@ -5824,6 +6071,7 @@
     "eruptions"
   ],
   "escape":[
+    "'scap'd",
     "escap'd",
     "escaped",
     "escapes",
@@ -5831,6 +6079,9 @@
   ],
   "especially":[
 
+  ],
+  "esquire":[
+    "'squire"
   ],
   "essay":[
     "essays"
@@ -6060,6 +6311,11 @@
   "exhalation":[
     "exhalations"
   ],
+  "exhibit":[
+    "exhibited",
+    "exhibiting",
+    "exhibits"
+  ],
   "exist":[
     "existed",
     "existing",
@@ -6072,6 +6328,11 @@
     "exited",
     "exiting",
     "exits"
+  ],
+  "exoctahedron":[
+    "exoctaedra",
+    "exoctaedron",
+    "exoctahedra"
   ],
   "exorbitant":[
 
@@ -6461,6 +6722,9 @@
     "feasting",
     "feasts"
   ],
+  "feather":[
+    "feathers"
+  ],
   "feature":[
     "featured",
     "features",
@@ -6700,10 +6964,16 @@
     "flowing",
     "flows"
   ],
+  "flower":[
+    "flowers"
+  ],
   "fluctuate":[
     "fluctuated",
     "fluctuates",
     "fluctuating"
+  ],
+  "fluid":[
+    "fluids"
   ],
   "flutter":[
     "fluttered",
@@ -6939,6 +7209,9 @@
   "fourscore":[
 
   ],
+  "fowl":[
+    "fowls"
+  ],
   "fragrant":[
 
   ],
@@ -6951,6 +7224,9 @@
     "framing"
   ],
   "france":[
+
+  ],
+  "freakish":[
 
   ],
   "free":[
@@ -7210,6 +7486,9 @@
   "ghost":[
     "ghosts"
   ],
+  "giant":[
+    "giants"
+  ],
   "giddy":[
 
   ],
@@ -7252,6 +7531,9 @@
     "glittered",
     "glittering",
     "glitters"
+  ],
+  "globe":[
+    "globes"
   ],
   "glorify":[
     "glorifie",
@@ -7344,6 +7626,9 @@
 
   ],
   "gracious":[
+
+  ],
+  "gradual":[
 
   ],
   "grain":[
@@ -7743,6 +8028,9 @@
   "henceforward":[
 
   ],
+  "heptagon":[
+    "heptagons"
+  ],
   "herd":[
     "herds"
   ],
@@ -7781,6 +8069,9 @@
   ],
   "heterogeneous":[
 
+  ],
+  "hexagon":[
+    "hexagons"
   ],
   "hide":[
     "hid",
@@ -8301,6 +8592,9 @@
   "inamoured":[
 
   ],
+  "inartificial":[
+
+  ],
   "inbred":[
 
   ],
@@ -8365,6 +8659,9 @@
 
   ],
   "incompetent":[
+
+  ],
+  "inconceivable":[
 
   ],
   "incongruous":[
@@ -8484,6 +8781,9 @@
   ],
   "indistinct":[
 
+  ],
+  "individual":[
+    "individuals"
   ],
   "indivisible":[
 
@@ -8684,6 +8984,9 @@
 
   ],
   "innumerable":[
+
+  ],
+  "inoffensive":[
 
   ],
   "inordinate":[
@@ -8897,6 +9200,11 @@
     "interrupting",
     "interrupts"
   ],
+  "intersect":[
+    "intersected",
+    "intersecting",
+    "intersects"
+  ],
   "intersperse":[
     "interspersed",
     "intersperses",
@@ -8948,6 +9256,9 @@
     "inuring"
   ],
   "invaluable":[
+
+  ],
+  "invariable":[
 
   ],
   "invariably":[
@@ -9035,6 +9346,9 @@
   ],
   "island":[
     "islands"
+  ],
+  "isosceles":[
+
   ],
   "israel":[
 
@@ -9230,6 +9544,9 @@
     "knocking",
     "knocks"
   ],
+  "knot":[
+    "knots"
+  ],
   "know":[
     "knew",
     "knowing",
@@ -9372,6 +9689,9 @@
     "leads",
     "led"
   ],
+  "leaf":[
+    "leaves_"
+  ],
   "lean":[
 
   ],
@@ -9400,6 +9720,9 @@
   "left_":[
 
   ],
+  "leg":[
+    "legs"
+  ],
   "leisure":[
     "leisures"
   ],
@@ -9409,7 +9732,7 @@
     "lent"
   ],
   "length":[
-
+    "lengths"
   ],
   "lent_":[
 
@@ -9558,6 +9881,9 @@
     "loathing",
     "loaths"
   ],
+  "loathsome":[
+    "loathsom"
+  ],
   "lodge":[
     "lodg'd",
     "lodged",
@@ -9645,6 +9971,9 @@
   "low-sunk":[
 
   ],
+  "lozenge":[
+    "lozenges"
+  ],
   "lucid":[
 
   ],
@@ -9653,6 +9982,9 @@
   ],
   "ludicrous":[
 
+  ],
+  "luminary":[
+    "luminaries"
   ],
   "lurk":[
     "lurked",
@@ -10083,6 +10415,9 @@
     "mingles",
     "mingling"
   ],
+  "miniature":[
+
+  ],
   "minister":[
     "ministers"
   ],
@@ -10363,6 +10698,9 @@
   "murmur":[
     "murmurs"
   ],
+  "muscle":[
+    "muscles"
+  ],
   "muse":[
     "mused",
     "muses",
@@ -10385,6 +10723,9 @@
 
   ],
   "mutual":[
+
+  ],
+  "mysterious":[
 
   ],
   "mystery":[
@@ -10645,6 +10986,9 @@
   "obedient":[
 
   ],
+  "obelisk":[
+    "obelisks"
+  ],
   "obey":[
     "obeyed",
     "obeying",
@@ -10752,6 +11096,14 @@
   ],
   "ocean":[
     "oceans"
+  ],
+  "octahedron":[
+    "octaedra",
+    "octaedron",
+    "octahedra"
+  ],
+  "octave":[
+    "octaves"
   ],
   "odd":[
     "odder",
@@ -10910,6 +11262,9 @@
   ],
   "orb":[
     "orbs"
+  ],
+  "orbit":[
+    "orbits"
   ],
   "order":[
     "order'd",
@@ -11136,6 +11491,9 @@
   "painter":[
     "painters"
   ],
+  "pair":[
+    "pairs"
+  ],
   "pall":[
     "palled",
     "palling",
@@ -11177,6 +11535,9 @@
     "parallelled",
     "parallelling",
     "parallels"
+  ],
+  "parallelism":[
+
   ],
   "paralytic":[
     "paralytick",
@@ -11317,6 +11678,9 @@
   "peach":[
     "peaches"
   ],
+  "pebble":[
+    "pebbles"
+  ],
   "peccant":[
 
   ],
@@ -11346,6 +11710,9 @@
   ],
   "penitent":[
 
+  ],
+  "pentagon":[
+    "pentagons"
   ],
   "people":[
     "peoples"
@@ -11418,6 +11785,9 @@
 
   ],
   "pernitious":[
+
+  ],
+  "perpendicular":[
 
   ],
   "perpetual":[
@@ -11502,6 +11872,9 @@
   ],
   "pharisaic":[
 
+  ],
+  "phase":[
+    "phases"
   ],
   "phenomenon":[
     "phaenomena",
@@ -11614,7 +11987,8 @@
   ],
   "plain":[
     "plainer",
-    "plainest"
+    "plainest",
+    "plains"
   ],
   "plainly":[
 
@@ -11623,6 +11997,9 @@
     "planned",
     "planning",
     "plans"
+  ],
+  "planet":[
+    "planets"
   ],
   "plant":[
     "planted",
@@ -11729,6 +12106,12 @@
   "policy":[
     "policies"
   ],
+  "polish":[
+    "polish'd",
+    "polished",
+    "polishes",
+    "polishing"
+  ],
   "polite":[
     "politer",
     "politest"
@@ -11746,6 +12129,9 @@
   ],
   "polity":[
     "polities"
+  ],
+  "polygon":[
+    "polygons"
   ],
   "pomp":[
     "pomps"
@@ -12119,6 +12505,9 @@
   "priority":[
 
   ],
+  "prism":[
+    "prisms"
+  ],
   "private":[
 
   ],
@@ -12221,6 +12610,9 @@
   "profusely":[
 
   ],
+  "profusion":[
+
+  ],
   "progress":[
     "progressed",
     "progresses",
@@ -12283,7 +12675,8 @@
 
   ],
   "property":[
-    "properties"
+    "properties",
+    "propertys"
   ],
   "prophecy":[
     "prophecies"
@@ -12509,6 +12902,9 @@
     "puzzles",
     "puzzling"
   ],
+  "pyramid":[
+    "pyramids"
+  ],
   "pyrrhonian":[
 
   ],
@@ -12537,7 +12933,8 @@
     "qualitys"
   ],
   "quantity":[
-    "quantities"
+    "quantities",
+    "quantitys"
   ],
   "quarrel":[
     "quarrelled",
@@ -12604,6 +13001,9 @@
     "racing"
   ],
   "radiant":[
+
+  ],
+  "radius":[
 
   ],
   "rage":[
@@ -12788,8 +13188,8 @@
   ],
   "reclaim":[
     "reclaimed",
-    "reclaims",
     "reclaiming",
+    "reclaims",
     "reclame",
     "reclamed",
     "reclames",
@@ -12985,6 +13385,9 @@
   "regularity":[
     "regularities"
   ],
+  "regularly":[
+
+  ],
   "regulate":[
     "regulated",
     "regulates",
@@ -13087,6 +13490,9 @@
   "remarkable":[
 
   ],
+  "remarkably":[
+
+  ],
   "remedy":[
     "remedied",
     "remedies",
@@ -13131,6 +13537,12 @@
     "renders",
     "rendred",
     "rendring"
+  ],
+  "renew":[
+    "renew'd",
+    "renewed",
+    "renewing",
+    "renews"
   ],
   "renounce":[
     "renounced",
@@ -13334,6 +13746,11 @@
     "retaining",
     "retains"
   ],
+  "retard":[
+    "retarded",
+    "retarding",
+    "retards"
+  ],
   "retire":[
     "retired",
     "retires",
@@ -13432,6 +13849,11 @@
   "revolution":[
     "revolutions"
   ],
+  "revolve":[
+    "revolved",
+    "revolves",
+    "revolving"
+  ],
   "reward":[
     "rewarded",
     "rewarding",
@@ -13439,6 +13861,13 @@
   ],
   "rhetoric":[
     "rhetorick"
+  ],
+  "rhomboid":[
+    "rhomboides",
+    "rhomboids"
+  ],
+  "rhombus":[
+
   ],
   "rhubarb":[
     "rhubarbs"
@@ -13672,6 +14101,9 @@
   "sale":[
     "sales"
   ],
+  "salt":[
+    "salts"
+  ],
   "salutary":[
 
   ],
@@ -13684,6 +14116,9 @@
     "salving"
   ],
   "same":[
+
+  ],
+  "sanctity":[
 
   ],
   "sandy":[
@@ -13735,6 +14170,9 @@
     "scaled",
     "scales",
     "scaling"
+  ],
+  "scalenum":[
+
   ],
   "scandalize":[
     "scandaliz'd",
@@ -14092,6 +14530,11 @@
   "sex":[
     "sexes"
   ],
+  "shade":[
+    "shaded",
+    "shades",
+    "shading"
+  ],
   "shadow":[
     "shadows"
   ],
@@ -14122,6 +14565,9 @@
     "shaped",
     "shapes",
     "shaping"
+  ],
+  "shapeless":[
+
   ],
   "share":[
     "shared",
@@ -14277,11 +14723,15 @@
   "silly":[
 
   ],
+  "similar":[
+
+  ],
   "similitude":[
     "similitudes"
   ],
   "simple":[
-
+    "simpler",
+    "simplest"
   ],
   "simplicity":[
 
@@ -14545,7 +14995,7 @@
 
   ],
   "solid":[
-
+    "solids"
   ],
   "solidity":[
 
@@ -14677,6 +15127,9 @@
   "specious":[
 
   ],
+  "spectator":[
+    "spectators"
+  ],
   "specter":[
     "specters"
   ],
@@ -14708,6 +15161,12 @@
   ],
   "sphere":[
     "spheres"
+  ],
+  "spherical":[
+
+  ],
+  "spheroid":[
+    "spheroids"
   ],
   "spin":[
     "spinning",
@@ -14746,6 +15205,9 @@
   "sport":[
     "sports"
   ],
+  "sportful":[
+
+  ],
   "spot":[
     "spots",
     "spotted",
@@ -14760,6 +15222,11 @@
     "springing",
     "springs",
     "sprung"
+  ],
+  "sprout":[
+    "sprouted",
+    "sprouting",
+    "sprouts"
   ],
   "spur":[
 
@@ -14798,6 +15265,11 @@
   ],
   "stale":[
 
+  ],
+  "stalk":[
+    "stalked",
+    "stalking",
+    "stalks"
   ],
   "stand":[
     "standing",
@@ -14848,6 +15320,9 @@
   "station":[
 
   ],
+  "statuary":[
+    "statuaries"
+  ],
   "stay":[
 
   ],
@@ -14878,7 +15353,9 @@
 
   ],
   "step":[
-
+    "stepped",
+    "stepping",
+    "steps"
   ],
   "stick":[
 
@@ -14930,6 +15407,9 @@
     "stopped",
     "stopping",
     "stops"
+  ],
+  "store":[
+    "stores"
   ],
   "storm":[
     "storms"
@@ -15142,6 +15622,9 @@
   "successfully":[
 
   ],
+  "succession":[
+    "successions"
+  ],
   "successive":[
 
   ],
@@ -15155,6 +15638,9 @@
     "suckers"
   ],
   "sudden":[
+
+  ],
+  "suddenly":[
 
   ],
   "suffer":[
@@ -15187,6 +15673,11 @@
     "suggesting",
     "suggests"
   ],
+  "suit":[
+    "suited",
+    "suiting",
+    "suits"
+  ],
   "suitable":[
     "sutable"
   ],
@@ -15199,11 +15690,17 @@
   "sullenness":[
 
   ],
+  "sulphur":[
+    "sulphurs"
+  ],
   "sum":[
     "summ'd",
     "summed",
     "summing",
     "sums"
+  ],
+  "summer":[
+    "summers"
   ],
   "sun":[
     "sun's",
@@ -15326,6 +15823,7 @@
 
   ],
   "surpass":[
+    "surpass'd",
     "surpassed",
     "surpasses",
     "surpassing"
@@ -15418,6 +15916,12 @@
   "swiftness":[
 
   ],
+  "swim":[
+    "swam",
+    "swimming",
+    "swims",
+    "swum"
+  ],
   "sword":[
     "swords"
   ],
@@ -15455,6 +15959,11 @@
   ],
   "tacitly":[
 
+  ],
+  "tack":[
+    "tacked",
+    "tacking",
+    "tacks"
   ],
   "tailor":[
     "tailors",
@@ -15584,6 +16093,12 @@
   ],
   "tenement":[
     "tenements"
+  ],
+  "tenor":[
+    "tenors"
+  ],
+  "tenour":[
+    "tenours"
   ],
   "tent":[
     "tents"
@@ -16036,6 +16551,9 @@
   "transgression":[
     "transgressions"
   ],
+  "transition":[
+    "transitions"
+  ],
   "translate":[
     "translated",
     "translates",
@@ -16067,6 +16585,9 @@
     "transposes",
     "transposing"
   ],
+  "trapezium":[
+    "trapezia"
+  ],
   "travel":[
     "travelled",
     "travelling",
@@ -16094,7 +16615,7 @@
     "treatments"
   ],
   "treble":[
-
+    "trebles"
   ],
   "tree":[
     "trees"
@@ -16156,6 +16677,9 @@
   ],
   "truly":[
     "truely"
+  ],
+  "trunk":[
+    "trunks"
   ],
   "trust":[
     "trusted",
@@ -16258,6 +16782,9 @@
 
   ],
   "unapt":[
+
+  ],
+  "unassisted":[
 
   ],
   "unavoidable":[
@@ -16611,6 +17138,7 @@
 
   ],
   "until":[
+    "'till'",
     "untill"
   ],
   "unto":[
@@ -16728,6 +17256,9 @@
   "validity":[
 
   ],
+  "valley":[
+    "valleys"
+  ],
   "valuable":[
 
   ],
@@ -16779,6 +17310,9 @@
     "vaunted",
     "vaunting",
     "vaunts"
+  ],
+  "vegetable":[
+    "vegetables"
   ],
   "vegetative":[
 
@@ -16846,6 +17380,9 @@
   ],
   "viand":[
     "viands"
+  ],
+  "vibration":[
+    "vibrations"
   ],
   "vice":[
     "vices"
@@ -17321,6 +17858,9 @@
   "wing":[
     "wings"
   ],
+  "winter":[
+    "winters"
+  ],
   "wipe":[
     "wiped",
     "wipes",
@@ -17567,246 +18107,5 @@
   ],
   "zenith":[
 
-  ],
-  "acid": [
-    "acids"
-  ],
-  "adapt": [
-    "adapts",
-    "adapted",
-    "adapting"
-  ],
-  "aforesaid": [],
-  "alternate": [
-    "alternates",
-    "alternated",
-    "alternating"
-  ],
-  "alternately": [],
-  "around": [],
-  "artful": [],
-  "astronomer": [
-    "astronomers"
-  ],
-  "botanist": [
-    "botanists"
-  ],
-  "branch": [
-    "branches",
-    "branch'd",
-    "branched",
-    "branching"
-  ],
-  "calculation": [
-    "calculations"
-  ],
-  "central": [],
-  "circumference": [
-    "circumferences"
-  ],
-  "class": [
-    "classes"
-  ],
-  "coincide": [
-    "coincides",
-    "coinciding",
-    "conincided"
-  ],
-  "concord": [
-    "concords"
-  ],
-  "conic": [
-    "conick"
-  ],
-  "contortion": [
-    "contortions"
-  ],
-  "cube": [
-    "cubes"
-  ],
-  "curve": [
-    "curves"
-  ],
-  "cylinder": [
-    "cylinders"
-  ],
-  "darken": [
-    "darkens",
-    "darkened",
-    "darken'd",
-    "darkening"
-  ],
-  "discord": [
-    "discords",
-    "discorded",
-    "discording"
-  ],
-  "dodecaedron": [
-    "dodecaedra"
-  ],
-  "dwarf": [
-    "dwarfs",
-    "dwarfed",
-    "dwarfing"
-  ],
-  "eccentricity": [
-    "eccentricities"
-  ],
-  "eicosidodecaedron": [
-    "eicosidodecaedra"
-  ],
-  "eicosiedron": [
-    "eicosiedra"
-  ],
-  "ellipse": [
-    "ellipses"
-  ],
-  "elliptic": [
-    "elliptick"
-  ],
-  "engine": [
-    "engines"
-  ],
-  "enliven": [
-    "enlivens",
-    "enliven'd",
-    "enlivened",
-    "enlivening"
-  ],
-  "equilateral": [],
-  "exhibit": [
-    "exhibits",
-    "exhibited",
-    "exhibiting"
-  ],
-  "exoctaedron": [
-    "exoctaedra"
-  ],
-  "feather": [
-    "feathers"
-  ],
-  "flower": [
-    "flowers"
-  ],
-  "fluid": [
-    "fluids"
-  ],
-  "fowl": [
-    "fowls"
-  ],
-  "freakish": [],
-  "giant": [
-    "giants"
-  ],
-  "globe": [
-    "globes"
-  ],
-  "gradual": [],
-  "heptagon": [
-    "heptagons"
-  ],
-  "hexagon": [
-    "hexagons"
-  ],
-  "inartificial": [],
-  "inconceivable": [],
-  "individual": [
-    "individuals"
-  ],
-  "inoffensive": [],
-  "intersect": [
-    "intersects",
-    "intersected",
-    "intersecting"
-  ],
-  "invariable": [],
-  "isosceles": [],
-  "knot": [
-    "knots"
-  ],
-  "leaf": [
-    "leaves_"
-  ],
-  "leg": [
-    "legs"
-  ],
-  "length": [
-    "lengths"
-  ],
-  "loathsom": [],
-  "lozenge": [],
-  "luminary": [],
-  "miniature": [],
-  "muscle": [],
-  "mysterious": [],
-  "obelisks": [],
-  "octaedron": [],
-  "octave": [],
-  "orbit": [],
-  "orbits": [],
-  "pair": [],
-  "pairs": [],
-  "parallelism": [],
-  "pebbles": [],
-  "pentagon": [],
-  "perpendicular": [],
-  "phases": [],
-  "plains": [],
-  "planet": [],
-  "planets": [],
-  "polish'd": [],
-  "polygons": [],
-  "prisms": [],
-  "profusion": [],
-  "propertys": [],
-  "pyramid": [],
-  "pyramids": [],
-  "quantitys": [],
-  "radius": [],
-  "regularly": [],
-  "remarkably": [],
-  "renew'd": [],
-  "retard": [],
-  "revolving": [],
-  "rhomboides": [],
-  "rhombus": [],
-  "salts": [],
-  "sanctity": [],
-  "scalenum": [],
-  "shade": [],
-  "shaded": [],
-  "shades": [],
-  "shapeless": [],
-  "similar": [],
-  "simpler": [],
-  "solids": [],
-  "spectators": [],
-  "spherical": [],
-  "spheroids": [],
-  "sportful": [],
-  "sprout": [],
-  "stalks": [],
-  "statuary": [],
-  "steps": [],
-  "stores": [],
-  "successions": [],
-  "suddenly": [],
-  "suiting": [],
-  "sulphurs": [],
-  "summer": [],
-  "surpass'd": [],
-  "swimming": [],
-  "tacking": [],
-  "tenors": [],
-  "tenour": [],
-  "transitions": [],
-  "trapezium": [],
-  "trebles": [],
-  "trunk": [],
-  "trunks": [],
-  "unassisted": [],
-  "valleys": [],
-  "vegetables": [],
-  "vibrations": [],
-  "winter": []
+  ]
 }

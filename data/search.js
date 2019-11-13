@@ -20,7 +20,7 @@ const strip = content =>
 const regexString = (query, options) => {
   if (typeof query === 'string') {
     if (options.ignorePunctuation) {
-      query = query.replace(/[.,;?!()]/g, '')
+      query = query.replace(/[.,:;?!()]/g, '')
     }
 
     let words = query.split(' ')

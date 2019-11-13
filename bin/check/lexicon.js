@@ -8,6 +8,10 @@ const flatten = array =>
 const flatLexicon = flatten(Object.entries(lexicon)).sort()
 
 // check for duplicates
-flatLexicon.forEach((lemma, index) => {
-  if (flatLexicon.slice(0, index).includes(lemma)) console.log(`Duplicate: ${lemma}`)
-})
+const check = () => {
+  flatLexicon.forEach((lemma, index) => {
+    if (flatLexicon.slice(0, index).includes(lemma)) console.log(`Duplicate: ${lemma}`)
+  })
+}
+
+module.exports = check

@@ -1,7 +1,7 @@
 // dependencies
 const request = require('sync-request')
 const { JSDOM } = require('jsdom')
-const file = require('../../../data/file')
+const file = require('../../data/file')
 
 // cache HTTP page requests
 const docs = {}
