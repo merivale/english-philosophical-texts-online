@@ -8,6 +8,13 @@ const directory = 'cache/plain'
 
 // generate cache of plain texts
 const generatePlainCache = (id, offset = 0) => {
+  // id === 'all' is a special case
+  if (id === 'all') {
+    const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
+    all.forEach(generatePlainCache)
+    return
+  }
+
   // look for a text with the given ID
   const text = file.open('texts', id)
 
@@ -15,7 +22,7 @@ const generatePlainCache = (id, offset = 0) => {
   if (!text) throw new Error(`No text found with ID ${id}.`)
 
   // exit if the text is not an author and has not been imported
-  if (text.forename === null && !text.imported) {
+  if (text.forename === undefined && !text.imported) {
     return
   }
 

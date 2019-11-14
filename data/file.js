@@ -16,18 +16,18 @@ const read = subdirectory =>
     .filter(x => x.isDirectory())
     .map(x => x.name)
 
-// get json/text data from disk
-const open = (subdirectory, id, ext = 'json') => {
+// get file content
+const getFileContent = (subdirectory, id, ext) => {
   const filePath = getFilePath(subdirectory, id, ext)
   if (fs.existsSync(filePath)) {
-    return JSON.parse(fs.readFileSync(filePath))
-  }
-  const fileIndexPath = getFilePath(subdirectory, `${id}.index`, ext)
-  if (fs.existsSync(fileIndexPath)) {
-    return JSON.parse(fs.readFileSync(fileIndexPath))
+    return (ext === 'json') ? JSON.parse(fs.readFileSync(filePath, 'utf8')): fs.readFileSync(filePath, 'utf8')
   }
   return null
 }
+
+// get json/text data from disk
+const open = (subdirectory, id, ext = 'json') =>
+  getFileContent(subdirectory, id, ext) || getFileContent(subdirectory, `${id}.index`, ext)
 
 // save json data to disk
 const save = (subdirectory, id, data, ext = 'json') => {

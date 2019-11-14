@@ -79,6 +79,18 @@ router.get('/:id*/usage', (req, res, next) => {
   }
 })
 
+// tfidf page
+router.get('/:id*/tfidf', (req, res, next) => {
+  const author = get.author(req.params.id)
+  const text = get.text(req.params.id + req.params['0'])
+  if (author && text) {
+    const tfidf = get.tfidf(req.params.id + req.params['0'])
+    res.render('texts/text/tfidf', { area, author, text, tfidf })
+  } else {
+    next(createError(404))
+  }
+})
+
 // text page
 router.get('/:id*', (req, res, next) => {
   const author = get.author(req.params.id)

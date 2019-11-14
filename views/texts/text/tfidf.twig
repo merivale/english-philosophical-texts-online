@@ -1,0 +1,23 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/text/nav.twig' with { 'page': 'tfidf' } %}
+{% endblock %}
+
+{% block content %}
+  <h2>TF-IDF</h2>
+  {% if tfidf is not null %}
+    <table>
+      <thead>
+        <tr><th>lemma</th><th>TF-IDF</th></tr>
+      </thead>
+      <tbody>
+        {% for term in tfidf %}
+          <tr><td>{{ term.lemma }}</td><td>{{ term.tfidf }}</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% else %}
+    <p>TF-IDF data are not yet available for this text.</p>
+  {% endif %}
+{% endblock %}

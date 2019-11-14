@@ -29,9 +29,13 @@ const text = (id, enrich = true) => {
   }
 }
 
-// get usage date from id
+// get usage data from id
 const usage = id =>
   file.open('cache/usage', id)
+
+// get usage data from id
+const tfidf = id =>
+  file.open('cache/tfidf', id)
 
 // exports
 module.exports = {
@@ -39,5 +43,6 @@ module.exports = {
   texts,
   author,
   text,
-  usage
+  usage,
+  tfidf
 }
