@@ -1,8 +1,10 @@
 // dependencies
-const file = require('../../data/file')
-const lexicon = require('../../data/lexicon')
-const prepare = require('./prepare')
-const write = require('./write')
+import * as file from '../../service/file.js'
+import * as get from '../../service/get.js'
+import * as prepare from './prepare.js'
+import write from './write.js'
+
+const lexicon = get.lexicon()
 
 // subdirectory for storing search cache
 const directory = 'cache/lemmas'
@@ -11,7 +13,7 @@ const directory = 'cache/lemmas'
 const lemmaMap = {}
 
 // generate cache of lemmatized texts
-const generateLemmasCache = (id, offset = 0) => {
+export default function generateLemmasCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
     const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
@@ -41,7 +43,7 @@ const generateLemmasCache = (id, offset = 0) => {
 
   // otherwise generate the lemmatized text cache for the text
   if (text.texts) {
-    write(`Generating plain text cache for ${text.id}...\n`, offset)
+    write(`Generating lemma usage cache for ${text.id}...\n`, offset)
     // generate the lemmatized text cache for subtexts recursively
     text.texts.forEach((id) => {
       if (id.match(text.id.split('.')[0])) { // skip past subtexts by different authors
@@ -51,7 +53,7 @@ const generateLemmasCache = (id, offset = 0) => {
     write('done!\n', offset)
   } else {
     // generate the lemmatized text cache for this text
-    write(`Generating plain text cache for ${text.id}... `, offset)
+    write(`Generating lemma usage cache for ${text.id}... `, offset)
     let lemmatizedText = `${prepare.lemmatizedText(text.fulltitle, lemmaMap)}\n\n`
     text.paragraphs.forEach((p) => {
       lemmatizedText += `${prepare.lemmatizedText(p.content, lemmaMap)}\n\n`
@@ -63,5 +65,3 @@ const generateLemmasCache = (id, offset = 0) => {
     write('done!\n')
   }
 }
-
-module.exports = generateLemmasCache

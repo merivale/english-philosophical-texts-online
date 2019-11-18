@@ -1,10 +1,10 @@
 // dependencies
-const lemmas = require('./generate/lemmas')
-const plain = require('./generate/plain')
-const search = require('./generate/search')
-const usage = require('./generate/usage')
-const totals = require('./generate/totals')
-const tfidf = require('./generate/tfidf')
+import lemmas from './generate/lemmas.js'
+import plain from './generate/plain.js'
+import search from './generate/search.js'
+import usage from './generate/usage.js'
+import rawusage from './generate/rawusage.js'
+import tfidf from './generate/tfidf.js'
 
 // sanity check
 if (process.argv[2] === undefined) {
@@ -29,8 +29,8 @@ switch (process.argv[2]) {
     usage(process.argv[3])
     break
 
-  case 'totals':
-    totals(process.argv[3])
+  case 'rawusage':
+    rawusage(process.argv[3])
     break
 
   case 'tfidf':
@@ -42,7 +42,7 @@ switch (process.argv[2]) {
     plain(process.argv[3])
     lemmas(process.argv[3])
     usage(process.argv[3])
-    totals(process.argv[3])
+    rawusage(process.argv[3])
     tfidf(process.argv[3])
     break
 

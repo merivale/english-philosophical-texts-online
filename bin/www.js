@@ -1,7 +1,10 @@
 // dependencies
-const app = require('../app')
-const debug = require('debug')('epto:server')
-const http = require('http')
+import app from '../app/index.js'
+import debug from 'debug'
+import http from 'http'
+
+// initialise debug module
+const eptoDebug = debug('epto:server')
 
 // normalize a port into a number, string, or false
 const normalizePort = (val) => {
@@ -51,7 +54,7 @@ const onListening = () => {
   const bind = typeof addr === 'string'
     ? 'pipe ' + addr
     : 'port ' + addr.port
-  debug('Listening on ' + bind)
+  eptoDebug('Listening on ' + bind)
 }
 
 // get port from environment and store in Express
@@ -65,4 +68,3 @@ const server = http.createServer(app)
 server.listen(port)
 server.on('error', onError)
 server.on('listening', onListening)
-console.log(`Server listening on port ${port}.`)

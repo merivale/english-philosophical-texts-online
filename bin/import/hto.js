@@ -1,9 +1,9 @@
 // dependencies
-const request = require('sync-request')
-const file = require('../../data/file')
+import request from 'sync-request'
+import file from '../../service/file.js'
 
 // the main conversion function
-const convert = (data) => {
+export default function convert (data) {
   const input = request('GET', data.source).getBody()
   const newdata = JSON.parse(input)
   data.fulltitle = content(newdata.fulltitle)
@@ -41,6 +41,3 @@ const content = x =>
     .replace(/ad infinitum/g, 'adinfinitum')
     .replace(/in infinitum/g, 'ininfinitum')
     .replace(/ipso facto/g, 'ipsofacto')
-
-// export the main conversion function
-module.exports = convert

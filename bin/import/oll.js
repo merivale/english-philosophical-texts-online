@@ -1,13 +1,13 @@
 // dependencies
-const request = require('sync-request')
-const { JSDOM } = require('jsdom')
-const file = require('../../data/file')
+import request from 'sync-request'
+import { JSDOM } from 'jsdom'
+import file from '../../service/file.js'
 
 // cache HTTP page requests
 const docs = {}
 
 // the main conversion function
-const convert = (data) => {
+export default function convert (data) {
   if (data.texts) return // don't do anything with collections
   const url = data.source.split('#')[0]
   const divId = data.source.split('#')[1]
@@ -143,6 +143,3 @@ const getSpeaker = (element) =>
   element.querySelector('.speaker').textContent
     .replace(/Edition: orig; Page: \[.+\]/g, '')
     .replace(/ /g, '')
-
-// export the main conversion function
-module.exports = convert

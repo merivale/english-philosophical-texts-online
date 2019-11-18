@@ -1,8 +1,9 @@
 // dependencies
-const fs = require('fs')
-const hto = require('./import/hto')
-const oll = require('./import/oll')
-const tcp = require('./import/tcp')
+import fs from 'fs'
+import hto from './import/hto.js'
+import oll from './import/oll.js'
+import tcp from './import/tcp.js'
+
 const converters = { hto, oll, tcp }
 
 // command line arguments

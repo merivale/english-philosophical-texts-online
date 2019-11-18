@@ -1,13 +1,13 @@
 // dependencies
-const request = require('sync-request')
-const { JSDOM } = require('jsdom')
-const file = require('../../data/file')
+import request from 'sync-request'
+import { JSDOM } from 'jsdom'
+import file from '../../service/file.js'
 
 // cache HTTP page requests
 const docs = {}
 
 // the main conversion function
-const convert = (data) => {
+export default function convert (data) {
   if (data.texts) return // don't do anything with collections
   const doc = docs[data.source] || new JSDOM(request('GET', data.source).getBody()).window.document
   if (!docs[data.source]) docs[data.source] = doc // save for subsequent conversions
@@ -71,6 +71,3 @@ const convertContent = (node, notesData, paragraphId) => {
     .replace(/\n\n/g, ' ') // sort out white space
     .replace(/\n/g, ' ')
 }
-
-// export the main conversion function
-module.exports = convert

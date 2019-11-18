@@ -1,13 +1,13 @@
 // dependencies
-const file = require('../../data/file')
-const prepare = require('./prepare')
-const write = require('./write')
+import * as file from '../../service/file.js'
+import * as prepare from './prepare.js'
+import write from './write.js'
 
 // subdirectory for storing search cache
 const directory = 'cache/plain'
 
 // generate cache of plain texts
-const generatePlainCache = (id, offset = 0) => {
+export default function generatePlainCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
     const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
@@ -50,5 +50,3 @@ const generatePlainCache = (id, offset = 0) => {
     write('done!\n')
   }
 }
-
-module.exports = generatePlainCache

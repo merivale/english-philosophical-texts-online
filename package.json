@@ -1,16 +1,26 @@
 {
   "name": "english-philosophical-texts-online",
   "productName": "English Philosophical Texts Online",
-  "version": "0.1.0",
+  "author": {
+    "name": "Amyas Merivale",
+    "url": "https://merivale.uk"
+  },
+  "version": "1.0.0",
+  "homepage": "https://englishphilosophy.org",
   "description": "High-quality digital editions of a broad canon of English-language philosophical texts from 1650 to 1830.",
-  "author": "Amyas Merivale",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "github.com/merivale/english-philosophical-texts-online"
   },
+  "main": "app/index.js",
+  "type": "module",
   "scripts": {
-    "start": "node ./bin/www.js"
+    "www-prod": "node --experimental-modules ./bin/www.js",
+    "www-dev": "set NODE_ENV=development & set DEBUG=epto:* & node --experimental-modules ./bin/www.js",
+    "check-data": "node --experimental-modules ./bin/check.js",
+    "generate-cache": "node --experimental-modules ./bin/generate.js",
+    "import-text": "node --experimental-modules ./bin/import.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",

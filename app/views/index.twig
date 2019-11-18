@@ -1,0 +1,22 @@
+{% extends 'layout.twig' %}
+
+{% block javascripts %}
+  <script defer src="/javascripts/browse-authors.js"></script>
+{% endblock %}
+
+{% block content %}
+  <div class="notice">
+    <h4>Are you enjoying English Philosophical Texts Online?</h4>
+    <p>We are currently putting together an application to the <a href="https://www.leverhulme.ac.uk/">Leverhulme Trust</a> for funding to complete this project. If you value this site and would like to see it grow, please consider sending one or two sentences of support (together with your name and institutional affiliation, if any) to <a href="mailto:amyas.merivale@philosophy.ox.ac.uk">amyas.merivale@philosophy.ox.ac.uk</a>. With your permission, we would like to include these responses on this site and in our application.</p>
+  </div>
+<p>Below is a list of {{ total }} English-language philosophical texts published in Britain between 1650 and 1830, by {{ authors | length }} authors ({{ males | length }} male and {{ females | length }} female). Our aim is to provide free and high-quality digital critical editions of all of the works on this list, alongside tools for performing sophisticated searches and comparative textual analyses. Note however that this project is still in the early stages. So far we have prepared {{ imported }} texts by {% for author in authorsWithTexts %}{% if loop.last %} and {% endif %}<a href="{{ author.url }}">{{ author.fullname }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+  <div class="options">
+    <input type="text" placeholder="search authors" data-action="filter-authors">
+    <select data-action="order-authors">
+      <option value="published">order chronologically by first publication</option>
+      <option value="birth">order chronologically by birth</option>
+      <option value="alphabetical">order alphabetically</option>
+    </select>
+  </div>
+  <div class="authors" id="authors"></div>
+{% endblock %}

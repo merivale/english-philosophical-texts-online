@@ -1,13 +1,13 @@
 // dependencies
-const file = require('../../data/file')
-const prepare = require('./prepare')
-const write = require('./write')
+import * as file from '../../service/file.js'
+import * as prepare from './prepare.js'
+import write from './write.js'
 
 // subdirectory for storing search cache
 const directory = 'cache/search'
 
 // generate cache of searchable texts
-const generateSearchCache = (id, offset = 0) => {
+export default function generateSearchCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
     const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
@@ -21,11 +21,6 @@ const generateSearchCache = (id, offset = 0) => {
   // throw an error if the text is not found
   if (!text) throw new Error(`No text found with ID ${id}.`)
 
-  // exit if the text is not an author and has not been imported
-  if (text.forename === undefined && !text.imported) {
-    return
-  }
-
   // otherwise generate the search cache for the text
   write(`Generating search cache for ${text.id}...\n`, offset)
   if (text.texts) {
@@ -35,19 +30,35 @@ const generateSearchCache = (id, offset = 0) => {
         generateSearchCache(id, offset + 1)
       }
     })
+    // generate the search cache for this text
+    const data = {
+      id: text.id,
+      sex: text.sex, // set for authors, null otherwise
+      imported: text.imported,
+      title: text.sex ? `${text.forename} ${text.surname}` : text.title,
+      texts: text.texts
+    }
+    file.save(directory, `${text.id}.index`, data)
     write('done!\n', offset)
   } else {
     // generate the search cache for this text
     write(`Generating search cache for ${text.id}... `, offset)
     const data = {
       id: text.id,
+      imported: text.imported,
+      title: text.title,
       fulltitle: prepare.searchableText(text.fulltitle),
-      paragraphs: text.paragraphs.map(p => Object.assign(p, { content: prepare.searchableText(p.content) })),
-      notes: text.notes.map(n => Object.assign(n, { content: prepare.searchableText(n.content) }))
+      paragraphs: text.paragraphs.map(p => ({
+        id: p.id,
+        content: p.title ? prepare.searchableText(`${p.title} ${p.content}`) : prepare.searchableText(p.content)
+      })),
+      notes: text.notes.map(n => ({
+        id: n.id,
+        paragraph: n.paragraph,
+        content: prepare.searchableText(n.content)
+      }))
     }
     file.save(directory, text.id, data)
     write('done!\n')
   }
 }
-
-module.exports = generateSearchCache

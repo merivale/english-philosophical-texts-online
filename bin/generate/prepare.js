@@ -3,7 +3,7 @@
  */
 
 // generate formatted text
-const formattedText = content =>
+export const formattedText = content =>
   content.replace(/_/g, '') // remove underscores (used for disambiguating lemmas)
     .replace(/\b(I|i)pso(F|f)acto\b/g, '$1pso $2acto') // reinstate space in 'ipso facto'
     .replace(/\b(A|a)(P|p)riori\b/g, '$1 $2riori') // reinstate space in 'a priori'
@@ -12,7 +12,7 @@ const formattedText = content =>
     .replace(/\b(I|i)n(I|i)nfinitum\b/g, '$1n $2nfinitum') // reinstate space in 'in infinitum'
 
 // generate lemmatized text
-const lemmatizedText = (content, lemmaMap) =>
+export const lemmatizedText = (content, lemmaMap) =>
   dullText(strippedText(simplifiedText(content))).split(' ').map(x => lemmaMap[x] || x).join(' ')
 
 // generate lowercase text with no punctuation
@@ -24,11 +24,11 @@ const dullText = content =>
     .toLowerCase()
 
 // generate plain text
-const plainText = content =>
+export const plainText = content =>
   strippedText(simplifiedText(content))
 
 // generate searchable text
-const searchableText = content =>
+export const searchableText = content =>
   formattedText(strippedText(content))
 
 // generate plain text
@@ -46,13 +46,3 @@ const strippedText = content =>
     .replace(/(<(.*?)>)/g, '') // remove all HTML markup
     .replace(/(&emsp;)+/g, ' ') // replace tabs with single spaces
     .replace(/\s\s/g, ' ').trim() // trim whitespace
-
-/*
- * Module exports
- */
-module.exports = {
-  formattedText,
-  lemmatizedText,
-  plainText,
-  searchableText
-}

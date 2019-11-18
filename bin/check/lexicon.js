@@ -1,5 +1,7 @@
 // dependencies
-const lexicon = require('../../data/lexicon')
+import * as get from '../../service/get.js'
+
+const lexicon = get.lexicon()
 
 // flatten and sort the lexicon
 const flatten = array =>
@@ -8,10 +10,8 @@ const flatten = array =>
 const flatLexicon = flatten(Object.entries(lexicon)).sort()
 
 // check for duplicates
-const check = () => {
+export default function check () {
   flatLexicon.forEach((lemma, index) => {
     if (flatLexicon.slice(0, index).includes(lemma)) console.log(`Duplicate: ${lemma}`)
   })
 }
-
-module.exports = check
