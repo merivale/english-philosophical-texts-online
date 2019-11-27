@@ -1,6 +1,6 @@
 // dependencies
 import request from 'sync-request'
-import file from '../../service/file.js'
+import * as file from '../../service/file.js'
 
 // the main conversion function
 export default function convert (data) {
@@ -9,30 +9,32 @@ export default function convert (data) {
   data.fulltitle = content(newdata.fulltitle)
   if (data.paragraphs) data.paragraphs = newdata.paragraphs.map(paragraph)
   if (data.notes && data.notes.length) data.notes = newdata.notes.map(note)
-  file.save(data)
+  file.save('texts', data.id, data)
   console.log(`Imported ${data.id}`)
 }
 
 // convert a paragraph
-const paragraph = x =>
-  ({
+function paragraph (x) {
+  return {
     id: x.id,
     title: x.title ? content(x.title) : undefined,
     before: x.before ? `${x.before}.` : undefined,
     content: content(x.content)
-  })
+  }
+}
 
-// convert a footnote/endnote
-const note = x =>
-  ({
+// convert a note
+function note (x) {
+  return {
     id: x.id,
     paragraph: x.paragraph,
     content: content(x.content)
-  })
+  }
+}
 
 // convert content
-const content = x =>
-  x.replace(/<\/?strong>/g, '')
+function content (x) {
+  return x.replace(/<\/?strong>/g, '')
     .replace(/<del(.*?)<\/del>/g, '')
     .replace(/<ins(.*?)>(.*?)<\/ins>/g, '$2')
     .replace(/\|/g, '')
@@ -41,3 +43,4 @@ const content = x =>
     .replace(/ad infinitum/g, 'adinfinitum')
     .replace(/in infinitum/g, 'ininfinitum')
     .replace(/ipso facto/g, 'ipsofacto')
+}

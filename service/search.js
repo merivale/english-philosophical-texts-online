@@ -1,28 +1,10 @@
-/**
- * Search the database of texts for paragraphs matching the input query.
- * @module Search
- *
- * @requires service/get.js:Get
- */
-
+// dependencies
 import * as get from './get.js'
 
-/**
- * The reduced lexicon.
- * @constant {Object}
- */
+// get the reduced lexicon
 const reducedLexicon = get.reducedLexicon()
 
-/**
- * Search the database of texts for paragraphs matching the input query.
- *
- * @param {string[]} ids IDs of the texts to search.
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- * @param {string|null} author ID of the author being searched; used to filter out subtexts by different authors.
- *
- * @returns {Object[]} An array of matches.
- */
+// search the database of texts for paragraphs matching the input query
 export default function search (ids, query, options, author = null) {
   return ids.map(id => get.searchableText(id)) // map text IDs to searchable texts
     .filter(text => text.sex || text.imported) // remove texts that aren't imported or aren't authors
@@ -31,15 +13,7 @@ export default function search (ids, query, options, author = null) {
     .filter(result => result.total > 0) // remove texts with no matches
 }
 
-/**
- *  Get search matches from a text.
- *
- * @param {Object} text The text to search.
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- *
- * @returns {Object} The search matches together with some metadata.
- */
+// get search matches from a text
 function matches (text, query, options) {
   // initialise the result object
   const result = {
@@ -78,16 +52,7 @@ function matches (text, query, options) {
   return result
 }
 
-/**
- * Create a matched title for display.
- *
- * @param {string} fulltitle The title of the text.
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- * @param {string} textId The ID of the text.
- *
- * @returns {Object}
- */
+// create a matched title for display
 function matchedTitle (fulltitle, query, options, textId) {
   return ({
     id: textId,
@@ -96,16 +61,7 @@ function matchedTitle (fulltitle, query, options, textId) {
   })
 }
 
-/**
- * Create a matched paragraph for display.
- *
- * @param {Object} paragraph The paragraph.
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- * @param {string} textId The ID of the text.
- *
- * @returns {Object}
- */
+// create a matched paragraph for display
 function matchedParagraph (paragraph, query, options, textId) {
   return ({
     id: `${textId}.${paragraph.id}`,
@@ -114,16 +70,7 @@ function matchedParagraph (paragraph, query, options, textId) {
   })
 }
 
-/**
- * Create a matched note for display.
- *
- * @param {Object} note The note.
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- * @param {string} textId The ID of the text.
- *
- * @returns {Object}
- */
+// create a matched note for display
 function matchedNote (note, query, options, textId) {
   return ({
     id: `${textId}.${note.paragraph}n${note.id}`,
@@ -132,28 +79,12 @@ function matchedNote (note, query, options, textId) {
   })
 }
 
-/**
- * Create matched content (for titles, paragraphs, or notes).
- *
- * @param {string} content The content.
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- *
- * @returns {string}
- */
+// create matched content (for titles, paragraphs, or notes)
 function matchedContent (content, query, options) {
   return content.replace(regex(query, options), '<mark>$1</mark>')
 }
 
-/**
- * Look for a search query hit in some content.
- *
- * @param {string} content The text to search.
- * @param {string|query} query The search query.
- * @param {Object} options The search options.
- *
- * @returns {boolean} Whether the query matches the content.
- */
+// look for a search query hit in some content
 function hit (content, query, options) {
   // match string queries directly
   if (typeof query === 'string') {
@@ -173,26 +104,12 @@ function hit (content, query, options) {
   }
 }
 
-/**
- * Create a regular expression from the search query.
- *
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- *
- * @return {RegExp}
- */
+// create a regular expression from the search query
 function regex (query, options) {
   return new RegExp(`(${regexString(query, options)})`, 'gi')
 }
 
-/**
- * Create the string for a regular expression from the search query.
- *
- * @param {string|Object} query The search query.
- * @param {Object} options The search options.
- *
- * @return {string}
- */
+// create the string for a regular expression from the search query
 function regexString (query, options) {
   if (typeof query === 'string') {
     if (options.ignorePunctuation) {

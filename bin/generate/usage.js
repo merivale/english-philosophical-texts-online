@@ -64,7 +64,7 @@ export default function generateUsageData (id, offset = 0) {
 }
 
 // combine two records of text details
-const combine = (details, subdetails, nameField) => {
+function combine (details, subdetails, nameField) {
   subdetails.forEach((x) => {
     const existing = details.find(y => y[nameField] === x[nameField])
     if (existing) {

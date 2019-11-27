@@ -1,16 +1,20 @@
 // dependencies
 import request from 'sync-request'
-import { JSDOM } from 'jsdom'
-import file from '../../service/file.js'
+import JSDOM from 'jsdom'
+import * as file from '../../service/file.js'
 
-// cache HTTP page requests
+// cache for HTTP page requests
 const docs = {}
 
 // the main conversion function
 export default function convert (data) {
-  if (data.texts) return // don't do anything with collections
+  if (data.texts) {
+    return // don't do anything with collections
+  }
   const doc = docs[data.source] || new JSDOM(request('GET', data.source).getBody()).window.document
-  if (!docs[data.source]) docs[data.source] = doc // save for subsequent conversions
+  if (!docs[data.source]) {
+    docs[data.source] = doc // save to cache for subsequent conversions
+  }
   const notesData = []
   data.paragraphs = getParagraphs(doc, data.id).map(convertParagraph.bind(null, notesData))
   data.notes = notesData.map(convertFootnote)
@@ -19,7 +23,7 @@ export default function convert (data) {
 }
 
 // get paragraphs from the HTML document
-const getParagraphs = (doc, id) => {
+function getParagraphs (doc, id) {
   const all = Array.from(doc.querySelectorAll('#doccontent p, #doccontent .lg'))
   if (id === 'Astell.SPL') return all.slice(7, 63)
   if (id === 'Norris.LLG.Pref') return all.slice(0, 16)
@@ -29,14 +33,14 @@ const getParagraphs = (doc, id) => {
 }
 
 // convert a paragraph and save any footnote data for later
-const convertParagraph = (notesData, paragraph, index) => {
+function convertParagraph (notesData, paragraph, index) {
   const id = (index + 1).toString(10)
   const content = convertContent(paragraph, notesData, id)
   return { id, content }
 }
 
 // convert a footnote
-const convertFootnote = ({ paragraph, url }, index, notesData) => {
+function convertFootnote ({ paragraph, url }, index, notesData) {
   const doc = new JSDOM(request('GET', url).getBody()).window.document
   const div = doc.querySelector('#doccontent > div')
   const id = (index + 1).toString(10)
@@ -45,7 +49,7 @@ const convertFootnote = ({ paragraph, url }, index, notesData) => {
 }
 
 // convert paragraph or footnote content
-const convertContent = (node, notesData, paragraphId) => {
+function convertContent (node, notesData, paragraphId) {
   Array.from(node.children).forEach((x) => {
     // chuck away page breaks
     if (x.classList.contains('pbtext')) node.removeChild(x)

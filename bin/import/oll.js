@@ -1,18 +1,22 @@
 // dependencies
 import request from 'sync-request'
-import { JSDOM } from 'jsdom'
-import file from '../../service/file.js'
+import JSDOM from 'jsdom'
+import * as file from '../../service/file.js'
 
-// cache HTTP page requests
+// cache of HTTP page requests
 const docs = {}
 
 // the main conversion function
 export default function convert (data) {
-  if (data.texts) return // don't do anything with collections
+  if (data.texts) {
+    return // don't do anything with collections
+  }
   const url = data.source.split('#')[0]
   const divId = data.source.split('#')[1]
   const doc = docs[url] || new JSDOM(request('GET', url).getBody()).window.document
-  if (!docs[url]) docs[url] = doc // save for subsequent conversions
+  if (!docs[url]) {
+    docs[url] = doc // save to the cache for subsequent conversions
+  }
   const div = doc.getElementById(divId)
   const includeNotes = !data.id.match(/Mandeville/)
   const noteIds = []
@@ -25,7 +29,7 @@ export default function convert (data) {
 }
 
 // map note ID to JSON object
-const convertFootnote = (doc, [paragraphId, divId], index) => {
+function convertFootnote (doc, [paragraphId, divId], index) {
   const div = doc.getElementById(divId)
   const id = (index + 1).toString(10)
   const paragraphs = Array.from(div.querySelectorAll('p, ul.poem'))
@@ -35,7 +39,7 @@ const convertFootnote = (doc, [paragraphId, divId], index) => {
 }
 
 // map paragraph DOM element to JSON object
-const convertParagraph = (includeNotes, noteIds, element, index) => {
+function convertParagraph (includeNotes, noteIds, element, index) {
   const p = {}
   p.id = (index + 1).toString(10)
   if (element.previousElementSibling && element.previousElementSibling.outerHTML.match(/^<h2/)) {
@@ -60,7 +64,7 @@ const convertParagraph = (includeNotes, noteIds, element, index) => {
 }
 
 // type of paragraph
-const getType = (element, index) => {
+function getType (element, index) {
   if (element.classList.contains('poem')) return 'poem'
   if (element.parentElement.classList.contains('sp')) return 'dialogue'
   if (element.parentElement.classList.contains('cit')) return 'blockquote'
@@ -68,7 +72,7 @@ const getType = (element, index) => {
 }
 
 // poem content (change <ul> to <p>, change <li>s to <br>s)
-const poemContent = (element, includeNotes, noteIds, paragraphId) => {
+function poemContent (element, includeNotes, noteIds, paragraphId) {
   element.removeAttribute('class')
   element.innerHTML = element.innerHTML.replace(/<li id="(.*?)">(.*?)<\/li>\n/g, '$2 <br>')
   return defaultContent(element, includeNotes, noteIds, paragraphId)
@@ -77,13 +81,14 @@ const poemContent = (element, includeNotes, noteIds, paragraphId) => {
 }
 
 // blockquote content
-const blockquoteContent = (element, includeNotes, noteIds, paragraphId) =>
-  defaultContent(element, includeNotes, noteIds, paragraphId)
+function blockquoteContent (element, includeNotes, noteIds, paragraphId) {
+  return defaultContent(element, includeNotes, noteIds, paragraphId)
     .replace(/^<p><q>/, '<blockquote>')
     .replace(/<\/q><\/p>$/, '</blockquote>')
+}
 
 // default paragraph content
-const defaultContent = (element, includeNotes, noteIds, paragraphId) => {
+function defaultContent (element, includeNotes, noteIds, paragraphId) {
   // chuck away the id
   element.removeAttribute('id')
   // remove hyphens before page breaks
@@ -120,7 +125,7 @@ const defaultContent = (element, includeNotes, noteIds, paragraphId) => {
 }
 
 // chuck away page breaks and handle footnote links
-const breaksAndNotes = (includeNotes, noteIds, paragraphId, element) => {
+function breaksAndNotes (includeNotes, noteIds, paragraphId, element) {
   Array.from(element.children).forEach((c) => {
     if (c.classList.contains('pb')) element.removeChild(c)
     if (c.classList.contains('milestone')) element.removeChild(c)
@@ -139,7 +144,8 @@ const breaksAndNotes = (includeNotes, noteIds, paragraphId, element) => {
 }
 
 // speaker (remove page break spans and spaces)
-const getSpeaker = (element) =>
-  element.querySelector('.speaker').textContent
+function getSpeaker (element) {
+  return element.querySelector('.speaker').textContent
     .replace(/Edition: orig; Page: \[.+\]/g, '')
     .replace(/ /g, '')
+}

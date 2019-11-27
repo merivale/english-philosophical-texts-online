@@ -4,6 +4,7 @@ import * as get from '../../service/get.js'
 import * as prepare from './prepare.js'
 import write from './write.js'
 
+// get the lexicon
 const lexicon = get.lexicon()
 
 // subdirectory for storing search cache

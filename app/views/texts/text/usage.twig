@@ -14,7 +14,9 @@
       <li>{{ usage.people.length }} name{% if usage.people.length != 1 %}s{% endif %}</li>
       <li>{{ usage.foreign.length }} piece{% if usage.foreign.length != 1 %}s{% endif %} of foreign text</li>
     </ul>
-    <p><strong>Note:</strong> These data are provisional. Their accuracy depends on text that needs to be checked and marked up manually, and on software that is still being developed.</p>
+    <div class="notice">
+      <p><strong>Note:</strong> These data are provisional. Their accuracy depends on text that needs to be checked and marked up manually, and on software that is still being developed.</p>
+    </div>
     {% if usage.citations %}
       <h2>Citations</h2>
       <ul>

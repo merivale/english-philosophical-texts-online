@@ -4,7 +4,7 @@ export default function write (text, offset = 0) {
 }
 
 // create padding offset for stdout display
-const createOffset = int => {
+function createOffset (int) {
   let padding = ''
   for (let i = 0; i < int; i += 1) padding += '  '
   return padding

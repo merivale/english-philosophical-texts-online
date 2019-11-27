@@ -5,31 +5,6 @@ import write from './write.js'
 // subdirectory for storing search cache
 const directory = 'cache/tfidf'
 
-// get the frequencies of several lemmas in all document apart from the one to exclude
-const getFrequencies = (excludeId, lemmas) => {
-  const documentFrequency = {}
-  let documentCount = 1 // start at 1 to avoid division by 0
-  lemmas.forEach((lemma) => {
-    documentFrequency[lemma] = 1 // start at 1 to avoid division by 0
-  })
-  const incrementTotals = (id) => {
-    if (id === excludeId) return
-    const text = file.open('texts', id)
-    if (text.forename === undefined && !text.imported) return
-    if (text.texts) {
-      text.texts.forEach(incrementTotals)
-    } else {
-      const usage = file.open('cache/rawusage', id)
-      lemmas.forEach((lemma) => {
-        if (usage[lemma]) documentFrequency[lemma] += 1
-      })
-      documentCount += 1
-    }
-  }
-  file.read('texts').forEach(incrementTotals)
-  return { documentCount, documentFrequency }
-}
-
 // generate TF-IDF cache
 export default function generateTFIDFCache (id, offset = 0) {
   // id === 'all' is a special case
@@ -87,4 +62,29 @@ export default function generateTFIDFCache (id, offset = 0) {
     file.save(directory, text.id, tfidf)
     write('done!\n')
   }
+}
+
+// get the frequencies of several lemmas in all document apart from the one to exclude
+function getFrequencies (excludeId, lemmas) {
+  const documentFrequency = {}
+  let documentCount = 1 // start at 1 to avoid division by 0
+  lemmas.forEach((lemma) => {
+    documentFrequency[lemma] = 1 // start at 1 to avoid division by 0
+  })
+  const incrementTotals = (id) => {
+    if (id === excludeId) return
+    const text = file.open('texts', id)
+    if (text.forename === undefined && !text.imported) return
+    if (text.texts) {
+      text.texts.forEach(incrementTotals)
+    } else {
+      const usage = file.open('cache/rawusage', id)
+      lemmas.forEach((lemma) => {
+        if (usage[lemma]) documentFrequency[lemma] += 1
+      })
+      documentCount += 1
+    }
+  }
+  file.read('texts').forEach(incrementTotals)
+  return { documentCount, documentFrequency }
 }

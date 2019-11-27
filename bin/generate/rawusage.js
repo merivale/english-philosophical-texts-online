@@ -3,26 +3,7 @@ import * as file from '../../service/file.js'
 import write from './write.js'
 
 // subdirectory for storing usage data
-const directory = 'cache/usage'
-
-// generate usage details from text string
-const usage = (content) => {
-  const lemmaTokens = content.replace(/\*(.*?)\*/g, '') // remove foreign text
-    .replace(/_(.*?)_('s)?/g, '') // remove names
-    .replace(/\[(.*?)\]/g, '') // removes notes, citations, and cross references
-    .replace(/\n/g, ' ') // replace line breaks with spaces
-    .split(' ') // split into words
-    .filter(x => x.length > 0) // filter out empties
-  const lemmaTypes = {}
-  lemmaTokens.forEach((token) => {
-    if (lemmaTypes[token]) {
-      lemmaTypes[token] += 1
-    } else {
-      lemmaTypes[token] = 1
-    }
-  })
-  return lemmaTypes
-}
+const directory = 'cache/rawusage'
 
 // generate details for text
 export default function generateUsageData (id, offset = 0) {
@@ -76,4 +57,23 @@ export default function generateUsageData (id, offset = 0) {
       write(`lemmas for ${text.id} not found - "bin/generate lemmas" first\n`)
     }
   }
+}
+
+// generate usage details from text string
+function usage (content) {
+  const lemmaTokens = content.replace(/\*(.*?)\*/g, '') // remove foreign text
+    .replace(/_(.*?)_('s)?/g, '') // remove names
+    .replace(/\[(.*?)\]/g, '') // removes notes, citations, and cross references
+    .replace(/\n/g, ' ') // replace line breaks with spaces
+    .split(' ') // split into words
+    .filter(x => x.length > 0) // filter out empties
+  const lemmaTypes = {}
+  lemmaTokens.forEach((token) => {
+    if (lemmaTypes[token]) {
+      lemmaTypes[token] += 1
+    } else {
+      lemmaTypes[token] = 1
+    }
+  })
+  return lemmaTypes
 }

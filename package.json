@@ -32,7 +32,7 @@
     "twig": "~0.10.3"
   },
   "devDependencies": {
-    "jsdom": "^15.1.0",
+    "jsdom": "^15.2.1",
     "sync-request": "^6.1.0"
   }
 }
