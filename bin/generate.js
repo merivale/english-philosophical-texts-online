@@ -1,6 +1,7 @@
 // dependencies
 import lemmas from './generate/lemmas.js'
 import plain from './generate/plain.js'
+import sentences from './generate/sentences.js'
 import search from './generate/search.js'
 import usage from './generate/usage.js'
 import rawusage from './generate/rawusage.js'
@@ -19,6 +20,10 @@ switch (process.argv[2]) {
 
   case 'plain':
     plain(process.argv[3])
+    break
+
+  case 'sentences':
+    sentences(process.argv[3])
     break
 
   case 'lemmas':
