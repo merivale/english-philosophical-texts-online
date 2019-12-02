@@ -2,12 +2,12 @@
  * Command-line module for generating cached data.
  */
 import common from './generate/common.js'
+import ids from './generate/ids.js'
 import lemmas from './generate/lemmas.js'
 import plain from './generate/plain.js'
 import rawusage from './generate/rawusage.js'
 import search from './generate/search.js'
 import sentences from './generate/sentences.js'
-import subIds from './generate/sub-ids.js'
 import tfidf from './generate/tfidf.js'
 import usage from './generate/usage.js'
 
@@ -18,8 +18,8 @@ if (process.argv[2] === undefined) {
 
 // generate whatever is requested
 switch (process.argv[2]) {
-  case 'sub-ids':
-    subIds()
+  case 'ids':
+    ids()
     break
 
   case 'search':

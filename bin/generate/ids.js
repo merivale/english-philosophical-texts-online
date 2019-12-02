@@ -1,5 +1,5 @@
 /*
- * Generate cache of sub IDs for each author/text.
+ * Generate cache of text and paragraph IDs.
  */
 import * as file from '../../service/file.js'
 import { authors } from '../../service/get.js'
@@ -9,24 +9,26 @@ import write from './write.js'
 const directory = 'cache'
 
 // initialise the records of sub IDs and paragraph IDs
-const subIds = {}
-const paragraphIds = []
+const subTextIds = {} // text collection IDs with their sub-text IDs
+const subParagraphIds = {} // text section IDs with their sub-paragraph IDs
+const paragraphIds = [] // array of all paragraph IDs
 
 // generate cache of sub IDs
-export default function generateSubIdCache () {
+export default function generateIdCache () {
   write('Generating sub ID cache...')
 
   // get IDs of all authors with imported texts
   const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
 
   // add these to the special 'all' record
-  subIds.all = all
+  subTextIds.all = all
 
   // add IDs recursively
   all.forEach(addIds)
 
   // save the files
-  file.save(directory, 'sub-ids', subIds)
+  file.save(directory, 'sub-text-ids', subTextIds)
+  file.save(directory, 'sub-paragraph-ids', subParagraphIds)
   file.save(directory, 'paragraph-ids', paragraphIds)
   write('done!\n')
 }
@@ -47,25 +49,39 @@ function addIds (id) {
   }
 
   // otherwise generate the sub ID cache for the text
-  subIds[text.id] = []
   if (text.texts) {
     // generate the sub ID cache for this text and its subtexts recursively
     text.texts.forEach((id) => {
       const subtext = file.open('texts', id)
-      // skip past subtexts by different authors
-      if (!id.match(text.id.split('.')[0])) return
       // skip past texts that haven't been imported
-      if (!subtext.imported) return
-      // otherwise add records to the sub ID cache
-      subIds[text.id].push(id)
+      if (!subtext.imported) {
+        return
+      }
+
+      // skip past subtexts by different authors
+      if (!id.match(text.id.split('.')[0])) {
+        return
+      }
+
+      // otherwise add record to the sub ID cache
+      if (subtext.texts === undefined || subtext.texts.some(x => x.match(subtext.id))) {
+        const idBits = subtext.id.split('.')
+        const visualParent = idBits.slice(0, -1).join('.')
+        if (subTextIds[visualParent]) {
+          subTextIds[visualParent].push(id)
+        } else {
+          subTextIds[visualParent] = [id]
+        }
+      }
       // and continue with its subtexts recursively
       addIds(id)
     })
   } else {
     // generate the sub ID and paragraph ID cache for this text
+    subParagraphIds[text.id] = []
     text.paragraphs.forEach((paragraph) => {
       const paragraphId = `${text.id}.${paragraph.id}`
-      subIds[text.id].push(paragraphId)
+      subParagraphIds[text.id].push(paragraphId)
       paragraphIds.push(paragraphId)
     })
   }
