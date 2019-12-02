@@ -1,4 +1,6 @@
-// dependencies
+/*
+ * Convert texts from Hume Texts Online.
+ */
 import request from 'sync-request'
 import * as file from '../../service/file.js'
 

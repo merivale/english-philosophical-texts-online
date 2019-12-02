@@ -30,6 +30,14 @@
   .buttons {
     display: flex;
     justify-content: flex-end;
+    align-items: baseline;
+    .error {
+      padding: .25em .5em;
+      margin-bottom: 0;
+      margin-right: .5em;
+      color: $red;
+      font-weight: bold;
+    }
     button:not(:last-child) {
       margin-right: .5em;
     }

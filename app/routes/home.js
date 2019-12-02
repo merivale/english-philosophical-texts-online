@@ -1,11 +1,17 @@
+/*
+ * Controller for the HOMEPAGE of the site.
+ */
 import express from 'express'
 import * as get from '../../service/get.js'
 
+// create and export the router
+const router = express.Router()
+export default router
+
+// define the area id
 const area = 'texts'
 
-const router = express.Router()
-
-// index (list of authors)
+// route for the text page (a list of authors)
 router.get('/', (req, res) => {
   const authors = get.authors()
   const males = authors.filter(a => a.sex === 'Male')
@@ -15,5 +21,3 @@ router.get('/', (req, res) => {
   const total = authors.reduce((acc, current) => acc + current.texts.filter(t => !t.duplicate).length, 0)
   res.render('index', { area, authors, males, females, authorsWithTexts, imported, total })
 })
-
-export default router

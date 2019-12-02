@@ -1,6 +1,9 @@
-// dependencies
+/*
+ * Generate cache of sentences.
+ */
 import * as file from '../../service/file.js'
-import * as prepare from './prepare.js'
+import { authors } from '../../service/get.js'
+import * as prepare from '../../service/prepare.js'
 import write from './write.js'
 
 // subdirectory for storing sentences cache
@@ -10,7 +13,7 @@ const directory = 'cache/sentences'
 export default function generateSentencesCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
+    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generateSentencesCache)
     return
   }
@@ -30,39 +33,17 @@ export default function generateSentencesCache (id, offset = 0) {
         generateSentencesCache(id, offset + 1)
       }
     })
-    // generate the search cache for this text
-    const data = {
-      id: text.id,
-      sex: text.sex, // set for authors, null otherwise
-      imported: text.imported,
-      title: text.sex ? `${text.forename} ${text.surname}` : text.title,
-      texts: text.texts
-    }
-    file.save(directory, `${text.id}.index`, data)
-    write('done!\n', offset)
   } else {
     // generate the search cache for this text
     write(`Generating sentences cache for ${text.id}... `, offset)
-    const data = {
-      id: text.id,
-      imported: text.imported,
-      title: text.title,
-      fulltitle: prepare.searchableText(text.fulltitle),
-      sentences: generateSentences(text.paragraphs, text.id)
-    }
+    const data = []
+    text.paragraphs.forEach((paragraph) => {
+      const sentences = prepare.plainSentences(paragraph.content)
+      sentences.forEach((content, index) => {
+        data.push({ id: `${text.id}.${paragraph.id}.${index + 1}`, content })
+      })
+    })
     file.save(directory, text.id, data)
     write('done!\n')
   }
-}
-
-// generate sentences from an array of paragraphs
-function generateSentences (paragraphs, id) {
-  const sentences = []
-  paragraphs.forEach((paragraph) => {
-    const content = prepare.plainText(paragraph.content).replace(/([.!?]) /g, '$1@')
-    content.split('@').forEach((content, index) => {
-      sentences.push({ id: `${paragraph.id}.${index + 1}`, content })
-    })
-  })
-  return sentences
 }

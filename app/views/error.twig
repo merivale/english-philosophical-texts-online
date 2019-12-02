@@ -7,8 +7,6 @@
   {% else %}
     <h1>Server Error :(</h1>
     <p>Sorry, something has gone wrong with our server.</p>
-    {% if error %}
-      <script>console.log(`{{ error.message }}`)</script>
-    {% endif %}
   {% endif %}
+  <script>const error = {{ error|json_encode() }}</script>
 {% endblock %}

@@ -1,6 +1,9 @@
-// dependencies
+/*
+ * Generate cache of usage data.
+ */
 import analyse from '../../service/analyse.js'
 import * as file from '../../service/file.js'
+import { authors } from '../../service/get.js'
 import write from './write.js'
 
 // subdirectory for storing usage data
@@ -10,7 +13,7 @@ const directory = 'cache/usage'
 export default function generateUsageData (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
+    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generateUsageData)
     return
   }

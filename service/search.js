@@ -1,8 +1,8 @@
-// dependencies
+/*
+ * Search the corpus of texts for paragraphs matching the search query.
+ */
 import * as get from './get.js'
-
-// get the reduced lexicon
-const reducedLexicon = get.reducedLexicon()
+import * as lexicon from './lexicon.js'
 
 // search the database of texts for paragraphs matching the input query
 export default function search (ids, query, options, author = null) {
@@ -119,10 +119,7 @@ function regexString (query, options) {
     let words = query.split(' ')
 
     if (options.variantSpellings) {
-      words = words.map((word) => {
-        const group = reducedLexicon.find(group => group.includes(word))
-        return group ? `(${group.join('|')})` : word
-      })
+      words = words.map(lexicon.regexString)
     }
 
     if (options.wholeWords) {

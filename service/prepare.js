@@ -1,125 +1,61 @@
-// dependencies
-import * as file from './file.js'
+/*
+ * Assorted functions for manipulating text.
+ */
+import { lemmaMap } from './lexicon.js'
 
-// prepare author data
-export function author (author, enrich = true) {
-  author.fullname = author.title
-    ? `${author.title} [${author.forename} ${author.surname}]`
-    : `${author.forename} ${author.surname}`
-  author.url = `/texts/${author.id.toLowerCase()}`
-  if (enrich) {
-    author.texts = author.texts.map(stub)
-    author.imported = author.texts.filter(t => t.imported)
-  }
-  return author
-}
-
-// prepare text data
-export function text (text, enrich = true) {
-  // format text content
-  if (text.paragraphs) text.paragraphs.forEach((b) => { b.content = formatContent(b.content) })
-  if (text.notes) text.notes.forEach((b) => { b.content = formatContent(b.content) })
-  // inherit parent properties
-  if (text.parent) {
-    text.published = inherit(text, 'published')
-    text.copytext = inherit(text, 'copytext')
-    text.source = inherit(text, 'source')
-    text.comments = inherit(text, 'comments')
-    text.copyright = inherit(text, 'copyright')
-  }
-  // enrich metadata
-  if (enrich) {
-    text.breadcrumb = breadcrumb(text)
-    text.next = next(text)
-    text.previous = previous(text)
-    text.url = `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
-    if (text.parent) {
-      text.parent = stub(text.parent)
-    }
-    if (text.texts) {
-      text.texts = text.texts.map(stub)
-    }
-  }
-  return text
-}
-
-// format content of a block for reading
-function formatContent (content) {
+// generate formatted text
+export function formattedText (content) {
   return content.replace(/_/g, '') // remove underscores (used for disambiguating lemmas)
     .replace(/\b(I|i)pso(F|f)acto\b/g, '$1pso $2acto') // reinstate space in 'ipso facto'
     .replace(/\b(A|a)(P|p)riori\b/g, '$1 $2riori') // reinstate space in 'a priori'
     .replace(/\b(A|a)(P|p)osteriori\b/g, '$1 $2osteriori') // reinstate space in 'a posteriori'
+    .replace(/\b(A|a)d(I|i)nfinitum\b/g, '$1d $2nfinitum') // reinstate space in 'ad infinitum'
+    .replace(/\b(I|i)n(I|i)nfinitum\b/g, '$1n $2nfinitum') // reinstate space in 'in infinitum'
 }
 
-// get a text's breadcrumb trail
-function breadcrumb (text) {
-  return text.parent
-    ? breadcrumb(file.open('texts', text.parent)).concat([stub(text.id)])
-    : [stub(text.id)]
+// generate lemmatized text
+export function lemmatizedText (content) {
+  const map = lemmaMap()
+  return dullText(strippedText(simplifiedText(content))).split(' ').map(x => map[x] || x).join(' ')
 }
 
-// get a text's next text
-function next (text, down = true) {
-  if (text.texts && text.texts.length && down) {
-    return stub(text.texts[0])
-  }
-  if (text.parent) {
-    const parent = file.open('texts', text.parent)
-    const index = parent.texts.indexOf(text.id)
-    if (index < parent.texts.length - 1) {
-      return stub(parent.texts[index + 1])
-    }
-    if (parent.parent) {
-      return next(parent, false)
-    }
-  }
-  return null
+// generate plain text
+export function plainText (content) {
+  return strippedText(simplifiedText(content))
 }
 
-// get a text's previous text
-function previous (text) {
-  if (text.parent) {
-    const parent = file.open('texts', text.parent)
-    const index = parent.texts.indexOf(text.id)
-    if (index === 0) {
-      return stub(text.parent)
-    }
-    return lastDescendant(file.open('texts', parent.texts[index - 1]))
-  }
-  return null
+// generate searchable text
+export function searchableText (content) {
+  return formattedText(strippedText(content))
 }
 
-// get a text's last descendant
-function lastDescendant (text) {
-  return (text.texts && text.texts.length)
-    ? lastDescendant(file.open('texts', text.texts[text.texts.length - 1]))
-    : stub(text.id)
+// generate an array of plain text sentences
+export function plainSentences (content) {
+  return plainText(content).replace(/([.!?]) /g, '$1@').split('@')
 }
 
-// get stub text data (for links, breadcrumb trails, etc.)
-function stub (id) {
-  const text = file.open('texts', id)
-  if (text) {
-    return {
-      id: text.id,
-      imported: text.imported,
-      duplicate: text.duplicate,
-      title: text.title,
-      published: inherit(text, 'published'),
-      breadcrumb: text.breadcrumb,
-      url: `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
-    }
-  }
-  return null
+// generate lowercase text with no punctuation
+function dullText (content) {
+  return content.split(' ')
+    .map(x => (x === 'i.e.' || x === 'e.g.' || x === '&amp;' || x === '&amp;c.') ? x : x.replace(/[,.;:!?()]/g, ''))
+    .join(' ')
+    .toLowerCase()
 }
 
-// get inherited property from a text's ancestor
-function inherit (text, property) {
-  if (text[property]) {
-    return text[property]
-  }
-  if (text.parent) {
-    return inherit(file.open('texts', text.parent), property)
-  }
-  return null
+// generate plain text
+function simplifiedText (content) {
+  return content.replace(/<a href="(.*?)"><sup>\[(.*?)\]<\/sup><\/a>/g, '[n$2]') // put footnote anchors in square brackets
+    .replace(/<cite>(.*?)<\/cite>/g, '[$1]') // put citations in square brackets
+    .replace(/<u>(.*?)<\/u>/g, '_$1_') // mark names with underscores
+    .replace(/<i>(.*?)<\/i>/g, '*$1*') // mark foreign text with asterisks
+}
+
+// generate stripped text
+function strippedText (content) {
+  return content.replace(/<a href="(.*?)"><sup>(.*?)<\/sup><\/a>/g, '') // remove footnote anchors
+    .replace(/<label>(.*?)<\/label>/g, '') // remove margin comments
+    .replace(/<small>(.*?)<\/small>/g, '') // remove small things
+    .replace(/(<(.*?)>)/g, '') // remove all HTML markup
+    .replace(/(&emsp;)+/g, ' ') // replace tabs with single spaces
+    .replace(/\s\s/g, ' ').trim() // trim whitespace
 }

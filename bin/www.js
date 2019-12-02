@@ -1,4 +1,6 @@
-// dependencies
+/*
+ * Command-line module for initialising the server app.
+ */
 import app from '../app/index.js'
 import debug from 'debug'
 import http from 'http'

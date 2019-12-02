@@ -2,5 +2,26 @@
 
 {% block content %}
   <h1>Compare Texts</h1>
-  <p>In due course, this area of the site will provide facilities for comparing different texts or authors in various computationally determinable ways. Please <a href="/about/contact">contact us</a> if you have any requests for functionality that you would like to see included.</p>
+  <div class="compare-input">
+    <div>Enter a paragraph ID and select a sentence.</div>
+    <label for="paragraph" class="label">Paragraph ID:</label>
+    <input id="paragraph" list="paragraphs" data-action="id-list" data-list="paragraphs">
+    <datalist id="paragraphs">
+      {% for author in authors %}
+        <option value="{{ author.id }}">
+      {% endfor %}
+    </datalist>
+  </div>
+  <div class="sentence-list hidden" data-view="sentence-list"></div>
+  <div class="compare-input">
+    <div>See similar sentences within the target text.</div>
+    <label for="text" class="label">Target Text:</label>
+    <input id="text" list="texts" data-action="id-list" data-list="texts">
+    <datalist id="texts">
+      {% for author in authors %}
+        <option value="{{ author.id }}">
+      {% endfor %}
+    </datalist>
+  </div>
+  <div class="compare-results hidden" data-view="results"></div>
 {% endblock %}

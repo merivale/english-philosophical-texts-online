@@ -1,23 +1,19 @@
-// dependencies
+/*
+ * Generate cache of lemmatized texts.
+ */
 import * as file from '../../service/file.js'
-import * as get from '../../service/get.js'
-import * as prepare from './prepare.js'
+import { authors } from '../../service/get.js'
+import * as prepare from '../../service/prepare.js'
 import write from './write.js'
 
-// get the lexicon
-const lexicon = get.lexicon()
-
-// subdirectory for storing search cache
+// subdirectory for storing the lemmatized text cache
 const directory = 'cache/lemmas'
-
-// hahsmap of lemmas
-const lemmaMap = {}
 
 // generate cache of lemmatized texts
 export default function generateLemmasCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
+    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generateLemmasCache)
     return
   }
@@ -29,17 +25,8 @@ export default function generateLemmasCache (id, offset = 0) {
   if (!text) throw new Error(`No text found with ID ${id}.`)
 
   // exit if the text is not an author and has not been imported
-  if (text.forename === undefined && !text.imported) {
+  if (text.sex === undefined && !text.imported) {
     return
-  }
-
-  // generate the lemma map (first time round only)
-  if (offset === 0) {
-    Object.keys(lexicon).forEach((lemma) => {
-      lexicon[lemma].forEach((word) => {
-        lemmaMap[word] = lemma
-      })
-    })
   }
 
   // otherwise generate the lemmatized text cache for the text
@@ -55,12 +42,12 @@ export default function generateLemmasCache (id, offset = 0) {
   } else {
     // generate the lemmatized text cache for this text
     write(`Generating lemma usage cache for ${text.id}... `, offset)
-    let lemmatizedText = `${prepare.lemmatizedText(text.fulltitle, lemmaMap)}\n\n`
+    let lemmatizedText = `${prepare.lemmatizedText(text.fulltitle)}\n\n`
     text.paragraphs.forEach((p) => {
-      lemmatizedText += `${prepare.lemmatizedText(p.content, lemmaMap)}\n\n`
+      lemmatizedText += `${prepare.lemmatizedText(p.content)}\n\n`
     })
     text.notes.forEach((n) => {
-      lemmatizedText += `[n${n.id}]\n\n${prepare.lemmatizedText(n.content, lemmaMap)}\n\n`
+      lemmatizedText += `[n${n.id}]\n\n${prepare.lemmatizedText(n.content)}\n\n`
     })
     file.save(directory, text.id, lemmatizedText, 'txt')
     write('done!\n')

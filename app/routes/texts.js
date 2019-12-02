@@ -1,29 +1,24 @@
+/*
+ * Controller for the TEXTS area of the site.
+ */
 import createError from 'http-errors'
 import express from 'express'
 import * as get from '../../service/get.js'
 
+// create and export the router
+const router = express.Router()
+export default router
+
+// define the area id
 const area = 'texts'
 
-const router = express.Router()
-
-// lits of all texts
+// route for displaying a list of all texts
 router.get('/', (req, res) => {
   const texts = get.texts()
   res.render('texts/index', { area, texts })
 })
 
-// lits of all texts to be typed up
-router.get('/totype', (req, res) => {
-  const texts = get.texts().map(t => {
-    const text = get.text(t.id)
-    return Object.assign(t, { source: text.source, pages: text.pages })
-  }).filter(t => !t.source)
-  const checked = texts.filter(t => t.pages !== undefined)
-  const pages = checked.reduce((sofar, current) => sofar + current.pages, 0)
-  res.render('texts/totype', { area, texts, checked, pages })
-})
-
-// author page
+// route for displaying details of an author
 router.get('/:id', (req, res, next) => {
   const author = get.author(req.params.id)
   if (author) {
@@ -35,7 +30,7 @@ router.get('/:id', (req, res, next) => {
   }
 })
 
-// author usage page (TODO)
+// route for displaying author usage data
 router.get('/:id/usage', (req, res, next) => {
   const author = get.author(req.params.id)
   if (author) {
@@ -46,7 +41,7 @@ router.get('/:id/usage', (req, res, next) => {
   }
 })
 
-// text table of contents page
+// route for displaying a text's table of contents
 router.get('/:id*/toc', (req, res, next) => {
   const author = get.author(req.params.id)
   const text = get.text(req.params.id + req.params['0'])
@@ -58,7 +53,7 @@ router.get('/:id*/toc', (req, res, next) => {
   }
 })
 
-// text about page
+// route for displaying a text's metadata
 router.get('/:id*/about', (req, res, next) => {
   const author = get.author(req.params.id)
   const text = get.text(req.params.id + req.params['0'])
@@ -69,7 +64,7 @@ router.get('/:id*/about', (req, res, next) => {
   }
 })
 
-// text usage page
+// route for displaying a text's usage data
 router.get('/:id*/usage', (req, res, next) => {
   const author = get.author(req.params.id)
   const text = get.text(req.params.id + req.params['0'])
@@ -81,7 +76,7 @@ router.get('/:id*/usage', (req, res, next) => {
   }
 })
 
-// tfidf page
+// route for displaying a text's TF-IDF data
 router.get('/:id*/tfidf', (req, res, next) => {
   const author = get.author(req.params.id)
   const text = get.text(req.params.id + req.params['0'])
@@ -93,7 +88,7 @@ router.get('/:id*/tfidf', (req, res, next) => {
   }
 })
 
-// text page
+// route for displaying a text
 router.get('/:id*', (req, res, next) => {
   const author = get.author(req.params.id)
   const text = get.text(req.params.id + req.params['0'])
@@ -103,5 +98,3 @@ router.get('/:id*', (req, res, next) => {
     next(createError(404))
   }
 })
-
-export default router

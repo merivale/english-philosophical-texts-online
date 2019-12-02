@@ -139,15 +139,17 @@ label {
   display: inline-block;
   height: 2.25em; }
 
-input[type="text"], input[type="number"], select {
+input[type="text"], input[type="number"], input[list], select {
   padding: .25em .5em;
   border: 1px solid #ddd;
   display: inline-block;
   height: 2.25em; }
-  input[type="text"]:hover, input[type="number"]:hover, select:hover {
+  input[type="text"]:hover, input[type="number"]:hover, input[list]:hover, select:hover {
     border-color: #8e8e8e; }
-  input[type="text"]:active, input[type="number"]:active, select:active {
+  input[type="text"]:active, input[type="number"]:active, input[list]:active, select:active {
     border-color: #3277ae; }
+  input[type="text"].error, input[type="number"].error, input[list].error, select.error {
+    border-color: red; }
 
 label {
   cursor: pointer; }
@@ -430,8 +432,53 @@ table {
           white-space: nowrap; }
   .form .buttons {
     display: flex;
-    justify-content: flex-end; }
+    justify-content: flex-end;
+    align-items: baseline; }
+    .form .buttons .error {
+      padding: .25em .5em;
+      margin-bottom: 0;
+      margin-right: .5em;
+      color: red;
+      font-weight: bold; }
     .form .buttons button:not(:last-child) {
       margin-right: .5em; }
+
+.compare-input {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1em; }
+  .compare-input div {
+    flex: 1; }
+  .compare-input input, .compare-input select {
+    flex-basis: 12em;
+    width: 12em; }
+
+.sentence-list.hidden, .compare-results.hidden {
+  display: none; }
+
+.sentence-list {
+  border: 1px solid #ddd;
+  margin-bottom: 1em;
+  padding: 1em;
+  max-height: 20em;
+  overflow: auto; }
+  .sentence-list span {
+    cursor: pointer;
+    margin-right: .5em; }
+    .sentence-list span:hover, .sentence-list span.active {
+      background: #3277ae;
+      color: #fff; }
+
+.compare-results {
+  border: 1px solid #ddd;
+  padding: 1em;
+  margin-bottom: 1em; }
+  .compare-results .result {
+    display: flex; }
+    .compare-results .result .id {
+      flex-basis: 12em;
+      margin-right: 1em; }
+    .compare-results .result .content {
+      flex: 1; }
 
 /*# sourceMappingURL=epto.css.map */

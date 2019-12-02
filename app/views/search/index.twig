@@ -1,21 +1,18 @@
 {% extends 'layout.twig' %}
 
-{% block javascripts %}
-  <script defer src="/javascripts/toggle-matches.js"></script>
-{% endblock %}
-
 {% block content %}
   <h1>Search Texts</h1>
   <p>Use the form below to search the corpus of texts on this site. Note that the facility for matching variant spellings is imperfect and still being developed.</p>
   <form class="form" method="post">
+    <datalist id="texts">
+      {% for author in authors %}
+        <option value="{{ author.id }}">
+      {% endfor %}
+    </datalist>
     <div class="group">
-      <label class="label" for="ids">Author:</label>
+      <label class="label" for="ids">Text:</label>
       <div class="inputs">
-        <select name="author" class="stretch">
-          {% for a in authors %}
-            <option value="{{ a.id }}"{% if post and post.author == a.id %} selected{% endif %}>{{ a.fullname }}</option>
-          {% endfor %}
-        </select>
+        <input list="texts" name="text" data-action="id-list" data-list="texts" class="stretch{% if error %} error{% endif %}" required value="{{ post.text }}">
       </div>
     </div>
     <div class="group">
@@ -49,6 +46,7 @@
       </div>
     </div>
     <div class="buttons">
+      {% if error %}<p class="error">{{ error }}</p>{% endif %}
       <button type="submit">Search</button>
     </div>
   </form>

@@ -1,8 +1,10 @@
-// dependencies
-import * as get from '../service/get.js'
+/*
+ * Analyse a text to create usage data for display on the web site. Needs refactoring!
+ */
+import { raw } from './lexicon.js'
 
-// get the lexicon
-const lexicon = get.lexicon()
+// get the raw lexicon
+const lexicon = raw()
 
 // analyse textual data
 export default function (text) {

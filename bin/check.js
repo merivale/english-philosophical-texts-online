@@ -1,4 +1,6 @@
-// dependencies
+/*
+ * Command-line module for checking data.
+ */
 import lexicon from './check/lexicon.js'
 import texts from './check/texts.js'
 

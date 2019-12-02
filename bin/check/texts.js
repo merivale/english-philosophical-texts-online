@@ -1,8 +1,10 @@
-// dependencies
+/*
+ * Function to check the text data.
+ */
 import jsdom from 'jsdom'
 import * as get from '../../service/get.js'
 
-// function to check all authors or one specified author
+// check all authors or one specified author
 export default function (id = null) {
   if (id === null) {
     get.authors(false).forEach(checkAuthor)

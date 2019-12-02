@@ -1,19 +1,20 @@
-// dependencies
-import * as get from '../../service/get.js'
+/*
+ * Function to check the lexicon data.
+ */
+import * as lexicon from '../../service/lexicon.js'
 
 // check the lexicon
 export default function () {
-  let lexicon
-  let duplicates = false
+  // try to open the lexicon
   try {
-    lexicon = get.lexicon()
+    lexicon.raw()
   } catch (error) {
     console.error('Failed to open lexicon; bad JSON data?')
     return
   }
-  // flatten and sort the lexicon
-  const flatLexicon = flatten(Object.entries(lexicon)).sort()
-  // check for duplicates
+  // check for duplicate entries
+  const flatLexicon = lexicon.flat()
+  let duplicates = false
   flatLexicon.forEach((lemma, index) => {
     if (flatLexicon.slice(0, index).includes(lemma)) {
       console.error(`Duplicate: ${lemma}`)
@@ -25,9 +26,4 @@ export default function () {
   } else {
     console.log('Everything looks OK.')
   }
-}
-
-// flatten an array
-function flatten (array) {
-  return array.reduce((acc, val) => Array.isArray(val) ? acc.concat(flatten(val)) : acc.concat(val), [])
 }

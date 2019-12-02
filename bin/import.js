@@ -1,4 +1,6 @@
-// dependencies
+/*
+ * Command-line module for importing texts.
+ */
 import fs from 'fs'
 import hto from './import/hto.js'
 import oll from './import/oll.js'

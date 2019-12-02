@@ -142,7 +142,7 @@ label {
   height: 2.25em;
 }
 
-input[type="text"], input[type="number"], select {
+input[type="text"], input[type="number"], input[list], select {
   padding: .25em .5em;
   border: 1px solid $gray;
   display: inline-block;
@@ -152,6 +152,9 @@ input[type="text"], input[type="number"], select {
   }
   &:active {
     border-color: $primary;
+  }
+  &.error {
+    border-color: $red;
   }
 }
 

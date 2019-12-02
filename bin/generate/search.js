@@ -1,6 +1,9 @@
-// dependencies
+/*
+ * Generate cache of searchable texts.
+ */
 import * as file from '../../service/file.js'
-import * as prepare from './prepare.js'
+import { authors } from '../../service/get.js'
+import * as prepare from '../../service/prepare.js'
 import write from './write.js'
 
 // subdirectory for storing search cache
@@ -10,7 +13,7 @@ const directory = 'cache/search'
 export default function generateSearchCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
+    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generateSearchCache)
     return
   }

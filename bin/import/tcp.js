@@ -1,4 +1,6 @@
-// dependencies
+/*
+ * Convert texts from the Text Creation Partnership.
+ */
 import request from 'sync-request'
 import JSDOM from 'jsdom'
 import * as file from '../../service/file.js'

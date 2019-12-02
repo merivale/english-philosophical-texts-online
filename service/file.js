@@ -1,20 +1,22 @@
-// dependencies
+/*
+ * Functions for reading and writing corpus data from/to disk.
+ */
 import fs from 'fs'
 import path from 'path'
 
-// get list of directories from a subdirectory
+// get a list of directories from a subdirectory of the data directory
 export function read (subdirectory) {
-  return fs.readdirSync(`${getDataDir()}/${subdirectory}`, { withFileTypes: true })
+  return fs.readdirSync(`${getDirectoryPath('data')}/${subdirectory}`, { withFileTypes: true })
     .filter(x => x.isDirectory())
     .map(x => x.name)
 }
 
-// get json/text data from disk
+// get json/text data from the data directory
 export function open (subdirectory, id, ext = 'json') {
   return getFileContent(subdirectory, id, ext) || getFileContent(subdirectory, `${id}.index`, ext)
 }
 
-// save json data to disk
+// save json/text data to the data directory
 export function save (subdirectory, id, data, ext = 'json') {
   const filePath = getFilePath(subdirectory, id, ext)
   const dirName = path.dirname(filePath)
@@ -23,12 +25,12 @@ export function save (subdirectory, id, data, ext = 'json') {
   fs.writeFileSync(filePath, data)
 }
 
-// get the data directory (by recursively searching up from the current path)
-function getDataDir (directory = 'data') {
-  return fs.existsSync(directory) ? directory : getDataDir(`../${directory}`)
+// get a directory path (by recursively searching up from the current path)
+function getDirectoryPath (directory) {
+  return fs.existsSync(directory) ? directory : getDirectoryPath(`../${directory}`)
 }
 
-// get file content
+// get the contents of a file
 function getFileContent (subdirectory, id, ext) {
   const filePath = getFilePath(subdirectory, id, ext)
   if (fs.existsSync(filePath)) {
@@ -37,9 +39,9 @@ function getFileContent (subdirectory, id, ext) {
   return null
 }
 
-// path to a file
+// get the path to a file
 function getFilePath (subdirectory, id, ext) {
   return subdirectory
-    ? `${getDataDir()}/${subdirectory}/${id.toLowerCase().replace(/\./g, '/')}.${ext}`
-    : `${getDataDir()}/${id.toLowerCase().replace(/\./g, '/')}.${ext}`
+    ? `${getDirectoryPath('data')}/${subdirectory}/${id.toLowerCase().replace(/\./g, '/')}.${ext}`
+    : `${getDirectoryPath('data')}/${id.toLowerCase().replace(/\./g, '/')}.${ext}`
 }

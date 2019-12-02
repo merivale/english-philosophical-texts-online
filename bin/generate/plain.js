@@ -1,6 +1,9 @@
-// dependencies
+/*
+ * Generate cache of plain texts.
+ */
 import * as file from '../../service/file.js'
-import * as prepare from './prepare.js'
+import { authors } from '../../service/get.js'
+import * as prepare from '../../service/prepare.js'
 import write from './write.js'
 
 // subdirectory for storing search cache
@@ -10,7 +13,7 @@ const directory = 'cache/plain'
 export default function generatePlainCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = ['astell', 'berkeley', 'hume', 'hutcheson', 'locke', 'mandeville', 'norris', 'shaftesbury']
+    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generatePlainCache)
     return
   }
@@ -19,10 +22,12 @@ export default function generatePlainCache (id, offset = 0) {
   const text = file.open('texts', id)
 
   // throw an error if the text is not found
-  if (!text) throw new Error(`No text found with ID ${id}.`)
+  if (!text) {
+    throw new Error(`No text found with ID ${id}.`)
+  }
 
   // exit if the text is not an author and has not been imported
-  if (text.forename === undefined && !text.imported) {
+  if (text.sex === undefined && !text.imported) {
     return
   }
 
