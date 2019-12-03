@@ -13,7 +13,7 @@
     "type": "git",
     "url": "github.com/merivale/english-philosophical-texts-online"
   },
-  "main": "app/index.js",
+  "main": "bin/www.js",
   "type": "module",
   "scripts": {
     "www": "node --experimental-modules ./bin/www.js",
