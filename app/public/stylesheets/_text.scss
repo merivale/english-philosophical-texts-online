@@ -35,10 +35,10 @@
   label { // margin comments
     float: right;
     font-size: .875em;
-    padding: .25em .5em;
     background: $lightgray;
     margin-left: 1em;
     max-width: 12em;
+    height: auto;
   }
   small { // text ignored for searching, concordances, etc.
     font-size: 1em;

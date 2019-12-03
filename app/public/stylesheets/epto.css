@@ -331,10 +331,10 @@ table {
   .text label {
     float: right;
     font-size: .875em;
-    padding: .25em .5em;
     background: #f5f5f5;
     margin-left: 1em;
-    max-width: 12em; }
+    max-width: 12em;
+    height: auto; }
   .text small {
     font-size: 1em; }
   .text i {
