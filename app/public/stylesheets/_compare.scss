@@ -1,0 +1,61 @@
+.compare-input {
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 1em;
+  div {
+    flex: 1;
+  }
+  input, select {
+    flex-basis: 12em;
+    width: 12em;
+  }
+}
+
+.sentence-list, .compare-results {
+  &.hidden {
+    display: none;
+  }
+}
+
+.sentence-list {
+  border: 1px solid $gray;
+  margin-bottom: 1em;
+  padding: 1em;
+  max-height: 20em;
+  overflow: auto;
+  p {
+    margin-bottom: 0;
+  }
+  span {
+    cursor: pointer;
+    margin-right: .5em;
+    padding: .1em 0;
+    &:hover {
+      background: lighten($primary, 30%);
+    }
+    &.active {
+      background: $primary;
+      color: $white;
+    }
+  }
+}
+
+.compare-results {
+  border: 1px solid $gray;
+  padding: 1em;
+  margin-bottom: 1em;
+  .result {
+    display: flex;
+    &:not(:last-child) {
+      margin-bottom: 1em;
+    }
+    .id {
+      flex-basis: 12em;
+      margin-right: 1em;
+    }
+    .content {
+      flex: 1;
+      margin-bottom: 0;
+    }
+  }
+}

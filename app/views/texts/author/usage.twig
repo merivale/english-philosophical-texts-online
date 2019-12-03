@@ -1,0 +1,72 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/author/nav.twig' with { 'page': 'usage' } %}
+{% endblock %}
+
+{% block content %}
+  <h2>Word Usage Summary</h2>
+  {% if usage is not null %}
+    <p>Works by this author contain:</p>
+    <ul>
+      <li>{{ usage.count }} word{% if usage.count != 1 %}s{% endif %} and {{ usage.lexemes.length + usage.unidentified.length }} lexeme{% if usage.lexemes.length + usage.unidentified.length != 1 %}s{% endif %}</li>
+      <li>{{ usage.citations.length }} citation{% if usage.citations.length != 1 %}s{% endif %}</li>
+      <li>{{ usage.people.length }} name{% if usage.people.length != 1 %}s{% endif %}</li>
+      <li>{{ usage.foreign.length }} piece{% if usage.foreign.length != 1 %}s{% endif %} of foreign text</li>
+    </ul>
+    <p><strong>Note:</strong> These data are provisional. Their accuracy depends on text that needs to be checked and marked up manually, and on software that is still being developed.</p>
+    {% if usage.citations %}
+      <h2>Citations</h2>
+      <ul>
+        {% for citation in usage.citations %}
+          <li>{{ citation }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    {% if usage.people %}
+      <h2>Names</h2>
+      <ul>
+        {% for person in usage.people %}
+          <li>{{ person.name }} ({{ person.frequency }})</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    {% if usage.foreign %}
+      <h2>Foreign Text</h2>
+      <ul>
+        {% for foreign in usage.foreign %}
+          <li>{{ foreign }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    {% if usage.lexemes %}
+      <h2>Identified Lexemes</h2>
+      <table>
+        <thead>
+          <tr><th>lemma</th><th>frequency</th></tr>
+        </thead>
+        <tbody>
+          {% for lexeme in usage.lexemes %}
+            <tr><td>{{ lexeme.lemma }}</td><td>{{ lexeme.frequency }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+    {% if usage.unidentified %}
+      <h2>Unidentified Words</h2>
+      <p>In due course, every word in our textual database will be identified. In the meantime, this list represents work still to be done.</p>
+      <table>
+        <thead>
+          <tr><th>word</th><th>frequency</th></tr>
+        </thead>
+        <tbody>
+          {% for word in usage.unidentified %}
+            <tr><td>{{ word.word }}</td><td>{{ word.frequency }}</td></tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    {% endif %}
+  {% else %}
+    <p>Usage data are not yet available for this author.</p>
+  {% endif %}
+{% endblock %}

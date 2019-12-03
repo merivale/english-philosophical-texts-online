@@ -1,0 +1,23 @@
+<div class="result">
+  <div class="heading" data-action="toggle-matches" data-matches="{{ result.id }}">
+    <div class="title">{{ result.title }}</div>
+  <div class="summary">{{ result.total }} result{% if result.total != 1 %}s{% endif %}</div>
+  </div>
+  <div class="matches active" id="{{ result.id }}">
+    {% if result.matches|length > 0 %}
+      {% for match in result.matches %}
+        <div class="match">
+          <div class="id"><a href="{{ match.url }}">{{ match.id }}</a></div>
+          <div class="content">{{ match.content }}</div>
+        </div>
+      {% endfor %}
+    {% endif %}
+    {% if result.texts %}
+      <div class="results">
+        {% for text in result.texts %}
+          {% include 'search/result.twig' with { result: text } %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>

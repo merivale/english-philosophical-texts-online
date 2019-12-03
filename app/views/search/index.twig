@@ -1,0 +1,64 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+  <h1>Search Texts</h1>
+  <p>Use the form below to search the corpus of texts on this site. Note that the facility for matching variant spellings is imperfect and still being developed.</p>
+  <form class="form" method="post">
+    <datalist id="texts">
+      {% for author in authors %}
+        <option value="{{ author.id }}">
+      {% endfor %}
+    </datalist>
+    <div class="group">
+      <label class="label" for="ids">Text:</label>
+      <div class="inputs">
+        <input list="texts" name="text" data-action="id-list" data-list="texts" class="stretch{% if error %} error{% endif %}" required value="{{ post.text }}">
+      </div>
+    </div>
+    <div class="group">
+      <label class="label" for="query11">Contains:</label>
+      <div class="inputs">
+        <input type="text" name="query11" id="query11" required value="{{ post.query11 }}">
+        <select name="query1op" class="narrow">
+          <option value="and"{% if post and post.query1op == 'and' %} selected{% endif %}>AND</option>
+          <option value="or"{% if post and post.query1op == 'or' %} selected{% endif %}>OR</option>
+        <select>
+        <input type="text" name="query12" id="query12" value="{{ post.query12 }}">
+      </div>
+    </div>
+    <div class="group">
+      <label class="label" for="query21">But not:</label>
+      <div class="inputs">
+        <input type="text" name="query21" id="query21" value="{{ post.query21 }}">
+        <select name="query2op" class="narrow">
+          <option value="and"{% if post and post.query2op == 'and' %} selected{% endif %}>AND</option>
+          <option value="or"{% if post and post.query2op == 'or' %} selected{% endif %}>OR</option>
+        <select>
+        <input type="text" name="query22" id="query22" value="{{ post.query22 }}">
+      </div>
+    </div>
+    <div class="group">
+      <label class="label">Options:</label>
+      <div class="inputs checkboxes">
+        <label><input type="checkbox" name="ignorePunctuation"{% if post.ignorePunctuation %} checked{% endif %}> Ignore Punctuation</label>
+        <label><input type="checkbox" name="wholeWords"{% if post.wholeWords %} checked{% endif %}> Match Whole Words</label>
+        <label><input type="checkbox" name="variantSpellings"{% if post.variantSpellings %} checked{% endif %}> Match Variant Spellings</label>
+      </div>
+    </div>
+    <div class="buttons">
+      {% if error %}<p class="error">{{ error }}</p>{% endif %}
+      <button type="submit">Search</button>
+    </div>
+  </form>
+  {% if results != null %}
+    {% if results|length > 0 %}
+      <div class="results active">
+        {% for result in results %}
+          {% include 'search/result.twig' %}
+        {% endfor %}
+      </div>
+    {% else %}
+      <p>Your query did not match any paragraphs.</p>
+    {% endif %}
+  {% endif %}
+{% endblock %}

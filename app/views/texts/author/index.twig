@@ -1,0 +1,26 @@
+{% extends 'layout.twig' %}
+
+{% block tabs %}
+  {% include 'texts/author/nav.twig' with { 'page': 'author' } %}
+{% endblock %}
+
+{% block content %}
+  <h1>{{ author.fullname }} ({{ author.birth }}-{{ author.death }})</h1>
+  <p>{{ author.nationality }}, {{ author.sex }}</p>
+  {% if author.imported | length > 0 %}
+    <h2>Available Works</h2>
+    <ul>
+      {% for stub in author.imported %}
+        <li><a href="{{ stub.url }}">{{ stub.title }} ({{ stub.published | join(', ') }})</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% if author.desired | length > 0 %}
+    <h2>Desired Works</h2>
+    <ul>
+      {% for stub in author.desired %}
+        <li><a href="{{ stub.url }}">{{ stub.title }} ({{ stub.published | join(', ') }})</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+{% endblock %}

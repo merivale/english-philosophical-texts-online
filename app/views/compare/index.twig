@@ -1,0 +1,31 @@
+{% extends 'layout.twig' %}
+
+{% block content %}
+  <h1>Compare Texts</h1>
+  <p>The form below enables you to select any sentence of text from the corpus on this site, and then search any other text for the closest matching sentence. This can be used, for example, to locate the source of some quoted or paraphrased text; to find the sentence in Book 2 of Hume’s <i>Treatise</i> from which a sentence in his <i>Dissertation on the Passions</i> is derived; or simply to throw up potentially interesting similarities between two texts.</p>
+  <div class="notice">
+    <p><strong>Note:</strong> The results of this tool are provisional, and intended primarily for illustrative purposes. If we are able to secure funding for the full project, we plan to significantly improve and expand upon tools like these.</p>
+  </div>
+  <div class="compare-input">
+    <div>Enter a paragraph ID and select a sentence.</div>
+    <label for="paragraph" class="label">Paragraph ID:</label>
+    <input id="paragraph" list="paragraphs" data-action="id-list" data-paragraphs="true" data-list="paragraphs">
+    <datalist id="paragraphs">
+      {% for author in authors %}
+        <option value="{{ author.id }}">
+      {% endfor %}
+    </datalist>
+  </div>
+  <div class="sentence-list hidden" data-view="sentence-list"></div>
+  <div class="compare-input">
+    <div>See similar sentences within the target text.</div>
+    <label for="text" class="label">Target Text:</label>
+    <input id="text" list="texts" data-action="id-list" data-list="texts">
+    <datalist id="texts">
+      {% for author in authors %}
+        <option value="{{ author.id }}">
+      {% endfor %}
+    </datalist>
+  </div>
+  <div class="compare-results hidden" data-view="results"></div>
+{% endblock %}
