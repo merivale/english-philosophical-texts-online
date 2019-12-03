@@ -13,7 +13,7 @@ const directory = 'cache/search'
 export default function generateSearchCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
+    const all = authors({ enrich: true }).filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generateSearchCache)
     return
   }

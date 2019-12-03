@@ -18,7 +18,7 @@ export default function generateIdCache () {
   write('Generating sub ID cache...')
 
   // get IDs of all authors with imported texts
-  const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
+  const all = authors({ enrich: true }).filter(a => a.imported.length > 0).map(a => a.id)
 
   // add these to the special 'all' record
   subTextIds.all = all

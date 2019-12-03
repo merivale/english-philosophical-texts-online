@@ -12,7 +12,7 @@ const directory = 'cache/tfidf'
 export default function generateTFIDFCache (id, offset = 0) {
   // id === 'all' is a special case
   if (id === 'all') {
-    const all = authors().filter(a => a.imported.length > 0).map(a => a.id)
+    const all = authors({ enrich: true }).filter(a => a.imported.length > 0).map(a => a.id)
     all.forEach(generateTFIDFCache)
     return
   }
