@@ -9,7 +9,7 @@ export default function (id = null) {
   if (id === null) {
     get.authors(false).forEach(checkAuthor)
   } else {
-    checkAuthor(get.author(id, false))
+    checkAuthor(get.author(id))
   }
 }
 
@@ -48,7 +48,7 @@ function checkAuthor (author) {
 function checkText (id) {
   let text
   try {
-    text = get.text(id, false)
+    text = get.text(id, { inherit: true })
   } catch (error) {
     console.error(`${id}: Failed to open file; bad JSON?`)
     return

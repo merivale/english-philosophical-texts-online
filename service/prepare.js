@@ -16,7 +16,7 @@ export function formattedText (content) {
 // generate lemmatized text
 export function lemmatizedText (content) {
   const map = lemmaMap()
-  return dullText(strippedText(simplifiedText(content))).split(' ').map(x => map[x] || x).join(' ')
+  return dullText(strippedText(content)).split(' ').map(x => map[x] || x).join(' ')
 }
 
 // generate plain text
@@ -31,7 +31,7 @@ export function searchableText (content) {
 
 // generate an array of plain text sentences
 export function plainSentences (content) {
-  return plainText(content).replace(/([.!?]) /g, '$1@').split('@')
+  return strippedText(content).replace(/([.!?]) /g, '$1@').split('@')
 }
 
 // generate lowercase text with no punctuation

@@ -16,23 +16,22 @@
   "main": "app/index.js",
   "type": "module",
   "scripts": {
-    "www-prod": "node --experimental-modules ./bin/www.js",
-    "www-dev": "set NODE_ENV=development & set DEBUG=epto:* & node --experimental-modules ./bin/www.js",
+    "www": "node --experimental-modules ./bin/www.js",
     "check-data": "node --experimental-modules ./bin/check.js",
     "generate-cache": "node --experimental-modules ./bin/generate.js",
     "import-text": "node --experimental-modules ./bin/import.js"
   },
   "dependencies": {
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
-    "http-errors": "~1.6.2",
-    "morgan": "~1.9.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~4.1.1",
+    "express": "~4.17.1",
+    "http-errors": "~1.7.3",
+    "morgan": "~1.9.1",
     "node-sass-middleware": "0.11.0",
-    "twig": "~0.10.3"
+    "twig": "~1.14.0"
   },
   "devDependencies": {
-    "jsdom": "^15.2.1",
-    "sync-request": "^6.1.0"
+    "jsdom": "~15.2.1",
+    "sync-request": "~6.1.0"
   }
 }

@@ -35,7 +35,7 @@ if (paragraphInput && textInput && sentenceList) {
   textInput.addEventListener('change', fetchMatchingSentences)
 }
 
-// create a clickable P element for a sentence
+// create a clickable SPAN element for a sentence
 function sentenceElement (sentence, id) {
   const span = document.createElement('span')
   span.innerHTML = sentence
@@ -55,15 +55,17 @@ function fetchMatchingSentences () {
   if (sentenceId && textId) {
     results.innerHTML = '<p>Searching...</p>'
     results.classList.remove('hidden')
-    fetchJson(`sentences/text/${textId}/sentence/${sentenceId}`, (sentences) => {
+    fetchJson(`similar?textId=${textId}&sentenceId=${sentenceId}`, (sentences) => {
       const fragment = document.createDocumentFragment()
       sentences.forEach((sentence) => {
         const div = document.createElement('div')
         const id = document.createElement('div')
         const p = document.createElement('p')
+        const idBits = sentence.id.split('.')
+        const url = `texts/${idBits.slice(0, -2).join('/').toLowerCase()}#${idBits[idBits.length - 2]}`
         id.classList.add('id')
         p.classList.add('content')
-        id.innerHTML = `<a href="">${sentence.id}</a>`
+        id.innerHTML = `<a href="${url}">${idBits.slice(0, -1).join('.')}</a>`
         p.innerHTML = sentence.matched
         div.classList.add('result')
         div.appendChild(id)

@@ -5,19 +5,22 @@ import { open } from './file.js'
 import inherit from './inherit.js'
 import * as prepare from './prepare.js'
 
-// enrich author data
+/*
+ * enrich author data
+ */
 export function author (author) {
   author.texts = author.texts.map(stub)
   author.imported = author.texts.filter(t => t.imported)
-  return author
+  author.desired = author.texts.filter(t => !t.imported)
 }
 
-// enrich text data
+/*
+ * enrich text data
+ */
 export function text (text) {
   text.breadcrumb = breadcrumb(text)
   text.next = next(text)
   text.previous = previous(text)
-  text.url = `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
   if (text.parent) {
     text.parent = stub(text.parent)
   }
@@ -27,20 +30,26 @@ export function text (text) {
   return text
 }
 
-// enrich a paragraph
+/*
+ * enrich a paragraph
+ */
 export function paragraph (paragraph) {
   paragraph.sentences = prepare.plainSentences(paragraph.content)
   return paragraph
 }
 
-// get a text's breadcrumb trail
+/*
+ * get a text's breadcrumb trail
+ */
 function breadcrumb (text) {
   return text.parent
     ? breadcrumb(open('texts', text.parent)).concat([stub(text.id)])
     : [stub(text.id)]
 }
 
-// get a text's next text
+/*
+ * get a text's next text
+ */
 function next (text, down = true) {
   if (text.texts && text.texts.length && down) {
     return stub(text.texts[0])
@@ -58,7 +67,9 @@ function next (text, down = true) {
   return null
 }
 
-// get a text's previous text
+/*
+ * get a text's previous text
+ */
 function previous (text) {
   if (text.parent) {
     const parent = open('texts', text.parent)
@@ -71,14 +82,18 @@ function previous (text) {
   return null
 }
 
-// get a text's last descendant
+/*
+ * get a text's last descendant
+ */
 function lastDescendant (text) {
   return (text.texts && text.texts.length)
     ? lastDescendant(open('texts', text.texts[text.texts.length - 1]))
     : stub(text.id)
 }
 
-// get stub text data (for links, breadcrumb trails, etc.)
+/*
+ * get stub text data (for links, breadcrumb trails, etc.)
+ */
 function stub (id) {
   const text = open('texts', id)
   if (text) {

@@ -462,10 +462,15 @@ table {
   padding: 1em;
   max-height: 20em;
   overflow: auto; }
+  .sentence-list p {
+    margin-bottom: 0; }
   .sentence-list span {
     cursor: pointer;
-    margin-right: .5em; }
-    .sentence-list span:hover, .sentence-list span.active {
+    margin-right: .5em;
+    padding: .1em 0; }
+    .sentence-list span:hover {
+      background: #98c1e1; }
+    .sentence-list span.active {
       background: #3277ae;
       color: #fff; }
 
@@ -475,10 +480,13 @@ table {
   margin-bottom: 1em; }
   .compare-results .result {
     display: flex; }
+    .compare-results .result:not(:last-child) {
+      margin-bottom: 1em; }
     .compare-results .result .id {
       flex-basis: 12em;
       margin-right: 1em; }
     .compare-results .result .content {
-      flex: 1; }
+      flex: 1;
+      margin-bottom: 0; }
 
 /*# sourceMappingURL=epto.css.map */

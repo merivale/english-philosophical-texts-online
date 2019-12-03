@@ -12,9 +12,11 @@ export default function similar (id, sentence) {
     if (text.texts) {
       const sentences = []
       text.texts.forEach((id) => {
-        const result = similar(id, sentence)
-        if (result) {
-          sentences.push(...result)
+        if (id.match(text.id.split('.')[0])) { // skip past subtexts by different authors
+          const result = similar(id, sentence)
+          if (result) {
+            sentences.push(...result)
+          }
         }
       })
       return filterAndSort(sentences)

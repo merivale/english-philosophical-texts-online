@@ -13,7 +13,7 @@ const area = 'texts'
 
 // route for the text page (a list of authors)
 router.get('/', (req, res) => {
-  const authors = get.authors()
+  const authors = get.authors({ enrich: true })
   const males = authors.filter(a => a.sex === 'Male')
   const females = authors.filter(a => a.sex === 'Female')
   const authorsWithTexts = authors.filter(a => a.imported.length > 0)

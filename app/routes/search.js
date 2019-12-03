@@ -14,7 +14,7 @@ const area = 'search'
 
 // route for the search page
 router.all('/', (req, res) => {
-  const authors = get.authors().filter(a => a.imported.length > 0)
+  const authors = get.authors({ enrich: true }).filter(a => a.imported.length > 0)
   const defaults = {
     query11: null,
     query1op: null,

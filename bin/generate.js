@@ -55,7 +55,7 @@ switch (process.argv[2]) {
     break
 
   case 'all':
-    subIds()
+    ids()
     search(process.argv[3])
     plain(process.argv[3])
     sentences(process.argv[3])

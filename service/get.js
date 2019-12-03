@@ -6,51 +6,100 @@ import * as enrich from './enrich.js'
 import inherit from './inherit.js'
 import { formattedText } from './prepare.js'
 
-// get all authors from data/texts directory
-export function authors (enrichAuthor = true) {
-  return read('texts').map(id => author(id, enrichAuthor))
+/*
+ * get all authors from the `data/texts` directory
+ */
+export function authors (options = {}) {
+  return read('texts').map(id => author(id, options))
 }
 
-// get stubs for all texts
-export function texts () {
-  return authors()
-    .map(a => a.texts.map(t => Object.assign(t, { author: a })))
-    .reduce((x, y) => x.concat(y), [])
-    .sort((x, y) => x.published[0] - y.published[0])
-}
-
-// get author from id
-export function author (id, enrichAuthor = true) {
+/*
+ * get an author with the given ID
+ */
+export function author (id, options = {}) {
+  // look for the author file
   const author = open('texts', id)
-  if (author) {
-    author.fullname = author.title
-      ? `${author.title} [${author.forename} ${author.surname}]`
-      : `${author.forename} ${author.surname}`
-    author.url = `/texts/${author.id.toLowerCase()}`
-    return enrichAuthor ? enrich.author(author) : author
-  }
-  return null
+
+  // return null if not found
+  if (!author) return null
+
+  // always add basic derivative properties
+  author.fullname = author.title
+    ? `${author.title} [${author.forename} ${author.surname}]`
+    : `${author.forename} ${author.surname}`
+  author.url = `/texts/${author.id.toLowerCase()}`
+
+  // optionally enrich data concerning the author's texts
+  if (options.enrich) enrich.author(author)
+
+  // return the author
+  return author
 }
 
-// get text from id
-export function text (id, enrichText = true) {
+/*
+ * get a text with the given ID
+ */
+export function text (id, options = {}) {
+  // look for the text file
   const text = open('texts', id)
-  if (text) {
-    // format text content
-    if (text.paragraphs) text.paragraphs.forEach((b) => { b.content = formattedText(b.content) })
-    if (text.notes) text.notes.forEach((b) => { b.content = formattedText(b.content) })
-    // inherit parent properties
-    if (text.parent) {
-      text.published = inherit(text, 'published')
-      text.copytext = inherit(text, 'copytext')
-      text.source = inherit(text, 'source')
-      text.comments = inherit(text, 'comments')
-      text.copyright = inherit(text, 'copyright')
-    }
-    return enrichText ? enrich.text(text) : text
+
+  // return null if not found
+  if (!text) return null
+
+  // always add basic derivative properties
+  text.url = `/texts/${text.id.toLowerCase().replace(/\./g, '/')}`
+
+  // optionally enrich data concerning subtexts and surrounding texts
+  if (options.enrich) {
+    enrich.text(text)
   }
-  return null
+
+  // optionally format text content
+  if (options.format && text.paragraphs) {
+    text.paragraphs.forEach((b) => { b.content = formattedText(b.content) })
+    text.notes.forEach((b) => { b.content = formattedText(b.content) })
+  }
+
+  // optionally inherit parent properties
+  if (options.inherit && text.parent) {
+    text.published = inherit(text, 'published')
+    text.copytext = inherit(text, 'copytext')
+    text.source = inherit(text, 'source')
+    text.comments = inherit(text, 'comments')
+    text.copyright = inherit(text, 'copyright')
+  }
+
+  // return the text
+  return text
 }
+
+/*
+ * get table of contents for a text with the given ID
+ */
+export function toc (id) {
+  // look for the text file
+  const text = open('texts', id)
+
+  // return null if not found
+  if (!text) return null
+
+  // return null if this is an isolated text
+  if (!text.texts && !text.parent) return null
+
+  // define the relevant collection to base the TOC on
+  const collection = text.texts ? text : text.parent
+
+  // enrich the collection to include stubs of all its members
+  enrich.text(collection)
+
+  // return what we need from the enriched collection
+  return {
+    title: collection.title,
+    texts: collection.texts
+  }
+}
+
+// TODO... (rewritten this module only up to here)
 
 // get paragraph from id
 export function paragraph (id, enrichParagraph = true) {
@@ -92,29 +141,4 @@ export function sentence (id) {
     return sentences.find(x => x.id.toLowerCase() === normalizedId) || null
   }
   return null
-}
-
-// get searchable text from id
-export function searchableText (id) {
-  return open('cache/search', id)
-}
-
-// get usage data from id
-export function usage (id) {
-  return open('cache/usage', id)
-}
-
-// get TF-IDF data from id
-export function tfidf (id) {
-  return open('cache/tfidf', id)
-}
-
-// get sub IDs
-export function subIds () {
-  return open('cache', 'sub-ids') || {}
-}
-
-// get paragraph IDs
-export function paragraphIds () {
-  return open('cache', 'paragraph-ids') || []
 }

@@ -4,66 +4,38 @@
 import createError from 'http-errors'
 import express from 'express'
 import * as get from '../../service/get.js'
-import * as lexicon from '../../service/lexicon.js'
+import { open } from '../../service/file.js'
 import similar from '../../service/similar.js'
 
 // create and export the router
 const router = express.Router()
 export default router
 
-// route for downloading the lexicon
-router.get('/lexicon.json', (req, res, next) => {
-  res.json(lexicon.raw())
+// route for downloading an array of enriched author data
+router.get('/authors', (req, res, next) => {
+  res.json(get.authors({ enrich: true }))
 })
 
-// route for downloading map of sub IDs
-router.get('/sub-ids.json', (req, res, next) => {
-  res.json(get.subIds())
+// route for downloading map of sub-text IDs
+router.get('/sub-text-ids', (req, res, next) => {
+  const subTextIds = open('cache', 'sub-text-ids') || {}
+  res.json(subTextIds)
+})
+
+// route for downloading map of sub-paragraph IDs
+router.get('/sub-paragraph-ids', (req, res, next) => {
+  const subParagraphIds = open('cache', 'sub-paragraph-ids') || {}
+  res.json(subParagraphIds)
 })
 
 // route for downloading array of paragraph IDs
-router.get('/paragraph-ids.json', (req, res, next) => {
-  res.json(get.paragraphIds())
-})
-
-// route for downloading an array of enriched author data
-router.get('/authors.json', (req, res, next) => {
-  res.json(get.authors())
-})
-
-// route for downloading enriched data about an individual author
-router.get('/author/:id.json', (req, res, next) => {
-  const author = get.author(req.params.id)
-  if (author) {
-    res.json(author)
-  } else {
-    next(createError(404))
-  }
-})
-
-// route for downloading an enriched text
-router.get('/text/:id*.json', (req, res, next) => {
-  const text = get.text(req.params.id + req.params['0'])
-  if (text) {
-    res.json(text)
-  } else {
-    next(createError(404))
-  }
-})
-
-// route for downloading an array of sub-IDs for the given author/text
-router.get('/subids/:id*.json', (req, res, next) => {
-  const subIds = get.subIds()
-  const id = req.params.id + req.params['0']
-  if (subIds[id]) {
-    res.json(subIds[id])
-  } else {
-    next(createError(404))
-  }
+router.get('/paragraph-ids', (req, res, next) => {
+  const paragraphIds = open('cache', 'paragraph-ids') || []
+  res.json(paragraphIds)
 })
 
 // route for downloading a paragraph of text
-router.get('/paragraph/:id*.json', (req, res, next) => {
+router.get('/paragraph/:id*', (req, res, next) => {
   const paragraph = get.paragraph(req.params.id + req.params['0'])
   if (paragraph) {
     res.json(paragraph)
@@ -73,9 +45,9 @@ router.get('/paragraph/:id*.json', (req, res, next) => {
 })
 
 // route for downloading similar sentences
-router.get('/sentences/text/:textId*/sentence/:sentenceId*.json', (req, res, next) => {
-  const textId = req.params.textId + req.params[0]
-  const sentenceId = req.params.sentenceId + req.params[1]
+router.get('/similar', (req, res, next) => {
+  const textId = req.query.textId
+  const sentenceId = req.query.sentenceId
   const sentence = get.sentence(sentenceId)
   try {
     if (sentence) {

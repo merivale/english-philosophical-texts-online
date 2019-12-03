@@ -1,12 +1,12 @@
 /*
  * Search the corpus of texts for paragraphs matching the search query.
  */
-import * as get from './get.js'
+import { open } from './file.js'
 import * as lexicon from './lexicon.js'
 
 // search the database of texts for paragraphs matching the input query
 export default function search (ids, query, options, author = null) {
-  return ids.map(id => get.searchableText(id)) // map text IDs to searchable texts
+  return ids.map(id => open('cache/search', id)) // map text IDs to searchable texts
     .filter(text => text.sex || text.imported) // remove texts that aren't imported or aren't authors
     .filter(text => (author === null) || text.id.indexOf(author) === 0) // remove sub texts by a different author
     .map(text => matches(text, query, options)) // get search matches
